@@ -1,0 +1,26 @@
+	<!-- Connecting to and querying database -->
+	<div class="card-deck">
+		<?php include "connect.php"; 
+			$getevents = "
+			SELECT * 
+			FROM cc_event
+			WHERE EventDate > NOW()
+			ORDER BY EventDate
+			LIMIT 3
+			";
+
+			if ($result = mysqli_query($connection, $getevents))
+			{
+				
+					/* fetch associative array */
+					while ($row = mysqli_fetch_assoc($result)) {
+						echo "<div class='card'>
+						<div class='card-header'>".$row["Event"]."</div>
+						<div class='card-body'><img src='images/".$row["EventID"].".jpg' class='img-fluid'><br>".$row["EventDate"]."<br>".$row["EventDesc"]."</div>
+						</div>";
+					}
+					  /* free result set */
+    mysqli_free_result($result);
+}
+		?>
+</div>

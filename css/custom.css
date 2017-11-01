@@ -1,0 +1,51 @@
+
+
+h4 {
+	font-weight: bold;
+	color:#113056;
+}
+h1 {
+  border-bottom: 2px  solid #ccc;
+  padding-bottom: 5px;
+}
+p {
+  color:#333;
+  padding-bottom: 16px;
+}
+
+h2 {
+  padding-bottom: 8px;
+}
+
+img {
+  padding-bottom: 16px;
+  padding-top: 16px;
+}
+
+.smaller {font-size: 70%;}
+.row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+/*li {
+	line-height: 70%;
+}*/
+
+.address {background-color: #113056; padding: 5px 0px 5px 0px;}
+.white {color: #fff;}
+.dots {  border-top: 2px dashed #000;}
+
+
+.table td, .table th {
+  padding: .40rem;
+  vertical-align: top;
+  border-top: 1px solid #ddd;
+}
+
+.rotate90 {
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
