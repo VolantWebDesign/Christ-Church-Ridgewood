@@ -49,3 +49,12 @@ img {
   -ms-transform: rotate(90deg);
   transform: rotate(90deg);
 }
+
+.panel-heading {
+  margin-top: 1rem;
+}
+
+.card {
+  margin-bottom: 30px;    
+  
+}

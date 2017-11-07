@@ -15,6 +15,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
+                <hr>
                 <p>Copyright &copy; 2017 - Christ Church, Ridgewood NJ - website by <a href="https://volantweb.com" target="_blank">Volant Web Design</a></p>
             </div>
         </div>
