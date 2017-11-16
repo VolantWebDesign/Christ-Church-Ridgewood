@@ -44,14 +44,15 @@
 						<div class="row">
 						<div class="col-md-6">
 							<h3>Each Sunday</h3>
-							<table class="table table-striped table-sm">
+							<table class="table table-striped ">
 								<tr>
 									<td align="right" ><strong>8:00 AM</td>
 									<td>Choir Practice (all are welcome) </td>
 								</tr>
 								<tr>
 									<td align="right" ><strong>8:00 AM</td>
-									<td>Holy Eucharist  </td>
+									<td>Holy Eucharist  <br>
+									<a href="documents/bulletin8am.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn  btn-outline-primary ">Program</a></td>
 								</tr>
 								<tr>
 									<td align="right" ><strong>9:00 AM</td>
@@ -63,7 +64,7 @@
 								</tr>
 								<tr>
 									<td align="right" nowrap><strong>10:00 AM </td>
-									<td>Holy Eucharist with music  </td>
+									<td>Holy Eucharist with music  <br><a href="documents/bulletin10am.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn  btn-outline-primary "> Program</a></td>
 								</tr>
 								<tr>
 									<td align="right" ><strong>11:15 AM</td>
@@ -77,13 +78,13 @@
 
 
 						<div class="col-md-6">
-							<h3>Celtic Eucharist:<div class="text-muted small"> 5:00 PM, 3rd Sunday each month</div></h3>
+							<h3>Celtic Eucharist:<div class="text-muted small"> 5:00 PM, 3rd Sunday each month <a href="documents/celtic.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn  btn-outline-primary "> Program</a></div></h3>
 							<table class="table table-striped table-sm">           
 								<tr>
 									<td>
 										<ul>
 											<li>November 19</li>
-											<li>December 17 - <font color="blue">Blue Christmas</font></li>
+											<li>December 17 - Blue Christmas</font></li>
 											<li>January 21</li>
 										</ul> 
 									</td>
@@ -97,13 +98,7 @@
 							<hr>
 							<div class="row">
 								<div class="col" align="center">
-									<a href="documents/bulletin8am.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn  btn-outline-primary ">Worship Program 8:00AM</a><br><br>
-								</div>
-								<div class="col" align="center">
-									<a href="documents/bulletin10am.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn  btn-outline-primary ">Worship Program 10:00AM</a><br><br>
-								</div>
-								<div class="col" align="center">
-									<a href="documents/insert.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Program Insert</a> 
+									<a href="documents/insert.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Announcements</a> 
 								</div>
 							</div>
 
@@ -166,32 +161,13 @@
 				</div>
 
 <!-- SoundCloud -->
-				<div class="col-md-12">
+				<!-- <div class="col-md-12">
 					<iframe width="100%" height="350" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/136812277&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-				</div>
+				</div> -->
 				<br>
 			</div>
 
-			<!-- Comment Modal -->
-			<!-- <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
-				<div class="modal-dialog modal-lg">
-					<div class="modal-content">
-						<div class="modal-header">
-							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-							<h4 class="modal-title" id="myModalLabel">Seach Committee Comment Box</h4>
-						</div>
-						<div class="modal-body">
-							<p><strong>Search Committee members:</strong> Carol Stoddard (chair), Aunrie Dash, Rick Hampson, Barbara Hemink, Nancy Jacoby, Whitney Lawrence, Susanne Loquet and Tyler Stahl.</p>
-							<hr>
-							<form action="" method="post" role="form">
-								<textarea class="form-control" name="prose" rows="8" placeholder="Type your comments or suggestions here..." required></textarea><br>
-								<div class="g-recaptcha" data-sitekey="6Letsh4TAAAAAFWPASG4INLbgqxO7P7G2Enn6vx0"></div><br>
-								<input type="submit" class="btn btn-warning" value="Submit">
-							</form>
-						</div>    
-					</div>
-				</div>
-			</div> -->
+
 
 			<!-- VBS Modal -->
 			<div class="modal fade musicModal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">

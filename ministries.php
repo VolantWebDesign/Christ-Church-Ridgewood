@@ -43,7 +43,7 @@
 <!-- Row 0 -->
         <div class="card-deck">
             <div class="card ">
-                <div class="card-body">
+                <div class="card-body" align="center">
                     <h2 class="cardtop">Youth Group</h2>
                     <img src="images/community.jpg" class="img-fluid" alt=" photo" title="">
                     
@@ -60,7 +60,7 @@
             </div>
 
             <div class="card ">
-                <div class="card-body">
+                <div class="card-body" align="center">
                     <h2 class="cardtop">Women at the Well</h2>
                     <img src="images/africandrum.png" class="img-fluid" alt=" photo" title="">
                     
@@ -82,7 +82,7 @@
         <!-- Row 1 -->
         <div class="card-deck">
             <div class="card ">
-                <div class="card-body">
+                <div class="card-body" align="center">
                     <h2 class="cardtop">Youth Group</h2>
                     <img src="images/community.jpg" class="img-fluid" alt=" photo" title="">
                     
@@ -99,7 +99,7 @@
             </div>
 
             <div class="card ">
-                <div class="card-body">
+                <div class="card-body" align="center">
                     <h2 class="cardtop">Women at the Well</h2>
                     <img src="images/africandrum.png" class="img-fluid" alt=" photo" title="">
                     
@@ -116,7 +116,7 @@
             </div>
 
             <div class="card ">
-                <div class="card-body">
+                <div class="card-body" align="center">
                     <h2 class="cardtop">Youth Group</h2>
                     <img src="images/community.jpg" class="img-fluid" alt=" photo" title="">
                     
@@ -136,8 +136,9 @@
 
     <!-- Row 2 -->
         <div class="card-deck">
-            <div class="card col-md-4">
-                <div class="card-body">
+            <div class="col-md-4">
+            <div class="card">
+                <div class="card-body" align="center">
                     <h2 class="cardtop">Youth Group</h2>
                     <img src="images/community.jpg" class="img-fluid" alt=" photo" title="">
                     <p>
@@ -150,10 +151,11 @@
                         <button type="button" class="btn  btn-outline-primary">Contact Host</button>
                     </a>
                 </div>
+    </div>
             </div>
-
-            <div class="card col-md-8">
-                <div class="card-body">
+            <div class="col-md-8">
+            <div class="card">
+                <div class="card-body" align="center">
                     <h2 class="cardtop">Women at the Well</h2>
                     <img src="images/africandrum.png" class="img-fluid" alt=" photo" title="">
                     <p>
@@ -168,6 +170,7 @@
                         <button type="button" class="btn  btn-outline-primary">Contact Host</button>
                     </a>
                 </div>
+    </div>
             </div>
         </div>
 
@@ -176,7 +179,7 @@
     <div class="card-deck">
     <div class="col-md-7">
         <div class="card ">
-            <div class="card-body">
+            <div class="card-body" align="center">
                 <h2 class="cardtop">Youth Group</h2>
                 <img src="images/community.jpg" class="img-fluid" alt=" photo" title="">
                 
@@ -195,7 +198,7 @@
 
     <div class="col-md-5">    
         <div class="card ">
-            <div class="card-body">
+            <div class="card-body" align="center">
                 <h2 class="cardtop">Women at the Well</h2>
                 <img src="images/africandrum.png" class="img-fluid" alt=" photo" title="">
                 
