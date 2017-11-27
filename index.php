@@ -111,6 +111,44 @@
 <br>
 <br>
 
+
+<!-- Stewardship -->
+<div class="row">
+
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header" align="center">
+						<img src="images/stewardship_2018.png" alt="2018 Christ Church Ridgewood Stewardship Campaign: Living Generously" class="img-fluid">
+					</div>
+					<div class="card-body" >
+						<div class="row" >
+							<div class="col-md-6" align="center">
+								<h4>From the Stewardship Committee</h4>
+								<p>We are so grateful for your faithful membership at Christ Church; your generosity truly sustains our ministry together.</p>
+
+								<p> 
+								Parishioners should by now have received an Annual Giving packet. You will find <strong>two forms</strong> to return – a <strong>blue pledge card</strong> for financial resources and a <strong>yellow time and talent form</strong> listing our various ministries.  We hope that this year’s new time and talent form both inspires and invites you to share your gifts and time with our community and the broader community. In the spirit of living generously, we encourage you to branch out from your current volunteer positions and consider learning about a new ministry.  Please check off as many ministries as you have interest and a coordinator will be in touch to provide information. 
+								</p>
+							</div>
+							<div class="col-md-6" align="center">
+								<h4>Campaign Update - Week of November 19</h4>
+								<p>Thank you to all our fellow parishioners who joined us in renewing our commitment to Christ Episcopal Church this past Sunday by returning 2018 pledge cards and time and talent forms.  We are truly blessed by an amazing and GENEROUS community.</p>
+
+								<p>If you were unable to return a pledge packet on  Sunday, you can click the pledge button below, bring your pledge packet to church on Sunday, or mail your packet back in the envelope provided.</p>
+
+								<p>Please feel free to contact either <a href="mailto:deanna.najork@gmail.com"> Deanna Najork</a>, or <a href="mailto:Trevor.Thangalan@bmwna.com">Trevor Thangalan</a>, with any questions.  Thank you again!</p>
+							</div>
+						</div>
+					</div>	
+					<div class="card-footer" align="center">
+								<a href="documents/StewardshipTimeTalent2018.pdf" target="_blank" class="btn btn-outline-primary" >Time and Talents Form</a> 
+								<a href="documents/StewardshipFAQ2018.pdf" target="_blank" class="btn btn-outline-primary" >FAQ About Giving</a> 
+								<a href="https://goo.gl/forms/cqKeCekNA9wMSbhs2" target="_blank" class="btn btn-primary" >Pledge Online Now</a> 
+						</div>
+				</div>
+			</div>
+		</div>
+
 <!-- upcoming events and sermon audio cards -->
 			<div class="row">
 				<div class="col-md-12" align="center">

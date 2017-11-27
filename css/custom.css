@@ -8,6 +8,7 @@ h1 {
   border-bottom: 2px  solid #ccc;
   padding-bottom: 5px;
 }
+
 p {
   color:#333;
   padding-bottom: 16px;
@@ -23,9 +24,14 @@ img {
 }
 
 .smaller {font-size: 70%;}
+
 .row {
   margin-left: 0px;
   margin-right: 0px;
+}
+
+.btn{
+  margin-bottom: 8px;
 }
 /*li {
 	line-height: 70%;
