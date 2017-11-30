@@ -289,7 +289,7 @@
 				</div>
 				<div class="col-md-2 col-sm-4 col-xs-6">
 					<div align="center">
-						<hr><br><img src="images/vestry/TAM.jpg?id=<?php echo $thekeys; ?>" class="img-fluid rounded-circle rotate90"/><br><br> Tom Martin<br>
+						<hr><img src="images/vestry/TAM.jpg?id=<?php echo $thekeys; ?>" class="img-fluid rounded-circle"/><br><br> Tom Martin<br>
 					</div>
 				</div>
 				<div class="col-md-2 col-sm-4 col-xs-6">
@@ -299,7 +299,7 @@
 				</div>
 				<div class="col-md-2 col-sm-4 col-xs-6">
 					<div align="center">
-						<hr><img src="images/vestry/jeff.jpg" class="img-fluid rounded-circle" /><br>Jeff Hamon<br>Treasurer<br>
+						<hr><img src="images/vestry/Jeff copy.jpg" class="img-fluid rounded-circle" /><br>Jeff Hamon<br>Treasurer<br>
 					</div>
 				</div>
 				<div class="col-md-2 col-sm-4 col-xs-6">

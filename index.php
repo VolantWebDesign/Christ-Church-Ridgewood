@@ -111,7 +111,60 @@
 <br>
 <br>
 
+<!-- Christmas Schedule -->
+<div class="row">
 
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header" align="center">
+						<h4 class="card-title">Christmas at Christ Church, 2017</h4>
+					</div>
+					<div class="card-body" >
+						<div class="row" >
+							<div class="col-md-6">
+								<h4>December 24, Christmas Eve</h4>
+								<table class="table table-striped">
+								<tbody>
+								  <tr>
+									<th scope="row">4:00PM</th>
+									<td>Christmas Pageant</td>
+									<td>Eucharist service for families and children of all ages</td>
+								  </tr>
+								  <tr>
+									<th scope="row"></th>
+									<td></td>
+									<td>Children of all ages are welcome to participate in the pageant! <a href="documents/pageant_children.pdf" target="_blank">Click here to learn how.</a></td>
+								  </tr>
+								  <tr>
+									<th scope="row">10:00PM</th>
+									<td>Midnight Mass</td>
+									<td>A rich service with incense and carols, following a musical prelude</td>
+								  </tr>
+								</tbody>
+							  </table>
+							  <hr>
+
+							</div>
+							<div class="col-md-6">
+							<h4>December 25, Christmas Day</h4>
+							<table class="table table-striped">
+							<tbody>
+							  <tr>
+								<th scope="row">10:00AM</th>
+								<td>Christmas</td>
+								<td>Eucharist and carols celebrating the start of Christmas</td>
+							  </tr>
+							</tbody>
+						  </table>
+						  “Prepare ye the Way” this Advent by signing up for a short daily email from the Society of St. John the Evangelist 									<div align="center"><a href=" http://adventword.org/signup/" target="_blank" class="btn btn-outline-primary">Advent Email Signup</a> </div>
+							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+
+		
 <!-- Stewardship -->
 <div class="row">
 
@@ -131,7 +184,7 @@
 								</p>
 							</div>
 							<div class="col-md-6" align="center">
-								<h4>Campaign Update - Week of November 19</h4>
+								<h4>Campaign Update</h4>
 								<p>Thank you to all our fellow parishioners who joined us in renewing our commitment to Christ Episcopal Church this past Sunday by returning 2018 pledge cards and time and talent forms.  We are truly blessed by an amazing and GENEROUS community.</p>
 
 								<p>If you were unable to return a pledge packet on  Sunday, you can click the pledge button below, bring your pledge packet to church on Sunday, or mail your packet back in the envelope provided.</p>
@@ -179,10 +232,8 @@
 <!-- Jubilation Choir -->
 					<div class="col-md-6">
 					<div class="card card-default">
-					<br>
-						<h3 align="center">Jubilation Choir</h3>
 						<div class="card-body" align="center">	
-							<a href="images/JubilationChoirPoster.pdf" target="_blank"><img src="images/jubilationchoir.png" alt="Jubilation Choir" title="Jubilation Choir" class="img-fluid"></a>
+							<a href="images/JubilationChoirPoster.pdf" target="_blank"><img src="images/jubilationchoir.jpg" alt="Jubilation Choir" title="Jubilation Choir" class="img-fluid"></a>
 							<br>
 							<p><strong>Under the direction of Marlene Whittemore</strong></p>
 							<p>
