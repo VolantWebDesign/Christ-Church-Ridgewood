@@ -16,6 +16,8 @@
 	<!-- Custom Fonts -->
 	<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 	<script src='https://www.google.com/recaptcha/api.js' async defer></script>
+	<link href="https://fonts.googleapis.com/css?family=Spectral+SC:400,500,600,700" rel="stylesheet">
+	
 
 	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -31,12 +33,103 @@
 	<!-- Page Content -->
 	<div class="container">
 
-
-
-		<div class="row">
+<!-- Christmas Schedule -->
+<div class="row">
 
 			<div class="col-md-12">
-				<div class="card border-primary">
+				<div class="card border-danger">
+					<div class="card-header" align="center">
+						<h3 class="card-title" style="color: #294515;">Christmas at Christ Church, 2017</h3>
+					</div>
+					<div class="card-body" >
+						<div class="row">
+							<div class="col" align="center">
+							<h3 style="color: #294515;" >#AdventWord Daily Email</h3>
+							<p>"The Society of Saint John the Evangelist, which is an Episcopal Monastery near my seminary, does very prayerful work and their electronic outreach is becoming known worldwide. I’ve used this series before, and the brothers at SSJE update them each year. We pray you have a blessed season of Advent online and at Christ Church." -Fr. Tom</p>
+
+									<div ><a href="http://adventword.org/sign-up/" target="_blank" class="btn btn-outline-primary">Advent Email Signup</a> </div>
+							</div>
+						</div>
+						<div class="row" >
+							<div class="col-md-6">
+								<h3 style="color: #294515;">December 24, Christmas Eve</h3>
+								<table class="table table-striped">
+								<tbody>
+								  <tr>
+									<th scope="row">4:00PM</th>
+									<td>Christmas Pageant: Eucharist service for families and children of all ages <a href="documents/pageantprogram.pdf" target="blank">(Program)</a></td>
+								  </tr>
+								  <tr>
+									<th scope="row"></th>
+									<td>Children of all ages are welcome to participate in the pageant! <a href="documents/pageant_children.pdf" target="_blank">Click here to learn how.</a></td>
+								  </tr>
+								  <tr>
+									<th scope="row">10:00PM</th>
+									<td>Midnight Mass: A rich service with incense and carols, following a musical prelude <a href="documents/christmaseveprogram.pdf?k=<?php echo $thekeys; ?>" target="blank">(Program)</a></td>
+								  </tr>
+								</tbody>
+							  </table>
+							  <hr>
+
+							  <h3 style="color: #294515;">December 25, Christmas Day</h3>
+							<table class="table table-striped">
+							<tbody>
+							  <tr>
+								<th scope="row">10:00AM</th>
+								<td>Christmas Day: Eucharist and carols celebrating the start of Christmas</td>
+							  </tr>
+							</tbody>
+						  </table>
+							</div>
+							<div class="col-md-6">
+
+							<img src="images/adventwreath.jpg" alt="" class="img-fluid"><br>
+							<div class="row">
+								<div class="col" align="center">
+									<a href="documents/insert_christmas.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Christmas Announcements</a> 
+								</div>
+							</div>
+							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+
+	<!-- Installation of Fr. Tom -->
+		<div class="row">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-body">
+						<div class="row">
+							<div class="col-md-6"><img src="images/revtomeucharist.jpg" alt="Rev. Tom Mathews, communion, advent" class="img-fluid"></div>
+							<div class="col-md-6" align="center"><p class="invitation">Join the wardens, vestry and parishioners of Christ Church for
+							<br>
+							<strong>The Celebration of New Ministry and Installation of 
+							<br>
+							The Rev. Tom E. Mathews</strong>
+							<br>
+							As the Rector of Christ Episcopal Church
+							<br><br>
+							On the Feast of the Epiphanhy <br>
+							<strong>
+							Saturday, January 6, 2018 </strong><br>
+							2 o'clock in the afternoon <br>
+							Reception to Follow <br><br>
+
+							Clergy invited to robe: cassock, surplice and festive stole <br>
+							Laity invited to dress in red or festive clothing</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<!-- Worship schedule -->
+			<div class="col-md-12">
+				<div class="card">
 					<div class="card-header">
 						<h4> Worship with us...</h4>
 					</div>
@@ -64,7 +157,7 @@
 								</tr>
 								<tr>
 									<td align="right" nowrap><strong>10:00 AM </td>
-									<td>Holy Eucharist with music  <br><a href="documents/bulletin10am.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn  btn-outline-primary "> Program</a></td>
+									 <td>Holy Eucharist with music  <br> <a href="documents/bulletin10am.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn  btn-outline-primary "> Program</a></td>
 								</tr>
 								<tr>
 									<td align="right" ><strong>11:15 AM</td>
@@ -111,58 +204,6 @@
 <br>
 <br>
 
-<!-- Christmas Schedule -->
-<div class="row">
-
-			<div class="col-md-12">
-				<div class="card">
-					<div class="card-header" align="center">
-						<h4 class="card-title">Christmas at Christ Church, 2017</h4>
-					</div>
-					<div class="card-body" >
-						<div class="row" >
-							<div class="col-md-6">
-								<h4>December 24, Christmas Eve</h4>
-								<table class="table table-striped">
-								<tbody>
-								  <tr>
-									<th scope="row">4:00PM</th>
-									<td>Christmas Pageant</td>
-									<td>Eucharist service for families and children of all ages</td>
-								  </tr>
-								  <tr>
-									<th scope="row"></th>
-									<td></td>
-									<td>Children of all ages are welcome to participate in the pageant! <a href="documents/pageant_children.pdf" target="_blank">Click here to learn how.</a></td>
-								  </tr>
-								  <tr>
-									<th scope="row">10:00PM</th>
-									<td>Midnight Mass</td>
-									<td>A rich service with incense and carols, following a musical prelude</td>
-								  </tr>
-								</tbody>
-							  </table>
-							  <hr>
-
-							</div>
-							<div class="col-md-6">
-							<h4>December 25, Christmas Day</h4>
-							<table class="table table-striped">
-							<tbody>
-							  <tr>
-								<th scope="row">10:00AM</th>
-								<td>Christmas</td>
-								<td>Eucharist and carols celebrating the start of Christmas</td>
-							  </tr>
-							</tbody>
-						  </table>
-						  “Prepare ye the Way” this Advent by signing up for a short daily email from the Society of St. John the Evangelist 									<div align="center"><a href=" http://adventword.org/signup/" target="_blank" class="btn btn-outline-primary">Advent Email Signup</a> </div>
-							</div>
-						</div>
-					</div>	
-				</div>
-			</div>
-		</div>
 
 		
 <!-- Stewardship -->
@@ -185,9 +226,11 @@
 							</div>
 							<div class="col-md-6" align="center">
 								<h4>Campaign Update</h4>
-								<p>Thank you to all our fellow parishioners who joined us in renewing our commitment to Christ Episcopal Church this past Sunday by returning 2018 pledge cards and time and talent forms.  We are truly blessed by an amazing and GENEROUS community.</p>
+								<p>Thank you to all who have renewed or made a new commitment in response to our annual giving drive in support of our Christ Church community for 2018. </p>
 
-								<p>If you were unable to return a pledge packet on  Sunday, you can click the pledge button below, bring your pledge packet to church on Sunday, or mail your packet back in the envelope provided.</p>
+								<p>If you have not yet submitted a pledge for 2018, we ask you to prayfully consider doing so now by submitting an <a href="https://goo.gl/forms/cqKeCekNA9wMSbhs2">online pledge</a>.</p>
+
+								 <p>Please help us reach our goal of 100% participation by submitting your pledge cards or online pledge as soon as possible.The Vestry and Finance committees are working hard to plan for Christ Church’s upcoming program year and your pledge of time, talent, and treasure is a vital part of this planning.</p>
 
 								<p>Please feel free to contact either <a href="mailto:deanna.najork@gmail.com"> Deanna Najork</a>, or <a href="mailto:Trevor.Thangalan@bmwna.com">Trevor Thangalan</a>, with any questions.  Thank you again!</p>
 							</div>
