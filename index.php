@@ -33,38 +33,6 @@
 	<!-- Page Content -->
 	<div class="container">
 
-
-
-	<!-- Installation of Fr. Tom -->
-		<div class="row">
-			<div class="col-md-12">
-				<div class="card">
-					<div class="card-body">
-						<div class="row">
-							<div class="col-md-6"><img src="images/revtomeucharist.jpg" alt="Rev. Tom Mathews, communion, advent" class="img-fluid"></div>
-							<div class="col-md-6" align="center"><p class="invitation">Join the wardens, vestry and parishioners of Christ Church for
-							<br>
-							<strong>The Celebration of New Ministry and Installation of 
-							<br>
-							The Rev. Tom E. Mathews</strong>
-							<br>
-							As the Rector of Christ Episcopal Church
-							<br><br>
-							On the Feast of the Epiphanhy <br>
-							<strong>
-							Saturday, January 6, 2018 </strong><br>
-							2 o'clock in the afternoon <br>
-							Reception to Follow <br><br>
-
-							Clergy invited to robe: cassock, surplice and festive stole <br>
-							Laity invited to dress in red or festive clothing</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-
 		<div class="row">
 			<!-- Worship schedule -->
 			<div class="col-md-12">
@@ -84,7 +52,7 @@
 								<tr>
 									<td align="right" ><strong>8:00 AM</td>
 									<td>Holy Eucharist  <br>
-									<a href="documents/bulletin8am.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn  btn-outline-primary ">Program</a></td>
+									<a href="documents/bulletin8am.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm  btn-outline-primary ">Program</a></td>
 								</tr>
 								<tr>
 									<td align="right" ><strong>9:00 AM</td>
@@ -96,7 +64,7 @@
 								</tr>
 								<tr>
 									<td align="right" nowrap><strong>10:00 AM </td>
-									 <td>Holy Eucharist with music  <br> <a href="documents/bulletin10am.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn  btn-outline-primary "> Program</a></td>
+									 <td>Holy Eucharist with music  <br> <a href="documents/bulletin10am.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm btn-outline-primary "> Program</a></td>
 								</tr>
 								<tr>
 									<td align="right" ><strong>11:15 AM</td>

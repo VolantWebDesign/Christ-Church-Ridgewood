@@ -39,7 +39,7 @@
       </div>
     </nav>
 
-<img src="images/CCR_masthead_advent.jpg?k=<?php echo $thekeys; ?>" class="img-fluid" style="padding-top: 0; padding-bottom: 0;">    
+<img src="images/CCR_masthead_christmas.jpg?k=<?php echo $thekeys; ?>" class="img-fluid" style="padding-top: 0; padding-bottom: 0;">    
 
     <div class="row">
         <div class="col white address text-center">105 Cottage Place, Ridgewood, NJ &nbsp;|&nbsp; (201) 652-2350</div>
