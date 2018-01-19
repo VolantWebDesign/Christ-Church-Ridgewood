@@ -52,7 +52,7 @@
 								<tr>
 									<td align="right" ><strong>8:00 AM</td>
 									<td>Holy Eucharist  <br>
-									<a href="documents/bulletin8am.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm  btn-outline-primary ">Program</a></td>
+									<a href="documents/bulletin.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm  btn-outline-primary ">Program</a></td>
 								</tr>
 								<tr>
 									<td align="right" ><strong>9:00 AM</td>
@@ -64,7 +64,7 @@
 								</tr>
 								<tr>
 									<td align="right" nowrap><strong>10:00 AM </td>
-									 <td>Holy Eucharist with music  <br> <a href="documents/bulletin10am.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm btn-outline-primary "> Program</a></td>
+									 <td>Holy Eucharist with music  <br> <a href="documents/bulletin.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm btn-outline-primary "> Program</a></td>
 								</tr>
 								<tr>
 									<td align="right" ><strong>11:15 AM</td>

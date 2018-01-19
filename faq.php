@@ -180,7 +180,7 @@
             </div>
             <div id="collapseEight" class="collapse" role="tabpanel" aria-labelledby="headingEight" data-parent="#accordion">
             <div class="card-body">
-                <p>Women are full participants at all levels in our church and community. This includes laity, deacons,  priests, and bishops  Our parish leadership is divided about equally between women and men.</p>
+                <p>Women are full participants at all levels in our church and community. This includes laity, deacons,  priests, and bishops.  Our parish leadership is divided about equally between women and men.</p>
               </div>
             </div>
           </div>
