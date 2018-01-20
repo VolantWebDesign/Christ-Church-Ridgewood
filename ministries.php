@@ -46,7 +46,7 @@
                 <div class="card-body" align="center">
                     <h2 class="cardtop">Youth Group</h2>
                     <img src="images/community.jpg" class="img-fluid" alt=" photo" title="">
-                    
+
                     <p>
                     Our Youth Group provides social opportunities for the youth of our parish. They participate in lock-ins, bowling parties, ski trips and so much more!</p>
                 </div>
@@ -63,7 +63,7 @@
                 <div class="card-body" align="center">
                     <h2 class="cardtop">Women at the Well</h2>
                     <img src="images/africandrum.png" class="img-fluid" alt=" photo" title="">
-                    
+
                     <p>
                     This spiritual reflection group is open to all women, including visitors and friends. It meets on the 2nd Saturday of the month from 9:30 am—11:30 am in the Guilds Room. Childcare is proved in the nursery. Come share in guided meditation, reflection, discussion and creative response.</p>
                 </div>
@@ -76,7 +76,7 @@
                 </div>
             </div>
 
-            
+
         </div>
 
         <!-- Row 1 -->
@@ -85,7 +85,7 @@
                 <div class="card-body" align="center">
                     <h2 class="cardtop">Youth Group</h2>
                     <img src="images/community.jpg" class="img-fluid" alt=" photo" title="">
-                    
+
                     <p>
                     Our Youth Group provides social opportunities for the youth of our parish. They participate in lock-ins, bowling parties, ski trips and so much more!</p>
                 </div>
@@ -102,7 +102,7 @@
                 <div class="card-body" align="center">
                     <h2 class="cardtop">Women at the Well</h2>
                     <img src="images/africandrum.png" class="img-fluid" alt=" photo" title="">
-                    
+
                     <p>
                     This spiritual reflection group is open to all women, including visitors and friends. It meets on the 2nd Saturday of the month from 9:30 am—11:30 am in the Guilds Room. Childcare is proved in the nursery. Come share in guided meditation, reflection, discussion and creative response.</p>
                 </div>
@@ -119,7 +119,7 @@
                 <div class="card-body" align="center">
                     <h2 class="cardtop">Youth Group</h2>
                     <img src="images/community.jpg" class="img-fluid" alt=" photo" title="">
-                    
+
                     <p>
                     Our Youth Group provides social opportunities for the youth of our parish. They participate in lock-ins, bowling parties, ski trips and so much more!</p>
                 </div>
@@ -159,8 +159,8 @@
                     <h2 class="cardtop">Women at the Well</h2>
                     <img src="images/africandrum.png" class="img-fluid" alt=" photo" title="">
                     <p>
-                    This spiritual reflection group is open to all women, including visitors and friends. It meets on the 2nd Saturday of the month from 9:30 am—11:30 am in the Guilds Room. Childcare is proved in the nursery. 
-                    
+                    This spiritual reflection group is open to all women, including visitors and friends. It meets on the 2nd Saturday of the month from 9:30 am—11:30 am in the Guilds Room. Childcare is proved in the nursery.
+
                     Come share in guided meditation, reflection, discussion and creative response.</p>
                 </div>
 
@@ -182,7 +182,7 @@
             <div class="card-body" align="center">
                 <h2 class="cardtop">Youth Group</h2>
                 <img src="images/community.jpg" class="img-fluid" alt=" photo" title="">
-                
+
                 <p>
                 Our Youth Group provides social opportunities for the youth of our parish. They participate in lock-ins, bowling parties, ski trips and so much more!</p>
             </div>
@@ -196,12 +196,12 @@
         </div>
     </div>
 
-    <div class="col-md-5">    
+    <div class="col-md-5">
         <div class="card ">
             <div class="card-body" align="center">
                 <h2 class="cardtop">Women at the Well</h2>
                 <img src="images/africandrum.png" class="img-fluid" alt=" photo" title="">
-                
+
                 <p>
                 This spiritual reflection group is open to all women, including visitors and friends. It meets on the 2nd Saturday of the month from 9:30 am—11:30 am in the Guilds Room. Childcare is proved in the nursery. Come share in guided meditation, reflection, discussion and creative response.</p>
             </div>
@@ -255,7 +255,7 @@
                             </div>
                         </div>
                     </div>
- 
+
                 </div>
             </div>
             <div class="row">
