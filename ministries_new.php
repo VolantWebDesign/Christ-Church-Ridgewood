@@ -85,7 +85,7 @@
                     <div class="card ">
                         <div class="card-body" align="center">
                             <h2 class="cardtop">Adult Groups</h2>
-                            <img src="images/community.jpg" class="img-fluid" alt=" photo" title="">
+                            <img src="images/study.jpg" class="img-fluid" alt=" photo" title="">
                             <p>This ministry presents content-driven programs that provide adults opportunities for spiritual growth and insights. Some examples include Adult Forums, Bible Study and Lenten programs.</p>
                         </div>
 
@@ -101,7 +101,7 @@
                     <div class="card ">
                         <div class="card-body" align="center">
                             <h2 class="cardtop">Women at the Well</h2>
-                            <img src="images/africandrum.png" class="img-fluid" alt=" photo" title="">
+                            <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
                             <p>This spiritual reflection group is open to all women, including visitors and friends. It meets on the 2nd Saturday of the month from 9:30 am—11:30 am in the Guilds Room. Childcare is proved in the nursery.
                                 <br> Come share in guided meditation, reflection, discussion and creative response.</p>
                         </div>
@@ -131,7 +131,7 @@
                         <div class="card ">
                             <div class="card-body" align="center">
                                 <h2 class="cardtop">Adult Choir</h2>
-                                <img src="images/community.jpg" class="img-fluid" alt=" photo" title="">
+                                <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
                                 <p>Our Adult Choir is a volunteer group who meet on Sunday from September through June at 9:00 am for rehearsal and to lead worship on Sundays at 10:00 am. Adults and youth (high school age and up) are welcome to join and share the joy of music and fellowship.</p>
                             </div>
 
@@ -193,7 +193,7 @@
                             <div class="card ">
                                 <div class="card-body" align="center">
                                     <h2 class="cardtop">Charlotte's Angels</h2>
-                                    <img src="images/community.jpg" class="img-fluid" alt=" photo" title="">
+                                    <img src="images/charlotte.jpg" class="img-fluid" alt=" photo" title="">
                                     <p>Charlotte's Angels are a multi-generational group of parishioners that raise funds and participate in the American Diabetes Walk to help fund diabetes research and education.</p>
                                 </div>
 
@@ -209,7 +209,7 @@
                             <div class="card ">
                                 <div class="card-body" align="center">
                                     <h2 class="cardtop">Pastoral Care</h2>
-                                    <img src="images/africandrum.png" class="img-fluid" alt=" photo" title="">
+                                    <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
                                     <p>A shared ministry of the clergy and the laity, Pastoral Care acts together as a gentle reminder of God's compassion as we “seek and serve Christ in all persons.” They do this through cards, calls, and e-mails; a prayer chain, prayer services at nursing homes, visits to the ill and/or housebound, providing transportation and help with post-funeral receptions.</p>
                                 </div>
 
@@ -228,7 +228,7 @@
                             <div class="card ">
                                 <div class="card-body" align="center">
                                     <h2 class="cardtop">Ministry of Meals</h2>
-                                    <img src="images/community.jpg" class="img-fluid" alt=" photo" title="">
+                                    <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
                                     <p>The Ministry of Meals seeks to grow this ministry by adding names of those willing to make a meal for parishioners who may need something extra for a week or so while recovering from surgery, having a new baby, and more.</p>
                                 </div>
 
@@ -244,7 +244,7 @@
                             <div class="card ">
                                 <div class="card-body" align="center">
                                     <h2 class="cardtop">Family Promise</h2>
-                                    <img src="images/africandrum.png" class="img-fluid" alt=" photo" title="">
+                                    <img src="images/ccr_exterior.jpg" class="img-fluid" alt=" photo" title="">
                                     <p>One Saturday a month Christ Episcopal Church provides the staffing at the Family Promise of Bergen County Family Center in Ridgewood. This “Ministry of Presence” makes it possible for homeless families to have a space to spend the afternoon when they need it. Adults and families are welcome to volunteer for this ministry.</p>
                                 </div>
 
@@ -263,7 +263,7 @@
                             <div class="card ">
                                 <div class="card-body" align="center">
                                     <h2 class="cardtop">The Needlers</h2>
-                                    <img src="images/community.jpg" class="img-fluid" alt=" photo" title="">
+                                    <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
                                     <p>Most knitting done by “The Needlers” is to benefit the Seaman's Church Institute's Christmas at Sea Program. Yarn is provided by the Women's Guild of Christ Church and by anonymous donors. We also welcome crocheters, needlepointers and other craftspeople.</p>
                                 </div>
 
@@ -279,7 +279,7 @@
                             <div class="card ">
                                 <div class="card-body" align="center">
                                     <h2 class="cardtop">North Porch</h2>
-                                    <img src="images/africandrum.png" class="img-fluid" alt=" photo" title="">
+                                    <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
                                     <p>Assist with publicity and collection of donated items for needy mothers and newborns.</p>
                                 </div>
 
@@ -298,7 +298,7 @@
                             <div class="card ">
                                 <div class="card-body" align="center">
                                     <h2 class="cardtop">St. Paul's Food Pantry</h2>
-                                    <img src="images/community.jpg" class="img-fluid" alt=" photo" title="">
+                                    <img src="images/outreach.jpg" class="img-fluid" alt=" photo" title="">
                                     <p>Every food item placed in our collection barrels fills the shelves in the St. Paul's Food Pantry and finds its way to the home of a family trying to get back on its feet. The Pantry always needs staples, including pastas, rice, and cereals. Monetary donations are also accepted.</p>
                                 </div>
 
@@ -314,7 +314,7 @@
                             <div class="card ">
                                 <div class="card-body" align="center">
                                     <h2 class="cardtop">St. Paul's Men's Homeless Shelter</h2>
-                                    <img src="images/africandrum.png" class="img-fluid" alt=" photo" title="">
+                                    <img src="images/Ministries/IMG_2649.JPG" class="img-fluid" alt=" photo" title="">
                                     <p>On the second Monday of each month, Christ Church provides a meal for up to 40 homeless men at St. Paul's Mens' Shelter. Families, church committees, and ad hoc groups prepare the meal in advance in the church kitchen; others reheat or deliver and serve the meals.</p>
                                 </div>
 
@@ -343,7 +343,7 @@
                                 <div class="card ">
                                     <div class="card-body" align="center">
                                         <h2 class="cardtop">Parish Life & Fellowship</h2>
-                                        <img src="images/community.jpg" class="img-fluid" alt=" photo" title="">
+                                        <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
                                         <p>The Parish Life and Fellowship Team plans social events that welcome everyone to be a part of the Christ Episcopal Church community. Participating in these events is a great opportunity to meet new people and to get better acquainted with the people you already know. They invite all who would like to help with the planning, cooking and set-up of our events to participate. New ideas are always welcome!</p>
                                     </div>
 
@@ -359,7 +359,7 @@
                                 <div class="card ">
                                     <div class="card-body" align="center">
                                         <h2 class="cardtop">Women's Luncheon Group</h2>
-                                        <img src="images/africandrum.png" class="img-fluid" alt=" photo" title="">
+                                        <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
                                         <p>The Women's Luncheon Group meets at Kurth Cottage every 2nd and 4th Sunday. This service and fellowship group helps sponsor the annual spring Flower Sale, the proceeds of which support the Christ Church Scholarship Memorial Fund.</p>
                                     </div>
 
@@ -378,7 +378,7 @@
                                 <div class="card ">
                                     <div class="card-body" align="center">
                                         <h2 class="cardtop">Men's Fellowship</h2>
-                                        <img src="images/community.jpg" class="img-fluid" alt=" photo" title="">
+                                        <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
                                         <p>The Men's Fellowship group provides a monthly opportunity for men to meet and exchange ideas about political, cultural or spiritual issues of today's world.</p>
                                     </div>
 
