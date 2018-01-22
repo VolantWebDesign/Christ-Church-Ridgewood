@@ -71,7 +71,7 @@
 
                             <!-- Footer buttons -->
                             <div align="center" class="card-footer">
-                                <a href="mailto:amymorrisonrealtor@gmail.com">
+                                <a href="mailto:parishadmin@christchurchridgewood.org">
                                     <button type="button" class="btn  btn-outline-primary">Contact Host</button>
                                 </a>
                             </div>
@@ -91,7 +91,7 @@
 
                         <!-- Footer buttons -->
                         <div align="center" class="card-footer">
-                            <a href="mailto:amymorrisonrealtor@gmail.com">
+                            <a href="mailto:parishadmin@christchurchridgewood.org">
                                 <button type="button" class="btn  btn-outline-primary">Contact Host</button>
                             </a>
                         </div>
@@ -108,7 +108,7 @@
 
                         <!-- Footer buttons -->
                         <div align="center" class="card-footer">
-                            <a href="mailto:amymorrisonrealtor@gmail.com">
+                            <a href="mailto:parishadmin@christchurchridgewood.org">
                                 <button type="button" class="btn  btn-outline-primary">Contact Host</button>
                             </a>
                         </div>
@@ -137,7 +137,7 @@
 
                             <!-- Footer buttons -->
                             <div align="center" class="card-footer">
-                                <a href="mailto:amymorrisonrealtor@gmail.com">
+                                <a href="mailto:parishadmin@christchurchridgewood.org">
                                     <button type="button" class="btn  btn-outline-primary">Contact Host</button>
                                 </a>
                             </div>
@@ -154,7 +154,7 @@
 
                             <!-- Footer buttons -->
                             <div align="center" class="card-footer">
-                                <a href="mailto:amymorrisonrealtor@gmail.com">
+                                <a href="mailto:parishadmin@christchurchridgewood.org">
                                     <button type="button" class="btn  btn-outline-primary">Contact Host</button>
                                 </a>
                             </div>
@@ -170,7 +170,7 @@
 
                             <!-- Footer buttons -->
                             <div align="center" class="card-footer">
-                                <a href="mailto:amymorrisonrealtor@gmail.com">
+                                <a href="mailto:parishadmin@christchurchridgewood.org">
                                     <button type="button" class="btn  btn-outline-primary">Contact Host</button>
                                 </a>
                             </div>
@@ -199,7 +199,7 @@
 
                                 <!-- Footer buttons -->
                                 <div align="center" class="card-footer">
-                                    <a href="mailto:amymorrisonrealtor@gmail.com">
+                                    <a href="mailto:parishadmin@christchurchridgewood.org">
                                         <button type="button" class="btn  btn-outline-primary">Contact Host</button>
                                     </a>
                                 </div>
@@ -215,7 +215,7 @@
 
                                 <!-- Footer buttons -->
                                 <div align="center" class="card-footer">
-                                    <a href="mailto:amymorrisonrealtor@gmail.com">
+                                    <a href="mailto:parishadmin@christchurchridgewood.org">
                                         <button type="button" class="btn  btn-outline-primary">Contact Host</button>
                                     </a>
                                 </div>
@@ -234,7 +234,7 @@
 
                                 <!-- Footer buttons -->
                                 <div align="center" class="card-footer">
-                                    <a href="mailto:amymorrisonrealtor@gmail.com">
+                                    <a href="mailto:parishadmin@christchurchridgewood.org">
                                         <button type="button" class="btn  btn-outline-primary">Contact Host</button>
                                     </a>
                                 </div>
@@ -250,7 +250,7 @@
 
                                 <!-- Footer buttons -->
                                 <div align="center" class="card-footer">
-                                    <a href="mailto:amymorrisonrealtor@gmail.com">
+                                    <a href="mailto:parishadmin@christchurchridgewood.org">
                                         <button type="button" class="btn  btn-outline-primary">Contact Host</button>
                                     </a>
                                 </div>
@@ -269,7 +269,7 @@
 
                                 <!-- Footer buttons -->
                                 <div align="center" class="card-footer">
-                                    <a href="mailto:amymorrisonrealtor@gmail.com">
+                                    <a href="mailto:parishadmin@christchurchridgewood.org">
                                         <button type="button" class="btn  btn-outline-primary">Contact Host</button>
                                     </a>
                                 </div>
@@ -285,7 +285,7 @@
 
                                 <!-- Footer buttons -->
                                 <div align="center" class="card-footer">
-                                    <a href="mailto:amymorrisonrealtor@gmail.com">
+                                    <a href="mailto:parishadmin@christchurchridgewood.org">
                                         <button type="button" class="btn  btn-outline-primary">Contact Host</button>
                                     </a>
                                 </div>
@@ -304,7 +304,7 @@
 
                                 <!-- Footer buttons -->
                                 <div align="center" class="card-footer">
-                                    <a href="mailto:amymorrisonrealtor@gmail.com">
+                                    <a href="mailto:parishadmin@christchurchridgewood.org">
                                         <button type="button" class="btn  btn-outline-primary">Contact Host</button>
                                     </a>
                                 </div>
@@ -320,7 +320,7 @@
 
                                 <!-- Footer buttons -->
                                 <div align="center" class="card-footer">
-                                    <a href="mailto:amymorrisonrealtor@gmail.com">
+                                    <a href="mailto:parishadmin@christchurchridgewood.org">
                                         <button type="button" class="btn  btn-outline-primary">Contact Host</button>
                                     </a>
                                 </div>
@@ -349,7 +349,7 @@
 
                                     <!-- Footer buttons -->
                                     <div align="center" class="card-footer">
-                                        <a href="mailto:amymorrisonrealtor@gmail.com">
+                                        <a href="mailto:parishadmin@christchurchridgewood.org">
                                             <button type="button" class="btn  btn-outline-primary">Contact Host</button>
                                         </a>
                                     </div>
@@ -365,7 +365,7 @@
 
                                     <!-- Footer buttons -->
                                     <div align="center" class="card-footer">
-                                        <a href="mailto:amymorrisonrealtor@gmail.com">
+                                        <a href="mailto:parishadmin@christchurchridgewood.org">
                                             <button type="button" class="btn  btn-outline-primary">Contact Host</button>
                                         </a>
                                     </div>
@@ -384,7 +384,7 @@
 
                                     <!-- Footer buttons -->
                                     <div align="center" class="card-footer">
-                                        <a href="mailto:amymorrisonrealtor@gmail.com">
+                                        <a href="mailto:parishadmin@christchurchridgewood.org">
                                             <button type="button" class="btn  btn-outline-primary">Contact Host</button>
                                         </a>
                                     </div>
@@ -400,7 +400,7 @@
 
                                     <!-- Footer buttons -->
                                     <div align="center" class="card-footer">
-                                        <a href="mailto:amymorrisonrealtor@gmail.com">
+                                        <a href="mailto:parishadmin@christchurchridgewood.org">
                                             <button type="button" class="btn  btn-outline-primary">Contact Host</button>
                                         </a>
                                     </div>
