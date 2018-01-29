@@ -156,7 +156,32 @@
 			<div class="row">
 				<div class="col-md-12" align="center">
 					<h2 style="color:#113056">Upcoming Events</h2>
-				</div>         
+				</div>    
+
+<!-- Godspell musical -->
+				<div class="col-md-6">
+					<div class="card card-default">
+						<div class="card-body" align="center">	
+							<a><img src="images/Godspell-logo.png" alt="Youth Musical: Godspell" title="Youth Musical: Godspell" class="img-fluid"></a>
+							<br>
+							<p><strong>Performance</strong><br>
+							Sunday, March 11<br>
+							10:00AM during service </p>
+
+							<p><strong>Rehearsals</strong><br>
+							Every Sunday through March 4<br>
+							10:40 AM - 12:10 PM <br>
+							</p>
+
+							<p><strong>Dress Rehearsal</strong><br>
+							Saturday, March 10<br>
+							1:00 PM </p>
+						</div>
+						<div class="card-footer" align="center">
+							For more information, email Marlene at <a href="mailto:mwhittemore@christchurchridgewood.org">mwhittemore@christchurchridgewood.org</a>
+						</div>
+					</div>
+				</div>     
 
 <!-- African Drum Ensemble -->
 				<div class="col-md-6">
