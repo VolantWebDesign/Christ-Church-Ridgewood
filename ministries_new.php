@@ -86,7 +86,7 @@
           <div class="card">
             <div class="card-body" align="center">
               <h2 class="cardtop">Sunday School</h2>
-              <img src="" class="img-fluid" alt=" photo" title="">
+              <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
               <p>Pre-K through 12th Grade classes are held Sunday mornings at 9:45 am in the Zone! The Zone is the downstairs education wing just for children and youth. Sunday School for children in Pre-K – 9th Grade introduces children to our faith and worship through storytelling, song, prayer, craft projects and other active learning experiences. Journey to Adulthood (J2A) continues religious education and outreach opportunities for high school students in 10th – 12th Grade. As part of their education in what it means to be Christian, teenagers in the confirmation class participate in monthly projects to learn about the broader needs of our community, from serving the poor to helping the environment. Nursery Care (infant--age 3) professionally staffed, available from 9:30am--11:30am. YOUNG CHILDREN AND FAMILIES are always invited and welcome to join us for worship. A carpeted area has been created between the last two seats (pews) to help you feel more at home here. We also have Worship Bags for younger worshippers at the entrances to the church. Coloring books and crayons are available in the back pew (seat).</p>
             </div>
 

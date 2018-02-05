@@ -79,31 +79,14 @@
 				<hr/>
 
 			<div class="row">
-				<div class="col-md-6">
+				<div class="col">
 					<div class="row">
-						<div class="col-md-4 col-sm-4 col-xs-4">
-							<div align="center">
-								<img src="images/clergy/larry.jpg" class="img-fluid rounded-circle" />
-							</div>
-						</div>
-						<div class="col-md-8">
-							<h4>Mr. Larry Arnold<br><small>Organist and Adult Choirmaster</small></h4>
-							<p>Mr. Arnold holds degrees in music education and church music from Concordia College, Bronxville, NY and Teachers College, Columbia University.  Currently he is pursing a doctorate in Sacred Music at the Graduate Theological Foundation, Mishawaka, IN.  An organist since his teen years, Larry grew up in the Lutheran Church where his faith and love of music was nurtured.</p>
-
-							<p>As an educator in NY, Larry brings many talents not only on the organ, but with choirs of all ages and abilities.</p>
-
-							<p>Larry welcomes all who wish to sing and who desire to learn music.  Speak to him about joining the choir after service over a cup of coffee.  Rehearsals are Sunday mornings from 8:00am to 9:30am during the program year from September through June.  The choir is a blessing to the ministry of Christ Episcopal Church and we welcome you to be a part of a great group of people.</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-6">
-					<div class="row">
-						<div class="col-md-4 col-sm-4 col-xs-4">
+						<div class="col-md-2 col-sm-2 col-xs-2">
 							<div align="center">
 								<img src="images/clergy/marlene.jpg" class="img-fluid rounded-circle" />
 							</div>
 						</div>
-						<div class="col-md-8">
+						<div class="col-md-10">
 							<h4>Ms. Marlene Pillow<br><small>Children-Youth Music and Drama Director</small></h4>
 							<p>Ms. Pillow is a highly respected music teacher in Ridgewood and a mother to two exceptional teenagers. Marlene is a professional soprano and choral conductor, holding music degress from the Eastman School of Music at Rochester University and the New England Consevatory of Music in Boston, MA.</p>
 

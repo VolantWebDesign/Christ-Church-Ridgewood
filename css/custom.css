@@ -80,3 +80,13 @@ id:before {
   height: 50px; 
   visibility: hidden; 
 }
+
+/* nav button color */
+.btn-outline-light:hover {
+  color: #133154 !important;
+  /* background-color: #f8f9fa;
+  border-color: #f8f9fa; */
+}
+.btn-outline-light {
+  margin-top: 10px;
+}
