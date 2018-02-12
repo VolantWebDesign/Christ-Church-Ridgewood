@@ -33,6 +33,87 @@
 	<!-- Page Content -->
 	<div class="container">
 
+	<div class="row">
+
+	<div class="row">
+
+<div class="col-md-12">
+	<div class="card border">
+		<div class="card-header" align="center">
+			<h3 class="card-title" style="color: #294515;">February 25 - Annual Meeting 2018</h3>
+		</div>
+		<div class="card-body" >
+			<div class="row">
+				<div class="col" align="center">
+					<p>
+					Joint worship at 9:30 (no 8:00, Joy! or 10:00 services), followed immediately after by the 2018 annual meeting. At this time, we will elect a warden and at least one vestry member.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Ash Wednesday and Lent -->
+<div class="col-md-12">
+	<div class="card border">
+		<div class="card-header" align="center">
+			<h3 class="card-title" style="color: #294515;">Ash Wednesday and Lent at Christ Church</h3>
+		</div>
+		<div class="card-body" >
+			<div class="row">
+				<div class="col" align="center">
+				<h3 style="color: #294515;" >Lenten Reflection Daily Email</h3>
+				<p>"The Society of Saint John the Evangelist, which is an Episcopal Monastery near my seminary, does very prayerful work and their electronic outreach is becoming known worldwide. I’ve used this series before, and the brothers at SSJE update them each year. We pray you have a blessed season of Lent online and at Christ Church." -Fr. Tom</p>
+
+						<div ><a href="http://meetingjesusinjohn.org" target="_blank" class="btn btn-outline-primary">Lenten Email Signup</a> </div>
+				</div>
+			</div>
+			<div class="row" >
+				<div class="col-md-6">
+					<h3 style="color: #294515;">Ash Wednesday, February 14</h3>
+					<table class="table table-striped">
+					<tbody>
+					  <tr>
+						<th scope="row">7:00AM</th>
+						<td>Imposition of Ashes</td>
+					  </tr>
+					  <tr>
+						<th scope="row">8:00AM</th>
+						<td>Drive-Through Ashes</a></td>
+					  </tr>
+					  <tr>
+						<th scope="row">12:00PM</th>
+						<td>Imposition of Ashes</a></td>
+					  </tr>
+					  <tr>
+						<th scope="row">2:30PM</th>
+						<td>Drive-Through Ashes</a></td>
+					  </tr>
+					  <tr>
+						<th scope="row">7:00PM</th>
+						<td>Imposition of Ashes</a></td>
+					  </tr>
+					</tbody>
+				  </table>
+	<hr>
+					<h5>Lenten Breakfast</h5>
+					<p>Sundays in Lent, Feb 18 - March 18, 8:45 - 10:15AM in the Great Hall, $5/adult, <strong>Children eat FREE!</strong></p>
+<hr>
+					<h5>Lenten Discussion Series</h5>
+					<p>March 1, 8 & 15, 7:00PM in the Guilds Room, potluck dinner, topics to be announced!</p>
+				</div>
+				<div class="col-md-6" align="center">
+					<br><br><br><br><br><br><br><br>
+					<h3>"Remember that you are dust, and to dust you will return."</h3>
+					<br><br><br><br><br><br><br><br>
+
+				</div>
+			</div>
+		</div>	
+	</div>
+</div>
+</div>
+
 		<div class="row">
 			<!-- Worship schedule -->
 			<div class="col-md-12">
