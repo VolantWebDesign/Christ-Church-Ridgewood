@@ -31,88 +31,88 @@
 	<?php include "navigation.php"; ?>
 
 	<!-- Page Content -->
-	<div class="container">
-
+<div class="container">
 	<div class="row">
 
-	<div class="row">
-
-<div class="col-md-12">
-	<div class="card border">
-		<div class="card-header" align="center">
-			<h3 class="card-title" style="color: #294515;">February 25 - Annual Meeting 2018</h3>
-		</div>
-		<div class="card-body" >
-			<div class="row">
-				<div class="col" align="center">
-					<p>
-					Joint worship at 9:30 (no 8:00, Joy! or 10:00 services), followed immediately after by the 2018 annual meeting. At this time, we will elect a warden and at least one vestry member.</p>
+		<div class="col-md-12">
+			<div class="card border">
+				<div class="card-header" align="center">
+					<h3 class="card-title" >February 25 - Annual Meeting 2018</h3>
 				</div>
+				<div class="card-body" >
+					<div class="row">
+						<div class="col" align="center">
+							<p>
+							Joint worship at 9:30 (no 8:00, Joy! or 10:00 services), followed immediately after by the 2018 annual meeting. At this time, we will elect a warden and at least one vestry member.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- Ash Wednesday and Lent -->
+		<div class="col-md-12">
+			<div class="card border">
+				<div class="card-header" align="center">
+					<h3 class="card-title" >Ash Wednesday and Lent at Christ Church</h3>
+				</div>
+				<div class="card-body" >
+					<div class="row">
+						<div class="col" align="center">
+						<h3  >Lenten Reflection Daily Email</h3>
+						<p>"The Society of Saint John the Evangelist, which is an Episcopal Monastery near my seminary, does very prayerful work and their electronic outreach is becoming known worldwide. I’ve used this series before, and the brothers at SSJE update them each year. We pray you have a blessed season of Lent online and at Christ Church." -Fr. Tom</p>
+
+								<div ><a href="http://meetingjesusinjohn.org" target="_blank" class="btn btn-outline-primary">Lenten Email Signup</a> </div>
+						</div>
+					</div>
+					<div class="row" >
+						<div class="col-md-6">
+							<h3 >Ash Wednesday, February 14</h3>
+							<table class="table table-striped">
+							<tbody>
+							<tr>
+								<th scope="row">7:00AM</th>
+								<td>Imposition of Ashes</td>
+							</tr>
+							<tr>
+								<th scope="row">8:00AM</th>
+								<td>Drive-Through Ashes</a></td>
+							</tr>
+							<tr>
+								<th scope="row">12:00PM</th>
+								<td>Imposition of Ashes</a></td>
+							</tr>
+							<tr>
+								<th scope="row">2:30PM</th>
+								<td>Drive-Through Ashes</a></td>
+							</tr>
+							<tr>
+								<th scope="row">7:00PM</th>
+								<td>Imposition of Ashes</a></td>
+							</tr>
+							</tbody>
+						</table>
+							<hr>
+							<h5>Lenten Breakfast</h5>
+							<p>Sundays in Lent, Feb 18 - March 18, 8:45 - 10:15AM in the Great Hall, $5/adult to cover cost, <br><strong>Children eat FREE!</strong></p>
+							<hr>
+							<h5>Lenten Discussion Series</h5>
+							<p>March 1, 8 & 15, 7:00PM in the Guilds Room, potluck dinner, topics to be announced!</p>
+						</div>
+						<div class="col-md-6" align="center">
+							<br><br>
+							<h3>"Remember that you are dust, and to dust you will return."</h3>
+							<br><br><br><br><br>
+							<h3>Drive-Through-Ashes at Christ Church featured on CBS News</h3>
+							<h5>(at the 1:22 minute mark)</h5>
+							<iframe scrolling="no" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen src="http://w3.cdn.anvato.net/player/prod/v3/anvload.html?key=eyJtIjoiY2JzIiwidiI6IjM4MTA1MDYiLCJhbnZhY2siOiJhbnZhdG9fY2JzbG9jYWxfYXBwX3dlYl9wcm9kXzU0N2YzZTQ5MjQxZWYwZTVkMzBjNzliMmVmYmNhNWQ5MmM2OThmNjciLCJwbHVnaW5zIjp7ImNvbXNjb3JlIjp7ImNsaWVudElkIjoiMzAwMDAyMyIsImMzIjoibmV3eW9yay5jYnNsb2NhbC5jb20ifSwiZGZwIjp7ImNsaWVudFNpZGUiOnsiYWRUYWdVcmwiOiJodHRwOi8vcHViYWRzLmcuZG91YmxlY2xpY2submV0L2dhbXBhZC9hZHM%2Fc3o9MngyJml1PS80MTI4L0NCUy5OWSZjaXVfc3pzJmltcGw9cyZnZGZwX3JlcT0xJmVudj12cCZvdXRwdXQ9eG1sX3Zhc3QyJnVudmlld2VkX3Bvc2l0aW9uX3N0YXJ0PTEmdXJsPVtyZWZlcnJlcl91cmxdJmRlc2NyaXB0aW9uX3VybD1bZGVzY3JpcHRpb25fdXJsXSZjb3JyZWxhdG9yPVt0aW1lc3RhbXBdIiwia2V5VmFsdWVzIjp7ImNhdGVnb3JpZXMiOiJbW0NBVEVHT1JJRVNdXSIsInByb2dyYW0iOiJbW1BST0dSQU1fTkFNRV1dIiwic2l0ZVNlY3Rpb24iOiJ2aWRlby1leHBlcmllbmNlIn19fSwicmVhbFRpbWVBbmFseXRpY3MiOnRydWUsImhlYXJ0YmVhdEJldGEiOnsiYWNjb3VudCI6ImNic2xvY2FsLWdsb2JhbC11bmlmaWVkIiwicHVibGlzaGVySWQiOiJjYnNsb2NhbCIsImpvYklkIjoic2NfdmEiLCJtYXJrZXRpbmdDbG91ZElkIjoiODIzQkEwMzM1NTY3NDk3RjdGMDAwMTAxQEFkb2JlT3JnIiwidHJhY2tpbmdTZXJ2ZXIiOiJjYnNkaWdpdGFsbWVkaWEuaGIub210cmRjLm5ldCIsImN1c3RvbVRyYWNraW5nU2VydmVyIjoiY2JzZGlnaXRhbG1lZGlhLmQxLnNjLm9tdHJkYy5uZXQiLCJjaGFwdGVyVHJhY2tpbmciOmZhbHNlLCJ2ZXJzaW9uIjoiMS41IiwicGFyZW50UGFnZVVSTCI6Imh0dHA6Ly9uZXd5b3JrLmNic2xvY2FsLmNvbS92aWRlby8zODEwNTA2LWRvdWJsZS15b3VyLWhvbGlkYXktcGxlYXN1cmUvIiwicGFyZW50VGl0bGUiOiJEb3VibGUgWW91ciBIb2xpZGF5IFBsZWFzdXJlIMKrIENCUyBOZXcgWW9yayIsInBJbnN0YW5jZSI6InAwIiwicHJvZmlsZSI6ImNic2xvY2FsIn19LCJodG1sNSI6dHJ1ZX0%3D"  width ="auto" title="Christ Church featured on CBS News" alt="CBS News, Christ Episcopal Church, Ash Wednesday, video"></iframe>
+
+						</div>
+					</div>
+				</div>	
 			</div>
 		</div>
 	</div>
-</div>
-
-<!-- Ash Wednesday and Lent -->
-<div class="col-md-12">
-	<div class="card border">
-		<div class="card-header" align="center">
-			<h3 class="card-title" style="color: #294515;">Ash Wednesday and Lent at Christ Church</h3>
-		</div>
-		<div class="card-body" >
-			<div class="row">
-				<div class="col" align="center">
-				<h3 style="color: #294515;" >Lenten Reflection Daily Email</h3>
-				<p>"The Society of Saint John the Evangelist, which is an Episcopal Monastery near my seminary, does very prayerful work and their electronic outreach is becoming known worldwide. I’ve used this series before, and the brothers at SSJE update them each year. We pray you have a blessed season of Lent online and at Christ Church." -Fr. Tom</p>
-
-						<div ><a href="http://meetingjesusinjohn.org" target="_blank" class="btn btn-outline-primary">Lenten Email Signup</a> </div>
-				</div>
-			</div>
-			<div class="row" >
-				<div class="col-md-6">
-					<h3 style="color: #294515;">Ash Wednesday, February 14</h3>
-					<table class="table table-striped">
-					<tbody>
-					  <tr>
-						<th scope="row">7:00AM</th>
-						<td>Imposition of Ashes</td>
-					  </tr>
-					  <tr>
-						<th scope="row">8:00AM</th>
-						<td>Drive-Through Ashes</a></td>
-					  </tr>
-					  <tr>
-						<th scope="row">12:00PM</th>
-						<td>Imposition of Ashes</a></td>
-					  </tr>
-					  <tr>
-						<th scope="row">2:30PM</th>
-						<td>Drive-Through Ashes</a></td>
-					  </tr>
-					  <tr>
-						<th scope="row">7:00PM</th>
-						<td>Imposition of Ashes</a></td>
-					  </tr>
-					</tbody>
-				  </table>
-	<hr>
-					<h5>Lenten Breakfast</h5>
-					<p>Sundays in Lent, Feb 18 - March 18, 8:45 - 10:15AM in the Great Hall, $5/adult, <strong>Children eat FREE!</strong></p>
-<hr>
-					<h5>Lenten Discussion Series</h5>
-					<p>March 1, 8 & 15, 7:00PM in the Guilds Room, potluck dinner, topics to be announced!</p>
-				</div>
-				<div class="col-md-6" align="center">
-					<br><br><br><br><br><br><br><br>
-					<h3>"Remember that you are dust, and to dust you will return."</h3>
-					<br><br><br><br><br><br><br><br>
-
-				</div>
-			</div>
-		</div>	
-	</div>
-</div>
-</div>
 
 		<div class="row">
 			<!-- Worship schedule -->
@@ -164,9 +164,9 @@
 								<tr>
 									<td>
 										<ul>
-											<li>November 19</li>
-											<li>December 17 - Blue Christmas</font></li>
-											<li>January 21</li>
+											<li>February 18 - <font color="red">Canceled</font></li>
+											<li>March 18</li>
+											<li>April 15</li>
 										</ul> 
 									</td>
 								</tr>
@@ -349,7 +349,7 @@
 
 			<!-- Call to Action Section -->
 			<?php include "donate.php"; ?>
-		</div>
+</div>
 		<script src="js/jquery.js"></script>
 		<script src="js/popper.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
