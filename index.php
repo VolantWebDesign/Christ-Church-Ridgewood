@@ -164,9 +164,9 @@
 								<tr>
 									<td>
 										<ul>
-											<li>February 18 - <font color="red">Canceled</font></li>
 											<li>March 18</li>
 											<li>April 15</li>
+											<li>May 20</li>
 										</ul> 
 									</td>
 								</tr>
