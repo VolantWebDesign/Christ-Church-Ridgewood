@@ -64,17 +64,17 @@
       <!-- Row 0 -->
       <!-- Youth Group -->
       <div class="card-deck">
-        <div class="col-md-4">
+        <div class="col-md-6">
           <div class="card">
             <div class="card-body" align="center">
               <h2 class="cardtop">Youth Group</h2>
-              <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
+              <img src="images/Ministries/youth-group-christmasparty.JPG" class="img-fluid" alt=" photo" title="">
               <p>Our Youth Group provides social opportunities for the youth of our parish and is open to 6th-12 graders. They participate in lock-ins, bowling parties, ski trips and so much more!</p>
             </div>
 
             <!-- Footer buttons -->
             <div align="center" class="card-footer">
-              <a href="mailto:amymorrisonrealtor@gmail.com">
+              <a href="mailto:">
                 <button type="button" class="btn  btn-outline-primary">Contact Host</button>
               </a>
             </div>
@@ -82,7 +82,7 @@
         </div>
 
         <!-- Sunday School -->
-        <div class="col-md-8">
+        <div class="col-md-6">
           <div class="card">
             <div class="card-body" align="center">
               <h2 class="cardtop">Sunday School</h2>
@@ -114,7 +114,7 @@
 
         <!-- Footer buttons -->
         <div align="center" class="card-footer">
-          <a href="mailto:amymorrisonrealtor@gmail.com">
+          <a href="mailto:">
             <button type="button" class="btn  btn-outline-primary">Contact Host</button>
           </a>
         </div>
@@ -129,7 +129,7 @@
 
         <!-- Footer buttons -->
         <div align="center" class="card-footer">
-          <a href="mailto:amymorrisonrealtor@gmail.com">
+          <a href="mailto:">
             <button type="button" class="btn  btn-outline-primary">Contact Host</button>
           </a>
         </div>
@@ -166,7 +166,7 @@
         <div class="card">
           <div class="card-body" align="center">
             <h2 class="cardtop">Jubilation Choir</h2>
-            <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
+            <img src="images/Ministries/jubilationchoir.jpg" class="img-fluid" alt=" photo" title="">
             <p>The Jubilation Choir is open to boys and girls 5th grade through high school. The choir performs on Youth Sundays and special services during the program year. The choir rehearses after the 10:00 am service from 11:15 to noon in the choir room. Schola Cantorum also invites those interested to learn to play our set of hand chimes and other instruments while developing musicianship skills.</p>
           </div>
           <!-- Footer buttons -->
@@ -207,7 +207,7 @@
         <div class="card">
           <div class="card-body" align="center">
             <h2 class="cardtop">Charlotte's Angels</h2>
-            <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
+            <img src="images/Ministries/charlotte.jpg" class="img-fluid" alt=" photo" title="">
             <p>Charlotte’s Angels are a multi-generational group of parishioners that raise funds and participate in the American Diabetes Walk to help fund diabetes research and education. This year’s walk is Sunday, September 24th and will be held in Ridgewood, NJ.</p>
           </div>
           <!-- Footer buttons -->
@@ -276,7 +276,7 @@
         <div class="card">
           <div class="card-body" align="center">
             <h2 class="cardtop">St. Paul's Men's Homeless Shelter</h2>
-            <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
+            <img src="images/Ministries/stpauls-cooking2.JPG" class="img-fluid" alt=" photo" title="">
             <p>On the second Monday of each month, Christ Church provides a meal for up to 40 homeless men at St. Paul’s Mens’ Shelter. Families, church committees, and ad hoc groups come together in the church kitchen to prepare the meal in advance; others reheat or deliver and serve the meals.</p>
           </div>
           <!-- Footer buttons -->
@@ -348,7 +348,7 @@
         <div class="card">
           <div class="card-body" align="center">
             <h2 class="cardtop">Women's Luncheon Group</h2>
-            <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
+            <img src="images/Ministries/womens-group-juliettes.JPG" class="img-fluid" alt=" photo" title="">
             <p>The Women’s Guild (The Juliets) meet at Kurth Cottage every 2nd and 4th Sunday. This service and fellowship group is involved in many aspects of the life of Christ Episcopal Church, including the Christ Church Memorial Scholarship Fund. They also volunteer at the Community Thrift Shop in Midland Park. The Church receives 30% of the proceeds for donations labeled with our number (#1). This money goes directly to the scholarship fund.</p>
           </div>
           <!-- Footer buttons -->
