@@ -86,8 +86,8 @@
           <div class="card">
             <div class="card-body" align="center">
               <h2 class="cardtop">Sunday School</h2>
-              <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
-              <p>Pre-K through 12th Grade classes are held Sunday mornings at 9:45 am in the Zone! The Zone is the downstairs education wing just for children and youth. Sunday School for children in Pre-K – 9th Grade introduces children to our faith and worship through storytelling, song, prayer, craft projects and other active learning experiences.</p>
+              <img src="images/Ministries/christmas-pageant13.JPG" class="img-fluid" alt=" photo" title="">
+              <p>Pre-K through 12th Grade classes are held Sunday mornings at 9:45 am in The Zone! -- the downstairs education wing just for children and youth. Sunday School for children in Pre-K – 9th Grade introduces children to our faith and worship through storytelling, song, prayer, craft projects and other active learning experiences.</p>
             </div>
 
             <!-- Footer buttons -->
@@ -108,7 +108,7 @@
       <div class="card ">
         <div class="card-body" align="center">
           <h2 class="cardtop">J2A</h2>
-          <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
+          <img src="images/Ministries/acolytes-redrobes.jpg" class="img-fluid" alt=" photo" title="">
           <p>Journey to adulthood continues religious education and outreach opportunities for high school students. As part of their education in what it means to be Christian, teenagers in the confirmation class participate in monthly projects to learn about the broader needs of our community, from serving the poor to helping the environment.</p>
         </div>
 
@@ -276,7 +276,7 @@
         <div class="card">
           <div class="card-body" align="center">
             <h2 class="cardtop">St. Paul's Men's Homeless Shelter</h2>
-            <img src="images/Ministries/stpauls-cooking2.JPG" class="img-fluid" alt=" photo" title="">
+            <img src="images/Ministries/stpauls-cooking2.JPG?k=<?php echo $thekeys; ?>" class="img-fluid" alt=" photo" title="">
             <p>On the second Monday of each month, Christ Church provides a meal for up to 40 homeless men at St. Paul’s Mens’ Shelter. Families, church committees, and ad hoc groups come together in the church kitchen to prepare the meal in advance; others reheat or deliver and serve the meals.</p>
           </div>
           <!-- Footer buttons -->
