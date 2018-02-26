@@ -33,9 +33,7 @@
          </li>
         </ul>
         <form class="form-inline mt-2 mt-md-0">
-            <a href=https://goo.gl/ap2mQM target=_blank title="Donate to Christ Church Ridgewood" alt="donate, button, church"><button type="button" class="btn btn-outline-light">Donate</button></a> &nbsp; &nbsp;
-            <a href="https://www.facebook.com/ChristEpiscopalChurchRidgewood/" target=_blank><img src="images/facebooklogo.png" height=33px alt="" style="padding-top: 0; padding-bottom: 0;"></a>&nbsp; &nbsp;
-            <!-- <a href="<img src="images/twitterlogo.png" height=35px alt=""> -->
+            <a href=https://goo.gl/ap2mQM target=_blank title="Donate to Christ Church Ridgewood" alt="donate, button, church"><button type="button" class="btn btn-light" style="font-weight: bold; color: #113056;">Donate</button></a> &nbsp; &nbsp;
         </form>
       </div>
     </nav>
@@ -43,6 +41,6 @@
 <img src="images/CCR_masthead_lent.jpg?k=<?php echo $thekeys; ?>" class="img-fluid" style="padding-top: 0; padding-bottom: 0;">    
 
     <div class="row">
-        <div class="col white address text-center">105 Cottage Place, Ridgewood, NJ &nbsp;|&nbsp; (201) 652-2350</div>
+        <div class="col white address text-center">105 Cottage Place, Ridgewood, NJ &nbsp;|&nbsp; (201) 652-2350 |&nbsp;             <a href="https://www.facebook.com/ChristEpiscopalChurchRidgewood/" target=_blank><img src="images/facebooklogo.png" height=33px alt="Facebook logo" style="padding-top: 0; padding-bottom: 0;"></a>&nbsp; &nbsp;</div>
     </div>
     <br>
