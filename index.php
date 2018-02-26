@@ -34,22 +34,6 @@
 <div class="container">
 	<div class="row">
 
-		<div class="col-md-12">
-			<div class="card border">
-				<div class="card-header" align="center">
-					<h3 class="card-title" >February 25 - Annual Meeting 2018</h3>
-				</div>
-				<div class="card-body" >
-					<div class="row">
-						<div class="col" align="center">
-							<p>
-							Joint worship at 9:30 (no 8:00, Joy! or 10:00 services), followed immediately after by the 2018 annual meeting. At this time, we will elect a warden and at least one vestry member.</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-
 		<!-- Ash Wednesday and Lent -->
 		<div class="col-md-12">
 			<div class="card border">
