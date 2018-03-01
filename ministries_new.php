@@ -179,7 +179,7 @@
         <div class="card">
           <div class="card-body" align="center">
             <h2 class="cardtop">Youth African Drumming</h2>
-            <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
+            <img src="images/Ministries/drumming-group1.JPG" class="img-fluid" alt=" photo" title="">
             <p>Youth of all ages are welcome to join the African Drumming Troupe. The Youth African Drumming Troupe performs on the first Sunday of every month. This group is led by Evan Pillow directly following Sunday School on the first Sunday of the month, in one of the lower level classrooms. Bring your drum if you have one. All are welcome!</p>
           </div>
           <!-- Footer buttons -->
