@@ -123,7 +123,7 @@
       <div class="card ">
         <div class="card-body" align="center">
           <h2 class="cardtop">Younger Children</h2>
-          <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
+          <img src="images/Ministries/YoungChildren-JoyService.jpg" class="img-fluid" alt=" photo" title="">
           <p>Nursery Care (infant--age 3) professionally staffed, available from 9:30am--11:30am. YOUNG CHILDREN AND FAMILIES are always invited and welcome to join us for worship. A carpeted area has been created between the last two seats (pews) to help you feel more at home here. We also have Worship Bags for younger worshippers at the entrances to the church. Coloring books and crayons are available in the back pew (seat).</p>
         </div>
 

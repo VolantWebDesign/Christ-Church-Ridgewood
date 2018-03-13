@@ -32,13 +32,92 @@
 
 	<!-- Page Content -->
 <div class="container">
+
+		<!-- Holy Week -->
+		<div class="col-md-12">
+			<div class="card border">
+				<div class="card-header" align="center">
+					<h3 style="color: #7A2654;" class="card-title" >Holy Week and Easter</h3>
+				</div>
+				<div class="card-body" >
+					<div class="row" >
+						<div class="col-md-8">
+						<table class="table table-striped">
+							<tbody>
+							<tr>
+								<h3 style="color: #7A2654;" align="center">Holy Week</h3>
+								<th scope="row">March 25</th>
+								<td>Palm Sunday</td>
+								<td>Holy Eucharist at 8 AM, 9:15 AM JOY!, and 10 AM</td>
+							</tr>
+							<tr>
+								<th scope="row">March 26</th>
+								<td>Holy Monday</td>
+								<td>Holy Eucharist 7 PM</td>
+							</tr>
+							<tr>
+								<th scope="row">March 27</th>
+								<td>Holy Tuesday</td>
+								<td>Holy Eucharist 7 AM</td>
+							</tr>
+							<tr>
+								<th scope="row">March 28</th>
+								<td>Holy Wednesday</td>
+								<td>Holy Eucharist 7 PM</td>
+							</tr>
+							<tr>
+								<th scope="row">March 29</th>
+								<td>Maundy Thursday</td>
+								<td>A soup & salad dinner at 6:30 PM followed by the Holy Eucharist at 7:30 PM
+								<br>
+Overnight vigil in church, beginning immediately after service.</td>
+							</tr>
+							<tr>
+								<th scope="row">March 30</th>
+								<td>Good Friday</td>
+								<td>Good Friday Liturgy with Communion and Veneration of the Cross at 
+7 AM, 12 noon and <strong>two services at 7 PM</strong> - Good Friday service with music in church plus Kid friendly service at in Sunday School area.</td>
+							</tr>
+								<th scope="row">March 31</th>
+								<td>Holy Saturday</td>
+								<td>Service of the Tomb at 8 AM</td>
+							<tr>
+							</tr>
+							</tbody>
+						</table>
+						
+						</div>
+						<div class="col-md-4" align="center">
+							<h3 style="color: #7A2654;">The Great Vigil of Easter: March 31</h3>
+							<p>
+							First Service of Easter 7:30 PM 
+							<br><br>
+							Holy Eucharist and lighting of the new flame  
+							</p>
+							<hr>
+							<h3 style="color: #7A2654;">Easter Day: April 1</h3>
+							<p>
+							Holy Eucharist at 8 AM, 9:15 AM JOY!, and 10 AM
+							<br><br>
+							Easter egg hunt for children will be held after the JOY! <strong>and</strong> 10 AM services.
+							</p>
+							<div align="center">
+							<img src="images/Easter-trio.png" alt="Easter images, palm, crown of thorns, cross" class="img-fluid">
+							</div>
+						</div>
+					</div>
+				</div>	
+			</div>
+		</div>
+
+
 	<div class="row">
 
 		<!-- Ash Wednesday and Lent -->
 		<div class="col-md-12">
 			<div class="card border">
 				<div class="card-header" align="center">
-					<h3 class="card-title" >Ash Wednesday and Lent at Christ Church</h3>
+					<h3 class="card-title" >The Season of Lent at Christ Church</h3>
 				</div>
 				<div class="card-body" >
 					<div class="row">
@@ -51,8 +130,8 @@
 					</div>
 					<div class="row" >
 						<div class="col-md-6">
-							<h3 >Ash Wednesday, February 14</h3>
-							<table class="table table-striped">
+							<!-- <h3 >Ash Wednesday, February 14</h3> -->
+						<!-- <table class="table table-striped">
 							<tbody>
 							<tr>
 								<th scope="row">7:00AM</th>
@@ -75,7 +154,7 @@
 								<td>Imposition of Ashes</a></td>
 							</tr>
 							</tbody>
-						</table>
+						</table> -->
 							<hr>
 							<h5>Lenten Breakfast</h5>
 							<p>Sundays in Lent, Feb 18 - March 18, 8:45 - 10:15AM in the Great Hall, $5/adult to cover cost, <br><strong>Children eat FREE!</strong></p>
@@ -221,53 +300,9 @@
 			<div class="row">
 				<div class="col-md-12" align="center">
 					<h2 style="color:#113056">Upcoming Events</h2>
-				</div>    
+				</div>         
 
-<!-- Godspell musical -->
-				<div class="col-md-6">
-					<div class="card card-default">
-						<div class="card-body" align="center">	
-							<a><img src="images/Godspell-logo.png" alt="Youth Musical: Godspell" title="Youth Musical: Godspell" class="img-fluid"></a>
-							<br>
-							<p><strong>Performance</strong><br>
-							Sunday, March 11<br>
-							10:00AM during service </p>
 
-							<p><strong>Rehearsals</strong><br>
-							Every Sunday through March 4<br>
-							10:40 AM - 12:10 PM <br>
-							</p>
-
-							<p><strong>Dress Rehearsal</strong><br>
-							Saturday, March 10<br>
-							1:00 PM </p>
-						</div>
-						<div class="card-footer" align="center">
-							For more information, email Marlene at <a href="mailto:mwhittemore@christchurchridgewood.org">mwhittemore@christchurchridgewood.org</a>
-						</div>
-					</div>
-				</div>     
-
-<!-- African Drum Ensemble -->
-				<div class="col-md-6">
-					<div class="card card-default">
-						<div class="card-body" align="center">	
-							<a href="images/africandrummingflyer.pdf" target="_blank"><img src="images/africandrum.png" alt="Youth African Drum Ensemble" title="Youth African Drum Ensemble" class="img-fluid"></a>
-							<br>
-							<p><strong>Under the direction of Evan Pillow</strong></p>
-							<p>
-							First Sunday of Every Month<br>
-							10:45-11:15AM <br>
-							Room 3 (downstairs) following Sunday School <br>
-							All youth are welcome!
-							</p>
-						</div>
-						<div class="card-footer" align="center">
-							For more information, <a href="images/africandrummingflyer.pdf" title="Youth African Drum Ensemble" target="_blank">see this flyer</a>, see Evan or email Marlene at <a href="mailto:mwhittemore@christchurchridgewood.org">mwhittemore@christchurchridgewood.org</a>
-						</div>
-					</div>
-				</div>
-					<br>
 
 <!-- Jubilation Choir -->
 					<div class="col-md-6">
@@ -289,10 +324,28 @@
 					<br>
 				</div>
 
-<!-- SoundCloud -->
+				<!-- African Drum Ensemble -->
 				<div class="col-md-6">
+					<div class="card card-default">
+						<div class="card-body" align="center">	
+							<a href="images/africandrummingflyer.pdf" target="_blank"><img src="images/africandrum.png" alt="Youth African Drum Ensemble" title="Youth African Drum Ensemble" class="img-fluid"></a>
+							<br>
+							<p><strong>Under the direction of Evan Pillow</strong></p>
+							<p>
+							First Sunday of Every Month<br>
+							10:45-11:15AM <br>
+							Room 3 (downstairs) following Sunday School <br>
+							All youth are welcome!
+							</p>
+						</div>
+						<div class="card-footer" align="center">
+							For more information, <a href="images/africandrummingflyer.pdf" title="Youth African Drum Ensemble" target="_blank">see this flyer</a>, see Evan or email Marlene at <a href="mailto:mwhittemore@christchurchridgewood.org">mwhittemore@christchurchridgewood.org</a>
+						</div>
+					</div>
+					<!-- SoundCloud -->
 					<iframe width="100%" height="350" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/136812277&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 				</div>
+					<br>
 				<br>
 			</div>
 
