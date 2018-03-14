@@ -64,74 +64,70 @@
       <!-- Row 0 -->
       <!-- Youth Group -->
       <div class="card-deck">
-        <div class="col-md-6">
-          <div class="card">
-            <div class="card-body" align="center">
-              <h2 class="cardtop">Youth Group</h2>
-              <img src="images/Ministries/youth-group-christmasparty.JPG" class="img-fluid" alt=" photo" title="">
-              <p>Our Youth Group provides social opportunities for the youth of our parish and is open to 6th-12 graders. They participate in lock-ins, bowling parties, ski trips and so much more!</p>
-            </div>
+        <div class="card">
+          <div class="card-body" align="center">
+            <h2 class="cardtop">Youth Group</h2>
+            <img src="images/Ministries/youth-group-christmasparty.JPG" class="img-fluid" alt=" photo" title="">
+            <p>Our Youth Group provides social opportunities for the youth of our parish and is open to 6th-12 graders. They participate in lock-ins, bowling parties, ski trips and so much more!</p>
+          </div>
 
-            <!-- Footer buttons -->
-            <div align="center" class="card-footer">
-              <a href="mailto:">
-                <button type="button" class="btn  btn-outline-primary">Contact Host</button>
-              </a>
-            </div>
+          <!-- Footer buttons -->
+          <div align="center" class="card-footer">
+            <a href="mailto:klee@christchurchridgewood.org">
+              <button type="button" class="btn  btn-outline-primary">Contact Kristen Lee</button>
+            </a>
           </div>
         </div>
 
         <!-- Sunday School -->
-        <div class="col-md-6">
-          <div class="card">
-            <div class="card-body" align="center">
-              <h2 class="cardtop">Sunday School</h2>
-              <img src="images/Ministries/christmas-pageant13.JPG" class="img-fluid" alt=" photo" title="">
-              <p>Pre-K through 12th Grade classes are held Sunday mornings at 9:45 am in The Zone! -- the downstairs education wing just for children and youth. Sunday School for children in Pre-K – 9th Grade introduces children to our faith and worship through storytelling, song, prayer, craft projects and other active learning experiences.</p>
-            </div>
+        <div class="card">
+          <div class="card-body" align="center">
+            <h2 class="cardtop">Sunday School</h2>
+            <img src="images/Ministries/christmas-pageant13.JPG" class="img-fluid" alt=" photo" title="">
+            <p>Pre-K through 12th Grade classes are held Sunday mornings at 9:45 am in The Zone! -- the downstairs education wing just for children and youth. Sunday School for children in Pre-K – 9th Grade introduces children to our faith and worship through storytelling, song, prayer, craft projects and other active learning experiences.</p>
+          </div>
 
-            <!-- Footer buttons -->
-            <div align="center" class="card-footer">
-              <a href="mailto:parishadmin@christchurchridgewood.org">
-                <button type="button" class="btn  btn-outline-primary">Contact Host</button>
-              </a>
-            </div>
+          <!-- Footer buttons -->
+          <div align="center" class="card-footer">
+            <a href="mailto:klee@christchurchridgewood.org">
+              <button type="button" class="btn  btn-outline-primary">Contact Kristen Lee</button>
+            </a>
           </div>
         </div>
       </div>
-    </div>
-    <br>
-    <br>
 
-    <!-- Row 1 -->
-    <div class="card-deck">
-      <div class="card ">
-        <div class="card-body" align="center">
-          <h2 class="cardtop">J2A</h2>
-          <img src="images/Ministries/acolytes-redrobes.jpg" class="img-fluid" alt=" photo" title="">
-          <p>Journey to adulthood continues religious education and outreach opportunities for high school students. As part of their education in what it means to be Christian, teenagers in the confirmation class participate in monthly projects to learn about the broader needs of our community, from serving the poor to helping the environment.</p>
+      <!-- Row 1 -->
+      <!-- J2A -->
+      <div class="card-deck">
+        <div class="card">
+          <div class="card-body" align="center">
+            <h2 class="cardtop">J2A</h2>
+            <img src="images/Ministries/youth-group-christmasparty.JPG" class="img-fluid" alt=" photo" title="">
+            <p>Journey to adulthood continues religious education and outreach opportunities for high school students. As part of their education in what it means to be Christian, teenagers in the confirmation class participate in monthly projects to learn about the broader needs of our community, from serving the poor to helping the environment.</p>
+          </div>
+
+          <!-- Footer buttons -->
+          <div align="center" class="card-footer">
+            <a href="mailto:klee@christchurchridgewood.org">
+              <button type="button" class="btn  btn-outline-primary">Contact Kristen Lee</button>
+            </a>
+          </div>
         </div>
 
-        <!-- Footer buttons -->
-        <div align="center" class="card-footer">
-          <a href="mailto:">
-            <button type="button" class="btn  btn-outline-primary">Contact Host</button>
-          </a>
-        </div>
-      </div>
+        <!-- Little Lambs -->
+        <div class="card">
+          <div class="card-body" align="center">
+            <h2 class="cardtop">Little Lambs</h2>
+            <img src="images/Ministries/christmas-pageant13.JPG" class="img-fluid" alt=" photo" title="">
+            <p>Nursery Care (infant--age 3) professionally staffed, available from 9:30am--11:30am. YOUNG CHILDREN AND FAMILIES are always invited and welcome to join us for worship. A carpeted area has been created between the last two seats (pews) to help you feel more at home here. We also have Worship Bags for younger worshippers at the entrances to the church. Coloring books and crayons are available in the back pew (seat).</p>
+          </div>
 
-      <div class="card ">
-        <div class="card-body" align="center">
-          <h2 class="cardtop">Younger Children</h2>
-          <img src="images/Ministries/YoungChildren-JoyService.jpg" class="img-fluid" alt=" photo" title="">
-          <p>Nursery Care (infant--age 3) professionally staffed, available from 9:30am--11:30am. YOUNG CHILDREN AND FAMILIES are always invited and welcome to join us for worship. A carpeted area has been created between the last two seats (pews) to help you feel more at home here. We also have Worship Bags for younger worshippers at the entrances to the church. Coloring books and crayons are available in the back pew (seat).</p>
-        </div>
-
-        <!-- Footer buttons -->
-        <div align="center" class="card-footer">
-          <a href="mailto:">
-            <button type="button" class="btn  btn-outline-primary">Contact Host</button>
-          </a>
+          <!-- Footer buttons -->
+          <div align="center" class="card-footer">
+            <a href="mailto:klee@christchurchridgewood.org">
+              <button type="button" class="btn  btn-outline-primary">Contact Kristen Lee</button>
+            </a>
+          </div>
         </div>
       </div>
     </div>
