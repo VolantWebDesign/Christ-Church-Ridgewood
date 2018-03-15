@@ -53,17 +53,17 @@
 							<tr>
 								<th scope="row">March 26</th>
 								<td>Holy Monday</td>
-								<td>Holy Eucharist 7 PM</td>
+								<td>Holy Eucharist 7:00 PM</td>
 							</tr>
 							<tr>
 								<th scope="row">March 27</th>
 								<td>Holy Tuesday</td>
-								<td>Holy Eucharist 7 AM</td>
+								<td>Holy Eucharist 7:30 AM</td>
 							</tr>
 							<tr>
 								<th scope="row">March 28</th>
 								<td>Holy Wednesday</td>
-								<td>Holy Eucharist 7 PM</td>
+								<td>Holy Eucharist 7:30 AM</td>
 							</tr>
 							<tr>
 								<th scope="row">March 29</th>
@@ -80,7 +80,7 @@ Overnight vigil in church, beginning immediately after service.</td>
 							</tr>
 								<th scope="row">March 31</th>
 								<td>Holy Saturday</td>
-								<td>Service of the Tomb at 8 AM</td>
+								<td>Service of the Tomb at 8:00 AM</td>
 							<tr>
 							</tr>
 							</tbody>
