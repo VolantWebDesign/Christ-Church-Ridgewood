@@ -258,7 +258,7 @@
         <div class="card">
           <div class="card-body" align="center">
             <h2 class="cardtop">St. Paul's Food Pantry</h2>
-            <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
+            <img src="images/Ministries/stpauls-food-van.jpg" class="img-fluid" alt=" St Paul's food pantry" title="St Paul's food pantry">
             <p>Every food item placed in our food collection barrels fills the shelves in the St. Paul’s Food Pantry and finds its way to the home of a family that is trying to get back on its feet. The Pantry is always in need of staples, including pastas, rice, and cereals. Monetary donations are also accepted.</p>
           </div>
           <!-- Footer buttons -->
