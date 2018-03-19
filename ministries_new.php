@@ -245,12 +245,12 @@
         <div class="card">
           <div class="card-body" align="center">
             <h2 class="cardtop">The Needlers</h2>
-            <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
+            <img src="images/Ministries/needlers.jpeg" class="img-fluid" alt=" photo" title="">
             <p>Most knitting done by “The Needlers” is to benefit the Seaman’s Church Institute’s Christmas at Sea Program. Yarn is provided by the Women’s Guild of Christ Church and by anonymous do- nors. We also welcome crocheters, needlepointers and other craftspeople.</p>
           </div>
           <!-- Footer buttons -->
           <div align="center" class="card-footer">
-            <a href="mailto:sales@valtekinc.com"><button type="button" class="btn btn-outline-primary">Contact Cackie Scott</button></a>
+            <a href="mailto:Valteksales@gmail.com"><button type="button" class="btn btn-outline-primary">Contact Cackie Scott</button></a>
           </div>
         </div>
 
