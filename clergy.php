@@ -205,22 +205,17 @@
 			<div class="row">
 				<div class="col-md-2 col-sm-4 col-xs-4">
 					<div align="center">
-						<hr><img src="images/vestry/don_n.jpg" class="img-fluid rounded-circle" /><br>Don Nagle, Warden<br>
+						<hr><img src="images/vestry/lucy_d.jpg" class="img-fluid rounded-circle" /><br>Lucy DiMaulo, Warden<br>
 					</div>
 				</div>
-				<div class="col-md-2 col-sm-4 col-xs-4">
+				<div class="col-md-2 col-sm-4 col-xs-6">
 					<div align="center">
-						<hr><img src="images/vestry/lucy_d.jpg" class="img-fluid rounded-circle" /><br>Lucy DiMaulo, Warden<br>
+						<hr><img src="images/vestry/TAM.jpg?id=<?php echo $thekeys; ?>" class="img-fluid rounded-circle"/><br> Tom Martin, Warden<br>
 					</div>
 				</div>
 				<div class="col-md-2 col-sm-4 col-xs-4">
 					<div align="center">
 						<hr><img src="images/vestry/ken_c.jpg" class="img-fluid rounded-circle" /><br>Kenny Cook<br>
-					</div>
-				</div>
-				<div class="col-md-2 col-sm-4 col-xs-6">
-					<div align="center">
-						<hr><img src="images/vestry/missing.jpg" class="img-fluid rounded-circle" /><br>Tia Ivanko<br>
 					</div>
 				</div>
 				<div class="col-md-2 col-sm-4 col-xs-6">
@@ -231,6 +226,11 @@
 				<div class="col-md-2 col-sm-4 col-xs-6">
 					<div align="center">
 						<hr><img src="images/vestry/lyle.jpg" class="img-fluid rounded-circle" /><br>Lyle Hatch<br>
+					</div>
+				</div>
+				<div class="col-md-2 col-sm-4 col-xs-6">
+					<div align="center">
+						<hr><img src="images/vestry/Jeff copy.jpg" class="img-fluid rounded-circle" /><br>Jeff Hamon<br>Treasurer<br>
 					</div>
 				</div>
 			</div>
@@ -272,22 +272,22 @@
 				</div>
 				<div class="col-md-2 col-sm-4 col-xs-6">
 					<div align="center">
-						<hr><img src="images/vestry/TAM.jpg?id=<?php echo $thekeys; ?>" class="img-fluid rounded-circle"/><br><br> Tom Martin<br>
-					</div>
-				</div>
-				<div class="col-md-2 col-sm-4 col-xs-6">
-					<div align="center">
 						<hr><img src="images/vestry/jim_m.jpg" class="img-fluid rounded-circle" /><br>Jim Morgan, Finance Chair<br>
 					</div>
 				</div>
 				<div class="col-md-2 col-sm-4 col-xs-6">
 					<div align="center">
-						<hr><img src="images/vestry/Jeff copy.jpg" class="img-fluid rounded-circle" /><br>Jeff Hamon<br>Treasurer<br>
+						<hr><img src="images/vestry/missing.jpg" class="img-fluid rounded-circle" /><br>Linda Larson<br>Recording Secretary<br>
 					</div>
 				</div>
 				<div class="col-md-2 col-sm-4 col-xs-6">
 					<div align="center">
-						<hr><img src="images/vestry/missing.jpg" class="img-fluid rounded-circle" /><br>Linda Larson<br>Recording Secretary<br>
+						<hr><img src="images/vestry/missing.jpg" class="img-fluid rounded-circle" /><br>Andrew Stoddard<br>
+					</div>
+				</div>
+				<div class="col-md-2 col-sm-4 col-xs-6">
+					<div align="center">
+						<hr><img src="images/vestry/missing.jpg" class="img-fluid rounded-circle" /><br>Matt Bodino<br>
 					</div>
 				</div>
 			</div>
