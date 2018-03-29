@@ -78,7 +78,7 @@
 							<tr>
 								<th scope="row">March 29</th>
 								<td>Maundy Thursday</td>
-								<td>A soup & salad dinner at 6:30 PM followed by the Holy Eucharist at 7:30 PM
+								<td>A soup & salad dinner at 6:30 PM followed by the Holy Eucharist at 7:30 PM <a href="documents/March 29, 2018 MAUNDY THURSDAY.pdf" target="_blan">- Program -</a>
 								<br>
 Overnight vigil in church, beginning immediately after service.</td>
 							</tr>
@@ -86,7 +86,7 @@ Overnight vigil in church, beginning immediately after service.</td>
 								<th scope="row">March 30</th>
 								<td>Good Friday</td>
 								<td>Good Friday Liturgy with Communion and Veneration of the Cross at 
-7 AM, 12 noon and <strong>two services at 7 PM</strong> - Good Friday service with music in church plus Kid friendly service at in Sunday School area.</td>
+7 AM, 12 noon and <strong>two services at 7 PM</strong> - Good Friday service with music in church plus Kid friendly service at in Sunday School area. <a href="documents/March 30, 2018 GOOD FRIDAY.pdf" target="_blank">- Program -</a></td>
 							</tr>
 								<th scope="row">March 31</th>
 								<td>Holy Saturday</td>
@@ -101,6 +101,8 @@ Overnight vigil in church, beginning immediately after service.</td>
 							<h3 style="color: #7A2654;">The Great Vigil of Easter: March 31</h3>
 							<p>
 							First Service of Easter 7:30 PM 
+							<br>
+							<a href="documents/March 31, 2018 EASTER VIGIL.pdf" target="_blank">- Program -</a>
 							<br><br>
 							Holy Eucharist and lighting of the new flame  
 							</p>
@@ -108,6 +110,8 @@ Overnight vigil in church, beginning immediately after service.</td>
 							<h3 style="color: #7A2654;">Easter Day: April 1</h3>
 							<p>
 							Holy Eucharist at 8 AM, 9:15 AM JOY!, and 10 AM
+							<br>
+							<a href="documents/bulletin.pdf" target="_blank">- Program -</a>
 							<br><br>
 							Easter egg hunt for children will be held after the JOY! <strong>and</strong> 10 AM services.
 							</p>
@@ -171,9 +175,9 @@ Overnight vigil in church, beginning immediately after service.</td>
 								<tr>
 									<td>
 										<ul>
-											<li>March 18</li>
 											<li>April 15</li>
 											<li>May 20</li>
+											<li>June 17</li>
 										</ul> 
 									</td>
 								</tr>
