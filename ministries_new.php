@@ -118,8 +118,14 @@
         <div class="card">
           <div class="card-body" align="center">
             <h2 class="cardtop">Little Lambs</h2>
-            <img src="images/Ministries/YoungChildren-JoyService.jpg" class="img-fluid" alt=" photo" title="">
-            <p>Nursery Care (infant--age 3) professionally staffed, available from 9:30am--11:30am. YOUNG CHILDREN AND FAMILIES are always invited and welcome to join us for worship. A carpeted area has been created between the last two seats (pews) to help you feel more at home here. We also have Worship Bags for younger worshippers at the entrances to the church. Coloring books and crayons are available in the back pew (seat).</p>
+            <img src="images/Ministries/Joy-service.jpeg" class="img-fluid" alt="young children church service photo" title="Joy! Service for Young Children">
+            <p>
+            YOUNG CHILDREN AND FAMILIES are always invited and welcome to join us for worship. We offer a special service for young families, titled JOY! from 9:15-9:45.
+            <br><br>
+            Or, bring the kids to worship at our 10:00 service! A carpeted area with stuffed toys and coloring books can be found between the last two seats (pews) to help you feel more at home here. We also have Worship Bags for younger worshippers at the entrances to the church. 
+            <br><br>
+            Nursery Care (infant--age 3) professionally staffed, is available from 9:30am--11:30am.
+            </p>
           </div>
 
           <!-- Footer buttons -->
@@ -149,8 +155,8 @@
         <div class="card">
           <div class="card-body" align="center">
             <h2 class="cardtop">Adult Choir</h2>
-            <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
-            <p>Our Adult Choir is a volunteer group who meet on Sunday from September through June at 9:00 am and 11:30 am for rehearsal and lead worship on Sundays. Adults and youth (high school age and up) are welcome to join and share the joy of music and fellowship.</p>
+            <img src="images/Ministries/choir.jpeg" class="img-fluid" alt="choir photo" title="Choir">
+            <p>Our Adult Choir is a volunteer group who meet on Sunday from September through June at 8:30 am for rehearsal and lead worship on Sundays. Adults and youth (high school age and up) are welcome to join and share the joy of music and fellowship. Opportunities are available to perform solo arrangements.</p>
           </div>
           <!-- Footer buttons -->
           <div align="center" class="card-footer">
@@ -216,8 +222,8 @@
         <div class="card">
           <div class="card-body" align="center">
             <h2 class="cardtop">Pastoral Care</h2>
-            <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
-            <p>A shared ministry of the clergy and the laity, Pastoral Care acts as a gentle reminder of God’s compassion as we “seek and serve Christ in all persons.” They do this through cards, calls, and e- mails; a prayer chain, prayer services at nursing homes, visits to the ill and/or housebound, providing transportation and help with post-funeral receptions.</p>
+            <img src="images/Ministries/healing-ministry.jpeg" class="img-fluid" alt="pastoral care, healing prayer, photo" title="">
+            <p>A shared ministry of the clergy and the laity, Pastoral Care acts as a gentle reminder of God’s compassion as we “seek and serve Christ in all persons.” They do this through cards, calls, and e-mails; a prayer chain, prayer services at nursing homes, visits to the ill and/or housebound, providing transportation and help with post-funeral receptions.</p>
           </div>
           <!-- Footer buttons -->
           <div align="center" class="card-footer">
@@ -230,7 +236,7 @@
           <div class="card-body" align="center">
             <h2 class="cardtop">Family Promise</h2>
             <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
-            <p>Our parish hosts temporarily homeless families through Family Promise of Bergen County twice a year. Volunteers are needed to cook dinner, shop for breakfast and lunch items, and serve as evening hosts and overnight hosts. Additionally, one Saturday a month, Christ Church provides the staffing at Family Promise Family Center in Ridgewood. This “Ministry of Presence” makes it possible for homeless families to have a space to spend the afternoon when they need it. Adults and families are welcome to volunteer for this ministry.</p>
+            <p>Our parish hosts temporarily homeless families through Family Promise of Bergen County twice a year. Volunteers are needed to cook dinner, shop for breakfast and lunch items, and serve as evening hosts and overnight hosts. Additionally, one Saturday a month, Christ Church provides the staffing at Family Promise Family Center in Ridgewood. This “Ministry of Presence” makes it possible for homeless families to have a space to spend the afternoon when they need it.</p>
           </div>
           <!-- Footer buttons -->
           <div align="center" class="card-footer">
@@ -328,7 +334,7 @@
         <div class="card">
           <div class="card-body" align="center">
             <h2 class="cardtop">Parish Life & Fellowship</h2>
-            <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
+            <img src="images/Ministries/coffee-hour.jpeg" class="img-fluid" alt="coffee hour, fellowship, photo" title="Coffee Hour">
             <p>The Parish Life and Fellowship Team plans social events that welcome everyone to be a part of the Christ Episcopal Church community. Participating in these events is a great opportunity to meet new people and to get better acquainted with the people you already know. They invite all who would like to help with the planning, cooking and set-up of our events to participate. New ideas are always welcome! <br> <b>Open position!</b> Looking for a fun-loving, social, & creative individual to take charge of the Parish Life & Fellowship Ministry.</p>
           </div>
           <!-- Footer buttons -->
@@ -371,8 +377,8 @@
         <div class="card">
           <div class="card-body" align="center">
             <h2 class="cardtop">Travel Group</h2>
-            <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
-            <p>The Christ Episcopal Church Travel group is for those who enjoy international adventures. The 2017 trip will travel to Bavaria. Past trips went to Tuscany, Sicily, Ireland, Canada, and The Danube River.</p>
+            <img src="images/Ministries/travel_1.jpg" class="img-fluid" alt=" photo" title="">
+            <p>The Christ Episcopal Church Travel group is for those who enjoy international adventures. The 2017 trip traveled to Bavaria. Past trips went to Tuscany, Sicily, Ireland, Canada, and The Danube River.</p>
           </div>
           <!-- Footer buttons -->
           <div align="center" class="card-footer">
