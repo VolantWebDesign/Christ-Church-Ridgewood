@@ -156,7 +156,7 @@
           <div class="card-body" align="center">
             <h2 class="cardtop">Adult Choir</h2>
             <img src="images/Ministries/choir.jpeg" class="img-fluid" alt="choir photo" title="Choir">
-            <p>Our Adult Choir is a volunteer group who meet on Sunday from September through June at 8:30 am for rehearsal and lead worship on Sundays. Adults and youth (high school age and up) are welcome to join and share the joy of music and fellowship. Opportunities are available to perform solo arrangements.</p>
+            <p>Our Adult Choir is a volunteer group who meet on Sunday from September through June at 8:30AM for rehearsal and lead worship on Sundays. Adults and youth (high school age and up) are welcome to join and share the joy of music and fellowship. Opportunities are available to perform solo arrangements.</p>
           </div>
           <!-- Footer buttons -->
           <div align="center" class="card-footer">

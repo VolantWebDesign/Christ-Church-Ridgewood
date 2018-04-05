@@ -43,88 +43,6 @@
 	<!-- Page Content -->
 <div class="container">
 
-		<!-- Holy Week -->
-		<div class="col-md-12">
-			<div class="card border">
-				<div class="card-header" align="center">
-					<h3 style="color: #7A2654;" class="card-title" >Holy Week and Easter</h3>
-				</div>
-				<div class="card-body" >
-					<div class="row" >
-						<div class="col-md-8">
-						<table class="table table-striped">
-							<tbody>
-							<tr>
-								<h3 style="color: #7A2654;" align="center">Holy Week</h3>
-								<th scope="row">March 25</th>
-								<td>Palm Sunday</td>
-								<td>Holy Eucharist at 8 AM, 9:15 AM JOY!, and 10 AM</td>
-							</tr>
-							<tr>
-								<th scope="row">March 26</th>
-								<td>Holy Monday</td>
-								<td>Holy Eucharist 7:00 PM</td>
-							</tr>
-							<tr>
-								<th scope="row">March 27</th>
-								<td>Holy Tuesday</td>
-								<td>Holy Eucharist 7:30 AM</td>
-							</tr>
-							<tr>
-								<th scope="row">March 28</th>
-								<td>Holy Wednesday</td>
-								<td>Holy Eucharist 7:30 AM</td>
-							</tr>
-							<tr>
-								<th scope="row">March 29</th>
-								<td>Maundy Thursday</td>
-								<td>A soup & salad dinner at 6:30 PM followed by the Holy Eucharist at 7:30 PM <a href="documents/March 29, 2018 MAUNDY THURSDAY.pdf" target="_blan">- Program -</a>
-								<br>
-Overnight vigil in church, beginning immediately after service.</td>
-							</tr>
-							<tr>
-								<th scope="row">March 30</th>
-								<td>Good Friday</td>
-								<td>Good Friday Liturgy with Communion and Veneration of the Cross at 
-7 AM, 12 noon and <strong>two services at 7 PM</strong> - Good Friday service with music in church plus Kid friendly service at in Sunday School area. <a href="documents/March 30, 2018 GOOD FRIDAY.pdf" target="_blank">- Program -</a></td>
-							</tr>
-								<th scope="row">March 31</th>
-								<td>Holy Saturday</td>
-								<td>Service of the Tomb at 8:00 AM</td>
-							<tr>
-							</tr>
-							</tbody>
-						</table>
-						
-						</div>
-						<div class="col-md-4" align="center">
-							<h3 style="color: #7A2654;">The Great Vigil of Easter: March 31</h3>
-							<p>
-							First Service of Easter 7:30 PM 
-							<br>
-							<a href="documents/March 31, 2018 EASTER VIGIL.pdf" target="_blank">- Program -</a>
-							<br><br>
-							Holy Eucharist and lighting of the new flame  
-							</p>
-							<hr>
-							<h3 style="color: #7A2654;">Easter Day: April 1</h3>
-							<p>
-							Holy Eucharist at 8 AM, 9:15 AM JOY!, and 10 AM
-							<br>
-							<a href="documents/bulletin.pdf" target="_blank">- Program -</a>
-							<br><br>
-							Easter egg hunt for children will be held after the JOY! <strong>and</strong> 10 AM services.
-							</p>
-							<div align="center">
-							<img src="images/Easter-trio.png" alt="Easter images, palm, crown of thorns, cross" class="img-fluid">
-							</div>
-						</div>
-					</div>
-				</div>	
-			</div>
-		</div>
-
-
 		<div class="row">
 			<!-- Worship schedule -->
 			<div class="col-md-12">
@@ -139,12 +57,12 @@ Overnight vigil in church, beginning immediately after service.</td>
 							<table class="table table-striped ">
 								<tr>
 									<td align="right" ><strong>8:00 AM</td>
-									<td>Choir Practice (all are welcome) </td>
-								</tr>
-								<tr>
-									<td align="right" ><strong>8:00 AM</td>
 									<td>Holy Eucharist  <br>
 									<a href="documents/bulletin.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm  btn-outline-primary ">Program</a></td>
+								</tr>
+								<tr>
+									<td align="right" ><strong>8:30 AM</td>
+									<td>Choir Practice</td>
 								</tr>
 								<tr>
 									<td align="right" ><strong>9:00 AM</td>
@@ -191,6 +109,9 @@ Overnight vigil in church, beginning immediately after service.</td>
 							<div class="row">
 								<div class="col" align="center">
 									<a href="documents/insert.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Announcements</a> 
+								</div>
+								<div class="col" align="center">
+									<a href="documents/memorial-scholarship-app.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Memorial Scholarship Application</a> 
 								</div>
 							</div>
 

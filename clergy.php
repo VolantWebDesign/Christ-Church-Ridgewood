@@ -172,22 +172,6 @@
 					<div class="row">
 						<div class="col-md-4 col-sm-4 col-xs-4">
 							<div align="center">
-								<img src="images/clergy/mary.jpg" class="img-fluid rounded-circle" />
-							</div>
-						</div>
-						<div class="col-md-8">
-							<h4>Ms. Mary Fezza<br><small>Parish Administrator and Buildings Manager</small></h4>
-						</div>
-					</div>
-				</div>
-			</div>
-			<hr/>
-			<div class="row">
-
-				<div class="col-md-6">
-					<div class="row">
-						<div class="col-md-4 col-sm-4 col-xs-4">
-							<div align="center">
 								<img src="images/clergy/pawel.jpg" class="img-fluid rounded-circle" />
 							</div>
 						</div>
@@ -196,12 +180,8 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-6">
-					<div class="row">
-						
-					</div>
-				</div>
-			</div>    
+			</div>
+   
 			<hr>
 			<div class="row">
 				<h1>The Vestry<br><small><span class="text-muted">elected lay governing board</span></small></h1>
