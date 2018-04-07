@@ -9,9 +9,14 @@
 	<meta name="author" content="">
 
 	<title>Christ Church, Ridgewood New Jersey 07450</title>
+
+	<!-- CSS -->
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/modern-business.css" rel="stylesheet">
 	<link href="css/custom.css" rel="stylesheet">
+
+	<!-- JS -->
+
 
 	<!-- Custom Fonts -->
 	<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -88,7 +93,8 @@
 
 
 						<div class="col-md-6">
-							<h3>Celtic Eucharist:<div class="text-muted small"> 5:00 PM, 3rd Sunday each month <a href="documents/celtic.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn  btn-outline-primary "> Program</a></div></h3>
+							<h3>Celtic Eucharist:<div class="text-muted small"> 5:00 PM, 3rd Sunday each month <a href="documents/celtic.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn  btn-outline-primary "> Program</a></div>
+							</h3>
 							<table class="table table-striped table-sm">           
 								<tr>
 									<td>
