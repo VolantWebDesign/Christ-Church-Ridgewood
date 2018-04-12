@@ -38,7 +38,7 @@
       </div>
     </nav>
 
-<img src="images/CCR_masthead_lent.jpg?k=<?php echo $thekeys; ?>" class="img-fluid" style="padding-top: 0; padding-bottom: 0;">    
+<img src="images/slide_01.jpg?k=<?php echo $thekeys; ?>" class="img-fluid" style="padding-top: 0; padding-bottom: 0;">    
 
     <div class="row">
         <div class="col white address text-center">105 Cottage Place, Ridgewood, NJ &nbsp;|&nbsp; (201) 652-2350 |&nbsp;             <a href="https://www.facebook.com/ChristEpiscopalChurchRidgewood/" target=_blank><img src="images/facebooklogo.png" height=33px alt="Facebook logo" style="padding-top: 0; padding-bottom: 0;"></a>&nbsp; &nbsp;</div>
