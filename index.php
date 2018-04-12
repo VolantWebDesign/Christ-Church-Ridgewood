@@ -99,7 +99,7 @@
 								<tr>
 									<td>
 										<ul>
-											<li>April 15</li>
+											<li>April 15 <strong><span class="text-danger">CANCELLED</span></strong></li>
 											<li>May 20</li>
 											<li>June 17</li>
 										</ul> 
