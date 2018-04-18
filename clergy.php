@@ -12,7 +12,7 @@
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/modern-business.css" rel="stylesheet">
 	<link href="css/custom.css" rel="stylesheet">
-	
+
 	<!-- Custom Fonts -->
 	<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
@@ -150,7 +150,7 @@
 						<div class="col-md-8">
 							<h4>Ms. Marge Singer<br><small>Emeritus Finance Secretary</small></h4>
 						</div>
-					
+
 					</div>
 				</div>
 			</div>
@@ -181,7 +181,7 @@
 					</div>
 				</div>
 			</div>
-   
+
 			<hr>
 			<div class="row">
 				<h1>The Vestry<br><small><span class="text-muted">elected lay governing board</span></small></h1>
@@ -272,12 +272,12 @@
 				</div>
 				<div class="col-md-2 col-sm-4 col-xs-6">
 					<div align="center">
-						<hr><img src="images/vestry/missing.jpg" class="img-fluid rounded-circle" /><br>Andrew Stoddard<br>
+						<hr><img src="images/vestry/andrew_s.jpg" class="img-fluid rounded-circle" /><br>Andrew Stoddard<br>
 					</div>
 				</div>
 				<div class="col-md-2 col-sm-4 col-xs-6">
 					<div align="center">
-						<hr><img src="images/vestry/missing.jpg" class="img-fluid rounded-circle" /><br>Matt Bodino<br>
+						<hr><img src="images/vestry/matt_b.jpg" class="img-fluid rounded-circle" /><br>Matt Bodino<br>
 					</div>
 				</div>
 			</div>
