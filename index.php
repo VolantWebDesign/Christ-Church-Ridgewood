@@ -22,7 +22,7 @@
 	<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 	<script src='https://www.google.com/recaptcha/api.js' async defer></script>
 	<link href="https://fonts.googleapis.com/css?family=Spectral+SC:400,500,600,700" rel="stylesheet">
-	
+
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-105226374-6"></script>
 <script>
@@ -95,14 +95,14 @@
 						<div class="col-md-6">
 							<h3>Celtic Eucharist:<div class="text-muted small"> 5:00 PM, 3rd Sunday each month <a href="documents/celtic.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn  btn-outline-primary "> Program</a></div>
 							</h3>
-							<table class="table table-striped table-sm">           
+							<table class="table table-striped table-sm">
 								<tr>
 									<td>
 										<ul>
-											<li>April 15 <strong><span class="text-danger">CANCELLED</span></strong></li>
 											<li>May 20</li>
 											<li>June 17</li>
-										</ul> 
+											<li>July 15</li>
+										</ul>
 									</td>
 								</tr>
 							</table>
@@ -114,10 +114,10 @@
 							<hr>
 							<div class="row">
 								<div class="col" align="center">
-									<a href="documents/insert.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Announcements</a> 
+									<a href="documents/insert.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Announcements</a>
 								</div>
 								<div class="col" align="center">
-									<a href="documents/memorial-scholarship-app.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Memorial Scholarship Application</a> 
+									<a href="documents/memorial-scholarship-app.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Memorial Scholarship Application</a>
 								</div>
 							</div>
 
@@ -131,7 +131,7 @@
 <br>
 
 
-		
+
 <!-- Stewardship -->
 <div class="row">
 
@@ -146,8 +146,8 @@
 								<h4>From the Stewardship Committee</h4>
 								<p>We are so grateful for your faithful membership at Christ Church; your generosity truly sustains our ministry together.</p>
 
-								<p> 
-								Parishioners should by now have received an Annual Giving packet. You will find <strong>two forms</strong> to return – a <strong>blue pledge card</strong> for financial resources and a <strong>yellow time and talent form</strong> listing our various ministries.  We hope that this year’s new time and talent form both inspires and invites you to share your gifts and time with our community and the broader community. In the spirit of living generously, we encourage you to branch out from your current volunteer positions and consider learning about a new ministry.  Please check off as many ministries as you have interest and a coordinator will be in touch to provide information. 
+								<p>
+								Parishioners should by now have received an Annual Giving packet. You will find <strong>two forms</strong> to return – a <strong>blue pledge card</strong> for financial resources and a <strong>yellow time and talent form</strong> listing our various ministries.  We hope that this year’s new time and talent form both inspires and invites you to share your gifts and time with our community and the broader community. In the spirit of living generously, we encourage you to branch out from your current volunteer positions and consider learning about a new ministry.  Please check off as many ministries as you have interest and a coordinator will be in touch to provide information.
 								</p>
 							</div>
 							<div class="col-md-6" align="center">
@@ -161,11 +161,11 @@
 								<p>Please feel free to contact either <a href="mailto:deanna.najork@gmail.com"> Deanna Najork</a>, or <a href="mailto:Trevor.Thangalan@bmwna.com">Trevor Thangalan</a>, with any questions.  Thank you again!</p>
 							</div>
 						</div>
-					</div>	
+					</div>
 					<div class="card-footer" align="center">
-								<a href="documents/StewardshipTimeTalent2018.pdf" target="_blank" class="btn btn-outline-primary" >Time and Talents Form</a> 
-								<a href="documents/StewardshipFAQ2018.pdf" target="_blank" class="btn btn-outline-primary" >FAQ About Giving</a> 
-								<a href="https://goo.gl/forms/cqKeCekNA9wMSbhs2" target="_blank" class="btn btn-primary" >Pledge Online Now</a> 
+								<a href="documents/StewardshipTimeTalent2018.pdf" target="_blank" class="btn btn-outline-primary" >Time and Talents Form</a>
+								<a href="documents/StewardshipFAQ2018.pdf" target="_blank" class="btn btn-outline-primary" >FAQ About Giving</a>
+								<a href="https://goo.gl/forms/cqKeCekNA9wMSbhs2" target="_blank" class="btn btn-primary" >Pledge Online Now</a>
 						</div>
 				</div>
 			</div>
@@ -175,14 +175,14 @@
 			<div class="row">
 				<div class="col-md-12" align="center">
 					<h2 style="color:#113056">Upcoming Events</h2>
-				</div>         
+				</div>
 
 
 
 <!-- Jubilation Choir -->
 					<div class="col-md-6">
 					<div class="card card-default">
-						<div class="card-body" align="center">	
+						<div class="card-body" align="center">
 							<a href="images/JubilationChoirPoster.pdf" target="_blank"><img src="images/jubilationchoir.jpg" alt="Jubilation Choir" title="Jubilation Choir" class="img-fluid"></a>
 							<br>
 							<p><strong>Under the direction of Marlene Whittemore</strong></p>
@@ -202,7 +202,7 @@
 				<!-- African Drum Ensemble -->
 				<div class="col-md-6">
 					<div class="card card-default">
-						<div class="card-body" align="center">	
+						<div class="card-body" align="center">
 							<a href="images/africandrummingflyer.pdf" target="_blank"><img src="images/africandrum.png" alt="Youth African Drum Ensemble" title="Youth African Drum Ensemble" class="img-fluid"></a>
 							<br>
 							<p><strong>Under the direction of Evan Pillow</strong></p>
@@ -244,7 +244,7 @@
 								<tr><td align="right">Sometimes He calms the storm</td><td><audio src="media/11_Sometimes_He_calms_the_storm.mp3" controls></audio></td></tr>
 								<tr><td align="right">I'm standing under a rainbow</td><td><audio src="media/13_Im_Standing_under_a_Rainbow.mp3" controls></audio></td></tr>
 							</table>
-						</div>    
+						</div>
 					</div>
 				</div>
 			</div>

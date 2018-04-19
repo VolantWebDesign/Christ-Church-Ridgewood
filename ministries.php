@@ -97,13 +97,13 @@
       </div>
 
       <!-- Row 1 -->
-      <!-- J2A -->
+      <!-- Confirmation for Teens -->
       <div class="card-deck">
         <div class="card">
           <div class="card-body" align="center">
-            <h2 class="cardtop">J2A</h2>
+            <h2 class="cardtop">Confirmation for Teens</h2>
             <img src="images/Ministries/acolytes-redrobes.jpg" class="img-fluid" alt=" photo" title="">
-            <p>Journey to adulthood continues religious education and outreach opportunities for high school students. As part of their education in what it means to be Christian, teenagers in the confirmation class participate in monthly projects to learn about the broader needs of our community, from serving the poor to helping the environment.</p>
+            <p>Journey to Adulthood (J2A) continues religious education and outreach opportunities for high school students. As part of their education in what it means to be Christian, teenagers in the confirmation class participate in monthly projects to learn about the broader needs of our community, from serving the poor to helping the environment.</p>
           </div>
 
           <!-- Footer buttons -->
@@ -114,10 +114,10 @@
           </div>
         </div>
 
-        <!-- Little Lambs -->
+        <!-- Young Children -->
         <div class="card">
           <div class="card-body" align="center">
-            <h2 class="cardtop">Little Lambs</h2>
+            <h2 class="cardtop">Young Children</h2>
             <img src="images/Ministries/Joy-service.jpeg" class="img-fluid" alt="young children church service photo" title="Joy! Service for Young Children">
             <p>
               YOUNG CHILDREN AND FAMILIES are always invited and welcome to join us for worship. We offer a special service for young families, titled JOY! from 9:15-9:45.
@@ -176,8 +176,22 @@
             <a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore</button></a>
           </div>
         </div>
+      </div>
 
-        <!-- Youth African Drumming -->
+      <!-- Annual Youth Musical -->
+      <div class="card-deck">
+        <div class="card">
+          <div class="card-body" align="center">
+            <h2 class="cardtop">Annual Youth Musical</h2>
+            <img src="images/Ministries/youth-musical.jpeg" class="img-fluid" alt=" photo" title="">
+            <p>Past performances have included Joseph and the Amazing Technicolor Dreamcoat, Children of Eden, and, in 2016, Jesus Christ Superstar. These performances fill the nave and bring our parish community – plus performers' friends and relatives together.</p>
+          </div>
+          <!-- Footer buttons -->
+          <div align="center" class="card-footer">
+            <a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore</button></a>
+          </div>
+        </div>
+
         <div class="card">
           <div class="card-body" align="center">
             <h2 class="cardtop">Youth African Drumming</h2>
@@ -204,21 +218,8 @@
       </div>
 
       <!-- Row 3 -->
-      <!-- Charlotte's Angels -->
+      <!-- Pastoral Care -->
       <div class="card-deck">
-        <div class="card">
-          <div class="card-body" align="center">
-            <h2 class="cardtop">Charlotte's Angels</h2>
-            <img src="images/Ministries/charlotte.jpg" class="img-fluid" alt=" photo" title="">
-            <p>Charlotte’s Angels are a multi-generational group of parishioners that raise funds and participate in the American Diabetes Walk to help fund diabetes research and education. This year’s walk is Sunday, September 24th and will be held in Ridgewood, NJ.</p>
-          </div>
-          <!-- Footer buttons -->
-          <div align="center" class="card-footer">
-            <a href="mailto:charlottemae996@gmail.com"><button type="button" class="btn btn-outline-primary">Contact Charlotte Pillow</button></a>
-          </div>
-        </div>
-
-        <!-- Pastoral Care -->
         <div class="card">
           <div class="card-body" align="center">
             <h2 class="cardtop">Pastoral Care</h2>
@@ -235,7 +236,7 @@
         <div class="card">
           <div class="card-body" align="center">
             <h2 class="cardtop">Family Promise</h2>
-            <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
+            <img src="images/Ministries/family-promise-logo.jpg" class="img-fluid" alt=" photo" title="">
             <p>Our parish hosts temporarily homeless families through Family Promise of Bergen County twice a year. Volunteers are needed to cook dinner, shop for breakfast and lunch items, and serve as evening hosts and overnight hosts. Additionally, one Saturday a month, Christ Church provides the staffing at Family Promise Family Center in Ridgewood. This “Ministry of Presence” makes it possible for homeless families to have a space to spend the afternoon when they need it.</p>
           </div>
           <!-- Footer buttons -->
@@ -407,7 +408,7 @@
   $('.carousel').carousel({
     interval: 5000 //changes the speed
   })
-  </script>
+</script>
 
 </body>
 
