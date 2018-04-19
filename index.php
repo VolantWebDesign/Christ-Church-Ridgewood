@@ -42,11 +42,34 @@
 </head>
 
 <body>
-	<?php $thekeys=time(); ?>
-	<?php include "navigation.php"; ?>
+	<?php 
+	$thekeys=time(); 
+	$current = 'index.php';
+	include "navigation.php"; 
+	?>
 
 	<!-- Page Content -->
 <div class="container">
+
+		<!-- Happy Holiday -->
+		<div class="row">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-body">
+						<div class="row">
+							<div class="col-md-6"><img src="images/easter-cross-frontdoor.jpg" alt="Easter, cross, flowers, Christ Church Ridgewood NJ" class="img-fluid"></div>
+							<div class="col-md-6 vCenter" align="center">
+							<h2>Happy Easter!</h2>
+							<br>
+							<h5>From Everyone at Christ Episcopal Church</h5>
+							<br>
+							<h5 class="font-italic">"Alleluia! Christ is Risen!"</h5>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 
 		<div class="row">
 			<!-- Worship schedule -->
