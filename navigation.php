@@ -19,10 +19,10 @@
 
       <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav mr-auto">
-          <li class="nav-item">
+          <li class="nav-item <?php if($current == 'worship.php') {echo 'active';} ?>">
           <a href="worship.php" class="nav-link">Worship & Calendar</a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item <?php if($current == 'ministries') {echo 'active';} ?>">
           <a href="ministries.php" class="nav-link">Ministries</a>
           </li>
           <li class="nav-item">

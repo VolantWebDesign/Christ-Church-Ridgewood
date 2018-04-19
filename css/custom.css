@@ -16,6 +16,10 @@ p {
   font-family: 'Spectral SC', serif;
 }
 
+.vCenter {
+  padding: 100px 0;
+}
+
 h2 {
   padding-bottom: 8px;
 }
