@@ -13,7 +13,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/modern-business.css" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet">
-    
+
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
@@ -37,7 +37,11 @@
 </head>
 
 <body>
-<?php include "navigation.php" ?>
+  <?php
+	$thekeys=time();
+	$current = 'faq';
+	include "navigation.php";
+	?>
 
     <!-- Page Content -->
     <div class="container">
@@ -46,7 +50,7 @@
             <h1>Christ Church Ridgewood NJ Frequently Asked Questions</h1>
         </div>
             <!-- <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true"> -->
-          
+
           <!-- <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="q01">
               <h4 class="panel-title">
@@ -63,7 +67,7 @@
                  Ridgewood, New Jersey 07450<br>
                  (201) 652-2350<br>
                  In Northern New Jersey in the Bergen and Passaic County area.<br>
-                 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3581.92052076246!2d-74.1143684867126!3d40.98095254942934!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x269aa5ff4c0555d7!2sChrist+Church!5e0!3m2!1sen!2sus!4v1445346667866" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe> 
+                 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3581.92052076246!2d-74.1143684867126!3d40.98095254942934!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x269aa5ff4c0555d7!2sChrist+Church!5e0!3m2!1sen!2sus!4v1445346667866" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
               </div>
             </div>
           </div> -->
@@ -85,7 +89,7 @@
                  Ridgewood, New Jersey 07450<br>
                  (201) 652-2350<br>
                  In Northern New Jersey in the Bergen and Passaic County area.<br>
-                 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3581.92052076246!2d-74.1143684867126!3d40.98095254942934!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x269aa5ff4c0555d7!2sChrist+Church!5e0!3m2!1sen!2sus!4v1445346667866" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe> 
+                 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3581.92052076246!2d-74.1143684867126!3d40.98095254942934!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x269aa5ff4c0555d7!2sChrist+Church!5e0!3m2!1sen!2sus!4v1445346667866" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
               </div>
             </div>
           </div>
@@ -100,7 +104,7 @@
             </div>
             <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion">
             <div class="card-body">
-                 <p>A Christian community, compelled by the love of God, it is our mission to worship, grow, serve, and give. Our members are young and old, rich and poor, gay and straight, black and white, Democrat and Republican (and independent). Many of us go out of our way to attend Christ Church. We come from more than 25 cities and towns across North Jersey. We come from a range of religious backgrounds; more than 2/3rds became Episcopalians as adults and many were raised as Roman Catholics.</p>  
+                 <p>A Christian community, compelled by the love of God, it is our mission to worship, grow, serve, and give. Our members are young and old, rich and poor, gay and straight, black and white, Democrat and Republican (and independent). Many of us go out of our way to attend Christ Church. We come from more than 25 cities and towns across North Jersey. We come from a range of religious backgrounds; more than 2/3rds became Episcopalians as adults and many were raised as Roman Catholics.</p>
               </div>
             </div>
           </div>
@@ -115,7 +119,7 @@
             </div>
             <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion">
             <div class="card-body">
-                <p>All who wish to can participate in our community in any way you find of interest. You are welcome to come to one, some or all church events. If you are interested in learning about our services, beliefs and what we do, you are invited to come to any event that is of interest. If you have an interest in one of our groups but choose not to attend worship services you are welcome to attend. We have members of groups that are not parishioners.</p> 
+                <p>All who wish to can participate in our community in any way you find of interest. You are welcome to come to one, some or all church events. If you are interested in learning about our services, beliefs and what we do, you are invited to come to any event that is of interest. If you have an interest in one of our groups but choose not to attend worship services you are welcome to attend. We have members of groups that are not parishioners.</p>
               </div>
             </div>
           </div>
@@ -130,7 +134,7 @@
             </div>
             <div id="collapseFour" class="collapse" role="tabpanel" aria-labelledby="headingFour" data-parent="#accordion">
             <div class="card-body">
-                <p>We believe our activities and the opportunity to share our interests and practices with you can be enriching and beneficial to our members and to you.</p> 
+                <p>We believe our activities and the opportunity to share our interests and practices with you can be enriching and beneficial to our members and to you.</p>
               </div>
             </div>
           </div>
@@ -199,14 +203,14 @@
           <div class="card-header" role="tab" id="headingNine">
             <h4 class="mb-0">
             <a data-toggle="collapse" href="#collapseNine" aria-expanded="true" aria-controls="collapseNine">
-                  What Services/Worship/Prayers are offered at Christ Church? 
+                  What Services/Worship/Prayers are offered at Christ Church?
                 </a>
               </h4>
             </div>
             <div id="collapseNine" class="collapse" role="tabpanel" aria-labelledby="headingNine" data-parent="#accordion">
             <div class="card-body">
                 <p>They are recognizably similar to those of other Christian denominations.</p>
-                <p>The Eucharist is the primary weekly worship service.Mass/Eucharist–Celebrated at several times on Sunday and on Wednesdays as well as other occasions.  This is the sharing of a sacred meal of bread and wine in remembrance that Christ died for us. The order of service can be found in the Book of Common Prayer ( Red Book) or in service leaflets distributed to everyone. 
+                <p>The Eucharist is the primary weekly worship service.Mass/Eucharist–Celebrated at several times on Sunday and on Wednesdays as well as other occasions.  This is the sharing of a sacred meal of bread and wine in remembrance that Christ died for us. The order of service can be found in the Book of Common Prayer ( Red Book) or in service leaflets distributed to everyone.
                 <p>The Eucharist/Mass includes recognizable elements for those who have belonged to other Christian denominations. It starts with a reading from the Old Testament [The Jewish Bible] and a psalm from the same source; then a reading from the New Testament [the Christian Bible] and then a reading from the Gospel, or quotes attributed to Jesus.  We say The Lord's Prayer, we greet one another with a wish for Peace, we ask God for forgiveness for our sins, we eat the bread and wine and then we thank God for all his blessings.</p>
                 <p>Much of our Mass will be familiar to those who have attended Catholic services. If you are or were a Roman Catholic you will find similarities with many Episcopal beliefs and practices have common roots with the Roman Catholic Church. A major difference with Roman Catholicism is that the Episcopal Church is more democratic, governed by its Bishops and church members participating in Diocesan Conventions. They establish general guidelines among divergent opinions while maintaining common core beliefs. Episcopalians allow variances and understand human doubts without limiting us to one central authority to define and restrict permitted opinions.  See Book of Common Prayer.</p>
                 <ul>
@@ -257,7 +261,7 @@
                             <td colspan="2"><div align="center"><strong>Nursery Care: 9:30am-11:30am</strong></div></td>
                         </tr>
                     </table>
-                    <h4>Celtic Eucharist: 5:00 PM, 3rd Sunday each month</h3>                        
+                    <h4>Celtic Eucharist: 5:00 PM, 3rd Sunday each month</h3>
                     <table class="table table-condensed">
                         <tr>
                             <td><h4>Monday</h4><strong>7:00 AM</strong><br>Morning Prayer</td>
@@ -268,7 +272,7 @@
               </div>
             </div>
           </div>
-          
+
           <div class="card">
           <div class="card-header" role="tab" id="headingEleven">
             <h4 class="mb-0">
@@ -357,7 +361,7 @@
                     <li>Mission trip to Kentucky.</li>
                     <li>Step out walk to stop diabetes Charlottes Angels September 25, 2016</li>
                     <li>Covenant House "Sleep Out" - in partnership with Interfaith Religious Leaders in Ridgewood host a Sleep out event to benefit Covenant Housse grades 8 tp 12, Saturday and Sunday September 17 & 16 at Veterans field next to Ridgewood Library.</li>
-                    <li>A highlight of the year is the spring youth musical. Past 
+                    <li>A highlight of the year is the spring youth musical. Past
                     performances have included Joseph and the Amazing Technicolor Dreamcoat, Children of Eden, and, in 2016, Jesus Christ Superstar. These performances fill the nave and bring our parish community – plus performers' friends and relatives together.</li>
                 </ul>
               </div>
@@ -429,7 +433,7 @@
             </div>
             <div id="collapseEighteen" class="collapse" role="tabpanel" aria-labelledby="headingEighteen" data-parent="#accordion">
             <div class="card-body">
-                <p><strong>Sunday</strong> - infant to age 4-5 (although some older children do attend) JOY! Mass 9:15 AM Eucharist for children designed for families with young children. The service incorporates music, movement, and Bible stories with a children's sermon. The children learn how to pray, share, and receive Communion.</p> <!-- Sunday school --> 
+                <p><strong>Sunday</strong> - infant to age 4-5 (although some older children do attend) JOY! Mass 9:15 AM Eucharist for children designed for families with young children. The service incorporates music, movement, and Bible stories with a children's sermon. The children learn how to pray, share, and receive Communion.</p> <!-- Sunday school -->
                 <p><strong>Summer Sunday School</strong> - 4 years old to 5th grade. Separate lessons during 10 AM service.</p>
                 <p><strong>Musical theater Vacation Bible School</strong></p>
                 <p><i>See also Young Adult.</i></p>
@@ -447,7 +451,7 @@
             </div>
             <div id="collapseNineteen" class="collapse" role="tabpanel" aria-labelledby="headingNineteen" data-parent="#accordion">
             <div class="card-body">
-                The Vestry of Christ Episcopal Church the Vestry leads the parish in setting policies and goals, maintaining the buildings, and raising financial support for the mission of the parish.. The Rector is chairman of the Vestry. Wardens, elected for up to three consecutive two-year terms, are the lay chairs of the Vestry. Members are elected for up to two consecutive three-year terms. Governed by national and diocesan canon law, New Jersey State Religious Corporation law, and our own by-laws. 
+                The Vestry of Christ Episcopal Church the Vestry leads the parish in setting policies and goals, maintaining the buildings, and raising financial support for the mission of the parish.. The Rector is chairman of the Vestry. Wardens, elected for up to three consecutive two-year terms, are the lay chairs of the Vestry. Members are elected for up to two consecutive three-year terms. Governed by national and diocesan canon law, New Jersey State Religious Corporation law, and our own by-laws.
               </div>
             </div>
           </div>
@@ -473,7 +477,7 @@
           <div class="card-header" role="tab" id="headingTwentyone">
             <h4 class="mb-0">
             <a data-toggle="collapse" href="#collapseTwentyone" aria-expanded="true" aria-controls="collapseTwentyone">
-                 Music and Choir 
+                 Music and Choir
                 </a>
               </h4>
             </div>
@@ -502,7 +506,7 @@
                     <li>Ushers</li>
                     <li>Greeters</li>
                     <li>Adult Choir</li>
-                    <li>The Altar Guild and the Perennials flower group prepare the church for Sunday services.</li> 
+                    <li>The Altar Guild and the Perennials flower group prepare the church for Sunday services.</li>
                     <li>The Nursing Home Ministry brings communion and comfort on that day to those who can't make it to church.</li>
                 </ul>
               </div>
@@ -526,7 +530,7 @@
                         <li>Mary Fezza, Parish Administrator<br>
                             c/o Christ Church <br>
                             105 Cottage Place <br>
-                            Ridgewood, NJ 07450  <br> 
+                            Ridgewood, NJ 07450  <br>
                             Atlantic Stewardship Form
                         </li>
                     </ul>
@@ -553,7 +557,7 @@
                 <p><strong>Two Christmas Eve services</strong>, one in the late afternoon with a children's Christmas pageant, and a late evening candlelight service of lessons and carols, followed by a midnight Eucharist. </p>
                 <p><strong>Ash Wednesday: </strong>Several services with the imposition of ashes. </p>
                 <p><strong>Maundy Thursday:</strong> An evening Seder and Eucharist in the Great Hall, followed by the stripping and washing of the altar in the church Maundy Thursday Vigil from the end of Thursday evening's service until the first Good Friday liturgy at 7 a.m.</p>
-                <p><strong>Easter:</strong> An Easter Vigil has been revived in the past few years. The day is with filled with joy and celebration, including an Easter Egg Scavenger Hunt for children.</p> 
+                <p><strong>Easter:</strong> An Easter Vigil has been revived in the past few years. The day is with filled with joy and celebration, including an Easter Egg Scavenger Hunt for children.</p>
               </div>
             </div>
           </div>

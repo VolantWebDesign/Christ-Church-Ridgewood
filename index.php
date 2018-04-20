@@ -42,10 +42,9 @@
 </head>
 
 <body>
-	<?php 
-	$thekeys=time(); 
-	$current = 'index.php';
-	include "navigation.php"; 
+	<?php
+	$thekeys=time();
+	include "navigation.php";
 	?>
 
 	<!-- Page Content -->
