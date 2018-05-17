@@ -35,8 +35,11 @@
 	</head>
 
 	<body>
-		<?php include "navigation.php" ?>
-		<?php $thekeys=time(); ?>
+		<?php
+		$thekeys=time();
+		$current = 'clergy';
+		include "navigation.php";
+		?>
 
 		<div class="container">
 			<h1>Clergy & Staff</h1>
