@@ -19,19 +19,19 @@
 
       <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav mr-auto">
-          <li class="nav-item <?php if($current == 'worship.php') {echo 'active';} ?>">
+          <li class="nav-item <?php if($current == 'worship') {echo 'active';} ?>">
           <a href="worship.php" class="nav-link">Worship & Calendar</a>
           </li>
           <li class="nav-item <?php if($current == 'ministries') {echo 'active';} ?>">
           <a href="ministries.php" class="nav-link">Ministries</a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item <?php if($current == 'clergy') {echo 'active';} ?>">
           <a href="clergy.php" class="nav-link">Clergy & Staff</a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item <?php if($current == 'faq') {echo 'active';} ?>">
           <a href="faq.php" class="nav-link">F.A.Q.</a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item <?php if($current == 'contact') {echo 'active';} ?>">
             <a href="contact.php" class="nav-link">Contact</a>
          </li>
         </ul>
