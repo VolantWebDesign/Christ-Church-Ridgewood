@@ -154,10 +154,32 @@
 				</div>
 			</div>
 		</div>
-<br>
-<br>
 
-
+<!-- Bishop Election -->
+<div class="row">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-body">
+						<div class="row">
+							<div class="col-md-4" align="center"><img src="images/rev-hunt.png" alt="" class="img-fluid"></div>
+							<div class="col-md-8" >
+								<div  align="center">
+									<br><br>
+									<p class="invitation">Announcing the election of
+									<br>
+									<strong>The Rev. Firstname Lastname</strong>
+									<br>
+									As the XI Bishop of Newark
+									<br><br>
+									Please pray for Rev. Firstname and XX family, for Bishop Mark and Marylyn, and for our entire diocesan family as we give thanks for God's presence in the Diocese of Newark<br>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 
 <!-- Stewardship -->
 <div class="row">
