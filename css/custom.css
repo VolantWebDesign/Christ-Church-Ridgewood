@@ -19,6 +19,14 @@ p {
 .vCenter {
   padding: 100px 0;
 }
+.v-center {
+  padding: 50% 0;
+}
+@media screen and (max-width: 767px) {
+  .v-center {
+    padding: 0;
+  }
+}
 
 h2 {
   padding-bottom: 8px;
