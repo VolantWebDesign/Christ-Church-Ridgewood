@@ -333,7 +333,7 @@
         <div class="card">
           <div class="card-body" align="center">
             <h2 class="cardtop">Women at the Well</h2>
-            <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
+            <img src="images/Ministries/women-well.jpg" class="img-fluid" alt="women's ministry photo" title="Women at the Well">
             <p>This spiritual reflection group is open to all women, visitors, friends and parishioners. It meets on the 2nd Saturday of the month from 9:30-11:30 AM in the Guilds Room. Childcare is provided in the nursery. Come share in guided meditation, reflection, discussion, and creative response.</p>
           </div>
           <!-- Footer buttons -->
