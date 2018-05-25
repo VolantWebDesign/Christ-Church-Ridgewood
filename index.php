@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="">
+	<meta name="description" content="Christ Episcopal Church, Ridgewood NJ, is a joy-filled community of disciples making disciples for Jesus Christ. Check out our children's service at 9:15 Sundays!">
 	<meta name="author" content="">
 
 	<title>Christ Church, Ridgewood New Jersey 07450</title>
