@@ -15,6 +15,13 @@
 	<link href="css/modern-business.css" rel="stylesheet">
 	<link href="css/custom.css" rel="stylesheet">
 
+	<!-- Icons -->
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<meta name="theme-color" content="#3b74fb">
+
 	<!-- JS -->
 
 
@@ -171,7 +178,7 @@
 									<p class="invitation">As the XI Bishop of Newark
 									<br><br>
 									Please pray for Rev. Carlye and her family, for Bishop Mark and Marylyn, and for our entire diocesan family as we give thanks for God's presence in the Diocese of Newark<br><br>
-									Learn more about Rev. Hughes by reading her brief candidate <a href="https://dioceseofnewark.org/bishop-search/candidate-xi-bishop-rev-carlye-hughes" target="_blank">biography</a></p> 
+									Learn more about Rev. Hughes by reading her brief candidate <a href="https://dioceseofnewark.org/bishop-search/candidate-xi-bishop-rev-carlye-hughes" target="_blank">biography</a></p>
 									</p>
 								</div>
 							</div>
