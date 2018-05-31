@@ -69,43 +69,57 @@
           The Big Fish: Jonah’s Whale of a Tale
         </h4>
       </div>
-      <div class="row">
-        <div class="col-md-4"><img src="images/vestry/missing.jpg" alt="" class="img-fluid"></div>
-        <div class="col-md-4" align="center">
+    </div>
+    <div class="row">
+      <div class="col-md-4"><img src="images/VBS.jpeg" alt="" class="img-fluid"></div>
+      <div class="col-md-4" align="center">
+        <br><br><br><br>
+        <p class="paragraph-border" style="font-size:1.3em;padding:0;">
           <br>
-          <p style="font-size:1.3em;padding:0;border-style:solid;border-width:0.2em;">
-            <br>
-            <b>August 6-10</b>
-            <br>
-            9 am – 12 pm
-            <br>
-            For Ages 4 – 12
-            <br>
-            $80 per child
-            <br><br>
-          </p>
-        </div>
-        <div class="col-md-4"><img src="images/vestry/missing.jpg" alt="" class="img-fluid"></div>
-      </div>
-      <div class="row">
-        <div class="col-md-8" align="center">
+          <b>August 6-10</b>
           <br>
-          <p class="ten-padding" style="border-style:solid;border-width:0.2em;padding-left:10px;padding-right:10px;padding-top:10px;padding-bottom:10px;">
-            Come join in the fun of Musical Theatre Vacation Bible School (VBS)! We’ll learn the bible story of Jonah and the Whale and perform a creative musical told in “film noir” style, like an old-fashioned detective movie. Don’t miss this wonderful week of faith, music, drama, and art, with a performance on Friday morning.
-            <br><br>
-            Register now to secure a spot, space is limited.
-            <br><br>
-            Please pay via the PayPal link (coming soon) or write a check to the church with VBS and the names of your child(ren) in the memo line.
-            <br><br>
-            <b>Questions?</b>
-            <br>
-            Contact <a href="mailto:mwhittemore@christchurchridgewood.org?subject=VBS">Marlene Whittemore Pillow</a>
-            <br>
-            Director of Children’s & Youth Choirs
-          </p>
-        </div>
-        <div class="col-md-4"><img src="images/vestry/missing.jpg" alt="" class="img-fluid"></div>
+          9 am – 12 pm
+          <br>
+          For Ages 4 – 12
+          <br>
+          $80 per child
+          <br><br>
+        </p>
       </div>
+      <div class="col-md-4"><img src="images/VBS-kids.JPG" alt="" class="img-fluid rotate90"></div>
+    </div>
+    <br><br>
+    <div class="row">
+      <div class="col-md-8" align="center">
+        <br>
+        <p class="ten-padding paragraph-border">
+          Come join in the fun of Musical Theatre Vacation Bible School (VBS)! We’ll learn the bible story of Jonah and the Whale and perform a creative musical told in “film noir” style, like an old-fashioned detective movie. Don’t miss this wonderful week of faith, music, drama, and art, with a performance on Friday morning.
+          <br><br>
+          Register now to secure a spot, space is limited.
+          <br><br>
+          Please pay via the PayPal link (coming soon) or write a check to the church with VBS and the names of your child(ren) in the memo line.
+          <br><br>
+          <b>Questions?</b>
+          <br>
+          Contact <a href="mailto:mwhittemore@christchurchridgewood.org?subject=VBS">Marlene Whittemore Pillow</a>
+          <br>
+          Director of Children’s & Youth Choirs
+          <br><br>
+          <a href="vbs-download.php" class="btn btn-sm btn-outline-primary">Download music & lyrics</a>
+        </p>
+        <h4 style="color:#178ed1;">Our counselors</h4>
+      </div>
+      <div class="col-md-4" align="center">
+        <img src="images/VBS-kids2.JPG" alt="" class="img-fluid rotate90">
+        <br><br><br><br><br>
+        <h4 style="color:#178ed1;">Our campers</h4>
+      </div>
+    </div>
+    <br><br>
+    <div class="row">
+      <div class="col-md-4"><img src="images/VBS-camel.JPG" alt="" class="img-fluid"></div>
+      <div class="col-md-4"><img src="images/VBS-whale.JPG" alt="" class="img-fluid"></div>
+      <div class="col-md-4"><img src="images/VBS-kids3.JPG" alt="" class="img-fluid rotate90"></div>
     </div>
 
     <!-- Call to Action Section -->
@@ -128,5 +142,4 @@
   </script>
 
 </body>
-
 </html>
