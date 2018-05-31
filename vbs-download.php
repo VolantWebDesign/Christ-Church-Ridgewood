@@ -62,12 +62,12 @@
     <div class="row">
       <div class="col-md-6" align="center">
         <h3 class="page-header invitation">Lyrics</h3>
-        <a href="media/The-Big-Fish.docx" download="The Big Fish lyrics.docx" class="btn btn-lg btn-outline-primary">Download</a>
+        <a href="downloads/lyrics/The-Big-Fish.docx" download="The Big Fish lyrics.docx" class="btn btn-lg btn-outline-primary">Download</a>
+        <br><br><br>
       </div>
       <div class="col-md-6" align="center">
         <h3 class="page-header invitation">Songs</h3>
-        <a href="media/music.mp3" download="The Big Fish song1.mp3" class="btn btn-lg btn-outline-primary disabled">Download</a>
-        <p>To be Added</p>
+        <a href="downloads/music/song1.mp3" download="The Big Fish song1.mp3" class="btn btn-lg btn-outline-primary disabled">To be added</a>
       </div>
     </div>
 
