@@ -71,7 +71,7 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-md-4"><img src="images/VBS.jpeg" alt="" class="img-fluid"></div>
+      <div class="col-md-4"><img src="images/VBS.jpeg" class="img-fluid"></div>
       <div class="col-md-4" align="center">
         <br><br><br><br>
         <p class="paragraph-border" style="font-size:1.3em;padding:0;">
@@ -86,7 +86,7 @@
           <br><br>
         </p>
       </div>
-      <div class="col-md-4"><img src="images/VBS-kids.JPG" alt="" class="img-fluid rotate90"></div>
+      <div class="col-md-4"><img src="images/VBS-kids1.jpeg" class="img-fluid img-flipable"></div>
     </div>
     <br><br>
     <div class="row">
@@ -107,19 +107,18 @@
           <br><br>
           <a href="vbs-download.php" class="btn btn-sm btn-outline-primary">Download music & lyrics</a>
         </p>
-        <h4 style="color:#178ed1;">Our counselors</h4>
       </div>
       <div class="col-md-4" align="center">
-        <img src="images/VBS-kids2.JPG" alt="" class="img-fluid rotate90">
-        <br><br><br><br><br>
-        <h4 style="color:#178ed1;">Our campers</h4>
+        <img src="images/VBS-kids2.jpeg" class="img-fluid img-flipable">
+        <br><br><br><br>
+        <a href="vbs-register" class="btn btn-lg btn-outline-primary disabled">Register now (Coming soon)</a>
       </div>
     </div>
     <br><br>
     <div class="row">
-      <div class="col-md-4"><img src="images/VBS-camel.JPG" alt="" class="img-fluid"></div>
-      <div class="col-md-4"><img src="images/VBS-whale.JPG" alt="" class="img-fluid"></div>
-      <div class="col-md-4"><img src="images/VBS-kids3.JPG" alt="" class="img-fluid rotate90"></div>
+      <div class="col-md-4"><img src="images/VBS-camel.jpeg" class="img-fluid"></div>
+      <div class="col-md-4"><img src="images/VBS-whale.jpeg" class="img-fluid"></div>
+      <div class="col-md-4"><img src="images/VBS-kids3.jpeg" class="img-fluid img-flipable"></div>
     </div>
 
     <!-- Call to Action Section -->
