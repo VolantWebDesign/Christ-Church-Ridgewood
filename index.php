@@ -64,7 +64,7 @@
 					<div class="card">
 						<div class="card-body">
 							<div class="row">
-								<div class="col-md-6" align="center"><img src="images/vestry/missing.jpg" alt="" class="img-fluid"></div>
+								<div class="col-md-6" align="center"><img src="images/VBS.jpeg" alt="" class="img-fluid"></div>
 								<div class="col-md-6" >
 									<div  align="center">
 										<br>
@@ -86,7 +86,7 @@
 											<br>
 											Register now to secure a spot, space is limited.
 										</p>
-										<a href="vbs.php" class="btn btn-md btn-outline-primary">More info</a>
+										<a href="vbs.php" class="btn btn-md btn-outline-primary">Register Here</a>
 									</div>
 								</div>
 							</div>

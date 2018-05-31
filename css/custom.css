@@ -3,52 +3,52 @@ h4 {
 	color:#113056;
 }
 h1 {
-  border-bottom: 2px  solid #ccc;
-  padding-bottom: 5px;
+	border-bottom: 2px  solid #ccc;
+	padding-bottom: 5px;
 }
 
 p {
-  color:#333;
-  padding-bottom: 16px;
+	color:#333;
+	padding-bottom: 16px;
 }
 
 .invitation {
-  font-family: 'Spectral SC', serif;
+	font-family: 'Spectral SC', serif;
 }
 
 .vCenter {
-  padding: 100px 0;
+	padding: 100px 0;
 }
 .v-center {
-  padding: 50% 0;
+	padding: 50% 0;
 }
 @media screen and (max-width: 767px) {
-  .v-center {
-    padding: 0;
-  }
+	.v-center {
+		padding: 0;
+	}
 }
 
 h2 {
-  padding-bottom: 8px;
+	padding-bottom: 8px;
 }
 
 img {
-  padding-bottom: 16px;
-  padding-top: 16px;
+	padding-bottom: 16px;
+	padding-top: 16px;
 }
 
 .smaller {font-size: 70%;}
 
 .row {
-  margin-left: 0px;
-  margin-right: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
 }
 
 .btn{
-  margin-bottom: 8px;
+	margin-bottom: 8px;
 }
 /*li {
-	line-height: 70%;
+line-height: 70%;
 }*/
 
 .address {background-color: #113056; padding: 5px 0px 5px 0px;}
@@ -56,26 +56,26 @@ img {
 .dots {  border-top: 2px dashed #000;}
 
 .table td, .table th {
-  padding: .40rem;
-  vertical-align: top;
-  border-top: 1px solid #ddd;
+	padding: .40rem;
+	vertical-align: top;
+	border-top: 1px solid #ddd;
 }
 
 .rotate90 {
-  -webkit-transform: rotate(90deg);
-  -moz-transform: rotate(90deg);
-  -o-transform: rotate(90deg);
-  -ms-transform: rotate(90deg);
-  transform: rotate(90deg);
+	-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	transform: rotate(90deg);
 }
 
 .panel-heading {
-  margin-top: 1rem;
+	margin-top: 1rem;
 }
 
 .card {
-  margin-bottom: 30px;
-  box-shadow: 0px 2px 4px rgba(0,0,0,0.18);
+	margin-bottom: 30px;
+	box-shadow: 0px 2px 4px rgba(0,0,0,0.18);
 }
 
 a.anchor {
@@ -85,20 +85,32 @@ a.anchor {
 	visibility: hidden;
 }
 
-id:before { 
-  display: block; 
-  content: " "; 
-  margin-top: -50px; 
-  height: 50px; 
-  visibility: hidden; 
+id:before {
+	display: block;
+	content: " ";
+	margin-top: -50px;
+	height: 50px;
+	visibility: hidden;
 }
 
 /* nav button color */
 .btn-outline-light:hover {
-  color: #133154 !important;
-  /* background-color: #f8f9fa;
-  border-color: #f8f9fa; */
+	color: #133154 !important;
+	/* background-color: #f8f9fa;
+	border-color: #f8f9fa; */
 }
 .btn-outline-light {
-  margin-top: 10px;
+	margin-top: 10px;
+}
+
+.paragraph-border {
+	border-style: solid;
+	border-width: 0.2em;
+}
+
+.ten-padding {
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
 }
