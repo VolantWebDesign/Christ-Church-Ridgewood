@@ -15,6 +15,13 @@
 	<link href="css/modern-business.css" rel="stylesheet">
 	<link href="css/custom.css" rel="stylesheet">
 
+	<!-- Icons -->
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<meta name="theme-color" content="#3b74fb">
+
 	<!-- JS -->
 
 
@@ -50,31 +57,43 @@
 	<!-- Page Content -->
 <div class="container">
 
-<!-- Bishop Election -->
-<div class="row">
-			<div class="col-md-12">
-				<div class="card">
-					<div class="card-body">
-						<div class="row">
-							<div class="col-md-4" align="center"><img src="images/rev-hughes.png" alt="Rev. Carlye Hughes" title="The Rev. Carlye J. Hughes" class="img-fluid"></div>
-							<div class="col-md-8" >
-								<div  align="center">
-									<br><br>
-									<p class="invitation">Announcing the election of</p>
-									<h3 class="invitation"><strong>The Rev. Carlye J. Hughes</strong></h3>
-									<br>
-									<p class="invitation">As the XI Bishop of Newark
-									<br><br>
-									Please pray for Rev. Carlye and her family, for Bishop Mark and Marylyn, and for our entire diocesan family as we give thanks for God's presence in the Diocese of Newark<br><br>
-									Learn more about Rev. Hughes by reading her brief candidate <a href="https://dioceseofnewark.org/bishop-search/candidate-xi-bishop-rev-carlye-hughes" target="_blank">biography</a></p> 
-									</p>
+
+	<!-- VBS -->
+	<div class="row">
+				<div class="col-md-12">
+					<div class="card">
+						<div class="card-body">
+							<div class="row">
+								<div class="col-md-6" align="center"><img src="images/VBS.jpeg" alt="" class="img-fluid"></div>
+								<div class="col-md-6" >
+									<div  align="center">
+										<br>
+										<h2 class="invitation">Musical Theatre VBS</h2>
+										<p>
+											Join Christ Episcopal Church for
+											<br>
+									    <b style="color:#178ed1;">The Big Fish: Jonah’s Whale of a Tale</b>
+											<br><br>
+									    August 6-10
+											<br>
+									    9 am – 12 pm
+											<br>
+									    For Ages 4 – 12
+											<br>
+									    $80 per child
+											<br><br>
+									    This summer, come join in the fun of Musical Theatre Vacation Bible School (VBS)! We’ll learn the bible story of Jonah and the Whale and perform a creative musical told in “film noir” style, like an old-fashioned detective movie. Don’t miss this wonderful week of faith, music, drama, and art, with a performance on Friday morning.
+											<br>
+											Register now to secure a spot, space is limited.
+										</p>
+										<a href="vbs.php" class="btn btn-md btn-outline-primary">Register Here</a>
+									</div>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-		</div>
 
 		<div class="row">
 			<!-- Worship schedule -->
@@ -156,6 +175,31 @@
 			</div>
 		</div>
 
+<!-- Bishop Election -->
+<div class="row">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-body">
+						<div class="row">
+							<div class="col-md-4" align="center"><img src="images/rev-hughes.png" alt="Rev. Carlye Hughes" title="The Rev. Carlye J. Hughes" class="img-fluid"></div>
+							<div class="col-md-8" >
+								<div  align="center">
+									<br><br>
+									<p class="invitation">Announcing the election of</p>
+									<h3 class="invitation"><strong>The Rev. Carlye J. Hughes</strong></h3>
+									<br>
+									<p class="invitation">As the XI Bishop of Newark
+									<br><br>
+									Please pray for Rev. Carlye and her family, for Bishop Mark and Marylyn, and for our entire diocesan family as we give thanks for God's presence in the Diocese of Newark<br><br>
+									Learn more about Rev. Hughes by reading her brief candidate <a href="https://dioceseofnewark.org/bishop-search/candidate-xi-bishop-rev-carlye-hughes" target="_blank">biography</a></p> 
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>				
 
 
 <!-- Stewardship -->
