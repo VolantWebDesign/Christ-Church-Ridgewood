@@ -105,16 +105,15 @@
           <br>
           Director of Children’s & Youth Choirs
           <br><br>
-          <a href="vbs-download.php" class="btn btn-sm btn-outline-primary">Download music & lyrics</a>
+          <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#register">Register now</button>
+          <br><br>
+          <a href="vbs-download.php" class="btn btn-outline-primary btn-sm">Download music & lyrics</a>
         </p>
       </div>
       <div class="col-md-4" align="center">
         <img src="images/VBS-kids2.jpeg" id="img-flipable2" class="img-fluid">
-        <br><br><br><br>
-        <button type="button" class="btn btn-lg btn-primary" data-toggle="modal" data-target="#register">Register now</button>
       </div>
     </div>
-    <br><br>
     <div class="row">
       <div class="col-md-4"><img src="images/VBS-camel.jpeg" class="img-fluid"></div>
       <div class="col-md-4"><img src="images/VBS-whale.jpeg" class="img-fluid"></div>
@@ -137,18 +136,18 @@
             <div class="row">
               <p>To register for Musical Theatre Vacation Bible School at Christ Church Ridgewood, please click the first button. To securely pay via PayPal (no account needed), click the second button. Alternatively, you can pay by writing a check to the church with VBS and the names of your child(ren) in the memo line.</p>
               <div class="col-md-6" align="center">
-                <a href="javascript:(alert('To be added'))" class="btn btn-lg btn-outline-primary">Register</a>
+                <a href="javascript:(alert('To be added'))" class="btn btn-primary btn-lg">Register</a>
                 <br><br>
               </div>
               <div class="col-md-6" align="center">
-                <a href="javascript:(alert('To be added'))" class="btn btn-lg btn-outline-primary">Pay securely</a>
+                <a href="javascript:(alert('To be added'))" class="btn btn-primary btn-lg">Pay securely</a>
               </div>
             </div>
           </div>
 
           <!-- Modal footer -->
           <div class="modal-footer">
-            <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-outline-secondary btn-sm" data-dismiss="modal">Close</button>
           </div>
         </div>
       </div>
