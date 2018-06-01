@@ -13,6 +13,13 @@
 	<link href="css/modern-business.css" rel="stylesheet">
 	<link href="css/custom.css" rel="stylesheet">
 
+	<!-- Icons -->
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<meta name="theme-color" content="#3b74fb">
+
 	<!-- Custom Fonts -->
 	<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
@@ -100,12 +107,10 @@
 							</div>
 						</div>
 						<div class="col-md-10">
-							<h4>Ms. Marlene Pillow<br><small>Children-Youth Music and Drama Director</small></h4>
-							<p>Ms. Pillow is a highly respected music teacher in Ridgewood and a mother to two exceptional teenagers. Marlene is a professional soprano and choral conductor, holding music degress from the Eastman School of Music at Rochester University and the New England Consevatory of Music in Boston, MA.</p>
-
-							<p>Marlene offers her talents by providing music for the JOY! Mass, conducts the various children and youth choirs, producees a yearly musical, creates dramatic presentations of scripture, encourages youth to perform on Sundays, and conducts an African Drumming ensamble.</p>
-
-							<p>If you have any wish to learn more about the music program for children and youth, please contact Ms. Pillow.</p>
+							<h4>Ms. Marlene Whittemore Pillow<br><small>Children-Youth Music and Drama Director</small></h4>
+							<p>Marlene is a professional soprano and choral conductor, holding a Bachelors degree from the Eastman School of Music and a Masters degree from the New England Conservatory of Music.</p>
+							<p>Marlene offers her talents by providing music for the JOY! Family Service, and the Celtic Service as well as conducting the Jubilation Youth Choir, the Handchime Choir, and the African Drumming Ensemble. She produces a yearly musical, creates dramatic presentations of scripture, and encourages youth to perform on Sundays. Additionally, she directs the Vacation Bible School Musical every summer.</p>
+							<p>Marlene is a highly respected music teacher in the Ridgewood School System, and she has a private studio for voice and piano lessons. Marlene and her two children enjoy movies, books and music.</p>
 						</div>
 					</div>
 				</div>

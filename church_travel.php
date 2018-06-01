@@ -12,7 +12,14 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/modern-business.css" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet">
-    
+
+    <!-- Icons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <meta name="theme-color" content="#3b74fb">
+
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
@@ -42,7 +49,7 @@
             <div class="col-xs-3"><img src="images/travel_3.jpg" class="img-fluid"></div>
             <div class="col-xs-3"><img src="images/travel_4.jpg" class="img-fluid"></div>
         </div>
-        <hr>   
+        <hr>
         <div class="row">
             <div class="col-md-6">
                 <h1>Bavaria, Germany</h1>
