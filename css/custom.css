@@ -114,13 +114,3 @@ id:before {
 	padding-right: 10px;
 	padding-bottom: 10px;
 }
-
-@media screen and (min-width: 992px) {
-	.img-flipable {
-		-webkit-transform: rotate(90deg);
-		-moz-transform: rotate(90deg);
-		-o-transform: rotate(90deg);
-		-ms-transform: rotate(90deg);
-		transform: rotate(90deg);
-	}
-}
