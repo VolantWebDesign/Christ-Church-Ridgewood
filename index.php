@@ -60,33 +60,80 @@
 
 	<!-- VBS -->
 	<div class="row">
-				<div class="col-md-12">
-					<div class="card">
-						<div class="card-body">
-							<div class="row">
-								<div class="col-md-6" align="center"><img src="images/VBS.jpeg" alt="" class="img-fluid"></div>
-								<div class="col-md-6" >
-									<div  align="center">
-										<br>
-										<h2 class="invitation">Musical Theatre VBS</h2>
-										<p>
-											Join Christ Episcopal Church for
-											<br>
-									    <b style="color:#178ed1;">The Big Fish: Jonah’s Whale of a Tale</b>
-											<br><br>
-									    August 6-10
-											<br>
-									    9 am – 12 pm
-											<br>
-									    For Ages 4 – 12
-											<br>
-									    $80 per child
-											<br><br>
-									    This summer, come join in the fun of Musical Theatre Vacation Bible School (VBS)! We’ll learn the bible story of Jonah and the Whale and perform a creative musical told in “film noir” style, like an old-fashioned detective movie. Don’t miss this wonderful week of faith, music, drama, and art, with a performance on Friday morning.
-											<br>
-											Register now to secure a spot, space is limited.
-										</p>
-										<a href="vbs.php" class="btn btn-md btn-outline-primary">Register Here</a>
+		<div class="col-md-12">
+			<div class="card">
+				<div class="card-body">
+					<div class="row">
+						<div class="col-md-6" align="center"><img src="images/VBS.jpeg" alt="" class="img-fluid"></div>
+						<div class="col-md-6" >
+							<div  align="center">
+								<br>
+								<h2 class="invitation">Musical Theatre VBS</h2>
+								<p>
+									Join Christ Episcopal Church for
+									<br>
+								<b style="color:#178ed1;">The Big Fish: Jonah’s Whale of a Tale</b>
+									<br><br>
+								August 6-10
+									<br>
+								9 am – 12 pm
+									<br>
+								For Ages 4 – 12
+									<br>
+								$80 per child
+									<br><br>
+								This summer, come join in the fun of Musical Theatre Vacation Bible School (VBS)! We’ll learn the bible story of Jonah and the Whale and perform a creative musical told in “film noir” style, like an old-fashioned detective movie. Don’t miss this wonderful week of faith, music, drama, and art, with a performance on Friday morning.
+									<br>
+									Register now to secure a spot, space is limited.
+								</p>
+								<a href="vbs.php" class="btn btn-md btn-outline-primary">Register Here</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+		<!-- Carousel -->
+	<div class="row">
+		<div class="col-md-12">
+			<div class="card">
+				<div class="card-header">
+					<h4>You are welcome here</h4>
+				</div>
+				<div class="card-body">
+					<div class="row">
+						<div class="col-md-4">
+							<div class="card-body">
+								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reiciendis vel earum placeat?</p>
+								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet nobis, ut culpa. Amet neque eveniet asperiores voluptate quas eos.</p>
+								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, minus nobis dignissimos esse ipsum numquam.</p>
+							</div>
+						</div>
+						<div class="col-md-8">
+							<div id="carouselWelcome" class="carousel slide" data-ride="carousel">
+								<div class="carousel-inner">
+									<div class="carousel-item active">
+										<img class="d-block w-100" src="images/congregation8AMedit.jpg" alt="Christ Church 8AM congregation">
+										<div class="carousel-caption d-none d-md-block">
+											<h5>Worship at 8:00AM</h5>
+											<p>An intimate service for early risers</p>
+										</div>
+									</div>
+									<div class="carousel-item">
+										<img class="d-block w-100" src="images/congregation9AM.JPG" alt="Christ Church 9AM congregation">
+										<div class="carousel-caption d-none d-md-block">
+											<h5>Worship at 9:15AM</h5>
+											<p>A 30-minute service for children and young families</p>
+										</div>
+									</div>
+									<div class="carousel-item">
+										<img class="d-block w-100" src="images/congregation10AM.JPG" alt="Christ Church 10AM congregation">
+										<div class="carousel-caption d-none d-md-block">
+											<h5>Worship at 10:00AM</h5>
+											<p>Our largest service, with organ and full choir</p>
+										</div>
 									</div>
 								</div>
 							</div>
@@ -94,6 +141,8 @@
 					</div>
 				</div>
 			</div>
+		</div>				
+	</div>	
 
 		<div class="row">
 			<!-- Worship schedule -->
@@ -174,6 +223,8 @@
 				</div>
 			</div>
 		</div>
+
+
 
 <!-- Bishop Election -->
 <div class="row">

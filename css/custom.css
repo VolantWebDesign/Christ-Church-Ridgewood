@@ -114,3 +114,16 @@ id:before {
 	padding-right: 10px;
 	padding-bottom: 10px;
 }
+
+.carousel-caption {
+	top: 70px;
+	bottom: auto;
+	background: rgba(0, 0, 0, 0.25);
+	padding-bottom: 10px;
+	margin-bottom: 0px;
+}
+
+.carousel-caption p {
+	color: #fff ;
+
+}
