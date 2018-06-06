@@ -101,9 +101,11 @@
           <br><br>
           <b>Questions?</b>
           <br>
-          Contact <a href="mailto:mwhittemore@christchurchridgewood.org?subject=VBS">Marlene Whittemore Pillow</a>
+          Email Marlene Whittemore Pillow,
           <br>
-          Director of Children’s & Youth Choirs
+          Director of Youth Music Ministries
+          <br>
+          <a href="mailto:mwhittemore@christchurchridgewood.org?subject=VBS">mwhittemore@christchurchridgewood.org</a>
           <br><br>
           <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#register">Register now</button>
           <br><br>
@@ -134,13 +136,13 @@
           <!-- Modal body -->
           <div class="modal-body">
             <div class="row">
-              <p>To register for Musical Theatre Vacation Bible School at Christ Church Ridgewood, please click the first button. To securely pay via PayPal (no account needed), click the second button. Alternatively, you can pay by writing a check to the church with VBS and the names of your child(ren) in the memo line.</p>
+              <p></p>
               <div class="col-md-6" align="center">
-                <a href="javascript:(alert('To be added'))" class="btn btn-primary btn-lg">Register</a>
+                <a href="https://www.eservicepayments.com/cgi-bin/Vanco_ver3.vps?appver3=Fi1giPL8kwX_Oe1AO50jRjLzRvOOXoIt74uUxuoSTYTHO3iVYxvvxhHjRfLOeq662EvVVAEjqawDomKT1pbouYytj_EWKFXFQB5VK1JydwQ=" target="_blank" class="btn btn-primary btn-lg">Register & Pay</a>
                 <br><br>
               </div>
               <div class="col-md-6" align="center">
-                <a href="javascript:(alert('To be added'))" class="btn btn-primary btn-lg">Pay securely</a>
+                <a href="javascript:(alert('To be added'))" class="btn btn-primary btn-lg">Liability Waiver & Media Release form</a>
               </div>
             </div>
           </div>

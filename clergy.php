@@ -107,7 +107,7 @@
 							</div>
 						</div>
 						<div class="col-md-10">
-							<h4>Ms. Marlene Whittemore Pillow<br><small>Children-Youth Music and Drama Director</small></h4>
+							<h4>Ms. Marlene Whittemore Pillow<br><small>Director of Youth Music Ministries</small></h4>
 							<p>Marlene is a professional soprano and choral conductor, holding a Bachelors degree from the Eastman School of Music and a Masters degree from the New England Conservatory of Music.</p>
 							<p>Marlene shares her talents by providing music for the JOY! Family Service, and the Celtic Service as well as conducting the Jubilation Youth Choir, the Handchime Choir, and the African Drumming Ensemble. She produces a yearly musical, creates dramatic presentations of scripture, and encourages youth to perform on Sundays. Additionally, she directs the Vacation Bible School Musical every summer.</p>
 							<p>Marlene is a highly respected music teacher in the Ridgewood School System, and she has a private studio for voice and piano lessons. Marlene and her two children enjoy movies, books and music.</p>

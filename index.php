@@ -191,7 +191,7 @@
 									<p class="invitation">As the XI Bishop of Newark
 									<br><br>
 									Please pray for Rev. Carlye and her family, for Bishop Mark and Marylyn, and for our entire diocesan family as we give thanks for God's presence in the Diocese of Newark<br><br>
-									Learn more about Rev. Hughes by reading her brief candidate <a href="https://dioceseofnewark.org/bishop-search/candidate-xi-bishop-rev-carlye-hughes" target="_blank">biography</a></p> 
+									Learn more about Rev. Hughes by reading her brief candidate <a href="https://dioceseofnewark.org/bishop-search/candidate-xi-bishop-rev-carlye-hughes" target="_blank">biography</a></p>
 									</p>
 								</div>
 							</div>
@@ -199,7 +199,7 @@
 					</div>
 				</div>
 			</div>
-		</div>				
+		</div>
 
 
 <!-- Stewardship -->
@@ -241,58 +241,46 @@
 			</div>
 		</div>
 
-<!-- upcoming events and sermon audio cards -->
-			<div class="row">
-				<div class="col-md-12" align="center">
-					<h2 style="color:#113056">Upcoming Events</h2>
-				</div>
-
-
-
-<!-- Jubilation Choir -->
-					<div class="col-md-6">
-					<div class="card card-default">
-						<div class="card-body" align="center">
-							<a href="images/JubilationChoirPoster.pdf" target="_blank"><img src="images/jubilationchoir.jpg" alt="Jubilation Choir" title="Jubilation Choir" class="img-fluid"></a>
-							<br>
-							<p><strong>Under the direction of Marlene Whittemore</strong></p>
-							<p>
-							Rehearsals Sundays<br>
-							11:15AM - 12:00PM <br>
-							Open to children ages 8 through high school
-							</p>
-						</div>
-						<div class="card-footer" align="center">
-							For more information, <a href="images/JubilationChoirPoster.pdf" title="Jubilation Choir" target="_blank">see this flyer</a>, email Marlene at <a href="mailto:mwhittemore@christchurchridgewood.org">mwhittemore@christchurchridgewood.org</a>, or call 201.689.1544
-						</div>
-					</div>
-					<br>
-				</div>
-
-				<!-- African Drum Ensemble -->
-				<div class="col-md-6">
-					<div class="card card-default">
-						<div class="card-body" align="center">
-							<a href="images/africandrummingflyer.pdf" target="_blank"><img src="images/africandrum.png" alt="Youth African Drum Ensemble" title="Youth African Drum Ensemble" class="img-fluid"></a>
-							<br>
-							<p><strong>Under the direction of Evan Pillow</strong></p>
-							<p>
-							First Sunday of Every Month<br>
-							10:45-11:15AM <br>
-							Room 3 (downstairs) following Sunday School <br>
-							All youth are welcome!
-							</p>
-						</div>
-						<div class="card-footer" align="center">
-							For more information, <a href="images/africandrummingflyer.pdf" title="Youth African Drum Ensemble" target="_blank">see this flyer</a>, see Evan or email Marlene at <a href="mailto:mwhittemore@christchurchridgewood.org">mwhittemore@christchurchridgewood.org</a>
-						</div>
-					</div>
-					<!-- SoundCloud -->
-					<iframe width="100%" height="350" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/136812277&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-				</div>
-					<br>
-				<br>
+		<!-- upcoming events and sermon audio cards -->
+		<div class="row">
+			<div class="col-md-12" align="center">
+				<h2 style="color:#113056">Upcoming Events</h2>
 			</div>
+
+			<!-- Jubilation Choir -->
+			<div class="col-md-6">
+				<div class="card">
+					<div class="card-body" align="center">
+						<h2 class="cardtop">Jubilation Choir</h2>
+						<img src="images/jubilationchoir.jpg" alt="Jubilation Choir" title="Jubilation Choir" class="img-fluid">
+						<p>The Jubilation Choir is open to boys and girls 5th grade through high school. The choir performs on Youth Sundays and special services during the program year. The choir rehearses after the 10:00 am service from 11:15 to noon in the choir room. Schola Cantorum also invites those interested to learn to play our set of hand chimes and other instruments while developing musicianship skills.</p>
+					</div>
+					<!-- Footer buttons -->
+					<div align="center" class="card-footer">
+						<a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
+					</div>
+				</div>
+			</div>
+
+			<!-- Youth African Drumming -->
+			<div class="col-md-6">
+				<div class="card">
+					<div class="card-body" align="center">
+						<h2 class="cardtop">Youth African Drumming</h2>
+						<img src="images/africandrum.png" alt="Youth African Drum Ensemble" title="Youth African Drum Ensemble" class="img-fluid">
+						<p>Youth of all ages are welcome to join the African Drumming Troupe. The Youth African Drumming Troupe performs on the first Sunday of every month. This group is led by Marlene Whittemore Pillow directly following Sunday School on the first Sunday of the month, in one of the lower level classrooms. Bring your drum if you have one. All are welcome!</p>
+					</div>
+					<!-- Footer buttons -->
+					<div align="center" class="card-footer">
+						<a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
+					</div>
+				</div>
+
+				<!-- SoundCloud -->
+				<iframe width="100%" height="350" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/136812277&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+			</div>
+			<br><br>
+		</div>
 
 
 

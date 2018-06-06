@@ -192,7 +192,7 @@
           </div>
           <!-- Footer buttons -->
           <div align="center" class="card-footer">
-            <a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore</button></a>
+            <a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
           </div>
         </div>
       </div>
@@ -203,23 +203,37 @@
           <div class="card-body" align="center">
             <h2 class="cardtop">Annual Youth Musical</h2>
             <img src="images/Ministries/youth-musical.jpeg" class="img-fluid" alt=" photo" title="">
-            <p>Past performances have included Joseph and the Amazing Technicolor Dreamcoat, Children of Eden, and, in 2016, Jesus Christ Superstar. These performances fill the nave and bring our parish community – plus performers' friends and relatives together.</p>
+            <p>Past performances have included Joseph and the Amazing Technicolor Dreamcoat, Children of Eden, Jesus Christ Superstar, The Sound Of Music, and in 2018, Godspell. These performances fill the nave and bring our parish community – plus performers' friends and relatives together. Rehearsals begin in January with a performance in early March.</p>
           </div>
           <!-- Footer buttons -->
           <div align="center" class="card-footer">
-            <a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore</button></a>
+            <a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
           </div>
         </div>
 
+        <!-- Youth Handchimes -->
+        <div class="card">
+          <div class="card-body" align="center">
+            <h2 class="cardtop">Youth Handchimes</h2>
+            <img src="images/vestry/missing.jpg" class="img-fluid" alt=" St Paul's food pantry" title="St Paul's food pantry">
+            <p>More information to be added.</p>
+          </div>
+          <!-- Footer buttons -->
+          <div align="center" class="card-footer">
+            <a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
+          </div>
+        </div>
+
+        <!-- Youth African Drumming -->
         <div class="card">
           <div class="card-body" align="center">
             <h2 class="cardtop">Youth African Drumming</h2>
             <img src="images/Ministries/drumming-group1.JPG" class="img-fluid" alt=" photo" title="">
-            <p>Youth of all ages are welcome to join the African Drumming Troupe. The Youth African Drumming Troupe performs on the first Sunday of every month. This group is led by Evan Pillow directly following Sunday School on the first Sunday of the month, in one of the lower level classrooms. Bring your drum if you have one. All are welcome!</p>
+            <p>Youth of all ages are welcome to join the African Drumming Troupe. The Youth African Drumming Troupe performs on the first Sunday of every month. This group is led by Marlene Whittemore Pillow directly following Sunday School on the first Sunday of the month, in one of the lower level classrooms. Bring your drum if you have one. All are welcome!</p>
           </div>
           <!-- Footer buttons -->
           <div align="center" class="card-footer">
-            <a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore</button></a>
+            <a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
           </div>
         </div>
       </div>
