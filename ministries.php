@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="">
+  <meta name="description" content="Christ Church Ridgewood is a vibrant community, with active ministries for youth, music, outreach and fellowship.">
   <meta name="author" content="">
 
   <title>Ministries at Christ Church, Ridgewood</title>
