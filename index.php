@@ -8,7 +8,7 @@
 	<meta name="description" content="Christ Episcopal Church, Ridgewood NJ, is a joy-filled community of disciples making disciples for Jesus Christ. Check out our children's service at 9:15 Sundays!">
 	<meta name="author" content="">
 
-	<title>Christ Church, Ridgewood New Jersey 07450</title>
+	<title>Christ Episcopal Church, Ridgewood NJ</title>
 
 	<!-- CSS -->
 	<link href="css/bootstrap.min.css" rel="stylesheet">
