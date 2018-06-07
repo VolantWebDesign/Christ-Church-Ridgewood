@@ -215,7 +215,7 @@
         <div class="card">
           <div class="card-body" align="center">
             <h2 class="cardtop">Youth Handchimes</h2>
-            <img src="images/vestry/missing.jpg" class="img-fluid" alt=" St Paul's food pantry" title="St Paul's food pantry">
+            <img src="images/vestry/missing.jpg" class="img-fluid" alt="Youth Handchimes" title="Youth Handchimes">
             <p>More information coming soon.</p>
           </div>
           <!-- Footer buttons -->
