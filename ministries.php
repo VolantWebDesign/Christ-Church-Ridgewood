@@ -216,7 +216,7 @@
           <div class="card-body" align="center">
             <h2 class="cardtop">Youth Handchimes</h2>
             <img src="images/vestry/missing.jpg" class="img-fluid" alt=" St Paul's food pantry" title="St Paul's food pantry">
-            <p>More information to be added.</p>
+            <p>More information coming soon.</p>
           </div>
           <!-- Footer buttons -->
           <div align="center" class="card-footer">
