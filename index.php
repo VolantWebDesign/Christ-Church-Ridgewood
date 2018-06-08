@@ -175,32 +175,6 @@
 			</div>
 		</div>
 
-<!-- Bishop Election -->
-<div class="row">
-			<div class="col-md-12">
-				<div class="card">
-					<div class="card-body">
-						<div class="row">
-							<div class="col-md-4" align="center"><img src="images/rev-hughes.png" alt="Rev. Carlye Hughes" title="The Rev. Carlye J. Hughes" class="img-fluid"></div>
-							<div class="col-md-8" >
-								<div  align="center">
-									<br><br>
-									<p class="invitation">Announcing the election of</p>
-									<h3 class="invitation"><strong>The Rev. Carlye J. Hughes</strong></h3>
-									<br>
-									<p class="invitation">As the XI Bishop of Newark
-									<br><br>
-									Please pray for Rev. Carlye and her family, for Bishop Mark and Marylyn, and for our entire diocesan family as we give thanks for God's presence in the Diocese of Newark<br><br>
-									Learn more about Rev. Hughes by reading her brief candidate <a href="https://dioceseofnewark.org/bishop-search/candidate-xi-bishop-rev-carlye-hughes" target="_blank">biography</a></p>
-									</p>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-
 
 <!-- Stewardship -->
 <div class="row">
