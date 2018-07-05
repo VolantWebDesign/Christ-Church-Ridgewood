@@ -117,21 +117,21 @@
 									<div class="carousel-item active">
 										<img class="d-block w-100" src="images/congregation8AMedit.jpg" alt="Christ Church 8AM congregation">
 										<div class="carousel-caption d-none d-md-block">
-											<h5>Worship at 8:00AM</h5>
+											<h5>Please Join Us at 8:00AM</h5>
 											<p>An intimate service for early risers</p>
 										</div>
 									</div>
 									<div class="carousel-item">
 										<img class="d-block w-100" src="images/congregation9AM.JPG" alt="Christ Church 9AM congregation">
 										<div class="carousel-caption d-none d-md-block">
-											<h5>Worship at 9:15AM</h5>
+											<h5>Please Join Us at 9:15AM</h5>
 											<p>A 30-minute service for children and young families</p>
 										</div>
 									</div>
 									<div class="carousel-item">
 										<img class="d-block w-100" src="images/congregation10AM.JPG" alt="Christ Church 10AM congregation">
 										<div class="carousel-caption d-none d-md-block">
-											<h5>Worship at 10:00AM</h5>
+											<h5>Please Join Us at 10:00AM</h5>
 											<p>Our largest service, with organ and full choir</p>
 										</div>
 									</div>
