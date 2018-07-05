@@ -139,7 +139,7 @@
               <p align="center">
                 Please download and complete the required additional documents to complete registering your child for VBS.
                 <br><br>
-                When completed, please mail documents to Christ Episcopal Church: 105 Cottage Place, Ridgewood NJ, 07450 with Attn: VBS-Camp</p>
+                When completed, please email documents to the <a href="mailto:parishadmin@christchurchridgewood.org">Parish Admin</a>, or mail documents to Christ Episcopal Church: 105 Cottage Place, Ridgewood NJ, 07450 with Attn: VBS-Camp</p>
               <div class="col-md-5" align="center">
                 <a href="https://www.eservicepayments.com/cgi-bin/Vanco_ver3.vps?appver3=Fi1giPL8kwX_Oe1AO50jRjLzRvOOXoIt74uUxuoSTYTHO3iVYxvvxhHjRfLOeq662EvVVAEjqawDomKT1pbouYytj_EWKFXFQB5VK1JydwQ=" target="_blank" class="btn btn-primary btn-lg">Register & Pay</a>
                 <br><br>
