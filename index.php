@@ -238,6 +238,14 @@
 
 			<!-- Youth African Drumming -->
 			<div class="col-md-6">
+
+				<div class="card">
+					<div class="card-body" align="center">
+						<h2 class="cardtop">Children's Service</h2>
+						<img src="images/JOYcloseup.JPG" alt="Children's Service at Christ Church" title="Children's Service at Christ Church" class="img-fluid">
+						<p>JOY worship runs all summer long! Sunday service and eucharist perfect for children ages infant-5yrs. Come be part of the fun and beat the heat from 9:15am-9:45.</p>
+					</div>
+				</div>
 				<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Youth African Drumming</h2>
@@ -251,7 +259,7 @@
 				</div>
 
 				<!-- SoundCloud -->
-				<iframe width="100%" height="350" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/136812277&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+				<!-- <iframe width="100%" height="350" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/136812277&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe> -->
 			</div>
 			<br><br>
 		</div>
