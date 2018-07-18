@@ -67,7 +67,11 @@
       </div>
       <div class="col-md-6" align="center">
         <h3 class="page-header invitation">Songs</h3>
-        <a href="downloads/music/song1.mp3" download="The Big Fish song1.mp3" class="btn btn-lg btn-outline-primary disabled">To be added</a>
+        <a href="downloads/music/Nothing-Like-a-Mystery.m4a" download="Nothing Like a Mystery.m4a" class="btn btn-lg btn-outline-primary">Nothing Like a Mystery</a>
+        <a href="downloads/music/Runnin-From-the-Lord.m4a" download="Runnin From the Lord.m4a" class="btn btn-lg btn-outline-primary">Runnin From the Lord</a>
+        <a href="downloads/music/No-Greater-One.m4a" download="No Greater One.m4a" class="btn btn-lg btn-outline-primary">No Greater One</a>
+        <a href="downloads/music/Deep-Sea-Blues.m4a" download="Deep Sea Blues.m4a" class="btn btn-lg btn-outline-primary">Deep Sea Blues</a>
+        <a href="downloads/music/Its-a-Miracle.m4a" download="It's a Miracle.m4a" class="btn btn-lg btn-outline-primary">It's a Miracle</a>
       </div>
     </div>
 

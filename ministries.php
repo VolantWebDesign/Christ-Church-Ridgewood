@@ -86,8 +86,8 @@
         <div class="card">
           <div class="card-body" align="center">
             <h2 class="cardtop">Youth Group</h2>
-            <img src="images/Ministries/youth-group-christmasparty.JPG" class="img-fluid" alt=" photo" title="">
-            <p>Our Youth Group provides social opportunities for the youth of our parish and is open to 6th-12 graders. They participate in lock-ins, bowling parties, ski trips and so much more!</p>
+            <img src="images/Ministries/youth-group/christmasparty.jpg" class="img-fluid" alt=" photo" title="">
+            <p>Youth group is fun, social fellowship for youth in grades 7-12.  Social events are planned once or twice a month with an occasional service project or outreach opportunity thrown in.</p>
           </div>
 
           <!-- Footer buttons -->
@@ -122,7 +122,7 @@
           <div class="card-body" align="center">
             <h2 class="cardtop">Confirmation for Teens</h2>
             <img src="images/Ministries/acolytes-redrobes.jpg" class="img-fluid" alt=" photo" title="">
-            <p>Journey to Adulthood (J2A) continues religious education and outreach opportunities for high school students. As part of their education in what it means to be Christian, teenagers in the confirmation class participate in monthly projects to learn about the broader needs of our community, from serving the poor to helping the environment.</p>
+            <p>As part of their education in what it means to be Christian, teenagers in the confirmation class participate in monthly projects to learn about the broader needs of our community, from serving the poor to helping the environment.</p>
           </div>
 
           <!-- Footer buttons -->
@@ -130,6 +130,19 @@
             <a href="mailto:klee@christchurchridgewood.org">
               <button type="button" class="btn  btn-outline-primary">Contact Kristen Lee</button>
             </a>
+          </div>
+        </div>
+
+        <!-- J2A -->
+        <div class="card">
+          <div class="card-body" align="center">
+            <h2 class="cardtop">J2A</h2>
+            <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
+            <p>J2A (Journey to Adulthood) is the equivalent of Sunday school for high school aged students, grades 9-12 and runs in parallel, with the other Sunday school classes at 10am on the second Sunday of each month.  J2A stands for Journey to Adulthood and is our young adult Christian formation. J2A participate and lead outreach opportunities, service projects and Youth Sundays.</p>
+          </div>
+          <!-- Footer buttons -->
+          <div align="center" class="card-footer">
+            <a href="mailto:klee@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Kristen Lee</button></a>
           </div>
         </div>
 
