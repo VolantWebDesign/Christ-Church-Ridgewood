@@ -95,7 +95,7 @@
         <p class="ten-padding paragraph-border">
           Come join in the fun of Musical Theatre Vacation Bible School (VBS)! We’ll learn the bible story of Jonah and the Whale and perform a creative musical told in “film noir” style, like an old-fashioned detective movie. Don’t miss this wonderful week of faith, music, drama, and art, with a performance on Friday morning.
           <br><br>
-          <a data-toggle="modal" href="#register">Register now</a> to secure a spot, space is limited.
+          Register now to secure a spot, space is limited.
           <br>
           Please pay by following the registration instructions.
           <br><br>
@@ -107,7 +107,7 @@
           <br>
           <a href="mailto:mwhittemore@christchurchridgewood.org?subject=VBS">mwhittemore@christchurchridgewood.org</a>
           <br><br>
-          <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#register">Register now</button>
+          <button type="button" class="btn btn-primary btn-lg disabled">Registration Closed</button>
           <br><br>
           <a href="vbs-download.php" class="btn btn-outline-primary btn-sm">Download music & lyrics</a>
         </p>
@@ -120,42 +120,6 @@
       <div class="col-md-4"><img src="images/VBS-camel.jpeg" class="img-fluid"></div>
       <div class="col-md-4"><img src="images/VBS-whale.jpeg" class="img-fluid"></div>
       <div class="col-md-4"><img src="images/VBS-kids3.jpeg" id="img-flipable3" class="img-fluid"></div>
-    </div>
-
-    <!-- The Modal -->
-    <div class="modal fade" id="register">
-      <div class="modal-dialog modal-lg modal-dialog-centered">
-        <div class="modal-content">
-
-          <!-- Modal Header -->
-          <div class="modal-header">
-            <h4 class="modal-title">VBS Registration</h4>
-            <button type="button" class="close" data-dismiss="modal">&times;</button>
-          </div>
-
-          <!-- Modal body -->
-          <div class="modal-body">
-            <div class="row">
-              <p align="center">
-                Please download and complete the required additional documents to complete registering your child for VBS.
-                <br><br>
-                When completed, please email documents to the <a href="mailto:parishadmin@christchurchridgewood.org">Parish Admin</a>, or mail documents to Christ Episcopal Church: 105 Cottage Place, Ridgewood NJ, 07450 with Attn: VBS-Camp</p>
-              <div class="col-md-5" align="center">
-                <a href="https://www.eservicepayments.com/cgi-bin/Vanco_ver3.vps?appver3=Fi1giPL8kwX_Oe1AO50jRjLzRvOOXoIt74uUxuoSTYTHO3iVYxvvxhHjRfLOeq662EvVVAEjqawDomKT1pbouYytj_EWKFXFQB5VK1JydwQ=" target="_blank" class="btn btn-primary btn-lg">Register & Pay</a>
-                <br><br>
-              </div>
-              <div class="col-md-7" align="center">
-                <a href="downloads/other/VBS-legal-form.docx" download="VBS Liability Waiver & Media Release form.docx"class="btn btn-primary btn-lg">Liability Waiver & Media Release form</a>
-              </div>
-            </div>
-          </div>
-
-          <!-- Modal footer -->
-          <div class="modal-footer">
-            <button type="button" class="btn btn-outline-secondary btn-sm" data-dismiss="modal">Close</button>
-          </div>
-        </div>
-      </div>
     </div>
 
     <!-- Call to Action Section -->
