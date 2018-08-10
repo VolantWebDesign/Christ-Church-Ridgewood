@@ -126,13 +126,15 @@
 							</div>
 						</div>
 						<div class="col-md-8">
-							<h4>Mrs. Kristen Lee<br><small>Associate for Children and Youth</small></h4>
+							<h4>Mrs. Kristen Lee<br><small>Director of Children, Youth & Family Ministries</small></h4>
 
-							<p>Mother of 3 teenagers and wife of Gerry, Mrs. Lee loves sharing her joy and devotion to God and family with the parish. Kristen holds a degree in early-childhood education.</p>
+							<p>Mother of 3 gifted and athletic college students and wife of Gerry, Kristen loves sharing her joy and devotion to God and family with the parish. Kristen holds a degree in early-childhood education.</p>
 
-							<p>Her many talents have been instrumental in creating sacred space for our children and youth to grow in the faith.</p>
+							<p>Her many talents have been instrumental in creating sacred space for our children and youth to grow in their faith.</p>
 
-							<p>Kristen coordinates the nursery, Sunday school, and youth groups and assists the clergy in a number of other areas related to families with school-age children.</p>
+							<p>Kristen coordinates the Nursery, Sunday school, J2A, Youth group, Confirmation class, JOY Worship, Christmas Pageant, Easter Egg hunt, Summer Sunday school and assists clergy in a number of other areas related to families with children. Kristen also assists Marlene with our annual musical and musical theater VBS.
+
+</p>
 						</div>
 					</div>
 				</div>
