@@ -157,9 +157,9 @@
 								<tr>
 									<td>
 										<ul>
-											<li>July 15</li>
 											<li>August 19</li>
 											<li>September 16</li>
+											<li>October 21</li>
 										</ul>
 									</td>
 								</tr>
