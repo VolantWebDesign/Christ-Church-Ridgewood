@@ -156,7 +156,7 @@
 							<table class="table table-striped table-sm">
 								<tr>
 									<td>
-										<ul>
+										<ul id="celtic">
 											<li>August 19</li>
 											<li>September 16</li>
 											<li>October 21</li>
@@ -316,6 +316,8 @@
 		<script src="js/jquery.js"></script>
 		<script src="js/popper.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script src="js/app.js"></script>
 
 	</body>
 	</html>
