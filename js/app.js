@@ -16,18 +16,16 @@ if((todayMonth+" "+todayDate) === yearEighteen[0]) {
 function upDates() {  
   const celticList = $('#celtic');
   const celticFirstList = $('#celtic li:nth-child(1)');
-  let newDate = yearEighteen[0];
+  if (!yearEighteen[3]) { 
+    return; 
+  };
+  let newDate = yearEighteen[3];
   celticList.append('<li>'+newDate+'</li>');
   celticFirstList.remove();
   yearEighteen.splice(0,1);
 }
   
-//Todo: perform upDates() when today === celticFirstList
-//$('#submit').click(function() {
-    //don't refresh page
-  //  event.preventDefault();
-    //upDates();
-//});
+
 
 
                   

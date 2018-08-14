@@ -151,7 +151,8 @@
 
 
 						<div class="col-md-6">
-							<h3>Celtic Eucharist:<div class="text-muted small"> 5:00 PM, 3rd Sunday each month <a href="documents/celtic.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn  btn-outline-primary "> Program</a></div>
+							<h3>Celtic Eucharist:       
+							<div class="text-muted small"> 5:00 PM, 3rd Sunday each month <a href="documents/celtic.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn  btn-outline-primary "> Program</a></div>
 							</h3>
 							<table class="table table-striped table-sm">
 								<tr>
