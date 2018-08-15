@@ -151,12 +151,13 @@
 
 
 						<div class="col-md-6">
-							<h3>Celtic Eucharist:<div class="text-muted small"> 5:00 PM, 3rd Sunday each month <a href="documents/celtic.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn  btn-outline-primary "> Program</a></div>
+							<h3>Celtic Eucharist:       
+							<div class="text-muted small"> 5:00 PM, 3rd Sunday each month <a href="documents/celtic.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn  btn-outline-primary "> Program</a></div>
 							</h3>
 							<table class="table table-striped table-sm">
 								<tr>
 									<td>
-										<ul>
+										<ul id="celtic">
 											<li>August 19</li>
 											<li>September 16</li>
 											<li>October 21</li>
@@ -316,6 +317,8 @@
 		<script src="js/jquery.js"></script>
 		<script src="js/popper.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script src="js/app.js"></script>
 
 	</body>
 	</html>
