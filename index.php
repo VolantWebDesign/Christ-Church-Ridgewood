@@ -66,13 +66,6 @@
 			</div>
 			<div class="card-body">
 				<div class="row">
-					<div class="col-lg-5">
-						<div class="card-body">
-							<p>Christ Church, Ridgewood NJ, is a welcoming community of Christians of all ages from across Bergen County.</p>
-							<p>Here you will find vibrant youth ministries, inspiring music, meaningful community outreach, and much more, grounded in the Episcopal tradition: the right blend of “reason, scripture and tradition” at our core.</p>
-							<p>Come and see what God is doing here at Christ Church! And show us what God is doing in you!</p>
-						</div>
-					</div>
 					<div class="col-lg-7">
 						<div id="carouselWelcome" class="carousel slide" data-ride="carousel">
 							<div class="carousel-inner">
@@ -98,6 +91,13 @@
 									</div>
 								</div>
 							</div>
+						</div>
+					</div>
+					<div class="col-lg-5">
+						<div class="card-body">
+							<p>Christ Church, Ridgewood NJ, is a welcoming community of Christians of all ages from across Bergen County.</p>
+							<p>Here you will find vibrant youth ministries, inspiring music, meaningful community outreach, and much more, grounded in the Episcopal tradition: the right blend of “reason, scripture and tradition” at our core.</p>
+							<p>Come and see what God is doing here at Christ Church! And show us what God is doing in you!</p>
 						</div>
 					</div>
 				</div>
@@ -158,9 +158,9 @@
 								<tr>
 									<td>
 										<ul id="celtic">
-											<li>August 19</li>
 											<li>September 16</li>
 											<li>October 21</li>
+											<li>November 18</li>
 										</ul>
 									</td>
 								</tr>
@@ -176,7 +176,7 @@
 									<a href="documents/insert.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Announcements</a>
 								</div>
 								<div class="col" align="center">
-									<a href="documents/memorial-scholarship-app.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Memorial Scholarship Application</a>
+									<a href="documents/YouthRegistrationForm2018-19.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-primary">Youth Programs Registration Form</a>
 								</div>
 							</div>
 
