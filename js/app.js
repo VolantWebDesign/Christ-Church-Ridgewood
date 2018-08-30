@@ -1,6 +1,6 @@
 //celtic service udpates
-let yearEighteen = ['August 19', 'September 16', 'October 21', 'November 18', 'December 16'];
-let dayAfterEighteen = ['August 20', 'September 17', 'October 22', 'November 19', 'December 17']
+let yearEighteen = ['September 16', 'October 21', 'November 18', 'December 16'];
+let dayAfterEighteen = ['September 17', 'October 22', 'November 19', 'December 17']
 const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 let today = new Date();
 let todayDate = today.getDate();
