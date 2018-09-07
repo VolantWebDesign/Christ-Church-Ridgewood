@@ -158,8 +158,8 @@
 								<tr>
 									<td>
 										<ul id="celtic">
-											<li>September 16</li>
-											<li>October 21</li>
+											<li>September 16 <span style="color:red">Cancelled</span></li>
+											<li>October 21 <strong>- with our new organist!</strong></li>
 											<li>November 18</li>
 										</ul>
 									</td>
@@ -318,7 +318,7 @@
 		<script src="js/popper.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-		<script src="js/app.js"></script>
+		<!-- <script src="js/app.js"></script> -->
 
 	</body>
 	</html>
