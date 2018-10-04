@@ -158,9 +158,9 @@
 								<tr>
 									<td>
 										<ul id="celtic">
-											<li>September 16 <span style="color:red">Cancelled</span></li>
 											<li>October 21 <strong>- with our new organist!</strong></li>
 											<li>November 18</li>
+											<li>December 16</li>
 										</ul>
 									</td>
 								</tr>

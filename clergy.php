@@ -142,18 +142,6 @@
 					<div class="row">
 						<div class="col-md-4 col-sm-4 col-xs-4">
 							<div align="center">
-								<img src="images/vestry/missing.jpg" class="img-fluid rounded-circle" />
-							</div>
-						</div>
-						<div class="col-md-8">
-							<h4>Sara Mazin<br><small>Church Accounting</small></h4>
-
-							<p>Sara Mazin, CPA, is a graduate of the College of New Jersey with a BA in Business Administration and a Minor in Economics. Sara has worked extensively in both accounting firms and major corporations. She lives with her family in Glen Rock and enjoys triathlons.</p>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-4 col-sm-4 col-xs-4">
-							<div align="center">
 								<img src="images/clergy/marge.jpg" class="img-fluid rounded-circle" />
 							</div>
 						</div>
