@@ -64,11 +64,10 @@
 							<div class="col-md-6" >
 								<div  align="center">
 									<br>
-									<h2 class="invitation">Welcome Our New Director of Music & Organist</h2>
+									<h2 class="invitation">Welcome Our New Organist & Director of Music</h2>
 									<p>
-										The Reverend Thomas E. Mathews, Rector of Christ Church, Ridgewood, NJ, announces that William (Bill) K. Trafka will serve as Christ Church's new Director of Music and Organist! Bill is starting at Christ Church on November 11.<br><br>
-										Bill noted that he felt a positive sense of warmth, energy, and commitment when visiting Christ Church and is excited to work with Fr. Tom to harness those qualities in exploring ways to further grow the parish's music program. Right off the bat, "I extend an invitation to those who love to sing and do not have a 'choral home' to consider singing at Christ Church. I would love to meet you."<br><br>
-										Fr Tom thanks the wonderful search committee of Paris Simms, Troy Eggers, and Marlene Whittemore for the faithful and collaborative work with him in calling the right candidate. May God continue to bless Christ Church and our beloved Music Ministry, and may our goal always be to sing of God's praises.
+										William (Bill) Trafka is Christ Church’s new Organist and Director of Music! Bill is starting at Christ Church on November 11.<br><br>
+										Bill felt a positive sense of warmth, energy, and commitment when visiting Christ Church and is excited to work with Fr. Tom to harness those qualities in exploring ways to further grow the parish's music program. Bill says, "I extend an invitation to those who love to sing and do not have a 'choral home' to consider singing at Christ Church. I would love to meet you.”
 									</p>
 									<a href="clergy.php#william" class="btn btn-md btn-outline-primary">Read more here</a>
 								</div>
@@ -283,29 +282,6 @@
 				<!-- <iframe width="100%" height="350" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/136812277&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe> -->
 			</div>
 			<br><br>
-		</div>
-
-		<!-- VBS Modal -->
-		<div class="modal fade musicModal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
-			<div class="modal-dialog modal-lg">
-				<div class="modal-content">
-					<div class="modal-header">
-						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title" id="myModalLabel">VBS Music</h4>
-					</div>
-					<div class="modal-body">
-						<table class="table">
-							<tr><td align="right">Arkeology Opening</td><td><audio src="media/01_Arkeology.mp3" controls></audio></td></tr>
-							<tr><td align="right">We're all in the same boat now</td><td><audio src="media/03_Were_all_in_the_same_boat_now.mp3" controls></audio></td></tr>
-							<tr><td align="right">What did Noah know</td><td><audio src="media/05_What_did_Noah_know..mp3" controls></audio></td></tr>
-							<tr><td align="right">Crocodile Crawl</td><td><audio src="media/07_Crocodile_Crawl.mp3" controls></audio></td></tr>
-							<tr><td align="right">Under the Weather</td><td><audio src="media/09_Under the_Weather.mp3" controls></audio></td></tr>
-							<tr><td align="right">Sometimes He calms the storm</td><td><audio src="media/11_Sometimes_He_calms_the_storm.mp3" controls></audio></td></tr>
-							<tr><td align="right">I'm standing under a rainbow</td><td><audio src="media/13_Im_Standing_under_a_Rainbow.mp3" controls></audio></td></tr>
-						</table>
-					</div>
-				</div>
-			</div>
 		</div>
 
 		<hr>

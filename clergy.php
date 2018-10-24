@@ -99,34 +99,19 @@
 
 		<hr>
 
+
 		<div class="row">
-			<div class="col-md-6">
+			<div class="col" id="william">
 				<div class="row">
-					<div class="col-md-4 col-sm-4 col-xs-4">
+					<div class="col-md-2 col-sm-2 col-xs-2">
 						<div align="center">
-							<img src="images/clergy/marlene.jpg" class="img-fluid rounded-circle"/>
+							<img src="images/clergy/william.jpg" class="img-fluid rounded-circle" />
 						</div>
 					</div>
-					<div class="col-md-8">
-						<h4>Ms. Marlene Whittemore Pillow<br><small>Director of Youth Music Ministries</small></h4>
-						<p>Marlene is a professional soprano and choral conductor, holding a Bachelors degree from the Eastman School of Music and a Masters degree from the New England Conservatory of Music.</p>
-						<p>Marlene shares her talents by providing music for the JOY! Family Service, and the Celtic Service as well as conducting the Jubilation Youth Choir, the Handchime Choir, and the African Drumming Ensemble. She produces a yearly musical, creates dramatic presentations of scripture, and encourages youth to perform on Sundays. Additionally, she directs the Vacation Bible School Musical every summer.</p>
-						<p>Marlene is a highly respected music teacher in the Ridgewood School System, and she has a private studio for voice and piano lessons. Marlene and her two children enjoy movies, books and music.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-6" id="william">
-				<div class="row">
-					<div class="col-md-4 col-sm-4 col-xs-4">
-						<div align="center">
-							<img src="images/clergy/william.jpg" class="img-fluid rounded-circle"/>
-						</div>
-					</div>
-					<div class="col-md-8">
-						<h4>Mr. William (Bill) K. Trafka<br><small>Director of Music and Organist</small></h4>
-						<p>Bill is a graduate of the Eastman School of Music in Rochester, NY, where he was a student of the legendary American organist and teacher David Craighead and was awarded the Performer's Certificate in Organ Performance. He served as Organist for The First Baptist Church of Greater Cleveland before he arrived in New York City in 1985 to serve as the Associate Organist at St. Bartholomew's Church, where he was appointed Director of Music in 1995.</p>
+					<div class="col-md-10">
+						<h4>William (Bill) K. Trafka<br><small>Director of Music and Organist</small></h4>
+						Bill is a graduate of the Eastman School of Music in Rochester, NY, where he was a student of the legendary American organist and teacher David Craighead and was awarded the Performer's Certificate in Organ Performance. He arrived in New York City in 1985 to serve as the Associate Organist at St. Bartholomew's Church, where he was appointed Director of Music in 1995.</p>
 						<p>At St. Bartholomew's, Bill directed music for three diverse services each Sunday and oversaw a choral program which includes a professional choir, a volunteer choir and an extensive program for boy and girl choristers. For 22 years, he directed St. Bartholomew's Summer Festival of Sacred Music, offering great mass settings for 13 Sundays as part of the 11 A.M. Eucharist. He was also the Artistic Director of The Mid-Manhattan Performing Arts Foundation which presented Great Music at St. Bart's, a concert series which included performances by St. Bartholomew's Choir, a host of guest artists and ensembles, and, in association with the Gotham Early Music Scene, a weekly noonday series of free concerts of early music.</p>
-						<p>In conjunction with Goodspeed & Bach, Bill has led several tours to Germany, playing organ works of Johann Sebastian Bach in the churches in which the composer served as Kantor. Bill has also served as Adjunct Professor of Sacred Music at Westminster Choir College in Princeton, NJ.</p>
 						<p>Bill will be onsite two times per week in addition to Sundays, and he looks forward to joining Christ Church's community. When not at work, Bill enjoys spending time with his Lab/Border Collie rescue "Booster," checking out dog runs and exploring the caverns of the city. He is also an avid reader of contemporary fiction and has never turned down a good Pinot Blanc!</p>
 					</div>
 				</div>
@@ -140,14 +125,14 @@
 				<div class="row">
 					<div class="col-md-4 col-sm-4 col-xs-4">
 						<div align="center">
-							<img src="images/clergy/kristen.jpg" class="img-fluid rounded-circle"/>
+							<img src="images/clergy/marlene.jpg" class="img-fluid rounded-circle"/>
 						</div>
 					</div>
 					<div class="col-md-8">
-						<h4>Mrs. Kristen Lee<br><small>Director of Children, Youth & Family Ministries</small></h4>
-						<p>Mother of 3 gifted and athletic college students and wife of Gerry, Kristen loves sharing her joy and devotion to God and family with the parish. Kristen holds a degree in early-childhood education.</p>
-						<p>Her many talents have been instrumental in creating sacred space for our children and youth to grow in their faith.</p>
-						<p>Kristen coordinates the Nursery, Sunday school, J2A, Youth group, Confirmation class, JOY Worship, Christmas Pageant, Easter Egg hunt, Summer Sunday school and assists clergy in a number of other areas related to families with children. Kristen also assists Marlene with our annual musical and musical theater VBS.</p>
+						<h4>Marlene Whittemore Pillow<br><small>Director of Youth Music Ministries</small></h4>
+						<p>Marlene is a professional soprano and choral conductor, holding a Bachelors degree from the Eastman School of Music and a Masters degree from the New England Conservatory of Music.</p>
+						<p>Marlene shares her talents by providing music for the JOY! Family Service, and the Celtic Service as well as conducting the Jubilation Youth Choir, the Handchime Choir, and the African Drumming Ensemble. She produces a yearly musical, creates dramatic presentations of scripture, and encourages youth to perform on Sundays. Additionally, she directs the Vacation Bible School Musical every summer.</p>
+						<p>Marlene is a highly respected music teacher in the Ridgewood School System, and she has a private studio for voice and piano lessons. Marlene and her two children enjoy movies, books and music.</p>
 					</div>
 				</div>
 			</div>
@@ -155,11 +140,14 @@
 				<div class="row">
 					<div class="col-md-4 col-sm-4 col-xs-4">
 						<div align="center">
-							<img src="images/clergy/marge.jpg" class="img-fluid rounded-circle"/>
+							<img src="images/clergy/kristen.jpg" class="img-fluid rounded-circle"/>
 						</div>
 					</div>
 					<div class="col-md-8">
-						<h4>Ms. Marge Singer<br><small>Emeritus Finance Secretary</small></h4>
+						<h4>Kristen Lee<br><small>Director of Children, Youth & Family Ministries</small></h4>
+						<p>Mother of 3 gifted and athletic college students and wife of Gerry, Kristen loves sharing her joy and devotion to God and family with the parish. Kristen holds a degree in early-childhood education.</p>
+						<p>Her many talents have been instrumental in creating sacred space for our children and youth to grow in their faith.</p>
+						<p>Kristen coordinates the Nursery, Sunday school, J2A, Youth group, Confirmation class, JOY Worship, Christmas Pageant, Easter Egg hunt, Summer Sunday school and assists clergy in a number of other areas related to families with children. Kristen also assists Marlene with our annual musical and musical theater VBS.</p>
 					</div>
 				</div>
 			</div>
@@ -184,7 +172,7 @@
 				<div class="row">
 					<div class="col-md-4 col-sm-4 col-xs-4">
 						<div align="center">
-							<img src="images/vestry/missing.jpg" class="img-fluid rounded-circle"/>
+							<img src="images/clergy/jessica.jpg" class="img-fluid rounded-circle"/>
 						</div>
 					</div>
 					<div class="col-md-8">
@@ -201,15 +189,25 @@
 				<div class="row">
 					<div class="col-md-4 col-sm-4 col-xs-4">
 						<div align="center">
-							<img src="images/clergy/pawel.jpg" class="img-fluid rounded-circle"/>
+							<img src="images/clergy/marge.jpg" class="img-fluid rounded-circle"/>
 						</div>
 					</div>
 					<div class="col-md-8">
-						<h4>Mr. Pawel Bajon<br><small>Sexton and Building Maintenance</small></h4>
+						<h4>Marge Singer<br><small>Emeritus Finance Secretary</small></h4>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-6">
+				<div class="row">
+					<div class="col-md-4 col-sm-4 col-xs-4">
+						<div align="center">
+							<img src="images/clergy/pawel.jpg" class="img-fluid rounded-circle"/>
+						</div>
+					</div>
+					<div class="col-md-8">
+						<h4>Pawel Bajon<br><small>Sexton and Building Maintenance</small></h4>
+					</div>
+				</div>
 			</div>
 		</div>
 
@@ -227,12 +225,12 @@
 		<div class="row">
 			<div class="col-md-2 col-sm-4 col-xs-4">
 				<div align="center">
-					<hr><img src="images/vestry/lucy_d.jpg" class="img-fluid rounded-circle"/><br>Lucy DiMaulo, Warden<br>
+					<hr><img src="images/vestry/lucy_d.jpg" class="img-fluid rounded-circle"/><br>Lucy DiMaulo<br>Warden<br>
 				</div>
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
-					<hr><img src="images/vestry/tom_m.jpg" class="img-fluid rounded-circle"/><br> Tom Martin, Warden<br>
+					<hr><img src="images/vestry/tom_m.jpg" class="img-fluid rounded-circle"/><br>Tom Martin<br>Warden<br>
 				</div>
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-4">
@@ -274,7 +272,7 @@
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
-					<hr><img src="images/vestry/karl_n.jpg" class="img-fluid rounded-circle"/><br>Karl Najork, Clerk<br>
+					<hr><img src="images/vestry/karl_n.jpg" class="img-fluid rounded-circle"/><br>Karl Najork<br>Clerk<br>
 				</div>
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
@@ -294,7 +292,7 @@
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
-					<hr><img src="images/vestry/jim_m.jpg" class="img-fluid rounded-circle"/><br>Jim Morgan, Finance Chair<br>
+					<hr><img src="images/vestry/jim_m.jpg" class="img-fluid rounded-circle"/><br>Jim Morgan<br>Finance Chair<br>
 				</div>
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">

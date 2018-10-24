@@ -92,8 +92,8 @@
 
           <!-- Footer buttons -->
           <div align="center" class="card-footer">
-            <a href="mailto:klee@christchurchridgewood.org">
-              <button type="button" class="btn  btn-outline-primary">Contact Kristen Lee</button>
+            <a href="youth.php">
+              <button type="button" class="btn  btn-outline-primary">More information</button>
             </a>
           </div>
         </div>
@@ -325,7 +325,7 @@
         <div class="card">
           <div class="card-body" align="center">
             <h2 class="cardtop">St. Paul's Men's Homeless Shelter</h2>
-            <img src="images/Ministries/stpauls-cooking2.JPG?k=<?php echo $thekeys; ?>" class="img-fluid" alt=" photo" title="">
+            <img src="images/Ministries/stpauls-cooking2.JPG" class="img-fluid" alt=" photo" title="">
             <p>On the second Monday of each month, Christ Church provides a meal for up to 40 homeless men at St. Paul’s Mens’ Shelter. Families, church committees, and ad hoc groups come together in the church kitchen to prepare the meal in advance; others reheat or deliver and serve the meals.</p>
           </div>
           <!-- Footer buttons -->
