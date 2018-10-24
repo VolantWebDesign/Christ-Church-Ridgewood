@@ -34,6 +34,9 @@
           <li class="nav-item <?php if($current == 'contact') {echo 'active';} ?>">
             <a href="contact.php" class="nav-link">Contact</a>
          </li>
+         <li class="nav-item <?php if($current == 'youth') {echo 'active';} ?>">
+           <a href="youth.php" class="nav-link">Youth Group</a>
+        </li>
         </ul>
         <form class="form-inline mt-2 mt-md-0">
             <a href=https://goo.gl/ap2mQM target=_blank title="Donate to Christ Church Ridgewood" alt="donate, button, church"><button type="button" class="btn btn-light" style="font-weight: bold; color: #113056;">Donate</button></a> &nbsp; &nbsp;
