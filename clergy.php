@@ -250,14 +250,14 @@
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
-					<hr><img src="images/vestry/jeff_h.jpg" class="img-fluid rounded-circle"/><br>Jeff Hamon<br>Treasurer<br>
+					<hr><img src="images/vestry/jeff_h2.jpg" class="img-fluid rounded-circle"/><br>Jeff Hamon<br>Treasurer<br>
 				</div>
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
-					<hr><img src="images/vestry/julie_h.jpg" class="img-fluid rounded-circle"/><br>Julie Hamon<br>
+					<hr><img src="images/vestry/julie_h2.jpg" class="img-fluid rounded-circle"/><br>Julie Hamon<br>
 				</div>
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
