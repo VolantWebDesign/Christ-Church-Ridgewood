@@ -66,7 +66,7 @@
 									<br>
 									<h2 class="invitation">Welcome Our New Organist & Director of Music</h2>
 									<p>
-										William (Bill) Trafka is Christ Church’s new Organist and Director of Music! Bill is starting at Christ Church on November 11.<br><br>
+										William (Bill) Trafka is Christ Church’s new Organist and Director of Music! Bill is starting at Christ Church on <strong>November 11</strong>.<br><br>
 										Bill felt a positive sense of warmth, energy, and commitment when visiting Christ Church and is excited to work with Fr. Tom to harness those qualities in exploring ways to further grow the parish's music program. Bill says, "I extend an invitation to those who love to sing and do not have a 'choral home' to consider singing at Christ Church. I would love to meet you.”
 									</p>
 									<a href="clergy.php#william" class="btn btn-md btn-outline-primary">Read more here</a>
@@ -210,28 +210,29 @@
 			<div class="col-md-12">
 				<div class="card">
 					<div class="card-header" align="center">
-						<img src="images/stewardship_2018.png" alt="2018 Christ Church Ridgewood Stewardship Campaign: Living Generously" class="img-fluid">
+						<img src="documents/stewardship-2019-logo.png" alt="2019 Christ Church Ridgewood Stewardship Campaign: Transforming Generosity" class="img-fluid" style="width: 67%">
 					</div>
 					<div class="card-body" >
 						<div class="row" >
 							<div class="col-md-6" align="center">
 								<h4>From the Stewardship Committee</h4>
 								<p>We are so grateful for your faithful membership at Christ Church; your generosity truly sustains our ministry together.</p>
-								<p>Parishioners should by now have received an Annual Giving packet. You will find <strong>two forms</strong> to return – a <strong>blue pledge card</strong> for financial resources and a <strong>yellow time and talent form</strong> listing our various ministries.  We hope that this year’s new time and talent form both inspires and invites you to share your gifts and time with our community and the broader community. In the spirit of living generously, we encourage you to branch out from your current volunteer positions and consider learning about a new ministry.  Please check off as many ministries as you have interest and a coordinator will be in touch to provide information.</p>
+								<p>This year's Ingathering is <strong>Sunday, November 18, 2018</strong>.  Pledge packets will be mailed in mid-November and links to the pledge card and online pledge card will be available on the website shortly.  An introductory mailing was sent the week of October 22.  Links to letters from the Stewardship Chair and Father Tom are below along with a brochure highlighting recent happenings at Christ Church. </p>
 							</div>
 							<div class="col-md-6" align="center">
-								<h4>Campaign Update</h4>
-								<p>Thank you to all who have renewed or made a new commitment in response to our annual giving drive in support of our Christ Church community for 2018. </p>
-								<p>If you have not yet submitted a pledge for 2018, we ask you to prayfully consider doing so now by submitting an <a href="https://goo.gl/forms/cqKeCekNA9wMSbhs2">online pledge</a>.</p>
-								<p>Please help us reach our goal of 100% participation by submitting your pledge cards or online pledge as soon as possible.The Vestry and Finance committees are working hard to plan for Christ Church’s upcoming program year and your pledge of time, talent, and treasure is a vital part of this planning.</p>
-								<p>Please feel free to contact either <a href="mailto:deanna.najork@gmail.com"> Deanna Najork</a>, or <a href="mailto:Trevor.Thangalan@bmwna.com">Trevor Thangalan</a>, with any questions.  Thank you again!</p>
+								<h4>Campaign Information</h4>
+								<p>Please begin thinking about your pledge now. Together, we can reach our goal of 100% participation. The Vestry and Finance committees are working hard to plan for Christ Church’s upcoming program year and your pledge of time, talent, and treasure is a vital part of this planning.</p>
+								<p>Please feel free to contact our Stewardship Chair, <a href="mailto:deanna.najork@gmail.com"> Deanna Najork</a>, with any questions.  Thank you again!</p>
 							</div>
 						</div>
 					</div>
 					<div class="card-footer" align="center">
-						<a href="documents/StewardshipTimeTalent2018.pdf" target="_blank" class="btn btn-outline-primary" >Time and Talents Form</a>
+						<!-- <a href="documents/StewardshipTimeTalent2018.pdf" target="_blank" class="btn btn-outline-primary" >Time and Talents Form</a>
 						<a href="documents/StewardshipFAQ2018.pdf" target="_blank" class="btn btn-outline-primary" >FAQ About Giving</a>
-						<a href="https://goo.gl/forms/cqKeCekNA9wMSbhs2" target="_blank" class="btn btn-primary" >Pledge Online Now</a>
+						<a href="https://goo.gl/forms/cqKeCekNA9wMSbhs2" target="_blank" class="btn btn-primary" >Pledge Online Now</a> -->
+						<a href="documents/Recent-Happenings-at-Christ-Church.pdf" target="_blank" class="btn btn-outline-primary" >Recent Happenings</a>
+						<a href="documents/2018-Chair-INTRO-Stewardship-FINAL.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Stewardship Chair</a>
+						<a href="documents/2018-Rector-INTRO- FINAL.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Rector</a>
 					</div>
 				</div>
 			</div>
