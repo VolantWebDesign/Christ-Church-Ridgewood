@@ -172,11 +172,11 @@
 				<div class="row">
 					<div class="col-md-4 col-sm-4 col-xs-4">
 						<div align="center">
-							<img src="images/clergy/jessica.jpg" class="img-fluid rounded-circle"/>
+							<img src="images/clergy/marge.jpg" class="img-fluid rounded-circle"/>
 						</div>
 					</div>
 					<div class="col-md-8">
-						<h4>Jessica Sheehan<br><small>Parish Administrator</small></h4>
+						<h4>Marge Singer<br><small>Emeritus Finance Secretary</small></h4>
 					</div>
 				</div>
 			</div>
@@ -189,18 +189,6 @@
 				<div class="row">
 					<div class="col-md-4 col-sm-4 col-xs-4">
 						<div align="center">
-							<img src="images/clergy/marge.jpg" class="img-fluid rounded-circle"/>
-						</div>
-					</div>
-					<div class="col-md-8">
-						<h4>Marge Singer<br><small>Emeritus Finance Secretary</small></h4>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-6">
-				<div class="row">
-					<div class="col-md-4 col-sm-4 col-xs-4">
-						<div align="center">
 							<img src="images/clergy/pawel.jpg" class="img-fluid rounded-circle"/>
 						</div>
 					</div>
@@ -208,6 +196,8 @@
 						<h4>Pawel Bajon<br><small>Sexton and Building Maintenance</small></h4>
 					</div>
 				</div>
+			</div>
+			<div class="col-md-6">
 			</div>
 		</div>
 
