@@ -217,11 +217,27 @@
 							<div class="col-md-6" align="center">
 								<h4>From the Stewardship Committee</h4>
 								<p>We are so grateful for your faithful membership at Christ Church; your generosity truly sustains our ministry together.</p>
-								<p>This year's Ingathering is <strong>Sunday, November 18, 2018</strong>.  Pledge packets will be mailed in mid-November and links to the pledge card and online pledge card will be available on the website shortly.  An introductory mailing was sent the week of October 22.  Links to letters from the Stewardship Chair and Father Tom are below along with a brochure highlighting recent happenings at Christ Church. </p>
+								<p>This year's Ingathering is <strong>Sunday, November 18, 2018</strong>.  All parishioners will receive their pledge packets in the mail during the week of November 15th. An introductory mailing was sent the week of October 22.  Links to all documents included in the mailings are below along with a link to submit your confidential pledge online. </p>
+								<a href="documents/2019-stewardship-rector.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Rector</a><br>
+								<a href="documents/2018-Chair-INTRO-Stewardship-FINAL.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Stewardship Chair</a><br>
+								<a href="documents/2019-stewardship-wardens.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Wardens</a><br>
+								<a href="documents/Recent-Happenings-at-Christ-Church.pdf" target="_blank" class="btn btn-outline-primary" >Recent Happenings</a><br>
+
+
+
 							</div>
 							<div class="col-md-6" align="center">
 								<h4>Campaign Information</h4>
-								<p>Please begin thinking about your pledge now. Together, we can reach our goal of 100% participation. The Vestry and Finance committees are working hard to plan for Christ Church’s upcoming program year and your pledge of time, talent, and treasure is a vital part of this planning.</p>
+								<!-- <p>This year's pledge packet includes:</p>
+								<ul>
+									<li>Letters from the Stewardship Chair, your Wardens and Rector</li>
+									<li>A blue pledge card – combined financial and time/talent</li>
+									<li>A directory information printout of what we currently have on file</li>
+									<li>Frequently Asked Question brochure about pledging and proportional giving</li>
+									<li>Return Envelope</li>
+								</ul> -->
+								<p>Please return your blue pledge card and your information sheet with any updates/additions/corrections in the confidential return envelope on Sunday, November 18, 2018.  During all services, Fr. Tom will invite us to bring forward our pledges of time, talent and treasure as a sign of our commitment to our church community.  If you can’t be at services on November 18th, please mail your envelope by November 18th or soon after.   </p>
+								<p>Thank you in advance for your prayerful consideration of your pledge to support the ministries of Christ Church in 2019 both financially and through volunteering your time and talents! Together, we can reach our goal of 100% participation in returning completed pledge forms. The Vestry and Finance committees are working hard to plan for Christ Church’s upcoming program year and your pledge of time, talent, and treasure is a vital part of this planning.</p>
 								<p>Please feel free to contact our Stewardship Chair, <a href="mailto:deanna.najork@gmail.com"> Deanna Najork</a>, with any questions.  Thank you again!</p>
 							</div>
 						</div>
@@ -230,9 +246,9 @@
 						<!-- <a href="documents/StewardshipTimeTalent2018.pdf" target="_blank" class="btn btn-outline-primary" >Time and Talents Form</a>
 						<a href="documents/StewardshipFAQ2018.pdf" target="_blank" class="btn btn-outline-primary" >FAQ About Giving</a>
 						<a href="https://goo.gl/forms/cqKeCekNA9wMSbhs2" target="_blank" class="btn btn-primary" >Pledge Online Now</a> -->
-						<a href="documents/Recent-Happenings-at-Christ-Church.pdf" target="_blank" class="btn btn-outline-primary" >Recent Happenings</a>
-						<a href="documents/2018-Chair-INTRO-Stewardship-FINAL.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Stewardship Chair</a>
-						<a href="documents/2018-Rector-INTRO- FINAL.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Rector</a>
+						<a href="documents/2019-stewardship-faq.pdf" target="_blank" class="btn btn-outline-primary" >Giving FAQ</a>
+						<a href="documents/2019-pledge-card.pdf" target="_blank" class="btn btn-outline-primary" >Pledge Card</a>
+						<a href="https://goo.gl/forms/c1WFCNjZNSIMpQgK2" target="_blank" class="btn btn-primary" >Pledge Online</a>
 					</div>
 				</div>
 			</div>
