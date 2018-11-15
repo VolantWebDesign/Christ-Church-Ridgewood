@@ -1,5 +1,29 @@
 
 
+	[[[new organist]]]
+		<div class="row">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-body">
+						<div class="row">
+							<div class="col-md-6" align="center"><img src="images/william.jpg" alt="" class="img-fluid"></div>
+							<div class="col-md-6" >
+								<div  align="center">
+									<br>
+									<h2 class="invitation">Welcome Our New Organist & Director of Music</h2>
+									<p>
+										William (Bill) Trafka is Christ Church’s new Organist and Director of Music! Bill is starting at Christ Church on <strong>November 11</strong>.<br><br>
+										Bill felt a positive sense of warmth, energy, and commitment when visiting Christ Church and is excited to work with Fr. Tom to harness those qualities in exploring ways to further grow the parish's music program. Bill says, "I extend an invitation to those who love to sing and do not have a 'choral home' to consider singing at Christ Church. I would love to meet you.”
+									</p>
+									<a href="clergy.php#william" class="btn btn-md btn-outline-primary">Read more here</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
 	<!-- VBS -->
 	<div class="row">
 				<div class="col-md-12">
