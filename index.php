@@ -155,9 +155,9 @@
 									<tr>
 										<td>
 											<ul id="celtic">
-												<li>October 21 <strong>- with our new organist!</strong></li>
-												<li>November 18</li>
 												<li>December 16</li>
+												<li>January 20</li>
+												<li>February 17</li>
 											</ul>
 										</td>
 									</tr>
