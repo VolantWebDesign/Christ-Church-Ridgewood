@@ -17,6 +17,7 @@
         <span class="navbar-toggler-icon"></span>
       </button>
 
+<!-- top navigation -->
       <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item <?php if($current == 'worship') {echo 'active';} ?>">
@@ -44,8 +45,10 @@
       </div>
     </nav>
 
-<img src="images/slide_01.jpg?k=<?php echo $thekeys; ?>" class="img-fluid" style="padding-top: 0; padding-bottom: 0;">
+<!-- masthead imate -->
+    <img src="images/CCR_masthead_advent.jpg?k=<?php echo $thekeys; ?>" class="img-fluid" style="padding-top: 0; padding-bottom: 0;">
 
+<!-- Contact Info -->
     <div class="row">
         <div class="col white address text-center">105 Cottage Place, Ridgewood, NJ &nbsp;|&nbsp; <a href="tel:+12016522350">(201) 652-2350</a> &nbsp;|&nbsp;
           <a href="https://facebook.com/ChristEpiscopalChurchRidgewood/" target="_blank" rel="noopener"><i class="fa fa-facebook-square fa-2x fa-inverse"></i></a> &nbsp;
