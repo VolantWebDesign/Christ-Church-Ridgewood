@@ -58,7 +58,7 @@ line-height: 70%;
 .table td, .table th {
 	padding: .40rem;
 	vertical-align: top;
-	border-top: 1px solid #ddd;
+	border-top: none;
 }
 
 .rotate90 {
@@ -76,6 +76,14 @@ line-height: 70%;
 .card {
 	margin-bottom: 30px;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.18);
+	border: none;
+}
+.card-header {
+	background-color: rgba(0, 0, 0, 0.05);
+	border-bottom: none;
+}
+.card-footer {
+	border-top: none;
 }
 
 a.anchor {
