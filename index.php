@@ -56,6 +56,84 @@
 	<!-- Page Content -->
 	<div class="container">
 
+
+	<!-- Christmas Schedule -->
+		<div class="row">
+			<div class="col-md-12">
+				<div class="card border-danger">
+					<div class="card-header" align="center">
+						<h3 class="card-title" style="color: #294515;">Christmas at Christ Church, 2018</h3>
+					</div>
+					<div class="card-body" >
+						<!-- <div class="row">
+							<div class="col" align="center">
+							<h3 style="color: #294515;" >#AdventWord Daily Email</h3>
+							<p>"The Society of Saint John the Evangelist, which is an Episcopal Monastery near my seminary, does very prayerful work and their electronic outreach is becoming known worldwide. I’ve used this series before, and the brothers at SSJE update them each year. We pray you have a blessed season of Advent online and at Christ Church." -Fr. Tom</p>
+
+									<div ><a href="http://adventword.org/sign-up/" target="_blank" class="btn btn-outline-primary">Advent Email Signup</a> </div>
+							</div>
+						</div> -->
+						<div class="row" >
+							<div class="col-md-6">
+								<h3 style="color: #294515;">December 16, Celtic 'Quiet Christmas' </h3>
+								<table class="table table-striped">
+									<tbody>
+										<tr>
+											<th scope="row">5:00PM</th>
+											<td>Acknowledging personal losses and focusing on God's compassion and the hope that the Christmas story offers.</td>
+										</tr>
+									</tbody>
+								</table>
+								<img src="images/adventwreath.jpg" alt="" class="img-fluid"><br>
+								<div class="row">
+									<div class="col" align="center">
+										<!-- <a href="documents/insert_christmas.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Christmas Announcements</a>  -->
+									</div>
+								</div>
+							</div>
+							<div class="col-md-6">
+								<h3 style="color: #294515;">December 24, Christmas Eve</h3>
+								<table class="table table-striped">
+								<tbody>
+								  <tr>
+									<th scope="row">4:00PM</th>
+									<td>Christmas Pageant: Eucharist service for families and children of all ages 
+									<!-- <a href="documents/pageantprogram.pdf" target="blank">(Program)</a> -->
+									</td>
+								  </tr>
+								  <tr>
+									<th scope="row"></th>
+									<td>Children of all ages are welcome to participate in the pageant! 
+									<!-- <a href="documents/pageant_children.pdf" target="_blank">Click here to learn how.</a> -->
+									</td>
+								  </tr>
+								  <tr>
+									<th scope="row">10:00PM</th>
+									<td>Candlelight Communion: A rich service with incense and carols, following a musical prelude 
+									<!-- <a href="documents/christmaseveprogram.pdf?k=<?php echo $thekeys; ?>" target="blank">(Program)</a> -->
+									</td>
+								  </tr>
+								</tbody>
+							  </table>
+							  <hr>
+
+							  <h3 style="color: #294515;">December 25, Christmas Day</h3>
+								<table class="table table-striped">
+									<tbody>
+										<tr>
+											<th scope="row">10:00AM</th>
+											<td>Christmas Day: Eucharist and carols celebrating the start of Christmas</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+
+
 		<!-- Welcome carousel -->
 		<div class="row">
 			<div class="col-md-12">
