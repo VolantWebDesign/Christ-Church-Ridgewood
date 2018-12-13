@@ -126,6 +126,21 @@
 										</tr>
 									</tbody>
 								</table>
+
+								<hr>
+
+								<h3 style="color: #294515;">December 30</h3>
+								<table class="table table-striped">
+									<tbody>
+										<tr>
+											<th scope="row">
+											8:00AM <br>
+											10:00AM</th>
+											<td>Lessons and Carols <br>
+											- Ugly Christmas Sweaters Welcome!</td>
+										</tr>
+									</tbody>
+								</table>
 							</div>
 						</div>
 					</div>	
@@ -233,7 +248,7 @@
 									<tr>
 										<td>
 											<ul id="celtic">
-												<li>December 16</li>
+												<li>December 16 - <strong>"A Quiet Christmas"</strong></li>
 												<li>January 20</li>
 												<li>February 17</li>
 											</ul>
