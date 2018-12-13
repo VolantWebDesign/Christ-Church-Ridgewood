@@ -273,7 +273,7 @@
 							<div class="col-md-6" align="center">
 								<h4>From the Stewardship Committee</h4>
 								<p>We are so grateful for your faithful membership at Christ Church; your generosity truly sustains our ministry together.</p>
-								<p>This year's Ingathering is <strong>Sunday, November 18, 2018</strong>.  All parishioners will receive their pledge packets in the mail during the week of November 15th. An introductory mailing was sent the week of October 22.  Links to all documents included in the mailings are below along with a link to submit your confidential pledge online. </p>
+
 								<a href="documents/2019-stewardship-rector.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Rector</a><br>
 								<a href="documents/2018-Chair-INTRO-Stewardship-FINAL.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Stewardship Chair</a><br>
 								<a href="documents/2019-stewardship-wardens.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Wardens</a><br>
@@ -292,8 +292,8 @@
 									<li>Frequently Asked Question brochure about pledging and proportional giving</li>
 									<li>Return Envelope</li>
 								</ul> -->
-								<p>Please return your blue pledge card and your information sheet with any updates/additions/corrections in the confidential return envelope on Sunday, November 18, 2018.  During all services, Fr. Tom will invite us to bring forward our pledges of time, talent and treasure as a sign of our commitment to our church community.  If you can’t be at services on November 18th, please mail your envelope by November 18th or soon after.   </p>
-								<p>Thank you in advance for your prayerful consideration of your pledge to support the ministries of Christ Church in 2019 both financially and through volunteering your time and talents! Together, we can reach our goal of 100% participation in returning completed pledge forms. The Vestry and Finance committees are working hard to plan for Christ Church’s upcoming program year and your pledge of time, talent, and treasure is a vital part of this planning.</p>
+								<p>Thank you for your prayerful consideration of your pledge to support the ministries of Christ Church in 2019 both financially and through volunteering your time and talents! Together, we can reach our goal of 100% participation in pledging.</p>
+								<p><strong>If you have not yet made your pledge for 2019, please do so using the "Pledge Online" button below!</strong></p>
 								<p>Please feel free to contact our Stewardship Chair, <a href="mailto:deanna.najork@gmail.com"> Deanna Najork</a>, with any questions.  Thank you again!</p>
 							</div>
 						</div>
