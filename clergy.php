@@ -170,15 +170,17 @@
 			</div>
 			<div class="col-md-6">
 				<div class="row">
-					<div class="col-md-4 col-sm-4 col-xs-4">
-						<div align="center">
-							<img src="images/clergy/marge.jpg" class="img-fluid rounded-circle"/>
+						<div class="col-md-4 col-sm-4 col-xs-4">
+							<div align="center">
+								<img src="images/vestry/missing.jpg" class="img-fluid rounded-circle"/>
+							</div>
 						</div>
-					</div>
-					<div class="col-md-8">
-						<h4>Marge Singer<br><small>Emeritus Finance Secretary</small></h4>
-					</div>
-				</div>
+						<div class="col-md-8">
+							<h4>Louise Rode<br><small>Parish Administrator</small></h4>
+							<p>Louise worked as an administrator/office manager for many years in New York City and decided it was time to come back home. She lives with her husband in Closter, NJ.</p>
+						</div>
+					</div>			
+
 			</div>
 		</div>
 
@@ -198,6 +200,16 @@
 				</div>
 			</div>
 			<div class="col-md-6">
+			<div class="row">
+					<div class="col-md-4 col-sm-4 col-xs-4">
+						<div align="center">
+							<img src="images/clergy/marge.jpg" class="img-fluid rounded-circle"/>
+						</div>
+					</div>
+					<div class="col-md-8">
+						<h4>Marge Singer<br><small>Emeritus Finance Secretary</small></h4>
+					</div>
+				</div>
 			</div>
 		</div>
 
