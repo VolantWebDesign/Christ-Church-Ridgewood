@@ -104,7 +104,7 @@
 								  <tr>
 									<th scope="row"></th>
 									<td>Children of all ages are welcome to participate in the pageant! 
-									<!-- <a href="documents/pageant_children.pdf" target="_blank">Click here to learn how.</a> -->
+									<a href="documents/pageant_children2018.png" target="_blank">Click here to learn how.</a>
 									</td>
 								  </tr>
 								  <tr>
