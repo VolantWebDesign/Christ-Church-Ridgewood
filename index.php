@@ -87,7 +87,7 @@
 								<img src="images/adventwreath.jpg" alt="" class="img-fluid"><br>
 								<div class="row">
 									<div class="col" align="center">
-										<!-- <a href="documents/insert_christmas.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Christmas Announcements</a>  -->
+										<a href="documents/christmasinsert.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Christmas Announcements</a> 
 									</div>
 								</div>
 							</div>
@@ -98,7 +98,7 @@
 								  <tr>
 									<th scope="row">4:00PM</th>
 									<td>Christmas Pageant: Eucharist service for families and children of all ages 
-									<!-- <a href="documents/pageantprogram.pdf" target="blank">(Program)</a> -->
+									<a href="documents/pageantprogram.pdf?k=<?php echo $thekeys; ?>" target="blank">(Program)</a>
 									</td>
 								  </tr>
 								  <tr>
@@ -110,7 +110,7 @@
 								  <tr>
 									<th scope="row">10:00PM</th>
 									<td>Candlelight Communion: A rich service with incense and carols, following a musical prelude 
-									<!-- <a href="documents/christmaseveprogram.pdf?k=<?php echo $thekeys; ?>" target="blank">(Program)</a> -->
+									<a href="documents/christmaseveprogram.pdf?k=<?php echo $thekeys; ?>" target="blank">(Program)</a>
 									</td>
 								  </tr>
 								</tbody>
@@ -122,7 +122,8 @@
 									<tbody>
 										<tr>
 											<th scope="row">10:00AM</th>
-											<td>Christmas Day: Eucharist and carols celebrating the start of Christmas</td>
+											<td>Christmas Day: Eucharist and carols celebrating the start of Christmas
+											<a href="documents/christmasdayprogram.pdf?k=<?php echo $thekeys; ?>" target="blank">(Program)</a></td>
 										</tr>
 									</tbody>
 								</table>
@@ -248,7 +249,6 @@
 									<tr>
 										<td>
 											<ul id="celtic">
-												<li>December 16 - <strong>"A Quiet Christmas"</strong></li>
 												<li>January 20</li>
 												<li>February 17</li>
 											</ul>

@@ -279,7 +279,7 @@
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
-					<hr><img src="images/vestry/elaina_r.jpg" class="img-fluid rounded-circle"/><br>Elaina Richardi<br>
+					<hr><img src="images/vestry/elaina_r2.png" class="img-fluid rounded-circle"/><br>Elaina Richardi<br>
 				</div>
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
