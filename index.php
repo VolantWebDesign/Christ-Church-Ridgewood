@@ -241,8 +241,10 @@
 				<h2 style="color:#113056">Upcoming Events</h2>
 			</div>
 
-			<!-- Jubilation Choir -->
+			<!-- column left -->
 			<div class="col-md-6">
+
+				<!-- Jubilation Choir -->
 				<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Jubilation Choir</h2>
@@ -254,17 +256,47 @@
 						<a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
 					</div>
 				</div>
-			</div>
 
-			<!-- Youth African Drumming -->
-			<div class="col-md-6">
+				<!-- children's service -->
 				<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Children's Service</h2>
 						<img src="images/JOYcloseup.JPG" alt="Children's Service at Christ Church" title="Children's Service at Christ Church" class="img-fluid">
-						<p>JOY worship runs all summer long! Sunday service and eucharist perfect for children ages infant-5yrs. Come be part of the fun and beat the heat from 9:15am-9:45.</p>
+						<p>JOY worship runs all year long! Sunday service and eucharist perfect for children ages infant-5yrs. Come be part of the fun from 9:15-9:45AM.</p>
 					</div>
 				</div>
+			</div>
+
+
+			<!-- column right -->
+			<div class="col-md-6">
+
+			<!-- Musical: Joseph -->
+			<div class="card">
+					<div class="card-body" align="center">
+						<h2 class="cardtop">Musical: Joseph and the Amazing Technicolor Dreamcoat</h2>
+						<img src="images/josephandtheamazing.png" alt="Joseph and the Amazing Technicolor Dreamcoat" title="Joseph and the Amazing Technicolor Dreamcoat" class="img-fluid">
+						<p></p>
+						<br>
+						<b>Rehearsals: Every Sunday January-February</b>
+						<br>
+						10:40AM (directly after Sunday School)
+						<br>
+						<b>Final Run:</b> Feb. 24th, 10:00AM
+						<br>
+						<b>Dress Rehearsal:</b> Mar. 2nd, 2:00PM
+						<br>
+						<b>Show:</b> Mar. 3rd, 10:00AM (during the 10:00 Service)
+						<br><br>
+					</div>
+					<!-- Footer buttons -->
+					<div align="center" class="card-footer">
+						<a href="/musical.php" target="_blank" class="btn btn-outline-primary" >Details, Music and Lyrics</a>
+						<a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
+					</div>
+				</div>
+
+			<!-- Youth African Drumming -->
 				<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Youth African Drumming</h2>
@@ -276,6 +308,7 @@
 						<a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
 					</div>
 				</div>
+
 				<!-- SoundCloud -->
 				<!-- <iframe width="100%" height="350" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/136812277&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe> -->
 			</div>
