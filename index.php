@@ -159,8 +159,9 @@
 									<tr>
 										<td>
 											<ul id="celtic">
-												<li>January 20</li>
 												<li>February 17</li>
+												<li>March 17</li>
+												<li>April: TBD</li>
 											</ul>
 										</td>
 									</tr>
@@ -244,17 +245,29 @@
 			<!-- column left -->
 			<div class="col-md-6">
 
+			<!-- Adult Choir -->
+			<div class="card">
+				<div class="card-body" align="center">
+					<h2 class="cardtop">Adult Choir</h2>
+					<p>Do you love to sing? Please consider joining our choir and participating in a vital ministry. The choir musically leads our services each Sunday at 10 am. The choir’s repertoire includes great masterpieces from our Anglican tradition as well as beloved classics along with spirituals and contemporary choral works. We have openings for all voice parts. </p>
+				</div>
+				<!-- Footer buttons -->
+				<div align="center" class="card-footer">
+					<a href="mailto:organist@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact William Trafka</button></a>
+				</div>
+			</div>
+
 			<!-- Weekly Music Article -->
 			<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Music & Liturgy Notes</h2>
-						<h3>For February 10</h3>
+						<h3>For February 17</h3>
 						<img src="images/organist-choir1.jpg" alt="Organist and Choir" title="Organist and Choir" class="img-fluid">
-						<p>In Luke’s Gospel read this Sunday, we hear the story of the multitude of fish caught at the lake of Gennesaret and the bidding of Simon Peter, James and John to follow Jesus. The music sung at our 10 am service reflects this following of Jesus in both the hymns and anthems. 
-						</p><p>
-						Samuel Sebastian Wesley (1810-1876) was the grandson of Charles Wesley, the great English hymn writer, and was one of the first and most influential organists and composers for the Anglican Church in the Romantic era. He served many notable cathedrals including Exeter, Winchester, and Gloucester. His enduring anthem “Lead me, Lord” is from a larger work “Praise the Lord, O my soul.”
-						</p><p>
-						This morning, we’ll also recognize Black History month by singing the great Gospel hymn “Precious Lord.” This hymn, by the Gospel singer Thomas A. Dorsey, was composed in response to the death of Dorsey’s wife and newly born son in a car accident in 1932. That such inspiring beauty could emerge from such tragic circumstances, is a testament to the determination of courage of Dorsey.</p>
+						<p>Luke’s Gospel heard today recounts the story of Jesus’ healing of a great multitude from all Judea, Jerusalem and throughout the region.  We hear that all who touched Jesus were healed by the power emanating from him. The hymns and Offertory anthem sung today all point to his extraordinary capacity to heal in the many Gospel stories and its relevance for us today.</p>
+						<p>
+						The Gospel Hymn “Heal me, hands of Jesus,” was written by the late 20th century Anglican clergyman Michael Arnold Perry, a prolific hymn writer, whose many hymns were published by Jubilate, a major publisher of contemporary hymnody in England. It is included in the Episcopal hymnal “Wonder, Love and Praise,” a supplement to The Hymnal 1982. The composer Carl W. Haywood, a major contributor to many musical publications of the Episcopal Church, composed the very attractive tune. Dr. Haywood serves as Director of Choral Activities at Norfolk State University in VA.</p>
+						<p>
+						At the conclusion of the service, we’ll sing “All my hope on God is founded,” a hymn by Robert Seymour Bridges, the late 19th and early 20th century British poet and translator. The tune, Michael, by the great English composer Herbert Howells, was composed to honor the memory of Howells’ son, who died of polio at age nine. It is remarkable that a father’s grief can be transformed into such triumphal joy in this great testament to the power of healing.</p>
 					</div>
 				</div>
 
