@@ -119,7 +119,27 @@
 					<div class="card-body">
 						<div class="row">
 							<div class="col-md-6">
-								<h3>Each Sunday</h3>
+							<h3>Annual Meeting: February 24th</h3>
+								<table class="table table-striped ">
+									<tr>
+										<td align="right" ><strong>9:30 AM</strong></td>
+										<td>Holy Eucharist COMBINED SERVICE<br><a href="documents/bulletin.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm  btn-outline-primary ">Program</a></td>
+									</tr>
+									<tr>
+										<td align="right"><strong>11:00 AM</strong></td>
+										<td>Annual Meeting in the Guild's Hall</td>
+									</tr>
+								</table>
+								<hr>
+								<div class="row">
+									<div class="col" align="center">
+										<a href="documents/insert.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Announcements</a>
+									</div>
+									<div class="col" align="center">
+										<a href="documents/YouthRegistrationForm2018-19.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-primary">Youth Programs Registration Form</a>
+									</div>
+								</div>
+								<!-- <h3>Each Sunday</h3>
 								<table class="table table-striped ">
 									<tr>
 										<td align="right" ><strong>8:00 AM</strong></td>
@@ -148,7 +168,7 @@
 									<tr>
 										<td colspan="2"><div align="center"><strong>Nursery Care: 9:30am-11:30am</strong></div></td>
 									</tr>
-								</table>
+								</table> -->
 							</div>
 
 							<div class="col-md-6">
@@ -159,9 +179,9 @@
 									<tr>
 										<td>
 											<ul id="celtic">
-												<li>February 17</li>
 												<li>March 17</li>
 												<li>April: TBD</li>
+												<li>May 19</li>
 											</ul>
 										</td>
 									</tr>
@@ -170,15 +190,6 @@
 								<div class="row">
 									<div class="col" style="padding-top: 20px;"><h4>Monday</h4><strong>7:00 AM</strong><br>Morning Prayer</div>
 									<div class="col" style="padding-top: 20px;"><h4>Wednesday</h4><strong>7:00 AM</strong><br>Holy Eucharist (Mass)</div>
-								</div>
-								<hr>
-								<div class="row">
-									<div class="col" align="center">
-										<a href="documents/insert.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Announcements</a>
-									</div>
-									<div class="col" align="center">
-										<a href="documents/YouthRegistrationForm2018-19.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-primary">Youth Programs Registration Form</a>
-									</div>
 								</div>
 							</div>
 						</div>
@@ -245,6 +256,25 @@
 			<!-- column left -->
 			<div class="col-md-6">
 
+			<!-- Progressive Dinner -->
+			<div class="card">
+					<div class="card-body" align="center">
+						<h2 class="cardtop">Progressive Dinner</h2>
+						<img src="images/ProgressiveDinnerInvite.png" alt="Progressive Dinner Invitation" title="Progressive Dinner Invitation" class="img-fluid">
+						<br>
+						<b>When:</b> March 30, 5:00PM
+						<br>
+						<b>Where:</b> Christ Church
+						<br>
+						<b>What:</b> A progressive dinner where each course is shared with different combinations of parishioners in various rooms in the church.
+						<br><br>
+					</div>
+				<!-- Footer buttons -->
+					<div align="center" class="card-footer">
+						<a href="https://docs.google.com/forms/d/e/1FAIpQLSdhIauqhJ_c3evEA8ZIVEgLKibH6hdDDihfbXBCQ2Xpa5fN_w/viewform" target="_blank"><button type="button" class="btn btn-outline-primary">Details + RSVP</button></a>
+					</div>					
+				</div>
+
 			<!-- Adult Choir -->
 			<div class="card">
 				<div class="card-body" align="center">
@@ -261,13 +291,11 @@
 			<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Music & Liturgy Notes</h2>
-						<h3>For February 17</h3>
+						<h3>For February 24</h3>
 						<img src="images/organist-choir1.jpg" alt="Organist and Choir" title="Organist and Choir" class="img-fluid">
-						<p>Luke’s Gospel heard today recounts the story of Jesus’ healing of a great multitude from all Judea, Jerusalem and throughout the region.  We hear that all who touched Jesus were healed by the power emanating from him. The hymns and Offertory anthem sung today all point to his extraordinary capacity to heal in the many Gospel stories and its relevance for us today.</p>
+						<p>In Luke’s Gospel heard today, Jesus bids his followers to "love your enemies, do good, and lend, expecting nothing in return. Your reward will be great, and you will be children of the Most High.”- a timely charge for this Sunday, when we meet in an Annual Meeting to uphold Christ Church’s mission in Ridgewood and in the world. The hymns sung today stress the role and mission of the church with the prayer that its message of peace and Jesus’ challenging brand of love will be spread abroad “until all the world awakes to light.”</p>
 						<p>
-						The Gospel Hymn “Heal me, hands of Jesus,” was written by the late 20th century Anglican clergyman Michael Arnold Perry, a prolific hymn writer, whose many hymns were published by Jubilate, a major publisher of contemporary hymnody in England. It is included in the Episcopal hymnal “Wonder, Love and Praise,” a supplement to The Hymnal 1982. The composer Carl W. Haywood, a major contributor to many musical publications of the Episcopal Church, composed the very attractive tune. Dr. Haywood serves as Director of Choral Activities at Norfolk State University in VA.</p>
-						<p>
-						At the conclusion of the service, we’ll sing “All my hope on God is founded,” a hymn by Robert Seymour Bridges, the late 19th and early 20th century British poet and translator. The tune, Michael, by the great English composer Herbert Howells, was composed to honor the memory of Howells’ son, who died of polio at age nine. It is remarkable that a father’s grief can be transformed into such triumphal joy in this great testament to the power of healing.</p>
+						At the Offertory, Christ Church Choir will sing a setting of “Bless, O Lord, us thy servants,” a prayer for Choristers used for many services and events sponsored by The Royal School of Church Music, a world-wide organization committed to promote the study, practice and improvement of music in Christian worship. Based in England, the organization has had many notable musicians serve as President, including Martin How, who composed the music for the setting heard this morning. Its appeal for faith, belief and action is intended not just for those who sing it, but to all who hear it on this meaningful day.</p>
 					</div>
 				</div>
 
