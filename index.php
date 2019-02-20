@@ -129,8 +129,10 @@
 										<td align="right"><strong>11:00 AM</strong></td>
 										<td>Annual Meeting in the Guild's Hall</td>
 									</tr>
+									<tr>
+										<td colspan="2"><div align="center"><strong>Nursery Care & Sunday School/Musical Rehearsal: 9:30am-12:00pm</strong></div></td>
+									</tr>
 								</table>
-								<hr>
 								<div class="row">
 									<div class="col" align="center">
 										<a href="documents/insert.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Announcements</a>
