@@ -73,6 +73,37 @@
 			</div>
 		</div>
 
+Email Form from Jonathan Riemer
+place in body at top:
+ <?php 
+ if(isset($_POST['submit'])){
+ $to = "gleasonsnyc@gmail.com"; // this is your Email address
+ $from = $_POST['email']; // this is the sender's Email address
+ $first_name = $_POST['first_name'];
+ $last_name = $_POST['last_name'];
+ $phone = $_POST['phone'];
+ $subject = "Request from Gleasons Website";
+ $subject2 = "Copy of your email to Gleasons";
+ $message = $first_name . " " . $last_name . " wrote the following:" . "\n\n" . $_POST['message'] . " Phone: ".$_POST['phone'];
+ $message2 = "Here is a copy of your message " . $first_name . "\n\n" . $_POST['message'];
+ $headers = "From:" . $from;
+ $headers2 = "From:" . $to;
+ mail($to,$subject,$message,$headers);
+ mail($from,$subject2,$message2,$headers2); // sends a copy of the message to the sender
+ echo "<div class='alert alert-success' role='alert'><h3 align='center'>Your email has successfully been sent to Gleasons Tavern</h3></div>";
+ }
+?>
+the actual email form:
+ <form action="" method="post">
+ <input type="text" name="first_name" placeholder="First Name" class="form-control" required><br>
+ <input type="text" name="last_name" placeholder="Last Name" class="form-control" required><br>
+ <input type="text" name="phone" placeholder="Phone" class="form-control" required><br>
+ <input type="email" name="email" placeholder="E-Mail" class="form-control" required><br>
+ Message:<br><textarea class="form-control" rows="5" name="message" cols="30"></textarea><br>
+ <input type="submit" name="submit" class="btn btn-warning" value="Submit">
+ </form> 
+
+ 
 	<!-- VBS -->
 	<div class="row">
 				<div class="col-md-12">

@@ -50,6 +50,26 @@ $current = 'contact';
 include "navigation.php";
 ?>
 
+<!-- Email form instructions -->
+<!-- <?php 
+ if(isset($_POST['submit'])){
+ $to = "tyler@volantweb.com"; // this is your Email address
+ $from = $_POST['email']; // this is the sender's Email address
+ $first_name = $_POST['first_name'];
+ $last_name = $_POST['last_name'];
+ $phone = $_POST['phone'];
+ $subject = "Request from Gleasons Website";
+ $subject2 = "Copy of your email to Gleasons";
+ $message = $first_name . " " . $last_name . " wrote the following:" . "\n\n" . $_POST['message'] . " Phone: ".$_POST['phone'];
+ $message2 = "Here is a copy of your message " . $first_name . "\n\n" . $_POST['message'];
+ $headers = "From:" . $from;
+ $headers2 = "From:" . $to;
+ mail($to,$subject,$message,$headers);
+ mail($from,$subject2,$message2,$headers2); // sends a copy of the message to the sender
+ echo "<div class='alert alert-success' role='alert'><h3 align='center'>Your email has successfully been sent to Christ Episcopal Church</h3></div>";
+ }
+?> -->
+
 <!-- Modal Mail -->
 <div class="modal">
     <form class="form">
@@ -88,6 +108,16 @@ include "navigation.php";
                     </div>
                     <hr>
                     <div align="center">
+<!-- Email Form -->
+                    <!-- <form action="" method="post">
+ <input type="text" name="first_name" placeholder="First Name" class="form-control" required><br>
+ <input type="text" name="last_name" placeholder="Last Name" class="form-control" required><br>
+ <input type="text" name="phone" placeholder="Phone" class="form-control" required><br>
+ <input type="email" name="email" placeholder="E-Mail" class="form-control" required><br>
+ Message:<br><textarea class="form-control" rows="5" name="message" cols="30"></textarea><br>
+ <input type="submit" name="submit" class="btn btn-warning" value="Submit">
+ </form>  -->
+
                         <a class="btn btn-warning" href="http://visitor.r20.constantcontact.com/d.jsp?llr=56u4hgcab&p=oi&m=1101868815294&sit=qgg7clycb&f=eb928dd1-e1c1-442e-a385-dca142ab5c8e" target="_blank">Sign Up For Our Newsletter</a>
                     </div>
             </div>
