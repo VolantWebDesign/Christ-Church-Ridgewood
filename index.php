@@ -109,6 +109,56 @@
 			</div>
 		</div>
 
+
+<!-- Ash Wednesday and Lent -->
+<div class="col-md-12">
+			<div class="card border">
+				<div class="card-header" align="center">
+					<h3 class="card-title" >The Season of Lent at Christ Church</h3>
+				</div>
+				<div class="card-body" >
+					<div class="row" >
+						<div class="col-md-6">
+							<h3 >Ash Wednesday, March 6</h3>
+						<table class="table table-striped">
+							<tbody>
+							<tr>
+								<th scope="row">7:30AM</th>
+								<td>Imposition of Ashes</td>
+							</tr>
+							<tr>
+								<th scope="row">8:30-9:30AM</th>
+								<td>Ashes to Go "drive-thru"</a></td>
+							</tr>
+							<tr>
+								<th scope="row">12:00PM</th>
+								<td>Imposition of Ashes</a></td>
+							</tr>
+							<tr>
+								<th scope="row">2:30-3:30PM</th>
+								<td>Ashes to Go "drive-thru"</a></td>
+							</tr>
+							<tr>
+								<th scope="row">7:00PM</th>
+								<td>Imposition of Ashes w/ Choir</a></td>
+							</tr>
+							</tbody>
+						</table>
+							<hr>
+							<h5>Lenten Breakfast</h5>
+							<p>Sundays in Lent, starting March 10, 8:45 - 10:15AM in the Great Hall, $5/adult to cover cost, <br><strong>Children eat FREE!</strong></p>
+						</div>
+						<div class="col-md-6" align="center">
+							<br><br><br><br>
+							<h3>"Remember that you are dust, and to dust you will return."</h3>
+
+						</div>
+					</div>
+				</div>	
+			</div>
+		</div>
+
+
 		<div class="row">
 			<!-- Worship schedule -->
 			<div class="col-md-12">
@@ -119,29 +169,7 @@
 					<div class="card-body">
 						<div class="row">
 							<div class="col-md-6">
-							<h3>Annual Meeting: February 24th</h3>
-								<table class="table table-striped ">
-									<tr>
-										<td align="right" ><strong>9:30 AM</strong></td>
-										<td>Holy Eucharist COMBINED SERVICE<br><a href="documents/bulletin.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm  btn-outline-primary ">Program</a></td>
-									</tr>
-									<tr>
-										<td align="right"><strong>11:00 AM</strong></td>
-										<td>Annual Meeting in the Guild's Hall</td>
-									</tr>
-									<tr>
-										<td colspan="2"><div align="center"><strong>Nursery Care & Sunday School/Musical Rehearsal: 9:30am-12:00pm</strong></div></td>
-									</tr>
-								</table>
-								<div class="row">
-									<div class="col" align="center">
-										<a href="documents/insert.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Announcements</a>
-									</div>
-									<div class="col" align="center">
-										<a href="documents/YouthRegistrationForm2018-19.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-primary">Youth Programs Registration Form</a>
-									</div>
-								</div>
-								<!-- <h3>Each Sunday</h3>
+								<h3>Each Sunday</h3>
 								<table class="table table-striped ">
 									<tr>
 										<td align="right" ><strong>8:00 AM</strong></td>
@@ -170,7 +198,7 @@
 									<tr>
 										<td colspan="2"><div align="center"><strong>Nursery Care: 9:30am-11:30am</strong></div></td>
 									</tr>
-								</table> -->
+								</table>
 							</div>
 
 							<div class="col-md-6">
@@ -192,6 +220,15 @@
 								<div class="row">
 									<div class="col" style="padding-top: 20px;"><h4>Monday</h4><strong>7:00 AM</strong><br>Morning Prayer</div>
 									<div class="col" style="padding-top: 20px;"><h4>Wednesday</h4><strong>7:00 AM</strong><br>Holy Eucharist (Mass)</div>
+								</div>
+
+								<div class="row">
+									<div class="col" align="center">
+										<a href="documents/insert.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Announcements</a>
+									</div>
+									<div class="col" align="center">
+										<a href="documents/YouthRegistrationForm2018-19.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-primary">Youth Programs Registration Form</a>
+									</div>
 								</div>
 							</div>
 						</div>
@@ -293,11 +330,10 @@
 			<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Music & Liturgy Notes</h2>
-						<h3>For February 24</h3>
+						<h3>For March 3</h3>
 						<img src="images/organist-choir1.jpg" alt="Organist and Choir" title="Organist and Choir" class="img-fluid">
-						<p>In Luke’s Gospel heard today, Jesus bids his followers to "love your enemies, do good, and lend, expecting nothing in return. Your reward will be great, and you will be children of the Most High.”- a timely charge for this Sunday, when we meet in an Annual Meeting to uphold Christ Church’s mission in Ridgewood and in the world. The hymns sung today stress the role and mission of the church with the prayer that its message of peace and Jesus’ challenging brand of love will be spread abroad “until all the world awakes to light.”</p>
-						<p>
-						At the Offertory, Christ Church Choir will sing a setting of “Bless, O Lord, us thy servants,” a prayer for Choristers used for many services and events sponsored by The Royal School of Church Music, a world-wide organization committed to promote the study, practice and improvement of music in Christian worship. Based in England, the organization has had many notable musicians serve as President, including Martin How, who composed the music for the setting heard this morning. Its appeal for faith, belief and action is intended not just for those who sing it, but to all who hear it on this meaningful day.</p>
+						<p>On this, the Last Sunday after the Epiphany, we sing hymns of praise with “alleluias,” including “Alleluia! Sing to Jesus,” and “Ye watchers and ye holy ones,” the last opportunity we have to say or sing this joyous word before we enter the season of Lent.</p>
+						<p>We also celebrate the prodigious gifts of the youth of Christ Church as they offer the cantata “Joseph and the Amazing Technicolor Dreamcoat,” originally created in 1968 with lyrics by Tim Rice and music by Andrew Lloyd Webber- a collaboration which also resulted in the Broadway show “Jesus Christ Superstar.” In the Collect of the Day, we pray to be transformed into the likeness of God as we behold the light of his countenance. Today, our youth, in their singing and acting offer us a glimpse of this eternal light. May we be so inspired so that we, like them, may “walk as a child of the light."</p>
 					</div>
 				</div>
 
