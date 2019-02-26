@@ -502,3 +502,20 @@ Overnight vigil in church, beginning immediately after service.</td>
 				</div>
 			</div>
 		</div>
+
+
+		Annual Meeting
+							<h3>Annual Meeting: February 24th</h3>
+								<table class="table table-striped ">
+									<tr>
+										<td align="right" ><strong>9:30 AM</strong></td>
+										<td>Holy Eucharist COMBINED SERVICE<br><a href="documents/bulletin.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm  btn-outline-primary ">Program</a></td>
+									</tr>
+									<tr>
+										<td align="right"><strong>11:00 AM</strong></td>
+										<td>Annual Meeting in the Guild's Hall</td>
+									</tr>
+									<tr>
+										<td colspan="2"><div align="center"><strong>Nursery Care & Sunday School/Musical Rehearsal: 9:30am-12:00pm</strong></div></td>
+									</tr>
+								</table>
