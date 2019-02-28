@@ -70,31 +70,7 @@
 					<div class="card-body">
 						<div class="row">
 							<div class="col-lg-7">
-								<div id="carouselWelcome" class="carousel slide" data-ride="carousel">
-									<div class="carousel-inner">
-										<div class="carousel-item active">
-											<img class="d-block w-100" src="images/congregation8AMedit.jpg" alt="Christ Church 8AM congregation">
-											<div class="carousel-caption d-none d-md-block">
-												<h5>Please Join Us at 8:00AM</h5>
-												<p>An intimate service for early risers</p>
-											</div>
-										</div>
-										<div class="carousel-item">
-											<img class="d-block w-100" src="images/congregation9AM.JPG" alt="Christ Church 9AM congregation">
-											<div class="carousel-caption d-none d-md-block">
-												<h5>Please Join Us at 9:15AM</h5>
-												<p>A 30-minute service for children and young families</p>
-											</div>
-										</div>
-										<div class="carousel-item">
-											<img class="d-block w-100" src="images/congregation10AM.JPG" alt="Christ Church 10AM congregation">
-											<div class="carousel-caption d-none d-md-block">
-												<h5>Please Join Us at 10:00AM</h5>
-												<p>Our largest service, with organ and full choir</p>
-											</div>
-										</div>
-									</div>
-								</div>
+								<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FChristEpiscopalChurchRidgewood%2Fvideos%2F705944633133785%2F&show_text=0&width=560" width="100%" height="100%" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 							</div>
 							<div class="col-lg-5">
 								<div class="card-body">
@@ -149,8 +125,7 @@
 							<p>Sundays in Lent, starting March 10, 8:45 - 10:15AM in the Great Hall, $5/adult to cover cost, <br><strong>Children eat FREE!</strong></p>
 						</div>
 						<div class="col-md-6" align="center">
-							<br><br><br><br>
-							<h3>"Remember that you are dust, and to dust you will return."</h3>
+							<img src="images/Ash-Wednesday.jpg" alt="Ash Wednesday" class="img-fluid" >
 
 						</div>
 					</div>
