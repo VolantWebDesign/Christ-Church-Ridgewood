@@ -70,7 +70,33 @@
 					<div class="card-body">
 						<div class="row">
 							<div class="col-lg-7">
-								<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FChristEpiscopalChurchRidgewood%2Fvideos%2F705944633133785%2F&show_text=0&width=560" width="100%" height="100%" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+								<div id="carouselWelcome" class="carousel slide" data-ride="carousel">
+									<div class="carousel-inner">
+										<div class="carousel-item active">
+											<img class="d-block w-100" src="images/congregation8AMedit.jpg" alt="Christ Church 8AM congregation">
+											<div class="carousel-caption d-none d-md-block">
+												<h5>Please Join Us at 8:00AM</h5>
+												<p>An intimate service for early risers</p>
+											</div>
+										</div>
+										<div class="carousel-item">
+											<img class="d-block w-100" src="images/congregation9AM.JPG" alt="Christ Church 9AM congregation">
+											<div class="carousel-caption d-none d-md-block">
+												<h5>Please Join Us at 9:15AM</h5>
+												<p>A 30-minute service for children and young families</p>
+											</div>
+										</div>
+										<div class="carousel-item">
+											<img class="d-block w-100" src="images/congregation10AM.JPG" alt="Christ Church 10AM congregation">
+											<div class="carousel-caption d-none d-md-block">
+												<h5>Please Join Us at 10:00AM</h5>
+												<p>Our largest service, with organ and full choir</p>
+											</div>
+										</div>
+									</div>
+								</div>
+
 							</div>
 							<div class="col-lg-5">
 								<div class="card-body">
@@ -305,10 +331,10 @@
 			<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Music & Liturgy Notes</h2>
-						<h3>For March 3</h3>
+						<h3>For March 10</h3>
 						<img src="images/organist-choir1.jpg" alt="Organist and Choir" title="Organist and Choir" class="img-fluid">
-						<p>On this, the Last Sunday after the Epiphany, we sing hymns of praise with “alleluias,” including “Alleluia! Sing to Jesus,” and “Ye watchers and ye holy ones,” the last opportunity we have to say or sing this joyous word before we enter the season of Lent.</p>
-						<p>We also celebrate the prodigious gifts of the youth of Christ Church as they offer the cantata “Joseph and the Amazing Technicolor Dreamcoat,” originally created in 1968 with lyrics by Tim Rice and music by Andrew Lloyd Webber- a collaboration which also resulted in the Broadway show “Jesus Christ Superstar.” In the Collect of the Day, we pray to be transformed into the likeness of God as we behold the light of his countenance. Today, our youth, in their singing and acting offer us a glimpse of this eternal light. May we be so inspired so that we, like them, may “walk as a child of the light."</p>
+						<p>As we embark onto the season of Lent, the resounding “alleluias,” joyous anthems and hymns, delightful youth cantata, and festive organ works of the season of Epiphany become transformed into the austerity of plainsong, and more introspective, “soul searching” music and liturgy. To mark this, The Great Litany will be offered at the 8 am and 10 am services: spoken at 8 am and sung in procession at 10 am. A litany is a sequence of petitions led by an officiant with responses answered by a congregation. The word comes from the Greek “litê,” meaning “supplication.” Litanies have been part of both Jewish and Christian liturgies throughout history.</p>
+						<p>The Anglican “Great” Litany was first prepared by Archbishop Thomas Cranmer and published in 1544 and ordered by Henry VIII to be used in church processions when England was at war with Scotland and France. It was included in the first Book of Common Prayer in 1549 as an appendix to the service of Holy Communion and has been included in each subsequent edition of the Prayer Book. The musical setting heard today was composed by John Merbecke (c.1510- c.1585), an English musician whose The Booke of Common Praier Noted provided liturgical music for the 1549 Prayer Book.</p>
 					</div>
 				</div>
 
@@ -331,28 +357,14 @@
 			<!-- column right -->
 			<div class="col-md-6">
 
-			<!-- Musical: Joseph -->
+			<!-- Annual Meeting Video -->
 			<div class="card">
 					<div class="card-body" align="center">
-						<h2 class="cardtop">Musical: Joseph and the Amazing Technicolor Dreamcoat</h2>
-						<img src="images/josephandtheamazing.png" alt="Joseph and the Amazing Technicolor Dreamcoat" title="Joseph and the Amazing Technicolor Dreamcoat" class="img-fluid">
-						<p></p>
+						<h2 class="cardtop">Annual Meeting Slideshow:
 						<br>
-						<b>Rehearsals: Every Sunday January-February</b>
-						<br>
-						10:40AM (directly after Sunday School)
-						<br>
-						<b>Final Run:</b> Feb. 24th, 10:00AM
-						<br>
-						<b>Dress Rehearsal:</b> Mar. 2nd, 2:00PM
-						<br>
-						<b>Show:</b> Mar. 3rd, 10:00AM (during the 10:00 Service)
-						<br><br>
-					</div>
-					<!-- Footer buttons -->
-					<div align="center" class="card-footer">
-						<a href="/musical.php" target="_blank" class="btn btn-outline-primary" >Details, Music and Lyrics</a>
-						<a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
+						A look back at 2018</h2>
+						<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FChristEpiscopalChurchRidgewood%2Fvideos%2F705944633133785%2F&show_text=0&width=560"  style="border:none;overflow:hidden;max-width: 100% !important;width: auto !important;height: auto !important;" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
 					</div>
 				</div>
 
