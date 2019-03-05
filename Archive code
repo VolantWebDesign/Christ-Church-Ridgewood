@@ -345,6 +345,35 @@ Overnight vigil in church, beginning immediately after service.</td>
 			</div>
 		</div>
 
+	Facebook video embed
+			<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FChristEpiscopalChurchRidgewood%2Fvideos%2F705944633133785%2F&show_text=0&width=560" width="100%" height="100%" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+
+		<!-- Musical: Joseph -->
+			<div class="card">
+					<div class="card-body" align="center">
+						<h2 class="cardtop">Musical: Joseph and the Amazing Technicolor Dreamcoat</h2>
+						<img src="images/josephandtheamazing.png" alt="Joseph and the Amazing Technicolor Dreamcoat" title="Joseph and the Amazing Technicolor Dreamcoat" class="img-fluid">
+						<p></p>
+						<br>
+						<b>Rehearsals: Every Sunday January-February</b>
+						<br>
+						10:40AM (directly after Sunday School)
+						<br>
+						<b>Final Run:</b> Feb. 24th, 10:00AM
+						<br>
+						<b>Dress Rehearsal:</b> Mar. 2nd, 2:00PM
+						<br>
+						<b>Show:</b> Mar. 3rd, 10:00AM (during the 10:00 Service)
+						<br><br>
+					</div>
+					<!-- Footer buttons -->
+					<div align="center" class="card-footer">
+						<a href="/musical.php" target="_blank" class="btn btn-outline-primary" >Details, Music and Lyrics</a>
+						<a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
+					</div>
+				</div>
+
 
 		<!-- Welcome carousel -->
 		<div class="row">
