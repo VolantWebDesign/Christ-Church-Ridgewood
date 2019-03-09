@@ -149,9 +149,16 @@
 							<hr>
 							<h5>Lenten Breakfast</h5>
 							<p>Sundays in Lent, starting March 10, 8:45 - 10:15AM in the Great Hall, $5/adult to cover cost, <br><strong>Children eat FREE!</strong></p>
+							<hr>
+							<h5>Lenten Discussion Series</h5>
+							<p>March 11, 18 & 25, April 8, 7:00PM in the Guilds Room, light refreshments provided</p>
+							<p>Come Join Fr. Tom for a Lenten series on a recent article about "Workism" and how we can reorient our work+life balance through Worship. Data on the increasing work schedule and stress will be discussed, along with pros and cons of workplaces in recent decades. Practical, simple worship models will be included that allow people to take a "worship break" regularly in their daily lives.</p>
 						</div>
 						<div class="col-md-6" align="center">
 							<img src="images/Ash-Wednesday.jpg" alt="Ash Wednesday" class="img-fluid" >
+
+							<h3>Drive-Through-Ashes at Christ Church featured on 1010 WINS</h3>
+							<iframe src='//players.brightcove.net/5757251889001/default_default/index.html?videoId=6010748316001' allowfullscreen frameborder=0></iframe>
 
 						</div>
 					</div>
