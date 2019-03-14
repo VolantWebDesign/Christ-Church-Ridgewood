@@ -56,10 +56,6 @@
 	<!-- Page Content -->
 	<div class="container">
 
-
-
-
-
 		<!-- Welcome carousel -->
 		<div class="row">
 			<div class="col-md-12">
@@ -338,10 +334,10 @@
 			<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Music & Liturgy Notes</h2>
-						<h3>For March 10</h3>
+						<h3>For March 17</h3>
 						<img src="images/organist-choir1.jpg" alt="Organist and Choir" title="Organist and Choir" class="img-fluid">
-						<p>As we embark onto the season of Lent, the resounding “alleluias,” joyous anthems and hymns, delightful youth cantata, and festive organ works of the season of Epiphany become transformed into the austerity of plainsong, and more introspective, “soul searching” music and liturgy. To mark this, The Great Litany will be offered at the 8 am and 10 am services: spoken at 8 am and sung in procession at 10 am. A litany is a sequence of petitions led by an officiant with responses answered by a congregation. The word comes from the Greek “litê,” meaning “supplication.” Litanies have been part of both Jewish and Christian liturgies throughout history.</p>
-						<p>The Anglican “Great” Litany was first prepared by Archbishop Thomas Cranmer and published in 1544 and ordered by Henry VIII to be used in church processions when England was at war with Scotland and France. It was included in the first Book of Common Prayer in 1549 as an appendix to the service of Holy Communion and has been included in each subsequent edition of the Prayer Book. The musical setting heard today was composed by John Merbecke (c.1510- c.1585), an English musician whose The Booke of Common Praier Noted provided liturgical music for the 1549 Prayer Book.</p>
+						<p>In Luke’s Gospel today, we read of Jesus portending his own passion and death in Jerusalem, “the city that kills the prophets…” after being warned by the Pharisees of Herod’s intention to get rid of him. Jesus reveals his prediction as a certainty, an irreversible fact, his purpose on earth. During Communion, we’ll sing “we read thee best in him who came to bear the cross of shame,” in Horatio Bonar’s hymn “O Love of God, how strong and true,” to underscore this ordained fulfillment of God’s love.</p>
+						<p>We’ll also hear and sing music from our Irish/Gaelic heritage to honor the feast day of St. Patrick (March 17), including the hymn tunes “St. Patrick’s Breastplate” and “Slane.” The Organ Prelude will include Amy Beach’s Prelude on an Old Folk Tune (“The fair hills of Eire, O”). The American musician Mrs. H.H.A. Beach (1867-1944) was the most important female composer of large scale orchestral works in the late 19th and early 20th centuries. Her works were performed by major orchestra in the US as well as Europe, including Boston, Hamburg, Leipzig, and Berlin. Although largely overlooked since her time, she is now enjoying well deserved recognition for her music in many genres from orchestral to chamber and choral music.</p>
 					</div>
 				</div>
 
@@ -378,11 +374,13 @@
 		<!-- Acolyte Festival -->
 				<div class="card">
 					<div class="card-body" align="center">
-						<h2 class="cardtop">Diocesan Acolyte Festival</h2>
+						<h2 class="cardtop">Diocesan Acolyte Festival at Christ Church</h2>
 						<img src="images/cross-window.png" alt="cross in window"  class="img-fluid">
-						<p>It's our first Diocesan Acolyte Festival and it's being held at Christ Church! We need YOU to come help plan and be supportive in what's sure to be a fun Saturday. Bishop Carlye is attending.</p>
+						<p>It’s our first Diocesan Acolyte Festival at Christ Church! We need YOU to come help plan and be supportive in what’s sure to be a fun Saturday. <b>The festival is scheduled for March 30th.</b> </p>
 
-						<p>The festival is scheduled for <b>March 30th starting at 10:00 A.M.</b> and all Christ Church acolytes should attend and assist. (Lunch will be provided.) Parent help is crucial, so please contact Kristen Lee and let her know if you are available to assist! 
+						<p>Check in and breakfast begins at 9:30 A.M. with the main festivities starting at 10:00 A.M. All Christ Church acolytes should attend and assist. Parent’s help is crucial as well. Bishop Carlye is attending.</p>
+
+						<p>E-mail Kristen Lee and let her know if you are available to assist!</p>
 					</div>
 					<!-- Footer buttons -->
 					<div align="center" class="card-footer">
@@ -390,11 +388,25 @@
 					</div>
 				</div>
 
+				<!-- VBS Save The Date -->
+				<div class="card">
+					<div class="card-body" align="center">
+						<h2 class="cardtop">Vacation Bible School</h2>
+						<h3>Save the date!</h3>
+						<img src="images/VBS-camel-crop.jpeg" alt="Vacation Bible School" title="Vacation Bible School" class="img-fluid">
+						<p>Our annual VBS Musical Theater Camp will be held August 12-16, 9:00AM - noon.</p>
+					</div>
+					<!-- Footer buttons -->
+					<div align="center" class="card-footer">
+						<a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
+					</div>
+				</div>
+
 				<!-- children's service -->
 				<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Children's Service</h2>
-						<img src="images/JOYcloseup.JPG" alt="Children's Service at Christ Church" title="Children's Service at Christ Church" class="img-fluid">
+						<img src="images/child-stained-glass.JPG" alt="Children's Service at Christ Church" title="Children's Service at Christ Church" class="img-fluid">
 						<p>JOY worship runs all year long! Sunday service and eucharist perfect for children ages infant-5yrs. Come be part of the fun from 9:15-9:45AM.</p>
 					</div>
 				</div>
