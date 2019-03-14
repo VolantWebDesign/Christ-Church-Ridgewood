@@ -45,8 +45,8 @@
       </div>
     </nav>
 
-<!-- masthead imate -->
-    <img src="images/CCR_masthead_advent.jpg?k=<?php echo $thekeys; ?>" class="img-fluid" style="padding-top: 0; padding-bottom: 0;">
+<!-- masthead image -->
+    <img src="images/CCR_masthead_lent.jpg?k=<?php echo $thekeys; ?>" class="img-fluid" style="padding-top: 0; padding-bottom: 0;">
 
 <!-- Contact Info -->
     <div class="row">
