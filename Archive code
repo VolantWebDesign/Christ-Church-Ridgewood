@@ -221,10 +221,9 @@ Overnight vigil in church, beginning immediately after service.</td>
 				</div>	
 			</div>
 		</div>
-	<div class="row">
-
 
 <!-- Ash Wednesday and Lent -->
+	<div class="row">
 		<div class="col-md-12">
 			<div class="card border">
 				<div class="card-header" align="center">
@@ -312,7 +311,42 @@ Overnight vigil in church, beginning immediately after service.</td>
 				</div>
 			</div>
 		</div>
-		
+
+			<!-- Progressive Dinner -->
+			<div class="card">
+					<div class="card-body" align="center">
+						<h2 class="cardtop">Progressive Dinner</h2>
+						<img src="images/ProgressiveDinnerInvite.png" alt="Progressive Dinner Invitation" title="Progressive Dinner Invitation" class="img-fluid">
+						<br>
+						<b>When:</b> March 30, 5:00PM
+						<br>
+						<b>Where:</b> Christ Church
+						<br>
+						<b>What:</b> A progressive dinner where each course is shared with different combinations of parishioners in various rooms in the church.
+						<br><br>
+					</div>
+				<!-- Footer buttons -->
+					<div align="center" class="card-footer">
+						<a href="https://docs.google.com/forms/d/e/1FAIpQLSdhIauqhJ_c3evEA8ZIVEgLKibH6hdDDihfbXBCQ2Xpa5fN_w/viewform" target="_blank"><button type="button" class="btn btn-outline-primary">Details + RSVP</button></a>
+					</div>					
+				</div>
+
+		<!-- Acolyte Festival -->
+				<div class="card">
+					<div class="card-body" align="center">
+						<h2 class="cardtop">Diocesan Acolyte Festival at Christ Church</h2>
+						<img src="images/cross-window.png" alt="cross in window"  class="img-fluid">
+						<p>It’s our first Diocesan Acolyte Festival at Christ Church! We need YOU to come help plan and be supportive in what’s sure to be a fun Saturday. <b>The festival is scheduled for March 30th.</b> </p>
+
+						<p>Check in and breakfast begins at 9:30 A.M. with the main festivities starting at 10:00 A.M. All Christ Church acolytes should attend and assist. Parent’s help is crucial as well. Bishop Carlye is attending.</p>
+
+						<p>E-mail Kristen Lee and let her know if you are available to assist!</p>
+					</div>
+					<!-- Footer buttons -->
+					<div align="center" class="card-footer">
+						<a href="mailto:klee@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Kristen Lee</button></a>
+					</div>
+				</div>	
 
 <!-- Installation of Fr. Tom -->
 		<div class="row">

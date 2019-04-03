@@ -107,55 +107,85 @@
 			</div>
 		</div>
 
-
-<!-- Ash Wednesday and Lent -->
-<div class="col-md-12">
+<!-- Holy Week -->
+		<div class="col-md-12">
 			<div class="card border">
 				<div class="card-header" align="center">
-					<h3 class="card-title" >The Season of Lent at Christ Church</h3>
+					<h3 style="color: #7A2654;" class="card-title" >Holy Week and Easter</h3>
 				</div>
 				<div class="card-body" >
 					<div class="row" >
-						<div class="col-md-6">
-							<h3 >Ash Wednesday, March 6</h3>
+						<div class="col-md-8">
 						<table class="table table-striped">
 							<tbody>
 							<tr>
-								<th scope="row">7:30AM</th>
-								<td>Imposition of Ashes</td>
+								<h3 style="color: #7A2654;" align="center">Holy Week</h3>
+								<th scope="row">April 14</th>
+								<td>Palm Sunday</td>
+								<td>Holy Eucharist at 8:00 AM, 9:15 AM JOY!, and 10:00 AM</td>
 							</tr>
 							<tr>
-								<th scope="row">8:30-9:30AM</th>
-								<td>Ashes to Go "drive-thru"</a></td>
+								<th scope="row">April 15</th>
+								<td>Holy Monday</td>
+								<td>Holy Eucharist 7:00 PM</td>
 							</tr>
 							<tr>
-								<th scope="row">12:00PM</th>
-								<td>Imposition of Ashes</a></td>
+								<th scope="row">April 16</th>
+								<td>Holy Tuesday</td>
+								<td>Holy Eucharist 7:30 AM
+								<br>Stations of the Cross 7:00 PM</td>
 							</tr>
 							<tr>
-								<th scope="row">2:30-3:30PM</th>
-								<td>Ashes to Go "drive-thru"</a></td>
+								<th scope="row">April 17</th>
+								<td>Holy Wednesday</td>
+								<td>Holy Eucharist 7:30 AM</td>
 							</tr>
 							<tr>
-								<th scope="row">7:00PM</th>
-								<td>Imposition of Ashes w/ Choir</a></td>
+								<th scope="row">April 18</th>
+								<td>Maundy Thursday</td>
+								<td>A Holy Eucharist at Emmanuel Baptist Church 7:30 PM 
+								<!-- <a href="documents/March 29, 2018 MAUNDY THURSDAY.pdf" target="_blan">- Program -</a> -->
+								<br>
+								Overnight vigil at Christ Church, from 9:00 PM to 6:00 AM (1-hour shifts)</td>
+							</tr>
+							<tr>
+								<th scope="row">April 19</th>
+								<td>Good Friday</td>
+								<td>Good Friday Liturgy with Communion and Veneration of the Cross at 
+								7:00 AM, <strong>two services at 12 noon</strong> (traditional service with music in church plus Kid friendly service at in Sunday School area) and 7:00 PM with choir 
+								<!-- <a href="documents/March 30, 2018 GOOD FRIDAY.pdf" target="_blank">- Program -</a> -->
+								</td>
+							</tr>
+								<th scope="row">April 20</th>
+								<td>Holy Saturday</td>
+								<td>Service of the Tomb  8:00 AM</td>
+							<tr>
 							</tr>
 							</tbody>
 						</table>
-							<hr>
-							<h5>Lenten Breakfast</h5>
-							<p>Sundays in Lent, starting March 10, 8:45 - 10:15AM in the Great Hall, $5/adult to cover cost, <br><strong>Children eat FREE!</strong></p>
-							<hr>
-							<h5>Lenten Discussion Series</h5>
-							<p>March 11, 18 & 25, April 8, 7:00PM in the Guilds Room, light refreshments provided</p>
-							<p>Come Join Fr. Tom for a Lenten series on a recent article about "Workism" and how we can reorient our work+life balance through Worship. Data on the increasing work schedule and stress will be discussed, along with pros and cons of workplaces in recent decades. Practical, simple worship models will be included that allow people to take a "worship break" regularly in their daily lives.</p>
+						
 						</div>
-						<div class="col-md-6" align="center">
-							<img src="images/Ash-Wednesday.jpg" alt="Ash Wednesday" class="img-fluid" >
-
-							<h3>Drive-Through-Ashes at Christ Church featured on 1010 WINS</h3>
-							<iframe src='//players.brightcove.net/5757251889001/default_default/index.html?videoId=6010748316001' allowfullscreen frameborder=0></iframe>
-
+						<div class="col-md-4" align="center">
+							<h3 style="color: #7A2654;">The Great Vigil of Easter: April 20</h3>
+							<p>
+							First Service of Easter 7:30 PM 
+							<br>
+							<!-- <a href="documents/March 31, 2018 EASTER VIGIL.pdf" target="_blank">- Program -</a> -->
+							<br><br>
+							Holy Eucharist and lighting of the new flame  
+							</p>
+							<hr>
+							<h3 style="color: #7A2654;">Easter Day: April 21</h3>
+							<p>
+							Holy Eucharist at 8 AM, 9:15 AM JOY!, and 10 AM
+							<br>
+							<!-- <a href="documents/bulletin.pdf" target="_blank">- Program -</a> -->
+							<br><br>
+							Easter egg hunt for children will be held after the JOY! <strong>and</strong> 10 AM services.
+							</p>
+							<div align="center">
+							<img src="images/Easter-trio.png" alt="Easter images, palm, crown of thorns, cross" class="img-fluid">
+							</div>
 						</div>
 					</div>
 				</div>	
@@ -213,9 +243,9 @@
 									<tr>
 										<td>
 											<ul id="celtic">
-												<li>March 17</li>
-												<li>April: TBD</li>
+												<li>April: No service</li>
 												<li>May 19</li>
+												<li>June 16</li>
 											</ul>
 										</td>
 									</tr>
@@ -299,25 +329,6 @@
 			<!-- column left -->
 			<div class="col-md-6">
 
-			<!-- Progressive Dinner -->
-			<div class="card">
-					<div class="card-body" align="center">
-						<h2 class="cardtop">Progressive Dinner</h2>
-						<img src="images/ProgressiveDinnerInvite.png" alt="Progressive Dinner Invitation" title="Progressive Dinner Invitation" class="img-fluid">
-						<br>
-						<b>When:</b> March 30, 5:00PM
-						<br>
-						<b>Where:</b> Christ Church
-						<br>
-						<b>What:</b> A progressive dinner where each course is shared with different combinations of parishioners in various rooms in the church.
-						<br><br>
-					</div>
-				<!-- Footer buttons -->
-					<div align="center" class="card-footer">
-						<a href="https://docs.google.com/forms/d/e/1FAIpQLSdhIauqhJ_c3evEA8ZIVEgLKibH6hdDDihfbXBCQ2Xpa5fN_w/viewform" target="_blank"><button type="button" class="btn btn-outline-primary">Details + RSVP</button></a>
-					</div>					
-				</div>
-
 			<!-- Adult Choir -->
 			<div class="card">
 				<div class="card-body" align="center">
@@ -334,10 +345,11 @@
 			<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Music & Liturgy Notes</h2>
-						<h3>For March 17</h3>
+						<h3>For April 7</h3>
 						<img src="images/organist-choir1.jpg" alt="Organist and Choir" title="Organist and Choir" class="img-fluid">
-						<p>In Luke’s Gospel today, we read of Jesus portending his own passion and death in Jerusalem, “the city that kills the prophets…” after being warned by the Pharisees of Herod’s intention to get rid of him. Jesus reveals his prediction as a certainty, an irreversible fact, his purpose on earth. During Communion, we’ll sing “we read thee best in him who came to bear the cross of shame,” in Horatio Bonar’s hymn “O Love of God, how strong and true,” to underscore this ordained fulfillment of God’s love.</p>
-						<p>We’ll also hear and sing music from our Irish/Gaelic heritage to honor the feast day of St. Patrick (March 17), including the hymn tunes “St. Patrick’s Breastplate” and “Slane.” The Organ Prelude will include Amy Beach’s Prelude on an Old Folk Tune (“The fair hills of Eire, O”). The American musician Mrs. H.H.A. Beach (1867-1944) was the most important female composer of large scale orchestral works in the late 19th and early 20th centuries. Her works were performed by major orchestra in the US as well as Europe, including Boston, Hamburg, Leipzig, and Berlin. Although largely overlooked since her time, she is now enjoying well deserved recognition for her music in many genres from orchestral to chamber and choral music.</p>
+						<p>TWe've arrived at the Fifth Sunday in Lent and are now poised close to the threshold of Holy Week. As we approach the commemoration of the Crucifixion of Jesus, the power of the cross and the redeeming love it represents stand before us. We like Paul, in his letter to the Philippians heard today, “want to know Christ…and the sharing of his sufferings by becoming like him in his death”… to "attain the resurrection of the dead.”</p>
+
+						<p>At the Offertory, the choir will sing Richard Lloyd’s setting of Isaac Watts' great hymn “When I survey the wondrous cross,” a paraphrase of Paul's Epistle to the Philippians. Lloyd uses the tune “O waly waly,” a folksong from Somerset as the basis for his anthem, varying it between solo voices, three part choral writing and the tune with soprano descant. A prolific composer of over 600 works, Richard Lloyd served both Hereford and Durham Cathedrals in his career as a church musician. In his retirement, he resides in Herefordshire.</p>
 					</div>
 				</div>
 
@@ -368,23 +380,6 @@
 						A look back at 2018</h2>
 						<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FChristEpiscopalChurchRidgewood%2Fvideos%2F705944633133785%2F&show_text=0&width=560"  style="border:none;overflow:hidden;max-width: 100% !important;width: auto !important;height: auto !important;" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-					</div>
-				</div>
-
-		<!-- Acolyte Festival -->
-				<div class="card">
-					<div class="card-body" align="center">
-						<h2 class="cardtop">Diocesan Acolyte Festival at Christ Church</h2>
-						<img src="images/cross-window.png" alt="cross in window"  class="img-fluid">
-						<p>It’s our first Diocesan Acolyte Festival at Christ Church! We need YOU to come help plan and be supportive in what’s sure to be a fun Saturday. <b>The festival is scheduled for March 30th.</b> </p>
-
-						<p>Check in and breakfast begins at 9:30 A.M. with the main festivities starting at 10:00 A.M. All Christ Church acolytes should attend and assist. Parent’s help is crucial as well. Bishop Carlye is attending.</p>
-
-						<p>E-mail Kristen Lee and let her know if you are available to assist!</p>
-					</div>
-					<!-- Footer buttons -->
-					<div align="center" class="card-footer">
-						<a href="mailto:klee@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Kristen Lee</button></a>
 					</div>
 				</div>
 
