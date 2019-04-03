@@ -269,27 +269,7 @@
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
-					<hr><img src="images/vestry/dan_l.jpg" class="img-fluid rounded-circle"/><br>Dan Lawrence<br>
-				</div>
-			</div>
-			<div class="col-md-2 col-sm-4 col-xs-6">
-				<div align="center">
-					<hr><img src="images/vestry/karl_n.jpg" class="img-fluid rounded-circle"/><br>Karl Najork<br>Clerk<br>
-				</div>
-			</div>
-			<div class="col-md-2 col-sm-4 col-xs-6">
-				<div align="center">
-					<hr><img src="images/vestry/elaina_r2.png" class="img-fluid rounded-circle"/><br>Elaina Richardi<br>
-				</div>
-			</div>
-			<div class="col-md-2 col-sm-4 col-xs-6">
-				<div align="center">
 					<hr><img src="images/vestry/jamel_s.jpg" class="img-fluid rounded-circle"/><br>Jamel Shimpfky<br>
-				</div>
-			</div>
-			<div class="col-md-2 col-sm-4 col-xs-6">
-				<div align="center">
-					<hr><img src="images/vestry/trevor_t.jpg" class="img-fluid rounded-circle"/><br>Trevor Thangalan<br>
 				</div>
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
@@ -299,17 +279,32 @@
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
-					<hr><img src="images/vestry/missing.jpg" class="img-fluid rounded-circle"/><br>Linda Larson<br>Recording Secretary<br>
-				</div>
-			</div>
-			<div class="col-md-2 col-sm-4 col-xs-6">
-				<div align="center">
-					<hr><img src="images/vestry/andrew_s.jpg" class="img-fluid rounded-circle"/><br>Andrew Stoddard<br>
-				</div>
-			</div>
-			<div class="col-md-2 col-sm-4 col-xs-6">
-				<div align="center">
 					<hr><img src="images/vestry/matt_b.jpg" class="img-fluid rounded-circle"/><br>Matt Bodino<br>
+				</div>
+			</div>
+			<div class="col-md-2 col-sm-4 col-xs-6">
+				<div align="center">
+					<hr><img src="images/vestry/missing.jpg" class="img-fluid rounded-circle"/><br>Julie Berry<br>
+				</div>
+			</div>
+			<div class="col-md-2 col-sm-4 col-xs-6">
+				<div align="center">
+					<hr><img src="images/vestry/missing.jpg" class="img-fluid rounded-circle"/><br>Laura D'Alessio<br>
+				</div>
+			</div>
+			<div class="col-md-2 col-sm-4 col-xs-6">
+				<div align="center">
+					<hr><img src="images/vestry/missing.jpg" class="img-fluid rounded-circle"/><br>Barbara Hemink<br>
+				</div>
+			</div>
+			<div class="col-md-2 col-sm-4 col-xs-6">
+				<div align="center">
+					<hr><img src="images/vestry/missing.jpg" class="img-fluid rounded-circle"/><br>Frank Piraino<br>
+				</div>
+			</div>
+			<div class="col-md-2 col-sm-4 col-xs-6">
+				<div align="center">
+					<hr><img src="images/vestry/missing.jpg" class="img-fluid rounded-circle"/><br>Lara Ziccardi<br>
 				</div>
 			</div>
 		</div>
