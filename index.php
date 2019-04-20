@@ -207,7 +207,7 @@
 								<table class="table table-striped ">
 									<tr>
 										<td align="right" ><strong>8:00 AM</strong></td>
-										<td>Holy Eucharist<br><a href="documents/bulletin.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm  btn-outline-primary ">Program</a></td>
+										<td>Holy Eucharist<br><a href="documents/bulletin8.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm  btn-outline-primary ">Program</a></td>
 									</tr>
 									<tr>
 										<td align="right"><strong>8:30 AM</strong></td>
@@ -223,7 +223,7 @@
 									</tr>
 									<tr>
 										<td align="right" nowrap><strong>10:00 AM</strong></td>
-										<td>Holy Eucharist with music  <br> <a href="documents/bulletin.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm btn-outline-primary "> Program</a></td>
+										<td>Holy Eucharist with music  <br> <a href="documents/bulletin10.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm btn-outline-primary "> Program</a></td>
 									</tr>
 									<tr>
 										<td align="right"><strong>11:15 AM</strong></td>
@@ -329,27 +329,38 @@
 			<!-- column left -->
 			<div class="col-md-6">
 
-			<!-- Adult Choir -->
+			<!-- Memorial Scholarship -->
 			<div class="card">
 				<div class="card-body" align="center">
-					<h2 class="cardtop">Adult Choir</h2>
-					<p>Do you love to sing? Please consider joining our choir and participating in a vital ministry. The choir musically leads our services each Sunday at 10 am. The choir’s repertoire includes great masterpieces from our Anglican tradition as well as beloved classics along with spirituals and contemporary choral works. We have openings for all voice parts. </p>
+					<h2 class="cardtop">Memorial Scholarship</h2>
+					<p>Every year, the Christ Church Memorial Scholarship raises funds for graduating HS seniors and those attending college. For more information, contact Kristen Lee. </p>
 				</div>
 				<!-- Footer buttons -->
 				<div align="center" class="card-footer">
-					<a href="mailto:organist@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact William Trafka</button></a>
+					<a href="mailto:klee@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Kristen Lee</button></a>
 				</div>
 			</div>
+
+			<!-- Adult Choir -->
+			<!-- <div class="card">
+				<div class="card-body" align="center">
+					<h2 class="cardtop">Adult Choir</h2>
+					<p>Do you love to sing? Please consider joining our choir and participating in a vital ministry. The choir musically leads our services each Sunday at 10 am. The choir’s repertoire includes great masterpieces from our Anglican tradition as well as beloved classics along with spirituals and contemporary choral works. We have openings for all voice parts. </p>
+				</div> -->
+				<!-- Footer buttons -->
+				<!-- <div align="center" class="card-footer">
+					<a href="mailto:organist@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact William Trafka</button></a>
+				</div>
+			</div> -->
 
 			<!-- Weekly Music Article -->
 			<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Music & Liturgy Notes</h2>
-						<h3>For April 7</h3>
+						<h3>For Easter Sunday</h3>
 						<img src="images/organist-choir1.jpg" alt="Organist and Choir" title="Organist and Choir" class="img-fluid">
-						<p>TWe've arrived at the Fifth Sunday in Lent and are now poised close to the threshold of Holy Week. As we approach the commemoration of the Crucifixion of Jesus, the power of the cross and the redeeming love it represents stand before us. We like Paul, in his letter to the Philippians heard today, “want to know Christ…and the sharing of his sufferings by becoming like him in his death”… to "attain the resurrection of the dead.”</p>
-
-						<p>At the Offertory, the choir will sing Richard Lloyd’s setting of Isaac Watts' great hymn “When I survey the wondrous cross,” a paraphrase of Paul's Epistle to the Philippians. Lloyd uses the tune “O waly waly,” a folksong from Somerset as the basis for his anthem, varying it between solo voices, three part choral writing and the tune with soprano descant. A prolific composer of over 600 works, Richard Lloyd served both Hereford and Durham Cathedrals in his career as a church musician. In his retirement, he resides in Herefordshire.</p>
+						<p>Our journey following Jesus’ joyous entry into Jerusalem, the Institution of the Holy Eucharist, and the Crucifixion has now brought us to the triumph of His Resurrection. The music for our services this morning unapologetically reflects the glory of this feast day and the splendor of springtime with the assurance of new life which the Resurrection conveys. We joyfully sing Alleluias in our hymns of praise but we listen as well to a blessed singer as she skillfully navigates the coloratura and ornamentation of Mozart’s ravishingly elegant lines illuminating that one supreme word: <strong>Alleluia</strong>. We welcome four gifted young brass players from Ridgewood High School as they augment our Easter hymns and undertake the great classics with accomplishment and enthusiasm. Finally, we hear the devoted singing of both youth and adults whose tireless efforts to praise their Creator and countless hours of rehearsal to perfect those praises edify our liturgies week in and week out. Thanks be to God!</p>
+						<p><strong>The Lord is risen indeed! Alleluia!</strong> </p>
 					</div>
 				</div>
 
@@ -388,7 +399,7 @@
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Vacation Bible School</h2>
 						<h3>Save the date!</h3>
-						<img src="images/VBS-camel-crop.jpeg" alt="Vacation Bible School" title="Vacation Bible School" class="img-fluid">
+						<img src="images/prodigal-clown-title.jpg" alt="Vacation Bible School" title="Vacation Bible School" class="img-fluid">
 						<p>Our annual VBS Musical Theater Camp will be held August 12-16, 9:00AM - noon.</p>
 					</div>
 					<!-- Footer buttons -->
