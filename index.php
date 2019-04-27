@@ -107,92 +107,6 @@
 			</div>
 		</div>
 
-<!-- Holy Week -->
-		<div class="col-md-12">
-			<div class="card border">
-				<div class="card-header" align="center">
-					<h3 style="color: #7A2654;" class="card-title" >Holy Week and Easter</h3>
-				</div>
-				<div class="card-body" >
-					<div class="row" >
-						<div class="col-md-8">
-						<table class="table table-striped">
-							<tbody>
-							<tr>
-								<h3 style="color: #7A2654;" align="center">Holy Week</h3>
-								<th scope="row">April 14</th>
-								<td>Palm Sunday</td>
-								<td>Holy Eucharist at 8:00 AM, 9:15 AM JOY!, and 10:00 AM</td>
-							</tr>
-							<tr>
-								<th scope="row">April 15</th>
-								<td>Holy Monday</td>
-								<td>Holy Eucharist 7:00 PM</td>
-							</tr>
-							<tr>
-								<th scope="row">April 16</th>
-								<td>Holy Tuesday</td>
-								<td>Holy Eucharist 7:30 AM
-								<br>Stations of the Cross 7:00 PM</td>
-							</tr>
-							<tr>
-								<th scope="row">April 17</th>
-								<td>Holy Wednesday</td>
-								<td>Holy Eucharist 7:30 AM</td>
-							</tr>
-							<tr>
-								<th scope="row">April 18</th>
-								<td>Maundy Thursday</td>
-								<td>A Holy Eucharist at Emmanuel Baptist Church 7:30 PM 
-								<!-- <a href="documents/March 29, 2018 MAUNDY THURSDAY.pdf" target="_blan">- Program -</a> -->
-								<br>
-								Overnight vigil at Christ Church, from 9:00 PM to 6:00 AM (1-hour shifts)</td>
-							</tr>
-							<tr>
-								<th scope="row">April 19</th>
-								<td>Good Friday</td>
-								<td>Good Friday Liturgy with Communion and Veneration of the Cross at 
-								7:00 AM, <strong>two services at 12 noon</strong> (traditional service with music in church plus Kid friendly service at in Sunday School area) and 7:00 PM with choir 
-								<!-- <a href="documents/March 30, 2018 GOOD FRIDAY.pdf" target="_blank">- Program -</a> -->
-								</td>
-							</tr>
-								<th scope="row">April 20</th>
-								<td>Holy Saturday</td>
-								<td>Service of the Tomb  8:00 AM</td>
-							<tr>
-							</tr>
-							</tbody>
-						</table>
-						
-						</div>
-						<div class="col-md-4" align="center">
-							<h3 style="color: #7A2654;">The Great Vigil of Easter: April 20</h3>
-							<p>
-							First Service of Easter 7:30 PM 
-							<br>
-							<!-- <a href="documents/March 31, 2018 EASTER VIGIL.pdf" target="_blank">- Program -</a> -->
-							<br><br>
-							Holy Eucharist and lighting of the new flame  
-							</p>
-							<hr>
-							<h3 style="color: #7A2654;">Easter Day: April 21</h3>
-							<p>
-							Holy Eucharist at 8 AM, 9:15 AM JOY!, and 10 AM
-							<br>
-							<!-- <a href="documents/bulletin.pdf" target="_blank">- Program -</a> -->
-							<br><br>
-							Easter egg hunt for children will be held after the JOY! <strong>and</strong> 10 AM services.
-							</p>
-							<div align="center">
-							<img src="images/Easter-trio.png" alt="Easter images, palm, crown of thorns, cross" class="img-fluid">
-							</div>
-						</div>
-					</div>
-				</div>	
-			</div>
-		</div>
-
-
 		<div class="row">
 			<!-- Worship schedule -->
 			<div class="col-md-12">
@@ -329,38 +243,29 @@
 			<!-- column left -->
 			<div class="col-md-6">
 
-			<!-- Memorial Scholarship -->
-			<div class="card">
-				<div class="card-body" align="center">
-					<h2 class="cardtop">Memorial Scholarship</h2>
-					<p>Every year, the Christ Church Memorial Scholarship raises funds for graduating HS seniors and those attending college. For more information, contact Kristen Lee. </p>
-				</div>
-				<!-- Footer buttons -->
-				<div align="center" class="card-footer">
-					<a href="mailto:klee@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Kristen Lee</button></a>
-				</div>
-			</div>
-
 			<!-- Adult Choir -->
-			<!-- <div class="card">
+			<div class="card">
 				<div class="card-body" align="center">
 					<h2 class="cardtop">Adult Choir</h2>
 					<p>Do you love to sing? Please consider joining our choir and participating in a vital ministry. The choir musically leads our services each Sunday at 10 am. The choir’s repertoire includes great masterpieces from our Anglican tradition as well as beloved classics along with spirituals and contemporary choral works. We have openings for all voice parts. </p>
-				</div> -->
+				</div>
 				<!-- Footer buttons -->
-				<!-- <div align="center" class="card-footer">
+				<div align="center" class="card-footer">
 					<a href="mailto:organist@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact William Trafka</button></a>
 				</div>
-			</div> -->
+			</div>
 
 			<!-- Weekly Music Article -->
 			<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Music & Liturgy Notes</h2>
-						<h3>For Easter Sunday</h3>
+						<h3>For April 28</h3>
 						<img src="images/organist-choir1.jpg" alt="Organist and Choir" title="Organist and Choir" class="img-fluid">
-						<p>Our journey following Jesus’ joyous entry into Jerusalem, the Institution of the Holy Eucharist, and the Crucifixion has now brought us to the triumph of His Resurrection. The music for our services this morning unapologetically reflects the glory of this feast day and the splendor of springtime with the assurance of new life which the Resurrection conveys. We joyfully sing Alleluias in our hymns of praise but we listen as well to a blessed singer as she skillfully navigates the coloratura and ornamentation of Mozart’s ravishingly elegant lines illuminating that one supreme word: <strong>Alleluia</strong>. We welcome four gifted young brass players from Ridgewood High School as they augment our Easter hymns and undertake the great classics with accomplishment and enthusiasm. Finally, we hear the devoted singing of both youth and adults whose tireless efforts to praise their Creator and countless hours of rehearsal to perfect those praises edify our liturgies week in and week out. Thanks be to God!</p>
-						<p><strong>The Lord is risen indeed! Alleluia!</strong> </p>
+						<p>OThe Second Sunday of Easter has traditionally been called “Low” Sunday. Some authorities believe that this day was considered to have a lower degree of significance than the great day of Easter. However, a more plausible reason is that the word “Low" is a corruption of the word “Laudes,” which opens the Sequence Hymn appointed in the Missal for this Sunday. In the Roman Catholic tradition, this Sunday has been known by two names “Quasimodo”- “As newborn babes”- the opening words of the Introit from 1 Peter and “Dominica in alibis”- “The Lord’s Day in White”- referring to the custom of those, who had been baptized at the Easter Vigil, taking off the white garments which they wore throughout Easter Week.</p>
+
+						<p>It is a rich Sunday nevertheless, because we hear the Gospel of Jesus’ first appearance to his disciples after his Resurrection and the great doubts of Thomas, who was not present but later was told of the divine occurrence. To underscore this Gospel, we’ll sing the hymn “Alleluia, O sons and daughters,” a narrative hymn which relates the Gospel story in a metrical version by the 15th century Dominican bishop, Jehan Tisserand in an English translation by John Mason Neale. The melody is a French folk carol dating back to the 15th century, but eventually became associated with the text we will sing this morning. </p>
+
+						<p>Finally, the service will end with an organ work entitled Ballo della Battaglia, literally, Battle Promenade by the early Baroque Italian composer Bernardo Storace. Organ pieces imitating battles were traditionally played in Italian churches during the Easter season to signify Christ’s victory over the forces of death and evil. </p>
 					</div>
 				</div>
 

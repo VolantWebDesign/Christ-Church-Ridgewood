@@ -284,27 +284,27 @@
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
-					<hr><img src="images/vestry/missing.jpg" class="img-fluid rounded-circle"/><br>Julie Berry<br>
+					<hr><img src="images/vestry/JulieB.jpg" class="img-fluid rounded-circle"/><br>Julie Berry<br>
 				</div>
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
-					<hr><img src="images/vestry/missing.jpg" class="img-fluid rounded-circle"/><br>Laura D'Alessio<br>
+					<hr><img src="images/vestry/LauraD.jpg" class="img-fluid rounded-circle"/><br>Laura D'Alessio<br>
 				</div>
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
-					<hr><img src="images/vestry/missing.jpg" class="img-fluid rounded-circle"/><br>Barbara Hemink<br>
+					<hr><img src="images/vestry/BarbaraH.jpg" class="img-fluid rounded-circle"/><br>Barbara Hemink<br>
 				</div>
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
-					<hr><img src="images/vestry/missing.jpg" class="img-fluid rounded-circle"/><br>Frank Piraino<br>
+					<hr><img src="images/vestry/FrankP.jpg" class="img-fluid rounded-circle"/><br>Frank Piraino<br>
 				</div>
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
-					<hr><img src="images/vestry/missing.jpg" class="img-fluid rounded-circle"/><br>Lara Ziccardi<br>
+					<hr><img src="images/vestry/LaraZ.png" class="img-fluid rounded-circle"/><br>Lara Ziccardi<br>
 				</div>
 			</div>
 		</div>
