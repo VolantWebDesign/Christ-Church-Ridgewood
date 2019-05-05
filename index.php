@@ -121,7 +121,7 @@
 								<table class="table table-striped ">
 									<tr>
 										<td align="right" ><strong>8:00 AM</strong></td>
-										<td>Holy Eucharist<br><a href="documents/bulletin8.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm  btn-outline-primary ">Program</a></td>
+										<td>Holy Eucharist<br><a href="documents/bulletin.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm  btn-outline-primary ">Program</a></td>
 									</tr>
 									<tr>
 										<td align="right"><strong>8:30 AM</strong></td>
@@ -137,7 +137,7 @@
 									</tr>
 									<tr>
 										<td align="right" nowrap><strong>10:00 AM</strong></td>
-										<td>Holy Eucharist with music  <br> <a href="documents/bulletin10.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm btn-outline-primary "> Program</a></td>
+										<td>Holy Eucharist with music  <br> <a href="documents/bulletin.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm btn-outline-primary "> Program</a></td>
 									</tr>
 									<tr>
 										<td align="right"><strong>11:15 AM</strong></td>
@@ -259,13 +259,11 @@
 			<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Music & Liturgy Notes</h2>
-						<h3>For April 28</h3>
+						<h3>For May 5</h3>
 						<img src="images/organist-choir1.jpg" alt="Organist and Choir" title="Organist and Choir" class="img-fluid">
-						<p>OThe Second Sunday of Easter has traditionally been called “Low” Sunday. Some authorities believe that this day was considered to have a lower degree of significance than the great day of Easter. However, a more plausible reason is that the word “Low" is a corruption of the word “Laudes,” which opens the Sequence Hymn appointed in the Missal for this Sunday. In the Roman Catholic tradition, this Sunday has been known by two names “Quasimodo”- “As newborn babes”- the opening words of the Introit from 1 Peter and “Dominica in alibis”- “The Lord’s Day in White”- referring to the custom of those, who had been baptized at the Easter Vigil, taking off the white garments which they wore throughout Easter Week.</p>
+						<p>In John’s Gospel appointed for today, we hear of the appearance of Jesus to his disciples by the Sea of Tiberius after his Resurrection. In this account, the disciples, having gone fishing and caught nothing, are approached by a stranger (Jesus) who tells them to cast their nets on the right side of the boat. This yields so much fish that the disciples can not haul their nets to shore. Following this, they share breakfast and Jesus takes the bread and fish and gives it to them, confirming for them that the stranger is indeed their Lord.</p>
 
-						<p>It is a rich Sunday nevertheless, because we hear the Gospel of Jesus’ first appearance to his disciples after his Resurrection and the great doubts of Thomas, who was not present but later was told of the divine occurrence. To underscore this Gospel, we’ll sing the hymn “Alleluia, O sons and daughters,” a narrative hymn which relates the Gospel story in a metrical version by the 15th century Dominican bishop, Jehan Tisserand in an English translation by John Mason Neale. The melody is a French folk carol dating back to the 15th century, but eventually became associated with the text we will sing this morning. </p>
-
-						<p>Finally, the service will end with an organ work entitled Ballo della Battaglia, literally, Battle Promenade by the early Baroque Italian composer Bernardo Storace. Organ pieces imitating battles were traditionally played in Italian churches during the Easter season to signify Christ’s victory over the forces of death and evil. </p>
+						<p>As a companion to this Gospel, we will sing the hymn “Come risen Lord, and deign to be our guest,” the text by George Wallace Briggs, the 20th century Anglican priest and hymn writer, who served as a Canon both at Leicester and Worcester Cathedrals. Briggs also wrote the beloved hymns “Christ is the world’s true light,” and “Humbly I adore thee.” The tune sung today was composed by William Trafka in 2001 for The Reverend Mary Haddad on the occasion of her ordination to the priesthood, hence its Latin tune name “Nova Sacerdos” (New Priest). Mary served St. Bartholomew’s Church in New York City as an Associate Rector. She now serves as Cathedral Canon at the American Cathedral in Paris.</p>
 					</div>
 				</div>
 
