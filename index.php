@@ -185,6 +185,44 @@
 			</div>
 		</div>
 
+			<!-- VBS -->
+	<div class="row">
+				<div class="col-md-12">
+					<div class="card">
+						<div class="card-body">
+							<div class="row">
+								<div class="col-md-6" align="center"><img src="images/VBS/prodigal-clown-title.jpg" alt="" class="img-fluid"></div>
+								<div class="col-md-6" >
+									<div  align="center">
+										<br>
+										<h2 class="invitation">Musical Theatre VBS</h2>
+										<p>
+											Join Christ Episcopal Church for
+											<br>
+									    <b style="color:#178ed1;">The Prodigal CLown</b>
+											<br><br>
+									    August 12-16
+											<br>
+									    9 am – 12 pm
+											<br>
+									    For Ages 4 – 12
+											<br>
+									    $80 per child
+											<br><br>
+									    This summer, come join in the fun of Musical Theatre Vacation Bible School (VBS)! The parable that Jesus told about the loving father and two sons comes to life for kids as never before in “The Prodigal Clown.”  Don’t miss this wonderful week of faith, music, drama, and art, with a performance on Friday morning.
+											<br>
+											Register now to secure a spot, space is limited.
+										</p>
+										<a href="vbs.php" class="btn btn-md btn-outline-primary">Register Here</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+
 		<!-- Stewardship -->
 		<div class="row">
 			<div class="col-md-12">
