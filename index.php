@@ -171,9 +171,9 @@
 								</div>
 
 								<div class="row">
-									<div class="col" align="center">
+									<!-- <div class="col" align="center">
 										<a href="documents/insert.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Announcements</a>
-									</div>
+									</div> -->
 									<div class="col" align="center">
 										<a href="documents/YouthRegistrationForm2018-19.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-primary">Youth Programs Registration Form</a>
 									</div>
@@ -259,11 +259,14 @@
 			<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Music & Liturgy Notes</h2>
-						<h3>For May 5</h3>
+						<h3>May 12
+						<br/>The Fourth Sunday of Easter</h3>
 						<img src="images/organist-choir1.jpg" alt="Organist and Choir" title="Organist and Choir" class="img-fluid">
-						<p>In John’s Gospel appointed for today, we hear of the appearance of Jesus to his disciples by the Sea of Tiberius after his Resurrection. In this account, the disciples, having gone fishing and caught nothing, are approached by a stranger (Jesus) who tells them to cast their nets on the right side of the boat. This yields so much fish that the disciples can not haul their nets to shore. Following this, they share breakfast and Jesus takes the bread and fish and gives it to them, confirming for them that the stranger is indeed their Lord.</p>
-
-						<p>As a companion to this Gospel, we will sing the hymn “Come risen Lord, and deign to be our guest,” the text by George Wallace Briggs, the 20th century Anglican priest and hymn writer, who served as a Canon both at Leicester and Worcester Cathedrals. Briggs also wrote the beloved hymns “Christ is the world’s true light,” and “Humbly I adore thee.” The tune sung today was composed by William Trafka in 2001 for The Reverend Mary Haddad on the occasion of her ordination to the priesthood, hence its Latin tune name “Nova Sacerdos” (New Priest). Mary served St. Bartholomew’s Church in New York City as an Associate Rector. She now serves as Cathedral Canon at the American Cathedral in Paris.</p>
+						<p>The Fourth Sunday of Easter is sometimes known as “Good Shepherd” Sunday, since the Gospels appointed for this day depict Jesus as a shepherd. In John’s Gospel, heard today, Jesus says: “My sheep hear my voice. I know them and they follow me.” Much of the music chosen for today underscores this theme of Jesus leading his followers like a shepherd.
+						</p>
+						<p>After the First Lesson, Psalm 23, appointed for today, will be sung as a metrical hymn using Henry Williams Baker’s beautiful paraphrase “The King of love my shepherd is.” Like Martin Luther and Isaac Watts before him, Baker offers a Christian perspective to the psalm version. Here the “cup” becomes the chalice of the Eucharist,  and the “rod and staff” become the cross and the “shepherd” becomes the King of Love, Jesus. The hymn will be sung today to the tune “St. Columba,” a traditional Irish melody.
+						</p>
+						<p>The King James Version of Psalm 23 will also be heard in an anthem setting by Thomas Matthews, sung by the choir. Matthews (1915-1999) was the longtime organist, choirmaster and composer-in-residence for Trinity Episcopal Church in Tulsa, OK. His anthem “The Lord is my shepherd” has become one of the most beloved of all American anthems.</p>
 					</div>
 				</div>
 
