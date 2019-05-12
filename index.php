@@ -213,7 +213,8 @@
 											<br>
 											Register now to secure a spot, space is limited.
 										</p>
-										<a href="vbs.php" class="btn btn-md btn-outline-primary">Register Here</a>
+										<a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
+										<a href="https://www.eventbrite.com/e/music-theatre-vbs-2019-the-prodigal-clown-tickets-60962543609" class="btn btn-md btn-outline-primary" target="_blank">Register Here</a>
 									</div>
 								</div>
 							</div>
@@ -335,20 +336,6 @@
 						A look back at 2018</h2>
 						<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FChristEpiscopalChurchRidgewood%2Fvideos%2F705944633133785%2F&show_text=0&width=560"  style="border:none;overflow:hidden;max-width: 100% !important;width: auto !important;height: auto !important;" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-					</div>
-				</div>
-
-				<!-- VBS Save The Date -->
-				<div class="card">
-					<div class="card-body" align="center">
-						<h2 class="cardtop">Vacation Bible School</h2>
-						<h3>Save the date!</h3>
-						<img src="images/prodigal-clown-title.jpg" alt="Vacation Bible School" title="Vacation Bible School" class="img-fluid">
-						<p>Our annual VBS Musical Theater Camp will be held August 12-16, 9:00AM - noon.</p>
-					</div>
-					<!-- Footer buttons -->
-					<div align="center" class="card-footer">
-						<a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
 					</div>
 				</div>
 
