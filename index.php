@@ -185,6 +185,45 @@
 			</div>
 		</div>
 
+			<!-- VBS -->
+	<div class="row">
+				<div class="col-md-12">
+					<div class="card">
+						<div class="card-body">
+							<div class="row">
+								<div class="col-md-6" align="center"><img src="images/VBS/prodigal-clown-title.jpg" alt="" class="img-fluid"></div>
+								<div class="col-md-6" >
+									<div  align="center">
+										<br>
+										<h2 class="invitation">Musical Theatre VBS</h2>
+										<p>
+											Join Christ Episcopal Church for
+											<br>
+									    <b style="color:#178ed1;">The Prodigal CLown</b>
+											<br><br>
+									    August 12-16
+											<br>
+									    9 am – 12 pm
+											<br>
+									    For Ages 4 – 12
+											<br>
+									    $80 per child
+											<br><br>
+									    This summer, come join in the fun of Musical Theatre Vacation Bible School (VBS)! The parable that Jesus told about the loving father and two sons comes to life for kids as never before in “The Prodigal Clown.”  Don’t miss this wonderful week of faith, music, drama, and art, with a performance on Friday morning.
+											<br>
+											Register now to secure a spot, space is limited.
+										</p>
+										<a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
+										<a href="https://www.eventbrite.com/e/music-theatre-vbs-2019-the-prodigal-clown-tickets-60962543609" class="btn btn-md btn-outline-primary" target="_blank">Register Here</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+
 		<!-- Stewardship -->
 		<div class="row">
 			<div class="col-md-12">
@@ -297,20 +336,6 @@
 						A look back at 2018</h2>
 						<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FChristEpiscopalChurchRidgewood%2Fvideos%2F705944633133785%2F&show_text=0&width=560"  style="border:none;overflow:hidden;max-width: 100% !important;width: auto !important;height: auto !important;" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-					</div>
-				</div>
-
-				<!-- VBS Save The Date -->
-				<div class="card">
-					<div class="card-body" align="center">
-						<h2 class="cardtop">Vacation Bible School</h2>
-						<h3>Save the date!</h3>
-						<img src="images/prodigal-clown-title.jpg" alt="Vacation Bible School" title="Vacation Bible School" class="img-fluid">
-						<p>Our annual VBS Musical Theater Camp will be held August 12-16, 9:00AM - noon.</p>
-					</div>
-					<!-- Footer buttons -->
-					<div align="center" class="card-footer">
-						<a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
 					</div>
 				</div>
 
