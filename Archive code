@@ -103,6 +103,19 @@ the actual email form:
  <input type="submit" name="submit" class="btn btn-warning" value="Submit">
  </form> 
 
+				<!-- VBS Save The Date -->
+				<div class="card">
+					<div class="card-body" align="center">
+						<h2 class="cardtop">Vacation Bible School</h2>
+						<h3>Save the date!</h3>
+						<img src="images/prodigal-clown-title.jpg" alt="Vacation Bible School" title="Vacation Bible School" class="img-fluid">
+						<p>Our annual VBS Musical Theater Camp will be held August 12-16, 9:00AM - noon.</p>
+					</div>
+					<!-- Footer buttons -->
+					<div align="center" class="card-footer">
+						<a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
+					</div>
+				</div>
  
 	<!-- VBS -->
 	<div class="row">
