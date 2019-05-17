@@ -157,9 +157,9 @@
 									<tr>
 										<td>
 											<ul id="celtic">
-												<li>April: No service</li>
 												<li>May 19</li>
 												<li>June 16</li>
+												<li>July 21</li>
 											</ul>
 										</td>
 									</tr>
@@ -171,9 +171,9 @@
 								</div>
 
 								<div class="row">
-									<!-- <div class="col" align="center">
+									<div class="col" align="center">
 										<a href="documents/insert.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Announcements</a>
-									</div> -->
+									</div>
 									<div class="col" align="center">
 										<a href="documents/YouthRegistrationForm2018-19.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-primary">Youth Programs Registration Form</a>
 									</div>
@@ -223,56 +223,6 @@
 				</div>
 			</div>
 
-
-		<!-- Stewardship -->
-		<div class="row">
-			<div class="col-md-12">
-				<div class="card">
-					<div class="card-header" align="center">
-						<img src="documents/stewardship-2019-logo.png" alt="2019 Christ Church Ridgewood Stewardship Campaign: Transforming Generosity" class="img-fluid" style="width: 67%">
-					</div>
-					<div class="card-body" >
-						<div class="row" >
-							<div class="col-md-6" align="center">
-								<h4>From the Stewardship Committee</h4>
-								<p>We are so grateful for your faithful membership at Christ Church; your generosity truly sustains our ministry together.</p>
-
-								<a href="documents/2019-stewardship-rector.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Rector</a><br>
-								<a href="documents/2018-Chair-INTRO-Stewardship-FINAL.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Stewardship Chair</a><br>
-								<a href="documents/2019-stewardship-wardens.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Wardens</a><br>
-								<a href="documents/Recent-Happenings-at-Christ-Church.pdf" target="_blank" class="btn btn-outline-primary" >Recent Happenings</a><br>
-
-
-
-							</div>
-							<div class="col-md-6" align="center">
-								<h4>Campaign Information</h4>
-								<!-- <p>This year's pledge packet includes:</p>
-								<ul>
-									<li>Letters from the Stewardship Chair, your Wardens and Rector</li>
-									<li>A blue pledge card – combined financial and time/talent</li>
-									<li>A directory information printout of what we currently have on file</li>
-									<li>Frequently Asked Question brochure about pledging and proportional giving</li>
-									<li>Return Envelope</li>
-								</ul> -->
-								<p>Thank you for your prayerful consideration of your pledge to support the ministries of Christ Church in 2019 both financially and through volunteering your time and talents! Together, we can reach our goal of 100% participation in pledging.</p>
-								<p><strong>If you have not yet made your pledge for 2019, please do so using the "Pledge Online" button below!</strong></p>
-								<p>Please feel free to contact our Stewardship Chair, <a href="mailto:deanna.najork@gmail.com"> Deanna Najork</a>, with any questions.  Thank you again!</p>
-							</div>
-						</div>
-					</div>
-					<div class="card-footer" align="center">
-						<!-- <a href="documents/StewardshipTimeTalent2018.pdf" target="_blank" class="btn btn-outline-primary" >Time and Talents Form</a>
-						<a href="documents/StewardshipFAQ2018.pdf" target="_blank" class="btn btn-outline-primary" >FAQ About Giving</a>
-						<a href="https://goo.gl/forms/cqKeCekNA9wMSbhs2" target="_blank" class="btn btn-primary" >Pledge Online Now</a> -->
-						<a href="documents/2019-stewardship-faq.pdf" target="_blank" class="btn btn-outline-primary" >Giving FAQ</a>
-						<a href="documents/2019-pledge-card.pdf" target="_blank" class="btn btn-outline-primary" >Pledge Card</a>
-						<a href="https://goo.gl/forms/c1WFCNjZNSIMpQgK2" target="_blank" class="btn btn-primary" >Pledge Online</a>
-					</div>
-				</div>
-			</div>
-		</div>
-
 		<!-- upcoming events and sermon audio cards -->
 		<div class="row">
 			<div class="col-md-12" align="center">
@@ -298,14 +248,16 @@
 			<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Music & Liturgy Notes</h2>
-						<h3>May 12
-						<br/>The Fourth Sunday of Easter</h3>
+						<h3>May 19
+						<br/>The Fifth Sunday of Easter</h3>
 						<img src="images/organist-choir1.jpg" alt="Organist and Choir" title="Organist and Choir" class="img-fluid">
-						<p>The Fourth Sunday of Easter is sometimes known as “Good Shepherd” Sunday, since the Gospels appointed for this day depict Jesus as a shepherd. In John’s Gospel, heard today, Jesus says: “My sheep hear my voice. I know them and they follow me.” Much of the music chosen for today underscores this theme of Jesus leading his followers like a shepherd.
+						<p>
+						In John’s Gospel read today, we hear of Jesus great mandate to his disciples at the Last Supper, “a new commandment , that you love one another. Just as I have loved you…” Much of the music sung today, both by the choir and the congregation, is a reflection of Jesus' command to love one another. 
 						</p>
-						<p>After the First Lesson, Psalm 23, appointed for today, will be sung as a metrical hymn using Henry Williams Baker’s beautiful paraphrase “The King of love my shepherd is.” Like Martin Luther and Isaac Watts before him, Baker offers a Christian perspective to the psalm version. Here the “cup” becomes the chalice of the Eucharist,  and the “rod and staff” become the cross and the “shepherd” becomes the King of Love, Jesus. The hymn will be sung today to the tune “St. Columba,” a traditional Irish melody.
+
+						<p>
+						At the Offertory, we’ll hear Simon Lole’s graceful anthem “The Father’s Love." The British composer, conductor and organist, Simon Lole, has served both Sheffield Cathedral and Salisbury Cathedral as Organist and Choirmaster. As an arranger, Lole is much in demand and produces a great deal of music for the BBC and is heard frequently as Music Director of BBC Radio 4’s “Daily Service.” He has over 60 published choral works to his credit. He also has worked extensively as a crossover musician arranging for such musicians as Aled Jones, Camilla Kerslake and the rock band Archive.						
 						</p>
-						<p>The King James Version of Psalm 23 will also be heard in an anthem setting by Thomas Matthews, sung by the choir. Matthews (1915-1999) was the longtime organist, choirmaster and composer-in-residence for Trinity Episcopal Church in Tulsa, OK. His anthem “The Lord is my shepherd” has become one of the most beloved of all American anthems.</p>
 					</div>
 				</div>
 
@@ -367,6 +319,55 @@
 			<br><br>
 		</div>
 
+		<!-- Stewardship -->
+		<div class="row">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header" align="center">
+						<img src="documents/stewardship-2019-logo.png" alt="2019 Christ Church Ridgewood Stewardship Campaign: Transforming Generosity" class="img-fluid" style="width: 67%">
+					</div>
+					<div class="card-body" >
+						<div class="row" >
+							<div class="col-md-6" align="center">
+								<h4>From the Stewardship Committee</h4>
+								<p>We are so grateful for your faithful membership at Christ Church; your generosity truly sustains our ministry together.</p>
+
+								<a href="documents/2019-stewardship-rector.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Rector</a><br>
+								<a href="documents/2018-Chair-INTRO-Stewardship-FINAL.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Stewardship Chair</a><br>
+								<a href="documents/2019-stewardship-wardens.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Wardens</a><br>
+								<a href="documents/Recent-Happenings-at-Christ-Church.pdf" target="_blank" class="btn btn-outline-primary" >Recent Happenings</a><br>
+
+
+
+							</div>
+							<div class="col-md-6" align="center">
+								<h4>Campaign Information</h4>
+								<!-- <p>This year's pledge packet includes:</p>
+								<ul>
+									<li>Letters from the Stewardship Chair, your Wardens and Rector</li>
+									<li>A blue pledge card – combined financial and time/talent</li>
+									<li>A directory information printout of what we currently have on file</li>
+									<li>Frequently Asked Question brochure about pledging and proportional giving</li>
+									<li>Return Envelope</li>
+								</ul> -->
+								<p>Thank you for your prayerful consideration of your pledge to support the ministries of Christ Church in 2019 both financially and through volunteering your time and talents! Together, we can reach our goal of 100% participation in pledging.</p>
+								<p><strong>If you have not yet made your pledge for 2019, please do so using the "Pledge Online" button below!</strong></p>
+								<p>Please feel free to contact our Stewardship Chair, <a href="mailto:deanna.najork@gmail.com"> Deanna Najork</a>, with any questions.  Thank you again!</p>
+							</div>
+						</div>
+					</div>
+					<div class="card-footer" align="center">
+						<!-- <a href="documents/StewardshipTimeTalent2018.pdf" target="_blank" class="btn btn-outline-primary" >Time and Talents Form</a>
+						<a href="documents/StewardshipFAQ2018.pdf" target="_blank" class="btn btn-outline-primary" >FAQ About Giving</a>
+						<a href="https://goo.gl/forms/cqKeCekNA9wMSbhs2" target="_blank" class="btn btn-primary" >Pledge Online Now</a> -->
+						<a href="documents/2019-stewardship-faq.pdf" target="_blank" class="btn btn-outline-primary" >Giving FAQ</a>
+						<a href="documents/2019-pledge-card.pdf" target="_blank" class="btn btn-outline-primary" >Pledge Card</a>
+						<a href="https://goo.gl/forms/c1WFCNjZNSIMpQgK2" target="_blank" class="btn btn-primary" >Pledge Online</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		
 		<hr>
 
 		<!-- Juicer -->
