@@ -56,8 +56,47 @@
 	<!-- Page Content -->
 	<div class="container">
 
+				<!-- Bishop Visit -->
+				<div class="row">
+				<div class="col-md-12">
+					<div class="card">
+						<div class="card-body">
+							<div class="row">
+								<div class="col-md-6" align="center"><img src="images/bishop_hughes_vested.jpg" alt="Bishop Carlye Hughes" class="img-fluid"></div>
+								<div class="col-md-6" >
+									<div  align="center">
+										<br>
+										<h2 class="invitation">A visit from the Bishop</h2>
+										<p>
+											Christ Church Ridgewood welcomes 
+											<br>
+											The Rt. Rev. Carlye J. Hughes, 
+											<br>
+											11th Bishop of Newark
+											<br>
+
+											<br><br>
+										<strong>Sunday June 2</strong>
+											<br>
+									    <strong>Combined Service at 9:30</strong>
+											<br><br>
+									    Children of all ages will begin the service in the sanctuary to hear a special children's sermon from the Bishop
+											<br><br>
+									    After this sermon, younger children will be guided downstairs for a special puppet show
+											<br><br>
+										A reception will be held in the Great Hall immediately following the service
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- end Bishop Visit -->
+
 		<!-- Welcome carousel -->
-		<div class="row">
+		<!-- <div class="row">
 			<div class="col-md-12">
 				<div class="card">
 					<div class="card-header">
@@ -105,7 +144,7 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</div> -->
 
 		<div class="row">
 			<!-- Worship schedule -->
@@ -117,9 +156,11 @@
 					<div class="card-body">
 						<div class="row">
 							<div class="col-md-6">
-								<h3>Each Sunday</h3>
+								<h3>Sunday, June 2</h3>
+								<!-- <h3>Each Sunday</h3> -->
+
 								<table class="table table-striped ">
-									<tr>
+									<!-- <tr>
 										<td align="right" ><strong>8:00 AM</strong></td>
 										<td>Holy Eucharist<br><a href="documents/bulletin.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm  btn-outline-primary ">Program</a></td>
 									</tr>
@@ -134,17 +175,23 @@
 									<tr>
 										<td align="right"><strong>9:15 AM</strong></td>
 										<td>JOY! Service: 25 min. Eucharist for younger children </td>
-									</tr>
-									<tr>
+									</tr> -->
+									<!-- <tr>
 										<td align="right" nowrap><strong>10:00 AM</strong></td>
 										<td>Holy Eucharist with music  <br> <a href="documents/bulletin.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm btn-outline-primary "> Program</a></td>
+									</tr> -->
+									<tr>
+										<td align="right" nowrap><strong>9:30 AM</strong></td>
+										<td>Combined Service with Bishop Hughes  <br> <a href="documents/bulletin.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm btn-outline-primary "> Program</a></td>
 									</tr>
 									<tr>
-										<td align="right"><strong>11:15 AM</strong></td>
-										<td>Fellowship Hour</td>
+										<td align="right"><strong>11:00 AM</strong></td>
+										<td>Reception in the Great Hall immediately following</td>
 									</tr>
 									<tr>
-										<td colspan="2"><div align="center"><strong>Nursery Care: 9:30am-11:30am</strong></div></td>
+										<!-- <td colspan="2"><div align="center"><strong>Nursery Care: 9:30am-11:30am</strong></div></td> -->
+										<td colspan="2"><div align="center"><strong>Children begin in the church for the Bishop's children's sermon, then go downstairs for a special puppet show!</strong></div></td>
+
 									</tr>
 								</table>
 							</div>
@@ -169,7 +216,7 @@
 									<div class="col" style="padding-top: 20px;"><h4>Monday</h4><strong>7:00 AM</strong><br>Morning Prayer</div>
 									<div class="col" style="padding-top: 20px;"><h4>Wednesday</h4><strong>7:00 AM</strong><br>Holy Eucharist (Mass)</div>
 								</div>
-
+								<br>
 								<div class="row">
 									<div class="col" align="center">
 										<a href="documents/insert.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Announcements</a>
@@ -232,32 +279,23 @@
 			<!-- column left -->
 			<div class="col-md-6">
 
-			<!-- Adult Choir -->
-			<div class="card">
-				<div class="card-body" align="center">
-					<h2 class="cardtop">Adult Choir</h2>
-					<p>Do you love to sing? Please consider joining our choir and participating in a vital ministry. The choir musically leads our services each Sunday at 10 am. The choir’s repertoire includes great masterpieces from our Anglican tradition as well as beloved classics along with spirituals and contemporary choral works. We have openings for all voice parts. </p>
-				</div>
-				<!-- Footer buttons -->
-				<div align="center" class="card-footer">
-					<a href="mailto:organist@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact William Trafka</button></a>
-				</div>
-			</div>
-
 			<!-- Weekly Music Article -->
 			<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Music & Liturgy Notes</h2>
-						<h3>May 19
-						<br/>The Fifth Sunday of Easter</h3>
+						<h3>June 2
+						<br/>The Seventh Sunday of Easter</h3>
 						<img src="images/organist-choir1.jpg" alt="Organist and Choir" title="Organist and Choir" class="img-fluid">
 						<p>
-						In John’s Gospel read today, we hear of Jesus great mandate to his disciples at the Last Supper, “a new commandment , that you love one another. Just as I have loved you…” Much of the music sung today, both by the choir and the congregation, is a reflection of Jesus' command to love one another. 
+						Today we celebrate the Feast of the Ascension, transferring the propers from Ascension Day, observed last Thursday to this Sunday. It was on this day, forty days after the Resurrection, that Jesus, after bidding his disciples to proclaim repentance and forgiveness of sins to all nations and blessing them, was carried into heaven. It is on such a festive day in the church calendar that we welcome our Bishop, The Right Reverend Carlye J. Hughes, the eleventh Bishop of the Episcopal Diocese of Newark, to our church. The mystery of the Ascension is central to the life of Christ Church, not the least of which because of the glorious depiction of the Ascension of Jesus in stained glass, which graces the chancel of the church.
+						</p>
+						<p>
+						Psalm 47, appointed for today, proclaims that the Lord has “gone up with the sound of the trumpet.” Much of the music sung today reveals that triumphant imagery including the Offertory Anthem, Batten’s “O sing joyfully” with its bidding to “blow up the trumpet in the new moon,” a setting of Psalm 81. The 17th century English composer, Adrian Batten, served the choirs of both Westminster Abbey and St. Paul’s Cathedral in London, as a singer- a “Vicar Choral.” He supplemented his income as a music copyist. The Abbey’s account books record payments to him for copying music of Tallis, Weelkes and Tomkins, masters who undoubtedly exerted an important influence on the young composer.
+						</p>
+						<p>
+						We’ll also hear the tenor recitative and aria (movements II and III) from J. S. Bach’s Ascension Day cantata “God goes up with exultation,” Cantata #43, with its trumpet imagery: "Who is it, that stirs the trumpets? Who walks by His side? Is it not the host of God?” Sung by tenor section leader, Rider Foster with violinist Rick Dolan playing the obbligato violin part. Rick will also offer Heinrich Biber’s Violin Sonata XII, one of the “Rosary/Mystery” Sonatas, this one intimating the Ascension- the second of the Glorious Mysteries of the Rosary.						
 						</p>
 
-						<p>
-						At the Offertory, we’ll hear Simon Lole’s graceful anthem “The Father’s Love." The British composer, conductor and organist, Simon Lole, has served both Sheffield Cathedral and Salisbury Cathedral as Organist and Choirmaster. As an arranger, Lole is much in demand and produces a great deal of music for the BBC and is heard frequently as Music Director of BBC Radio 4’s “Daily Service.” He has over 60 published choral works to his credit. He also has worked extensively as a crossover musician arranging for such musicians as Aled Jones, Camilla Kerslake and the rock band Archive.						
-						</p>
 					</div>
 				</div>
 
@@ -300,6 +338,18 @@
 					</div>
 				</div>
 
+			<!-- Adult Choir -->
+			<div class="card">
+				<div class="card-body" align="center">
+					<h2 class="cardtop">Adult Choir</h2>
+					<p>Do you love to sing? Please consider joining our choir and participating in a vital ministry. The choir musically leads our services each Sunday at 10 am. The choir’s repertoire includes great masterpieces from our Anglican tradition as well as beloved classics along with spirituals and contemporary choral works. We have openings for all voice parts. </p>
+				</div>
+				<!-- Footer buttons -->
+				<div align="center" class="card-footer">
+					<a href="mailto:organist@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact William Trafka</button></a>
+				</div>
+			</div>
+			
 			<!-- Youth African Drumming -->
 				<div class="card">
 					<div class="card-body" align="center">
