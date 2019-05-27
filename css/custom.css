@@ -72,6 +72,10 @@ line-height: 70%;
 .panel-heading {
 	margin-top: 1rem;
 }
+.panel-title {
+	color: #113056;
+	font-size: 1.5em;
+}
 
 .card {
 	margin-bottom: 30px;

@@ -203,11 +203,12 @@
 								<table class="table table-striped table-sm">
 									<tr>
 										<td>
-											<ul id="celtic">
+											Service is on hiatus for the summer. Next will be September 15
+											<!-- <ul id="celtic">
 												<li>May 19</li>
 												<li>June 16</li>
 												<li>July 21</li>
-											</ul>
+											</ul> -->
 										</td>
 									</tr>
 								</table>
