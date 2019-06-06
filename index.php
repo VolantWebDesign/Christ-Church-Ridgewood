@@ -56,47 +56,10 @@
 	<!-- Page Content -->
 	<div class="container">
 
-				<!-- Bishop Visit -->
-				<div class="row">
-				<div class="col-md-12">
-					<div class="card">
-						<div class="card-body">
-							<div class="row">
-								<div class="col-md-6" align="center"><img src="images/bishop_hughes_vested.jpg" alt="Bishop Carlye Hughes" class="img-fluid"></div>
-								<div class="col-md-6" >
-									<div  align="center">
-										<br>
-										<h2 class="invitation">A visit from the Bishop</h2>
-										<p>
-											Christ Church Ridgewood welcomes 
-											<br>
-											The Rt. Rev. Carlye J. Hughes, 
-											<br>
-											11th Bishop of Newark
-											<br>
 
-											<br><br>
-										<strong>Sunday June 2</strong>
-											<br>
-									    <strong>Combined Service at 9:30</strong>
-											<br><br>
-									    Children of all ages will begin the service in the sanctuary to hear a special children's sermon from the Bishop
-											<br><br>
-									    After this sermon, younger children will be guided downstairs for a special puppet show
-											<br><br>
-										A reception will be held in the Great Hall immediately following the service
-										</p>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<!-- end Bishop Visit -->
 
 		<!-- Welcome carousel -->
-		<!-- <div class="row">
+		<div class="row">
 			<div class="col-md-12">
 				<div class="card">
 					<div class="card-header">
@@ -144,7 +107,7 @@
 					</div>
 				</div>
 			</div>
-		</div> -->
+		</div>
 
 		<div class="row">
 			<!-- Worship schedule -->
@@ -156,11 +119,10 @@
 					<div class="card-body">
 						<div class="row">
 							<div class="col-md-6">
-								<h3>Sunday, June 2</h3>
-								<!-- <h3>Each Sunday</h3> -->
+								<h3>Each Sunday</h3>
 
 								<table class="table table-striped ">
-									<!-- <tr>
+									<tr>
 										<td align="right" ><strong>8:00 AM</strong></td>
 										<td>Holy Eucharist<br><a href="documents/bulletin.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm  btn-outline-primary ">Program</a></td>
 									</tr>
@@ -175,23 +137,13 @@
 									<tr>
 										<td align="right"><strong>9:15 AM</strong></td>
 										<td>JOY! Service: 25 min. Eucharist for younger children </td>
-									</tr> -->
-									<!-- <tr>
+									</tr>
+									<tr>
 										<td align="right" nowrap><strong>10:00 AM</strong></td>
 										<td>Holy Eucharist with music  <br> <a href="documents/bulletin.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm btn-outline-primary "> Program</a></td>
-									</tr> -->
-									<tr>
-										<td align="right" nowrap><strong>9:30 AM</strong></td>
-										<td>Combined Service with Bishop Hughes  <br> <a href="documents/bulletin.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm btn-outline-primary "> Program</a></td>
 									</tr>
 									<tr>
-										<td align="right"><strong>11:00 AM</strong></td>
-										<td>Reception in the Great Hall immediately following</td>
-									</tr>
-									<tr>
-										<!-- <td colspan="2"><div align="center"><strong>Nursery Care: 9:30am-11:30am</strong></div></td> -->
-										<td colspan="2"><div align="center"><strong>Children begin in the church for the Bishop's children's sermon, then go downstairs for a special puppet show!</strong></div></td>
-
+										<td colspan="2"><div align="center"><strong>Nursery Care: 9:30am-11:30am</strong></div></td>
 									</tr>
 								</table>
 							</div>
@@ -284,17 +236,20 @@
 			<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Music & Liturgy Notes</h2>
-						<h3>June 2
-						<br/>The Seventh Sunday of Easter</h3>
+						<h3>June 9
+						<br/>Pentecost</h3>
 						<img src="images/organist-choir1.jpg" alt="Organist and Choir" title="Organist and Choir" class="img-fluid">
 						<p>
-						Today we celebrate the Feast of the Ascension, transferring the propers from Ascension Day, observed last Thursday to this Sunday. It was on this day, forty days after the Resurrection, that Jesus, after bidding his disciples to proclaim repentance and forgiveness of sins to all nations and blessing them, was carried into heaven. It is on such a festive day in the church calendar that we welcome our Bishop, The Right Reverend Carlye J. Hughes, the eleventh Bishop of the Episcopal Diocese of Newark, to our church. The mystery of the Ascension is central to the life of Christ Church, not the least of which because of the glorious depiction of the Ascension of Jesus in stained glass, which graces the chancel of the church.
+						Today, we celebrate the Day of Pentecost, one of the principal feasts of the church, which occurs fifty days after Easter. On this day, the Holy Spirit, promised by Jesus, descended on the disciples empowering them with gifts of wisdom, knowledge and fortitude to preach the Gospel to all nations. Today, we pray that these gifts will be given to us, so that we may spread the Gospel to the ends of the earth. The music for today’s liturgy reflects the power of the Holy Spirit.
 						</p>
 						<p>
-						Psalm 47, appointed for today, proclaims that the Lord has “gone up with the sound of the trumpet.” Much of the music sung today reveals that triumphant imagery including the Offertory Anthem, Batten’s “O sing joyfully” with its bidding to “blow up the trumpet in the new moon,” a setting of Psalm 81. The 17th century English composer, Adrian Batten, served the choirs of both Westminster Abbey and St. Paul’s Cathedral in London, as a singer- a “Vicar Choral.” He supplemented his income as a music copyist. The Abbey’s account books record payments to him for copying music of Tallis, Weelkes and Tomkins, masters who undoubtedly exerted an important influence on the young composer.
+						The hymn “Veni, Creator spiritus (Come, Holy Spirit)” is one of the most familiar plainsong hymns known to Anglicans throughout the world. It was most likely composed in the ninth century and has been in continuous use in coronation rites since the accession of Edward II in 1307. Since the Reformation, it has been mandated for use at ordinations. Two organ works based on this this melody will be heard today, the first by Leo Sowerby, prolific American composer and church musician and the other, a German chorale tune “Komm, Gott Schöpfer," modeled on the chant, in a setting by Johann Sebastian Bach from his “Great Eighteen” Chorale Preludes.
 						</p>
 						<p>
-						We’ll also hear the tenor recitative and aria (movements II and III) from J. S. Bach’s Ascension Day cantata “God goes up with exultation,” Cantata #43, with its trumpet imagery: "Who is it, that stirs the trumpets? Who walks by His side? Is it not the host of God?” Sung by tenor section leader, Rider Foster with violinist Rick Dolan playing the obbligato violin part. Rick will also offer Heinrich Biber’s Violin Sonata XII, one of the “Rosary/Mystery” Sonatas, this one intimating the Ascension- the second of the Glorious Mysteries of the Rosary.						
+						Grayston Ives, retired Director of Music at Magdalen College in Oxford, studied at Cambridge University and sang both in Guildford Cathedral Choir and was a member of the famed King Singers. For his immense contribution to church music, he was awarded a Fellowship to the Royal School of Church Music and a Doctor of Music from Lambeth conferred by the Archbishop of Canterbury. His “Listen sweet dove,” a setting of a poem by the 17th century mystic poet and priest, George Herbert, reveals his compelling style which is fresh and vital as well as warm and expressive.						
+						</p>
+						<p>
+						Today, we also honor the Youth of Christ Church and their leaders and thank them for their contribution to the vibrant life of this parish. To mark this, our Jubilation Choir will sing “Any dream will do” by Andrew Lloyd Webber from “Joseph and the AmazingTechnicolor Dreamcoat." Also, Andrew Stoddard, graduating senior and gifted musician, will offer a composition for solo guitar which will be heard during Communion. 
 						</p>
 
 					</div>

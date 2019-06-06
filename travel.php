@@ -48,6 +48,8 @@
   
         </div>
         <hr>
+
+        
         <div class="row">
             <div class="col-md-6">
                 <h1>Assisi & Rome</h1>
@@ -131,6 +133,58 @@
                 </div>
             </div>
         </div>
+        <hr>
+        <br>
+    <!-- Travel photo carousel -->
+		<div class="row">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header">
+						<h4>Italy awaits!</h4>
+					</div>
+					<div class="card-body">
+						<div class="row">
+                        <div class="col-lg-5">
+								<div class="card-body">
+									<p>Join us as we visit this magical place</p>
+                                    <p>Build fellowship with other Christ Church parishioners</p>
+                                    <p>Get in touch with God a world away</p>
+								</div>
+							</div>
+							<div class="col-lg-7">
+
+								<div id="carouselWelcome" class="carousel slide" data-ride="carousel">
+									<div class="carousel-inner">
+										<div class="carousel-item active">
+											<img class="d-block w-100" src="images/travel-images/alla posta dei donini front.jpg" alt="">
+											<!-- <div class="carousel-caption d-none d-md-block">
+												<h5>Please Join Us at 8:00AM</h5>
+												<p>An intimate service for early risers</p>
+											</div> -->
+										</div>
+										<div class="carousel-item">
+											<img class="d-block w-100" src="images/travel-images/La Verna cross.jpg" alt="">
+											<!-- <div class="carousel-caption d-none d-md-block">
+												<h5>Please Join Us at 9:15AM</h5>
+												<p>A 30-minute service for children and young families</p>
+											</div> -->
+										</div>
+										<div class="carousel-item">
+											<img class="d-block w-100" src="images/travel-images/spoleto-piazza-duomo-duomo (1).jpg" alt="">
+											<!-- <div class="carousel-caption d-none d-md-block">
+												<h5>Please Join Us at 10:00AM</h5>
+												<p>Our largest service, with organ and full choir</p>
+											</div> -->
+										</div>
+									</div>
+								</div>
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 
     <?php include "donate.php"; ?>
 
