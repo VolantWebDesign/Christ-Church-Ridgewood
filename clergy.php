@@ -203,6 +203,23 @@
 			<div class="row">
 					<div class="col-md-4 col-sm-4 col-xs-4">
 						<div align="center">
+							<img src="images/vestry/missing.jpg" class="img-fluid rounded-circle"/>
+						</div>
+					</div>
+					<div class="col-md-8">
+						<h4>Lauren Hirsch<br><small>Bookkeeper</small></h4>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<hr>
+
+		<div class="row">
+			<div class="col-md-6">
+				<div class="row">
+				<div class="col-md-4 col-sm-4 col-xs-4">
+						<div align="center">
 							<img src="images/clergy/marge.jpg" class="img-fluid rounded-circle"/>
 						</div>
 					</div>
@@ -210,6 +227,9 @@
 						<h4>Marge Singer<br><small>Emeritus Finance Secretary</small></h4>
 					</div>
 				</div>
+			</div>
+			<div class="col-md-6">
+
 			</div>
 		</div>
 
@@ -221,7 +241,7 @@
 
 			<p>The Rector is chairman of the Vestry. Wardens, elected for up to three consecutive two-year terms, are the lay chairs of the Vestry, and have canonical authority for the parish when the rectorship is vacant. Members are elected for up to two consecutive three-year terms. Governed by national and diocesan canon law, New Jersey State Religious Corporation law, and our own by-laws, the Vestry leads the parish in setting policies and goals, maintaining the buildings, and raising financial support for the mission of the parish.</p>
 
-			<p>For questions about the Vestry or to contact individual members, email the Parish Administrator, Jessica Sheehan, or call <a href="tel:+12016522350,13">(201) 652-2350 x13.</a></p>
+			<p>For questions about the Vestry or to contact individual members, email the Parish Administrator, Louise Rode, or call <a href="tel:+12016522350,13">(201) 652-2350 x13.</a></p>
 		</div>
 		<h4>The members of the vestry are:</h4>
 		<div class="row">
@@ -235,6 +255,16 @@
 					<hr><img src="images/vestry/tom_m.jpg" class="img-fluid rounded-circle"/><br>Tom Martin<br>Warden<br>
 				</div>
 			</div>
+			<div class="col-md-2 col-sm-4 col-xs-6">
+				<div align="center">
+					<hr><img src="images/vestry/missing.jpg" class="img-fluid rounded-circle"/><br>Kent Blair<br>Treasurer<br>
+				</div>
+			</div>
+			<div class="col-md-2 col-sm-4 col-xs-6">
+				<div align="center">
+					<hr><img src="images/vestry/jim_m.jpg" class="img-fluid rounded-circle"/><br>Jim Morgan<br>Finance Chair<br>
+				</div>
+			</div>
 			<div class="col-md-2 col-sm-4 col-xs-4">
 				<div align="center">
 					<hr><img src="images/vestry/ken_c.jpg" class="img-fluid rounded-circle"/><br>Kenny Cook<br>
@@ -243,16 +273,6 @@
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
 					<hr><img src="images/vestry/troy_e.jpg" class="img-fluid rounded-circle"/><br>Troy Eggers<br>
-				</div>
-			</div>
-			<div class="col-md-2 col-sm-4 col-xs-6">
-				<div align="center">
-					<hr><img src="images/vestry/lyle_h.jpg" class="img-fluid rounded-circle"/><br>Lyle Hatch<br>
-				</div>
-			</div>
-			<div class="col-md-2 col-sm-4 col-xs-6">
-				<div align="center">
-					<hr><img src="images/vestry/jeff_h2.jpg" class="img-fluid rounded-circle"/><br>Jeff Hamon<br>Treasurer<br>
 				</div>
 			</div>
 		</div>
@@ -272,11 +292,7 @@
 					<hr><img src="images/vestry/jamel_s.jpg" class="img-fluid rounded-circle"/><br>Jamel Shimpfky<br>
 				</div>
 			</div>
-			<div class="col-md-2 col-sm-4 col-xs-6">
-				<div align="center">
-					<hr><img src="images/vestry/jim_m.jpg" class="img-fluid rounded-circle"/><br>Jim Morgan<br>Finance Chair<br>
-				</div>
-			</div>
+
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
 					<hr><img src="images/vestry/matt_b.jpg" class="img-fluid rounded-circle"/><br>Matt Bodino<br>
@@ -305,6 +321,16 @@
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
 					<hr><img src="images/vestry/LaraZ.png" class="img-fluid rounded-circle"/><br>Lara Ziccardi<br>
+				</div>
+			</div>
+			<div class="col-md-2 col-sm-4 col-xs-6">
+				<div align="center">
+					<hr><img src="images/vestry/lyle_h.jpg" class="img-fluid rounded-circle"/><br>Lyle Hatch<br>
+				</div>
+			</div>
+			<div class="col-md-2 col-sm-4 col-xs-6">
+				<div align="center">
+					<hr><img src="images/vestry/jeff_h2.jpg" class="img-fluid rounded-circle"/><br>Jeff Hamon<br>
 				</div>
 			</div>
 		</div>

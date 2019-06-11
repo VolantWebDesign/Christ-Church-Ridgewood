@@ -58,6 +58,9 @@
                 <h3>$3,499 per person (double occupancy) *</h3>
                 <h4>Singles available for a supplement of $629<br>
                 Price includes a tax-deductible donation of $250</h4>
+                <div class="col" align="center">
+                    <a href="https://www.groupminder.com/internet/resEvt.cfm?cstId=90&evtId=378&entType=2&entId=7" target="_blank" class="btn btn-primary">Book Your Tickets Here!</a>
+                </div>
             </div>
             <div class="col-md-6">
                 <div class="panel-primary">
@@ -146,6 +149,13 @@
 						<div class="row">
                         <div class="col-lg-5">
 								<div class="card-body">
+                                    <p>A few of the sites you will encounter:
+                                        <ul>
+                                            <li> Franciscan Sanctuary La Verna, in Chiusi della Verna</li>
+                                            <li>Duomo of Spoletto</li>
+                                            <li>Alla Posta dei Donini, located in San Martino (our hotel!)</li>
+                                        </ul>
+                                    </p>
 									<p>Join us as we visit this magical place</p>
                                     <p>Build fellowship with other Christ Church parishioners</p>
                                     <p>Get in touch with God a world away</p>
