@@ -55,24 +55,26 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12" align="center">
-        <h2 class="page-header invitation">vbs music & lyrics download</h2>
+        <h2 class="page-header invitation">vbs music download</h2>
       </div>
     </div>
     <br>
     <div class="row">
-      <div class="col-md-6" align="center">
+      <!-- <div class="col-md-6" align="center">
         <h3 class="page-header invitation">Lyrics</h3>
         <a href="downloads/lyrics/The-Big-Fish.docx" download="The Big Fish lyrics.docx" class="btn btn-lg btn-outline-primary">Download</a>
         <br><br><br>
-      </div>
+      </div> -->
+      <div class="col-md-3"></div>
       <div class="col-md-6" align="center">
         <h3 class="page-header invitation">Songs</h3>
-        <a href="downloads/music/Nothing-Like-a-Mystery.m4a" download="Nothing Like a Mystery.m4a" class="btn btn-lg btn-outline-primary">Nothing Like a Mystery</a>
-        <a href="downloads/music/Runnin-From-the-Lord.m4a" download="Runnin From the Lord.m4a" class="btn btn-lg btn-outline-primary">Runnin From the Lord</a>
-        <a href="downloads/music/No-Greater-One.m4a" download="No Greater One.m4a" class="btn btn-lg btn-outline-primary">No Greater One</a>
-        <a href="downloads/music/Deep-Sea-Blues.m4a" download="Deep Sea Blues.m4a" class="btn btn-lg btn-outline-primary">Deep Sea Blues</a>
-        <a href="downloads/music/Its-a-Miracle.m4a" download="It's a Miracle.m4a" class="btn btn-lg btn-outline-primary">It's a Miracle</a>
+        <a href="downloads/VBS_2019/music/01 A Million Dreams.m4a" download="A Million Dreams" class="btn btn-lg btn-outline-primary">A Million Dreams</a>
+        <a href="downloads/VBS_2019/music/01 When the Circus Comes to Town.mp3" download="When the Circus Comes to Town" class="btn btn-lg btn-outline-primary">When the Circus Comes to Town</a>
+        <a href="downloads/VBS_2019/music/02 Under the Big Top 1.mp3" download="Under the Big Top 1" class="btn btn-lg btn-outline-primary">Under the Big Top</a>
+        <a href="downloads/VBS_2019/music/03 God's Ways.mp3" download="God's Ways" class="btn btn-lg btn-outline-primary">God's Ways</a>
+        <a href="downloads/VBS_2019/music/05 What Once was Lost is Found 1.mp3" download="What Once Was Lost Is Found" class="btn btn-lg btn-outline-primary">What Once Was Lost Is Found</a>
       </div>
+      <div class="col-md-3"></div>
     </div>
 
     <!-- Call to Action Section -->
