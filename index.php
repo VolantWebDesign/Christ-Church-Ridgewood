@@ -215,6 +215,7 @@
 										</p>
 										<a href="https://www.eventbrite.com/e/music-theatre-vbs-2019-the-prodigal-clown-tickets-60962543609" class="btn btn-md btn-primary" target="_blank">Register Step 1: Payment</a>
 										<a href="https://forms.gle/GDTMQA3KWF2hSAJb7" class="btn btn-md btn-primary" target="_blank">Register Step 2: Participant Information</a>
+										<br>
 										<a href="vbs-download.php" class="btn btn-outline-primary btn-md">Download music</a>
 										<a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
 									</div>
@@ -238,20 +239,20 @@
 			<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Music & Liturgy Notes</h2>
-						<h3>June 30
+						<h3>July 28
 						</h3>
 						<img src="images/organist-choir1.jpg" alt="Organist and Choir" title="Organist and Choir" class="img-fluid">
 						<p>
-						In today’s Gospel from St. Luke, we hear of Jesus' mandate to his disciples to “Follow me,” as he drew near to Jerusalem and his impending passion and death. To underscore this command, we’ll sing the hymn “He who would valiant be” with the celebrated verse “let him in constancy follow the Master.” The text to this hymn is a paraphrase of John Bunyan’s poem from Pilgrim’s Progress (1684) by Percy Dearmer. Dearmer was an English priest, prolific writer, hymnodist, and social activist. He along with Ralph Vaughan Williams edited the ground breaking English Hymnal of 1906, where this hymn was first introduced. The tune we sing today, “St. Dunstan’s,” was composed by Charles Winfred Douglas and named for the stone cottage that Douglas occupied in Peekskill, NY at the Community of St. Mary’s, where he was director of music. It was first included in the 1916 Episcopal Hymnal.
+						The Collect of the Day entreats God to “increase and multiply upon us” his mercy and bids us, with God “as our ruler and guide” to aim for “things eternal.” To mirror this beautiful prayer, the choir will sing Simon Lole’s “O God of mercy,” a setting of a hymn by Godfrey Thring, who wrote: “Teach us, as ever in thy sight, to live our life to thee.” Thring was a 19th century Anglican priest and celebrated hymn writer, whose work appeared in various 19th century hymn collections including Hymns and Sacred Lyrics (1874) and the Church of England Hymnbook (1880). One of his hymns is included in our own The Hymnal 1982, “Jesus came, adored by angels,” #454.
 						</p>
 						<p>
-						On this, the last Sunday in the Pride month of June, we recognize the contributions of the LGBTQ community in the life of the church, particularly three musicians who have enriched the repertoire of sacred music and organ works in the 20th and 21st centuries, and whose music will be offered today. David Conte currently serves as a Professor of Composition at the San Francisco Conservatory. He studied with the legendary Nadia Boulanger in Paris and worked as an assistant to Aaron Copland. His Recollection for organ was commissioned by St. Bartholomew’s Church for William Trafka’s annual New Year’s Eve concert as a companion piece to Trafka’s transcription of Copland's Fanfare for the Common Man. Other collaborations between Conte and Trafka include premières of Missa Brevis (2013), September Sun (2002), commissioned for the first anniversary of the 9/11 tragedy, and the mixed voice version of Elegy for Matthew Shepherd (2000).
+						The British composer, conductor and organist, Simon Lole, has served both Sheffield Cathedral and Salisbury Cathedral as Organist and Choirmaster. As an arranger, Lole is much in demand and produces a great deal of music for the BBC and is heard frequently as Music Director of BBC Radio 4’s Daily Service. He has over 60 published choral works to his credit. He also has worked extensively as a crossover musician arranging for such musicians as Aled Jones, Camilla Kerslake and the rock band Archive.
 						</p>
 						<p>
-						American Pianist and Composer, Kevin Oldham (1960-1993) was a graduate of the Juilliard School and enjoyed an extensive career as a performer with well reviewed concerts in both the US and Europe. After his 1988 diagnosis of AIDS, he devoted his life to composition, including many sacred choral works written for the Marble Collegiate Church Choir in New York, in which he sang. In 1993, just a few weeks before his death, he performed his celebrated Piano Concerto, Op. 14 with the Kansas City Symphony. His Hymn for organ, heard today was composed in 1988 and given to Bill Trafka by the composer. Bill will play the work from Kevin’s manuscript.
+						Today, organ works of two very different British composers will also be heard. Frank Bridge, who flourished in the first part of the 20th century, was a student of Charles Villiers Stanford and as such developed along the lines of a Neo-Romantic/Impressionist idiom, which he refined to a great technical fluency. A pacifist deeply disturbed by World War I, he wrote many works which yearn for spiritual consolation, including a Lament as a memorial to the sinking of the Lusitania in 1915. 
 						</p>
 						<p>
-						Leo Sowerby, (1895-1968) was one of the most prolific American composers of the 20th century and a renowned church musician- “The Dean of American Church Music.” He served as organist and choirmaster at St. James Cathedral in Chicago from 1927 until his retirement in 1962, after which he founded the College of Church Musicians at Washington’s National Cathedral, which he directed until his death. His Prelude on “St. Dunstan’s” is indicative of his wonderfully colorful, but accessible harmonic language.
+						The prolific Welsh composer, William Mathias studied at the Royal Academy of Music in London, his signature style of complex rhythms and vibrant harmonies, reminiscent of Stravinsky, a strong influence, are evident in his most famous anthem “Let all the people praise thee, O God,” composed for the wedding of the Prince Charles and Princess Diana in 1981 and certainly in his Toccata Giocosa (1967) heard today. 
 						</p>
 					</div>
 				</div>
