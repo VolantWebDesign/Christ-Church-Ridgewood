@@ -175,7 +175,7 @@
 										<a href="documents/insert.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Announcements</a>
 									</div>
 									<div class="col" align="center">
-										<a href="documents/YouthRegistrationForm2018-19.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-primary">Youth Programs Registration Form</a>
+										<a href="documents/Youth-Registration-Form-2019.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-primary">Youth Programs Registration Form</a>
 									</div>
 								</div>
 							</div>
@@ -184,47 +184,6 @@
 				</div>
 			</div>
 		</div>
-
-			<!-- VBS -->
-	<div class="row">
-				<div class="col-md-12">
-					<div class="card">
-						<div class="card-body">
-							<div class="row">
-								<div class="col-md-6" align="center"><img src="images/VBS/prodigal-clown-title.jpg" alt="" class="img-fluid"></div>
-								<div class="col-md-6" >
-									<div  align="center">
-										<br>
-										<h2 class="invitation">Musical Theatre VBS</h2>
-										<p>
-											Join Christ Episcopal Church for
-											<br>
-									    <b>The Prodigal Clown</b>
-											<br><br>
-									    August 12-16
-											<br>
-									    9 am – 12 pm
-											<br>
-									    For Ages 4 – 12
-											<br>
-									    $80 per child
-											<br><br>
-									    This summer, come join in the fun of Musical Theatre Vacation Bible School (VBS)! The parable that Jesus told about the loving father and two sons comes to life for kids as never before in “The Prodigal Clown.”  Don’t miss this wonderful week of faith, music, drama, and art, with a performance on Friday morning.
-											<br>
-											Register now to secure a spot, space is limited.
-										</p>
-										<a href="https://www.eventbrite.com/e/music-theatre-vbs-2019-the-prodigal-clown-tickets-60962543609" class="btn btn-md btn-primary" target="_blank">Register Step 1: Payment</a>
-										<a href="https://forms.gle/GDTMQA3KWF2hSAJb7" class="btn btn-md btn-primary" target="_blank">Register Step 2: Participant Information</a>
-										<br>
-										<a href="vbs-download.php" class="btn btn-outline-primary btn-md">Download music</a>
-										<a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
 
 		<!-- upcoming events and sermon audio cards -->
 		<div class="row">
@@ -239,20 +198,14 @@
 			<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Music & Liturgy Notes</h2>
-						<h3>July 28
+						<h3>Aug 18
 						</h3>
 						<img src="images/organist-choir1.jpg" alt="Organist and Choir" title="Organist and Choir" class="img-fluid">
 						<p>
-						The Collect of the Day entreats God to “increase and multiply upon us” his mercy and bids us, with God “as our ruler and guide” to aim for “things eternal.” To mirror this beautiful prayer, the choir will sing Simon Lole’s “O God of mercy,” a setting of a hymn by Godfrey Thring, who wrote: “Teach us, as ever in thy sight, to live our life to thee.” Thring was a 19th century Anglican priest and celebrated hymn writer, whose work appeared in various 19th century hymn collections including Hymns and Sacred Lyrics (1874) and the Church of England Hymnbook (1880). One of his hymns is included in our own The Hymnal 1982, “Jesus came, adored by angels,” #454.
+						In Luke’s Gospel read today, Jesus proclaims that he has come into the world to bring fire, baptism, and division, not peace to the earth. Perhaps, the peace which Jesus shatters with division is the gratification stemming from wealth, power and station. Jesus is proposing a new world order of humility, courage and forgiveness- a new rule of peace as taught in the Gospels. This morning we’ll sing an honored prayer for peace from The 1982 Hymnal, “God, the Omnipotent,” with its repeated plea “give to us peace in our time, O Lord,” and finally “thou wilt give peace in our time, O Lord.” The hymntune Russia, was composed by Alexis Lvov and commissioned by Czar Nicolas I in 1833 and used as a national hymn in Russia until the Revolution. It is famously included as the climax of Tchaikovsky’s 1812 Overture.
 						</p>
 						<p>
-						The British composer, conductor and organist, Simon Lole, has served both Sheffield Cathedral and Salisbury Cathedral as Organist and Choirmaster. As an arranger, Lole is much in demand and produces a great deal of music for the BBC and is heard frequently as Music Director of BBC Radio 4’s Daily Service. He has over 60 published choral works to his credit. He also has worked extensively as a crossover musician arranging for such musicians as Aled Jones, Camilla Kerslake and the rock band Archive.
-						</p>
-						<p>
-						Today, organ works of two very different British composers will also be heard. Frank Bridge, who flourished in the first part of the 20th century, was a student of Charles Villiers Stanford and as such developed along the lines of a Neo-Romantic/Impressionist idiom, which he refined to a great technical fluency. A pacifist deeply disturbed by World War I, he wrote many works which yearn for spiritual consolation, including a Lament as a memorial to the sinking of the Lusitania in 1915. 
-						</p>
-						<p>
-						The prolific Welsh composer, William Mathias studied at the Royal Academy of Music in London, his signature style of complex rhythms and vibrant harmonies, reminiscent of Stravinsky, a strong influence, are evident in his most famous anthem “Let all the people praise thee, O God,” composed for the wedding of the Prince Charles and Princess Diana in 1981 and certainly in his Toccata Giocosa (1967) heard today. 
+						Last Thursday, August 15, the Episcopal Church observed the feast of St. Mary the Virgin, the Mother of Our Lord Jesus Christ. In the Roman Catholic Church, this feast day celebrates one event in the life of Mary: her Assumption into Heaven. To retrospectively mark this feast day, Violinist Rick Dolan will play Heinrich Biber’s Violin Sonata XIV, one of the Rosary/Mystery Sonatas, this one intimating the Assumption of Mary- the fourth of the Glorious Mysteries of the Rosary. Biber composed a sonata for each of the fifteen Mysteries of the Rosary, reflecting pivotal moments in the life of Christ and Mary from the Annunciation to the Beatification of Mary. Additionally, Guest Soprano, Sandra Ruggles along with Rick will offer a setting of “Ave Maria,” the melody of which Charles Gounod composed, pairing it with Johann Sebastian Bach’s Prelude in C Major from The Well Tempered Clavier used as the accompaniment.
 						</p>
 					</div>
 				</div>
