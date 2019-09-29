@@ -226,14 +226,21 @@
 			<!-- column right -->
 			<div class="col-md-6">
 
-			<!-- Annual Meeting Video -->
+			<!-- Bach Tour -->
 			<div class="card">
 					<div class="card-body" align="center">
-						<h2 class="cardtop">Annual Meeting Slideshow:
+						<h2 class="cardtop">In the Footsteps of Bach:
 						<br>
-						A look back at 2018</h2>
-						<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FChristEpiscopalChurchRidgewood%2Fvideos%2F705944633133785%2F&show_text=0&width=560"  style="border:none;overflow:hidden;max-width: 100% !important;width: auto !important;height: auto !important;" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
+						Germany Tour 2020</h2>
+                        <div class="col"><img src="images/Bach_Tour_2020/bach_banner.png" class="img-fluid"></div>
+					</div>
+					<div align="center" class="card-footer">
+						<a href="documents/Bach_tour_2020/Final Bach Tour 2020 .pdf" target="_blank" class="btn btn-primary">
+							Registration Form
+						</a>
+						<a href="bachtour.php" class="btn btn-outline-primary">
+							More Information
+						</a>
 					</div>
 				</div>
 
