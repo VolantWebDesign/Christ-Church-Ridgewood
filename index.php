@@ -198,14 +198,11 @@
 			<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Music & Liturgy Notes</h2>
-						<h3>Aug 18
+						<h3>September 29
 						</h3>
 						<img src="images/organist-choir1.jpg" alt="Organist and Choir" title="Organist and Choir" class="img-fluid">
 						<p>
-						In Luke’s Gospel read today, Jesus proclaims that he has come into the world to bring fire, baptism, and division, not peace to the earth. Perhaps, the peace which Jesus shatters with division is the gratification stemming from wealth, power and station. Jesus is proposing a new world order of humility, courage and forgiveness- a new rule of peace as taught in the Gospels. This morning we’ll sing an honored prayer for peace from The 1982 Hymnal, “God, the Omnipotent,” with its repeated plea “give to us peace in our time, O Lord,” and finally “thou wilt give peace in our time, O Lord.” The hymntune Russia, was composed by Alexis Lvov and commissioned by Czar Nicolas I in 1833 and used as a national hymn in Russia until the Revolution. It is famously included as the climax of Tchaikovsky’s 1812 Overture.
-						</p>
-						<p>
-						Last Thursday, August 15, the Episcopal Church observed the feast of St. Mary the Virgin, the Mother of Our Lord Jesus Christ. In the Roman Catholic Church, this feast day celebrates one event in the life of Mary: her Assumption into Heaven. To retrospectively mark this feast day, Violinist Rick Dolan will play Heinrich Biber’s Violin Sonata XIV, one of the Rosary/Mystery Sonatas, this one intimating the Assumption of Mary- the fourth of the Glorious Mysteries of the Rosary. Biber composed a sonata for each of the fifteen Mysteries of the Rosary, reflecting pivotal moments in the life of Christ and Mary from the Annunciation to the Beatification of Mary. Additionally, Guest Soprano, Sandra Ruggles along with Rick will offer a setting of “Ave Maria,” the melody of which Charles Gounod composed, pairing it with Johann Sebastian Bach’s Prelude in C Major from The Well Tempered Clavier used as the accompaniment.
+						In Paul’s first Epistle to Timothy read this morning, we are beckoned to “Fight the good fight of the faith; and take hold of the eternal life…” To echo these powerful words, the choir will sing John Gardner’s setting of the beloved hymn “Fight the good fight.” The text of this hymn was written by John Samuel Bewley Monsell, a 19th century Irish cleric who attended Trinity College in Dublin and eventually moved to England to serve St. Nicholas Parish in Guildford. Cradle Episcopalians may also recall Monsell’s hymn “On our way rejoicing,” included in the 1940 Hymnal, the predecessor of our 1982 Hymnal. John Gardner (1917-2011) was a prolific British composer in many musical genres, particularly choral music. Gardner taught at three notable British institutions- The Royal Academy of Music, Morley College and St. Paul’s School as a successor to both Gustav Holst and Herbert Howells.
 						</p>
 					</div>
 				</div>
