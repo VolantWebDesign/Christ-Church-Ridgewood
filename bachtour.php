@@ -39,8 +39,14 @@
     <!-- Page Content -->
     <div class="container">
         <hr>
-       
-        <div class="row">
+        <div class="row flex-md-row-reverse">
+            <div class="col-md-6">
+                <div class="panel-primary">
+                    <div class="row" align="center">
+                        <div class="col"><img src="images/Bach_Tour_2020/bach_banner.jpg" class="img-fluid"></div>
+                    </div>
+                </div>
+            </div>
             <div class="col-md-6">
                 <h1>In the Footsteps of J.S. Bach</h1>
                 <h2>A Spring 2020 Tour to Germany</h2>
@@ -52,13 +58,6 @@
                      <a href="documents/Bach_tour_2020/Final Bach Tour 2020 .pdf" target="_blank" class="btn btn-primary">
                         Registration Form
                     </a>
-                </div>
-            </div>
-            <div class="col-md-6">
-                <div class="panel-primary">
-                    <div class="row" align="center">
-                        <div class="col"><img src="images/Bach_Tour_2020/bach_banner.png" class="img-fluid"></div>
-                    </div>
                 </div>
             </div>
         </div>
@@ -73,10 +72,15 @@
 					</div>
 					<div class="card-body">
 						<div class="row">
-                        <div class="col-lg-5">
+                        <div class="col-lg-6">
 								<div class="card-body">
-                                    <p>Including these private organ recitals:</p>
-                                    <ul>
+                                    <p>
+                                    In the Spring of 2020, Christ Church’s Organist and Director of Music, William Trafka, will lead a tour to Germany to visit the towns and churches where Bach lived, worked, and wrote his greatest works. Bill will also play Bach's organ works in the magnificent sacred spaces, some centuries old, where they most likely were first intended to be heard and on some of the original instruments which Bach played over 300 years ago, offering a concrete aural and spiritual link to the legendary composer. The tour will visit the charming towns of Eisenach (Bach’s birthplace), Mühlhausen, Arnstadt, and Weimar as well as the major cities of Erfurt, Dresden, Leipzig and Berlin. 
+                                    </p>
+                                    <p>
+                                    The tour will take place from May 20 to May 30, 2020, at the height of the Spring season in this opulent part of Central and East Germany. The accommodations are superb as is the wonderful German cuisine, particularly as experienced at the iconic Auerbachs Keller, built in 1438 and featured in Goethe’s Faust. Experience the wonderfully inspiring music of Bach in these powerful, ancient spaces amidst the immortal richness of German history and culture.
+                                    </p>
+                                    <!-- <ul>
                                         <li> St. Blasius Church in Muelhausen</li>
                                         <li>Bach Church in Arnstadt</li>
                                         <li>St Thomas Church in Leipzig</li>
@@ -85,10 +89,10 @@
                                         <li>Kreuzkirche Church in Störmthal on the historic Hildebrandt organ</li>
                                         <li>Town Church of Wittenberg</li>
                                         <li>Köthen Castle on the chapel organ</li>
-                                    </ul>
+                                    </ul> -->
 								</div>
 							</div>
-							<div class="col-lg-7">
+							<div class="col-lg-6">
 								<div id="carouselWelcome" class="carousel slide" data-ride="carousel">
 									<div class="carousel-inner">
 										<div class="carousel-item active">

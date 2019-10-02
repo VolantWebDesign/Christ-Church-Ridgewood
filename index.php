@@ -232,7 +232,7 @@
 						<h2 class="cardtop">In the Footsteps of Bach:
 						<br>
 						Germany Tour 2020</h2>
-                        <div class="col"><img src="images/Bach_Tour_2020/bach_banner.png" class="img-fluid"></div>
+                        <div class="col"><img src="images/Bach_Tour_2020/bach_banner.jpg" class="img-fluid"></div>
 					</div>
 					<div align="center" class="card-footer">
 						<a href="documents/Bach_tour_2020/Final Bach Tour 2020 .pdf" target="_blank" class="btn btn-primary">
