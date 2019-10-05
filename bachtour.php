@@ -56,7 +56,7 @@
                 <h4>Singles available for a supplement of $529</h4>
                 <div class="col" align="center">
                      <a href="documents/Bach_tour_2020/Final Bach Tour 2020 .pdf" target="_blank" class="btn btn-primary">
-                        Registration Form
+                        Registration Form & Itinerary
                     </a>
                 </div>
             </div>
@@ -125,7 +125,7 @@
                     <div class="panel-body">
                         <ul class="list-group" align="center">
                           <a href="documents/Bach_tour_2020/Final Bach Tour 2020 .pdf" target="_blank">
-                            <li class="list-group-item">Itinerary and Registration Form</li>
+                            <li class="list-group-item">Registration Form & Itinerary</li>
                             </a>
                         </ul>
                     </div>
@@ -153,6 +153,7 @@
                         <div class="panel-title">For More Information</div>
                     </div>
                     <div class="panel-body">
+                    Contact Bill Trafka: <a href="mailto:organist@christchurchridgewood.org">organist@christchurchridgewood.org</a><br>
                     Contact tour host: Goodspeed & Bach<br>
                     <a href="https://goodspeedandbach.com/bach-tour-2020" target="_blank">www.goodspeedandbach.com/bach-tour-2020</a><br>
                     <a href="mailto:travel@goodspeedandbach.com" target=_blank>travel@goodspeedandbach.com</a><br>
