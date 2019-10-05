@@ -236,7 +236,7 @@
 					</div>
 					<div align="center" class="card-footer">
 						<a href="documents/Bach_tour_2020/Final Bach Tour 2020 .pdf" target="_blank" class="btn btn-primary">
-							Registration Form
+							Registration Form & Itinerary
 						</a>
 						<a href="bachtour.php" class="btn btn-outline-primary">
 							More Information
