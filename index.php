@@ -198,11 +198,14 @@
 			<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Music & Liturgy Notes</h2>
-						<h3>September 29
+						<h3>Octobe 13
 						</h3>
 						<img src="images/organist-choir1.jpg" alt="Organist and Choir" title="Organist and Choir" class="img-fluid">
 						<p>
-						In Paul’s first Epistle to Timothy read this morning, we are beckoned to “Fight the good fight of the faith; and take hold of the eternal life…” To echo these powerful words, the choir will sing John Gardner’s setting of the beloved hymn “Fight the good fight.” The text of this hymn was written by John Samuel Bewley Monsell, a 19th century Irish cleric who attended Trinity College in Dublin and eventually moved to England to serve St. Nicholas Parish in Guildford. Cradle Episcopalians may also recall Monsell’s hymn “On our way rejoicing,” included in the 1940 Hymnal, the predecessor of our 1982 Hymnal. John Gardner (1917-2011) was a prolific British composer in many musical genres, particularly choral music. Gardner taught at three notable British institutions- The Royal Academy of Music, Morley College and St. Paul’s School as a successor to both Gustav Holst and Herbert Howells.
+						Christ Church Choir will sing Healey Willan’s O Sacred Feast at the Offertory this Sunday. This text is an English translation of the original Latin hymn, O Sacrum Convivium, most likely written by St. Thomas Aquinas in the 13th Century. British by birth, Willan emigrated to Canada in 1913 and first served St. Paul’s Church, Bloor St., Toronto’s largest church. Willan’s passion for Anglo-Catholic worship and music led him eventually to become the Organist and Choirmaster at the Church of St. Mary Magdalene, also in Toronto, where he remained until his death in 1968. His Missa de Sancta Maria Magdalena, sung by congregations in the American Episcopal Church since its inclusion in The 1940 and 1982 Hymnals, originated from Willan’s renowned church. 
+						</p>
+						<p>
+						In Britain, for many years, it was customary for the Archbishop of Canterbury to confer the Lambeth Doctorate (Mus. D Cantuar) on a distinguished English cathedral musician. In 1956, Willan, “the Dean of Canadian composers” became the first non-English church musician to receive this honor. Willan enjoyed demystifying his pious image as a church musician. Regarding his roots, he once said that he was: “English by birth; Canadian by adoption; Irish by extraction; Scotch by absorption.”						
 						</p>
 					</div>
 				</div>
