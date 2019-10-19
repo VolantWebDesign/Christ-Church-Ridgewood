@@ -185,6 +185,56 @@
 			</div>
 		</div>
 
+		<!-- Stewardship -->
+		<div class="row">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header" style="padding:0;" align="center">
+						<img src="images/stewardship_2019_hbanner.jpg" alt="2020 Christ Church Ridgewood Stewardship Campaign: Shining our Light" class="img-fluid" style="padding: 0;">
+					</div>
+					<div class="card-body" >
+						<div class="row" >
+							<div class="col-md-6" align="center">
+								<h4>From the Stewardship Committee</h4>
+								<p>We are excited to announce the theme for our 2020 Pledge Drive - Shining Our Light.  Please complete and return your pledge cards to any of the Sunday services on November 10, 2019. Pledge packets will be mailed the week of November 3rd and links will be available to submit a pledge card online and/or to download pledge packet materials in early November.  We look forward to working together to shine our light in church, in our community and through our lives!  </p>
+
+							</div>
+							<div class="col-md-6" align="center">
+								<h4>Campaign Information</h4>
+								<br>
+								<a href="documents/stewardship_2020_letter_committee.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Stewardship Chair</a><br>
+								<!-- <a href="documents/2019-stewardship-rector.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Rector</a><br>
+								<a href="documents/2019-stewardship-wardens.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Wardens</a><br>
+								<a href="documents/Recent-Happenings-at-Christ-Church.pdf" target="_blank" class="btn btn-outline-primary" >Recent Happenings</a><br> -->
+
+								<!-- <p>This year's pledge packet includes:</p>
+								<ul>
+									<li>Letters from the Stewardship Chair, your Wardens and Rector</li>
+									<li>A blue pledge card – combined financial and time/talent</li>
+									<li>A directory information printout of what we currently have on file</li>
+									<li>Frequently Asked Question brochure about pledging and proportional giving</li>
+									<li>Return Envelope</li>
+								</ul> -->
+								<!-- <p>Thank you for your prayerful consideration of your pledge to support the ministries of Christ Church in 2020 both financially and through volunteering your time and talents! Together, we can reach our goal of 100% participation in pledging.</p> -->
+								<!-- <p><strong>If you have not yet made your pledge for 2019, please do so using the "Pledge Online" button below!</strong></p> -->
+								<p>Please feel free to contact our Stewardship Chair, <a href="mailto:deanna.najork@gmail.com"> Deanna Najork</a>, with any questions.  Thank you again!</p>
+							</div>
+						</div>
+					</div>
+					<div class="card-footer" align="center">
+						<!-- <a href="documents/StewardshipTimeTalent2018.pdf" target="_blank" class="btn btn-outline-primary" >Time and Talents Form</a>
+						<a href="documents/StewardshipFAQ2018.pdf" target="_blank" class="btn btn-outline-primary" >FAQ About Giving</a>
+						<a href="https://goo.gl/forms/cqKeCekNA9wMSbhs2" target="_blank" class="btn btn-primary" >Pledge Online Now</a> -->
+						<!-- <a href="documents/2019-stewardship-faq.pdf" target="_blank" class="btn btn-outline-primary" >Giving FAQ</a>
+						<a href="documents/2019-pledge-card.pdf" target="_blank" class="btn btn-outline-primary" >Pledge Card</a> -->
+						<button class="btn btn-primary" >Pledge Online - COMING SOON</button>
+						<!-- <a href="https://goo.gl/forms/c1WFCNjZNSIMpQgK2" target="_blank" class="btn btn-primary" >Pledge Online</a> -->
+					</div>
+				</div>
+			</div>
+		</div>
+		
+
 		<!-- upcoming events and sermon audio cards -->
 		<div class="row">
 			<div class="col-md-12" align="center">
@@ -198,14 +248,14 @@
 			<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Music & Liturgy Notes</h2>
-						<h3>Octobe 13
+						<h3>October 20
 						</h3>
 						<img src="images/organist-choir1.jpg" alt="Organist and Choir" title="Organist and Choir" class="img-fluid">
 						<p>
-						Christ Church Choir will sing Healey Willan’s O Sacred Feast at the Offertory this Sunday. This text is an English translation of the original Latin hymn, O Sacrum Convivium, most likely written by St. Thomas Aquinas in the 13th Century. British by birth, Willan emigrated to Canada in 1913 and first served St. Paul’s Church, Bloor St., Toronto’s largest church. Willan’s passion for Anglo-Catholic worship and music led him eventually to become the Organist and Choirmaster at the Church of St. Mary Magdalene, also in Toronto, where he remained until his death in 1968. His Missa de Sancta Maria Magdalena, sung by congregations in the American Episcopal Church since its inclusion in The 1940 and 1982 Hymnals, originated from Willan’s renowned church. 
+						The psalm appointed for this Sunday is Psalm 119: 97-104, in which the author affirms the role of God’s commandments in the pursuit of wisdom and understanding. At the Offertory, the Choir will sing Thomas Attwood’s setting of verse 33 of the same Psalm, which entreats God to teach us his commandments. Thomas Attwood (1765-1838) was appointed as the organist of St. Paul’s Cathedral in London in 1796 in the same year he was made composer of the Chapel Royal. Attwood had the distinction of being present for iconic moments in British history, including playing his Grand Dirge on the organ at the funeral of Lord Nelson. His anthem I was glad was performed at the coronations of both King William IV and Queen Victoria. Soon after the founding of the Royal Academy of Music in 1823, Attwood was appointed to be one of its professors.
 						</p>
 						<p>
-						In Britain, for many years, it was customary for the Archbishop of Canterbury to confer the Lambeth Doctorate (Mus. D Cantuar) on a distinguished English cathedral musician. In 1956, Willan, “the Dean of Canadian composers” became the first non-English church musician to receive this honor. Willan enjoyed demystifying his pious image as a church musician. Regarding his roots, he once said that he was: “English by birth; Canadian by adoption; Irish by extraction; Scotch by absorption.”						
+						Today, the congregation will join in sing the Antiphon to Psalm 119, during which the Choir will sing the verses. This morning’s setting was composed by Bill Trafka, as part of a larger psalter for St. Bartholomew’s Church in New York,  written during his tenure there.
 						</p>
 					</div>
 				</div>
@@ -287,55 +337,6 @@
 			<br><br>
 		</div>
 
-		<!-- Stewardship -->
-		<div class="row">
-			<div class="col-md-12">
-				<div class="card">
-					<div class="card-header" align="center">
-						<img src="documents/stewardship-2019-logo.png" alt="2019 Christ Church Ridgewood Stewardship Campaign: Transforming Generosity" class="img-fluid" style="width: 67%">
-					</div>
-					<div class="card-body" >
-						<div class="row" >
-							<div class="col-md-6" align="center">
-								<h4>From the Stewardship Committee</h4>
-								<p>We are so grateful for your faithful membership at Christ Church; your generosity truly sustains our ministry together.</p>
-
-								<a href="documents/2019-stewardship-rector.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Rector</a><br>
-								<a href="documents/2018-Chair-INTRO-Stewardship-FINAL.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Stewardship Chair</a><br>
-								<a href="documents/2019-stewardship-wardens.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Wardens</a><br>
-								<a href="documents/Recent-Happenings-at-Christ-Church.pdf" target="_blank" class="btn btn-outline-primary" >Recent Happenings</a><br>
-
-
-
-							</div>
-							<div class="col-md-6" align="center">
-								<h4>Campaign Information</h4>
-								<!-- <p>This year's pledge packet includes:</p>
-								<ul>
-									<li>Letters from the Stewardship Chair, your Wardens and Rector</li>
-									<li>A blue pledge card – combined financial and time/talent</li>
-									<li>A directory information printout of what we currently have on file</li>
-									<li>Frequently Asked Question brochure about pledging and proportional giving</li>
-									<li>Return Envelope</li>
-								</ul> -->
-								<p>Thank you for your prayerful consideration of your pledge to support the ministries of Christ Church in 2019 both financially and through volunteering your time and talents! Together, we can reach our goal of 100% participation in pledging.</p>
-								<p><strong>If you have not yet made your pledge for 2019, please do so using the "Pledge Online" button below!</strong></p>
-								<p>Please feel free to contact our Stewardship Chair, <a href="mailto:deanna.najork@gmail.com"> Deanna Najork</a>, with any questions.  Thank you again!</p>
-							</div>
-						</div>
-					</div>
-					<div class="card-footer" align="center">
-						<!-- <a href="documents/StewardshipTimeTalent2018.pdf" target="_blank" class="btn btn-outline-primary" >Time and Talents Form</a>
-						<a href="documents/StewardshipFAQ2018.pdf" target="_blank" class="btn btn-outline-primary" >FAQ About Giving</a>
-						<a href="https://goo.gl/forms/cqKeCekNA9wMSbhs2" target="_blank" class="btn btn-primary" >Pledge Online Now</a> -->
-						<a href="documents/2019-stewardship-faq.pdf" target="_blank" class="btn btn-outline-primary" >Giving FAQ</a>
-						<a href="documents/2019-pledge-card.pdf" target="_blank" class="btn btn-outline-primary" >Pledge Card</a>
-						<a href="https://goo.gl/forms/c1WFCNjZNSIMpQgK2" target="_blank" class="btn btn-primary" >Pledge Online</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		
 		<hr>
 
 		<!-- Juicer -->
