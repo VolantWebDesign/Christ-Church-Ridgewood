@@ -155,12 +155,11 @@
 								<table class="table table-striped table-sm">
 									<tr>
 										<td>
-											Service is on hiatus for the summer. Next will be September 15
-											<!-- <ul id="celtic">
-												<li>May 19</li>
-												<li>June 16</li>
-												<li>July 21</li>
-											</ul> -->
+											<ul id="celtic">
+												<li>November 17</li>
+												<li>December TBD</li>
+												<li>January 19</li>
+											</ul>
 										</td>
 									</tr>
 								</table>
@@ -225,10 +224,9 @@
 						<!-- <a href="documents/StewardshipTimeTalent2018.pdf" target="_blank" class="btn btn-outline-primary" >Time and Talents Form</a>
 						<a href="documents/StewardshipFAQ2018.pdf" target="_blank" class="btn btn-outline-primary" >FAQ About Giving</a>
 						<a href="https://goo.gl/forms/cqKeCekNA9wMSbhs2" target="_blank" class="btn btn-primary" >Pledge Online Now</a> -->
-						<!-- <a href="documents/2019-stewardship-faq.pdf" target="_blank" class="btn btn-outline-primary" >Giving FAQ</a>
-						<a href="documents/2019-pledge-card.pdf" target="_blank" class="btn btn-outline-primary" >Pledge Card</a> -->
-						<button class="btn btn-primary" >Pledge Online - COMING SOON</button>
-						<!-- <a href="https://goo.gl/forms/c1WFCNjZNSIMpQgK2" target="_blank" class="btn btn-primary" >Pledge Online</a> -->
+						<!-- <a href="documents/2019-stewardship-faq.pdf" target="_blank" class="btn btn-outline-primary" >Giving FAQ</a> -->
+						<a href="documents/Stewardship/pledge-card-2020.pdf" target="_blank" class="btn btn-outline-primary" >Pledge Card</a>
+						<a href="https://forms.gle/4bdKymH4BuoTwuWY9" target="_blank" class="btn btn-primary" >Submit Your Pledge Card Online</a>
 					</div>
 				</div>
 			</div>
@@ -248,14 +246,17 @@
 			<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Music & Liturgy Notes</h2>
-						<h3>October 20
+						<h3>October 27
 						</h3>
 						<img src="images/organist-choir1.jpg" alt="Organist and Choir" title="Organist and Choir" class="img-fluid">
 						<p>
-						The psalm appointed for this Sunday is Psalm 119: 97-104, in which the author affirms the role of God’s commandments in the pursuit of wisdom and understanding. At the Offertory, the Choir will sing Thomas Attwood’s setting of verse 33 of the same Psalm, which entreats God to teach us his commandments. Thomas Attwood (1765-1838) was appointed as the organist of St. Paul’s Cathedral in London in 1796 in the same year he was made composer of the Chapel Royal. Attwood had the distinction of being present for iconic moments in British history, including playing his Grand Dirge on the organ at the funeral of Lord Nelson. His anthem I was glad was performed at the coronations of both King William IV and Queen Victoria. Soon after the founding of the Royal Academy of Music in 1823, Attwood was appointed to be one of its professors.
+						Today, on the 20th Sunday after Pentecost, we celebrate Youth Sunday and will welcome the participation of many of our Youth in our service, including the liturgical roles of Lay Eucharistic Ministers, Lectors, Acolytes, Oblation Bearers and Ushers. Both the Jubilation Choir and Christ Church’s African Drumming Troupe will also participate offering Patrick Liebergen’s “African Psalm.”
 						</p>
 						<p>
-						Today, the congregation will join in sing the Antiphon to Psalm 119, during which the Choir will sing the verses. This morning’s setting was composed by Bill Trafka, as part of a larger psalter for St. Bartholomew’s Church in New York,  written during his tenure there.
+						The psalm appointed for this Sunday is Psalm 84 “How dear to me is your dwelling.” At the Offertory, Christ Church Choir will offer Ralph Vaughan Williams’ setting of this psalm entitled “O how amiable.” This anthem originated in 1934 as part of a larger work entitled The Abinger Pageant, a dramatic presentation written by the English author
+						</p>
+						<p>
+						E. M. Forster to benefit the Abinger Preservation Fund and is a chronological sequence of six episodes tracing the 800 year history of Abinger parish in Surrey with accompanying music by Vaughan Williams. The original accompaniment for this occasion was a military band since the performance was held in the open air. One can imagine that there were a large number of singers to balance with the band, but nevertheless, the choral sonority is a sturdy one. The anthem ends with the hymn “O God our help in ages past,” which provided quite a majestic conclusion to this epic pageant.
 						</p>
 					</div>
 				</div>
