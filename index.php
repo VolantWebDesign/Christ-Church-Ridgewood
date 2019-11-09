@@ -230,9 +230,9 @@
 							<div class="col-md-6" align="center">
 								<h4>Campaign Information</h4>
 								<br>
-								<a href="documents/stewardship_2020_letter_committee.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Stewardship Chair</a><br>
-								<!-- <a href="documents/2019-stewardship-rector.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Rector</a><br>
-								<a href="documents/2019-stewardship-wardens.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Wardens</a><br>
+								<a href="documents/Stewardship/stewardship_2020_letter_committee.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Stewardship Chair</a><br>
+								<a href="documents/Stewardship/2020-stewardship-rector.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Rector</a><br>
+								<!-- <a href="documents/2019-stewardship-wardens.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Wardens</a><br>
 								<a href="documents/Recent-Happenings-at-Christ-Church.pdf" target="_blank" class="btn btn-outline-primary" >Recent Happenings</a><br> -->
 
 								<!-- <p>This year's pledge packet includes:</p>
