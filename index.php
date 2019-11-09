@@ -59,7 +59,7 @@
 
 
 		<!-- Welcome carousel -->
-		<div class="row">
+		<!-- <div class="row">
 			<div class="col-md-12">
 				<div class="card">
 					<div class="card-header">
@@ -100,6 +100,35 @@
 								<div class="card-body">
 									<p>Christ Church, Ridgewood NJ, is a welcoming community of Christians of all ages from across Bergen County.</p>
 									<p>Here you will find vibrant youth ministries, inspiring music, meaningful community outreach, and much more, grounded in the Episcopal tradition: the right blend of “reason, scripture and tradition” at our core.</p>
+									<p>Come and see what God is doing here at Christ Church! And show us what God is doing in you!</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div> -->
+
+		<!-- Joy Halloween Video -->
+		<div class="row">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header">
+						<h4>Happy Halloween from Christ Church!</h4>
+					</div>
+					<div class="card-body">
+						<div class="row">
+							<div class="col-lg-7">
+
+							<div class="embed-responsive embed-responsive-16by9">
+								<video controls class="embed-responsive-item" src="images/video/IMG_7106.MOV"></video>
+							</div>
+
+							</div>
+							<div class="col-lg-5">
+								<div class="card-body">
+									<p>Christ Church, Ridgewood NJ, is a welcoming community of Christians of all ages from across Bergen County.</p>
+									<p>Every Sunday from 9:15-9:45 we hold a special service for young children and their families, called Joy! Children sit around the altar, hear stories, pray, sing, dance--and sometimes wear costumes!</p>
 									<p>Come and see what God is doing here at Christ Church! And show us what God is doing in you!</p>
 								</div>
 							</div>
@@ -242,21 +271,35 @@
 			<!-- column left -->
 			<div class="col-md-6">
 
-			<!-- Weekly Music Article -->
+			<!-- Youth African Drumming -->
 			<div class="card">
+				<div class="card-body" align="center">
+					<h2 class="cardtop">Advent Lessons & Carols</h2>
+					<h3>
+					December 8, 5:00PM
+					</h3>
+					<img src="images/Advent-2.jpeg" alt="Advent Lessons & Carols" title="Advent Lessons & Carols" class="img-fluid">
+					<p>
+					Christ Church Choir will sing a service of Advent Lessons and Carols on Sunday, December 8 at 5 pm, the Second Sunday of Advent. Advent is a season of both quiet reflection and joyful expectation. This service of scripture lessons prophesying the birth of Christ with carols echoing the readings, is intended to be a time of spiritual preparation, as we watch and wait for the coming of the Kingdom of God. 
+					</p>
+					<p>
+					The choir will sing works by Willcocks, Archer, Stainer, Carter and many others. Join us to hear the promises of Holy Scripture and powerful music to propel us quietly to the wonder of Christmas. 
+					</p>
+				</div>
+			</div>
+
+			<!-- Weekly Music Article -->
+				<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Music & Liturgy Notes</h2>
-						<h3>October 27
+						<h3>November 10
 						</h3>
 						<img src="images/organist-choir1.jpg" alt="Organist and Choir" title="Organist and Choir" class="img-fluid">
 						<p>
-						Today, on the 20th Sunday after Pentecost, we celebrate Youth Sunday and will welcome the participation of many of our Youth in our service, including the liturgical roles of Lay Eucharistic Ministers, Lectors, Acolytes, Oblation Bearers and Ushers. Both the Jubilation Choir and Christ Church’s African Drumming Troupe will also participate offering Patrick Liebergen’s “African Psalm.”
+						Today, as we observe our Stewardship Ingathering Sunday, pledging to support the vital ministries of Christ Church, we’ll sing the hymn “Take my life and let it be consecrated” by the 19th Century hymn writer and poet, Frances Ridley Havergal. Havergal was also an accomplished pianist and singer, and attributed her great gifts to her Creator in whose service she employed them teaching, writing and conducting religious meetings.
 						</p>
 						<p>
-						The psalm appointed for this Sunday is Psalm 84 “How dear to me is your dwelling.” At the Offertory, Christ Church Choir will offer Ralph Vaughan Williams’ setting of this psalm entitled “O how amiable.” This anthem originated in 1934 as part of a larger work entitled The Abinger Pageant, a dramatic presentation written by the English author
-						</p>
-						<p>
-						E. M. Forster to benefit the Abinger Preservation Fund and is a chronological sequence of six episodes tracing the 800 year history of Abinger parish in Surrey with accompanying music by Vaughan Williams. The original accompaniment for this occasion was a military band since the performance was held in the open air. One can imagine that there were a large number of singers to balance with the band, but nevertheless, the choral sonority is a sturdy one. The anthem ends with the hymn “O God our help in ages past,” which provided quite a majestic conclusion to this epic pageant.
+						Her hymn “Take my life” originated during a visit to Areley House in Worcestershire, England in 1874. In her words: "There were ten persons in the house; some were unconverted and long prayed for, some converted but not rejoicing Christians. [God] gave me the prayer, 'Lord, give me all in this house.' And He just did. Before I left the house, everyone had got a blessing. The last night of my visit I was too happy to sleep and passed most of the night in renewal of my consecration, and those little couplets formed themselves and chimed in my heart one after another till they finished with "ever only, ALL FOR THEE!"
 						</p>
 					</div>
 				</div>
@@ -318,19 +361,19 @@
 					<a href="mailto:organist@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact William Trafka</button></a>
 				</div>
 			</div>
-			
+
 			<!-- Youth African Drumming -->
-				<div class="card">
-					<div class="card-body" align="center">
-						<h2 class="cardtop">Youth African Drumming</h2>
-						<img src="images/africandrum.png" alt="Youth African Drum Ensemble" title="Youth African Drum Ensemble" class="img-fluid">
-						<p>Youth of all ages are welcome to join the African Drumming Troupe. The Youth African Drumming Troupe performs on the first Sunday of every month. This group is led by Marlene Whittemore Pillow directly following Sunday School on the first Sunday of the month, in one of the lower level classrooms. Bring your drum if you have one. All are welcome!</p>
-					</div>
-					<!-- Footer buttons -->
-					<div align="center" class="card-footer">
-						<a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
-					</div>
+			<div class="card">
+				<div class="card-body" align="center">
+					<h2 class="cardtop">Youth African Drumming</h2>
+					<img src="images/africandrum.png" alt="Youth African Drum Ensemble" title="Youth African Drum Ensemble" class="img-fluid">
+					<p>Youth of all ages are welcome to join the African Drumming Troupe. The Youth African Drumming Troupe performs on the first Sunday of every month. This group is led by Marlene Whittemore Pillow directly following Sunday School on the first Sunday of the month, in one of the lower level classrooms. Bring your drum if you have one. All are welcome!</p>
 				</div>
+				<!-- Footer buttons -->
+				<div align="center" class="card-footer">
+					<a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
+				</div>
+			</div>
 
 				<!-- SoundCloud -->
 				<!-- <iframe width="100%" height="350" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/136812277&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe> -->
