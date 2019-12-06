@@ -11,6 +11,35 @@
 					</div>
 				</div>
 
+		<!-- Joy Halloween Video -->
+		<div class="row">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header">
+						<h4>Happy Halloween from Christ Church!</h4>
+					</div>
+					<div class="card-body">
+						<div class="row">
+							<div class="col-lg-7">
+
+							<div class="embed-responsive embed-responsive-16by9">
+								<video controls class="embed-responsive-item" src="images/video/IMG_7106.MOV"></video>
+							</div>
+
+							</div>
+							<div class="col-lg-5">
+								<div class="card-body">
+									<p>Christ Church, Ridgewood NJ, is a welcoming community of Christians of all ages from across Bergen County.</p>
+									<p>Every Sunday from 9:15-9:45 we hold a special service for young children and their families, called Joy! Children sit around the altar, hear stories, pray, sing, dance--and sometimes wear costumes!</p>
+									<p>Come and see what God is doing here at Christ Church! And show us what God is doing in you!</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
 			<!-- VBS -->
 		<div class="row">
 			<div class="col-md-12">

@@ -59,7 +59,7 @@
 
 
 		<!-- Welcome carousel -->
-		<!-- <div class="row">
+		<div class="row">
 			<div class="col-md-12">
 				<div class="card">
 					<div class="card-header">
@@ -100,35 +100,6 @@
 								<div class="card-body">
 									<p>Christ Church, Ridgewood NJ, is a welcoming community of Christians of all ages from across Bergen County.</p>
 									<p>Here you will find vibrant youth ministries, inspiring music, meaningful community outreach, and much more, grounded in the Episcopal tradition: the right blend of “reason, scripture and tradition” at our core.</p>
-									<p>Come and see what God is doing here at Christ Church! And show us what God is doing in you!</p>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div> -->
-
-		<!-- Joy Halloween Video -->
-		<div class="row">
-			<div class="col-md-12">
-				<div class="card">
-					<div class="card-header">
-						<h4>Happy Halloween from Christ Church!</h4>
-					</div>
-					<div class="card-body">
-						<div class="row">
-							<div class="col-lg-7">
-
-							<div class="embed-responsive embed-responsive-16by9">
-								<video controls class="embed-responsive-item" src="images/video/IMG_7106.MOV"></video>
-							</div>
-
-							</div>
-							<div class="col-lg-5">
-								<div class="card-body">
-									<p>Christ Church, Ridgewood NJ, is a welcoming community of Christians of all ages from across Bergen County.</p>
-									<p>Every Sunday from 9:15-9:45 we hold a special service for young children and their families, called Joy! Children sit around the altar, hear stories, pray, sing, dance--and sometimes wear costumes!</p>
 									<p>Come and see what God is doing here at Christ Church! And show us what God is doing in you!</p>
 								</div>
 							</div>
@@ -185,8 +156,7 @@
 									<tr>
 										<td>
 											<ul id="celtic">
-												<li>November 17</li>
-												<li>December TBD</li>
+												<li>December 15 <span style="color:blue;">(Blue Christmas Service)</span></li>
 												<li>January 19</li>
 											</ul>
 										</td>
@@ -292,14 +262,17 @@
 				<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Music & Liturgy Notes</h2>
-						<h3>November 10
-						</h3>
+						<h3>December 8</h3>
+						<h3>Second Sunday of Advent</h3>
 						<img src="images/organist-choir1.jpg" alt="Organist and Choir" title="Organist and Choir" class="img-fluid">
 						<p>
-						Today, as we observe our Stewardship Ingathering Sunday, pledging to support the vital ministries of Christ Church, we’ll sing the hymn “Take my life and let it be consecrated” by the 19th Century hymn writer and poet, Frances Ridley Havergal. Havergal was also an accomplished pianist and singer, and attributed her great gifts to her Creator in whose service she employed them teaching, writing and conducting religious meetings.
+						The Collect for the Second Sunday of Advent reflects on God’s messengers, the prophets, who were sent to preach repentance and to prepare the way for the coming of the Lord. In Matthew’s Gospel, read today, we encounter John the Baptist in his clothing of camel’s hair and his leather belt, crying out in the wilderness, “Prepare the way of the Lord.” To underscore this, we’ll sing hymns, which echo John the Baptist’s words.
 						</p>
 						<p>
-						Her hymn “Take my life” originated during a visit to Areley House in Worcestershire, England in 1874. In her words: "There were ten persons in the house; some were unconverted and long prayed for, some converted but not rejoicing Christians. [God] gave me the prayer, 'Lord, give me all in this house.' And He just did. Before I left the house, everyone had got a blessing. The last night of my visit I was too happy to sleep and passed most of the night in renewal of my consecration, and those little couplets formed themselves and chimed in my heart one after another till they finished with "ever only, ALL FOR THEE!"
+						The original text of “On Jordan’s bank, the Baptist’s cry” was a Latin hymn, “Jordanis oras praevia,” written by the French writer and teacher Charles Coffin as a hymn for the office of Lauds during Advent. It was published in 1736 as part of Coffin’s Hymni sacri. It was translated later into English by John Chandler in the 19th century and further still by Charles Winfred Douglas for the Hymnal 1940 and our present Hymnal 1982. Coffin’s great hymns were not confined to the church. His other works include an ode in praise of the wines of Champagne.
+						</p>
+						<p>
+						This Advent, we have adopted the practice of lighting one candle from our Advent Wreath to begin our services. On Advent I, the candle of Hope was lighted; today we will light the candle of Peace. Each week, the choir will sing an anthem composed by Malcolm Archer to accompany this ritual. Throughout his career, Archer served Wells Cathedral, St. Paul’s Cathedral in London and Winchester College. He has over 200 published composition to his credit.
 						</p>
 					</div>
 				</div>
@@ -312,9 +285,9 @@
 						<p>The Jubilation Choir is open to boys and girls 5th grade through high school. The choir performs on Youth Sundays and special services during the program year. The choir rehearses after the 10:00 am service from 11:15 to noon in the choir room. Schola Cantorum also invites those interested to learn to play our set of hand chimes and other instruments while developing musicianship skills.</p>
 					</div>
 					<!-- Footer buttons -->
-					<div align="center" class="card-footer">
+					<!-- <div align="center" class="card-footer">
 						<a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
-					</div>
+					</div> -->
 				</div>
 
 			</div>
@@ -354,12 +327,13 @@
 			<div class="card">
 				<div class="card-body" align="center">
 					<h2 class="cardtop">Adult Choir</h2>
+					<img src="images/choir2019-horizontal.jpg" alt="Children's Service at Christ Church" title="Children's Service at Christ Church" class="img-fluid">
 					<p>Do you love to sing? Please consider joining our choir and participating in a vital ministry. The choir musically leads our services each Sunday at 10 am. The choir’s repertoire includes great masterpieces from our Anglican tradition as well as beloved classics along with spirituals and contemporary choral works. We have openings for all voice parts. </p>
 				</div>
 				<!-- Footer buttons -->
-				<div align="center" class="card-footer">
+				<!-- <div align="center" class="card-footer">
 					<a href="mailto:organist@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact William Trafka</button></a>
-				</div>
+				</div> -->
 			</div>
 
 			<!-- Youth African Drumming -->
@@ -370,9 +344,9 @@
 					<p>Youth of all ages are welcome to join the African Drumming Troupe. The Youth African Drumming Troupe performs on the first Sunday of every month. This group is led by Marlene Whittemore Pillow directly following Sunday School on the first Sunday of the month, in one of the lower level classrooms. Bring your drum if you have one. All are welcome!</p>
 				</div>
 				<!-- Footer buttons -->
-				<div align="center" class="card-footer">
+				<!-- <div align="center" class="card-footer">
 					<a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
-				</div>
+				</div> -->
 			</div>
 
 				<!-- SoundCloud -->

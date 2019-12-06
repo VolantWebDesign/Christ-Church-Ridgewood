@@ -55,6 +55,8 @@
     <div class="row">
       <div class="col-md-12" align="center">
         <h2 class="page-header">Our Ministries</h2>
+        <p style="max-width:450px;">For more information about ANY ministry, or to volunteer, contact our parish office by <a href="mailto:parishadmin@christchurchridgewood.org">email</a> or phone (201) 652-2350
+        </p>
       </div>
     </div>
 
@@ -90,12 +92,12 @@
             <p>Youth group is fun, social fellowship for youth in grades 7-12.  Social events are planned once or twice a month with an occasional service project or outreach opportunity thrown in.</p>
           </div>
 
-          <!-- Footer buttons -->
+          <!-- Footer buttons
           <div align="center" class="card-footer">
             <a href="youth.php">
               <button type="button" class="btn  btn-outline-primary">More information</button>
             </a>
-          </div>
+          </div> -->
         </div>
 
         <!-- Sunday School -->
@@ -107,11 +109,11 @@
           </div>
 
           <!-- Footer buttons -->
-          <div align="center" class="card-footer">
+          <!-- <div align="center" class="card-footer">
             <a href="mailto:klee@christchurchridgewood.org">
               <button type="button" class="btn  btn-outline-primary">Contact Kristen Lee</button>
             </a>
-          </div>
+          </div> -->
         </div>
       </div>
 
@@ -126,24 +128,24 @@
           </div>
 
           <!-- Footer buttons -->
-          <div align="center" class="card-footer">
+          <!-- <div align="center" class="card-footer">
             <a href="mailto:klee@christchurchridgewood.org">
               <button type="button" class="btn  btn-outline-primary">Contact Kristen Lee</button>
             </a>
-          </div>
+          </div> -->
         </div>
 
         <!-- J2A -->
         <div class="card">
           <div class="card-body" align="center">
             <h2 class="cardtop">J2A</h2>
-            <img src="images/vestry/missing.jpg" class="img-fluid" alt=" photo" title="">
+            <img src="images/Ministries/youth-group/hike.jpg" class="img-fluid" alt=" photo" title="">
             <p>J2A (Journey to Adulthood) is the equivalent of Sunday school for high school aged students, grades 9-12 and runs in parallel, with the other Sunday school classes at 10am on the second Sunday of each month.  J2A stands for Journey to Adulthood and is our young adult Christian formation. J2A participate and lead outreach opportunities, service projects and Youth Sundays.</p>
           </div>
           <!-- Footer buttons -->
-          <div align="center" class="card-footer">
+          <!-- <div align="center" class="card-footer">
             <a href="mailto:klee@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Kristen Lee</button></a>
-          </div>
+          </div> -->
         </div>
 
         <!-- Young Children -->
@@ -161,11 +163,11 @@
           </div>
 
           <!-- Footer buttons -->
-          <div align="center" class="card-footer">
+          <!-- <div align="center" class="card-footer">
             <a href="mailto:klee@christchurchridgewood.org">
               <button type="button" class="btn  btn-outline-primary">Contact Kristen Lee</button>
             </a>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
@@ -187,13 +189,13 @@
         <div class="card">
           <div class="card-body" align="center">
             <h2 class="cardtop">Adult Choir</h2>
-            <img src="images/Ministries/choir.jpeg" class="img-fluid" alt="choir photo" title="Choir">
+            <img src="images/choir2019-horizontal.jpg" class="img-fluid" alt="choir photo" title="Choir">
             <p>Our Adult Choir is a volunteer group who meet on Sunday from September through June at 8:30AM for rehearsal and lead worship on Sundays. Adults and youth (high school age and up) are welcome to join and share the joy of music and fellowship. Opportunities are available to perform solo arrangements.</p>
           </div>
           <!-- Footer buttons -->
-          <div align="center" class="card-footer">
+          <!-- <div align="center" class="card-footer">
             <a href="mailto:parishadmin@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Host</button></a>
-          </div>
+          </div> -->
         </div>
 
         <!-- Jubilation Choir -->
@@ -204,9 +206,9 @@
             <p>The Jubilation Choir is open to boys and girls 5th grade through high school. The choir performs on Youth Sundays and special services during the program year. The choir rehearses after the 10:00 am service from 11:15 to noon in the choir room. Schola Cantorum also invites those interested to learn to play our set of hand chimes and other instruments while developing musicianship skills.</p>
           </div>
           <!-- Footer buttons -->
-          <div align="center" class="card-footer">
+          <!-- <div align="center" class="card-footer">
             <a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
-          </div>
+          </div> -->
         </div>
       </div>
 
@@ -219,9 +221,9 @@
             <p>Past performances have included Joseph and the Amazing Technicolor Dreamcoat, Children of Eden, Jesus Christ Superstar, The Sound Of Music, and in 2018, Godspell. These performances fill the nave and bring our parish community – plus performers' friends and relatives together. Rehearsals begin in January with a performance in early March.</p>
           </div>
           <!-- Footer buttons -->
-          <div align="center" class="card-footer">
+          <!-- <div align="center" class="card-footer">
             <a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
-          </div>
+          </div> -->
         </div>
 
         <!-- Youth Handchimes -->
@@ -229,11 +231,7 @@
           <div class="card-body" align="center">
             <h2 class="cardtop">Youth Handchimes</h2>
             <img src="images/vestry/missing.jpg" class="img-fluid" alt="Youth Handchimes" title="Youth Handchimes">
-            <p>More information coming soon.</p>
-          </div>
-          <!-- Footer buttons -->
-          <div align="center" class="card-footer">
-            <a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
+            <p>Rehearsals Sunday after Sunday School.</p>
           </div>
         </div>
 
@@ -245,9 +243,9 @@
             <p>Youth of all ages are welcome to join the African Drumming Troupe. The Youth African Drumming Troupe performs on the first Sunday of every month. This group is led by Marlene Whittemore Pillow directly following Sunday School on the first Sunday of the month, in one of the lower level classrooms. Bring your drum if you have one. All are welcome!</p>
           </div>
           <!-- Footer buttons -->
-          <div align="center" class="card-footer">
+          <!-- <div align="center" class="card-footer">
             <a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
@@ -273,9 +271,9 @@
             <p>A shared ministry of the clergy and the laity, Pastoral Care acts as a gentle reminder of God’s compassion as we “seek and serve Christ in all persons.” They do this through cards, calls, and e-mails; a prayer chain, prayer services at nursing homes, visits to the ill and/or housebound, providing transportation and help with post-funeral receptions.</p>
           </div>
           <!-- Footer buttons -->
-          <div align="center" class="card-footer">
+          <!-- <div align="center" class="card-footer">
             <a href="mailto:margaretchambrecht@yahoo.com"><button type="button" class="btn btn-outline-primary">Contact Margaret Hambrecht</button></a>
-          </div>
+          </div> -->
         </div>
 
         <!-- Family Promise -->
@@ -286,9 +284,9 @@
             <p>Our parish hosts temporarily homeless families through Family Promise of Bergen County twice a year. Volunteers are needed to cook dinner, shop for breakfast and lunch items, and serve as evening hosts and overnight hosts. Additionally, one Saturday a month, Christ Church provides the staffing at Family Promise Family Center in Ridgewood. This “Ministry of Presence” makes it possible for homeless families to have a space to spend the afternoon when they need it.</p>
           </div>
           <!-- Footer buttons -->
-          <div align="center" class="card-footer">
+          <!-- <div align="center" class="card-footer">
             <a href="mailto:rhampson@usatoday.com"><button type="button" class="btn btn-outline-primary">Contact Rick Hampson</button></a>
-          </div>
+          </div> -->
         </div>
       </div>
 
@@ -302,9 +300,9 @@
             <p>Most knitting done by “The Needlers” is to benefit the Seaman’s Church Institute’s Christmas at Sea Program. Yarn is provided by the Women’s Guild of Christ Church and by anonymous do- nors. We also welcome crocheters, needlepointers and other craftspeople.</p>
           </div>
           <!-- Footer buttons -->
-          <div align="center" class="card-footer">
+          <!-- <div align="center" class="card-footer">
             <a href="mailto:Valteksales@gmail.com"><button type="button" class="btn btn-outline-primary">Contact Cackie Scott</button></a>
-          </div>
+          </div> -->
         </div>
 
         <!-- St. Paul's Food Pantry -->
@@ -315,10 +313,10 @@
             <p>Every food item placed in our food collection barrels fills the shelves in the St. Paul’s Food Pantry and finds its way to the home of a family that is trying to get back on its feet. The Pantry is always in need of staples, including pastas, rice, and cereals. Monetary donations are also accepted.</p>
           </div>
           <!-- Footer buttons -->
-          <div align="center" class="card-footer">
+          <!-- <div align="center" class="card-footer">
             <a href="mailto:annelloving@gmail.com"><button type="button" class="btn btn-outline-primary">Contact Anne Loving</button></a>
             <a href="mailto:baloving@gmail.com"><button type="button" class="btn btn-outline-primary">Contact Tony Loving</button></a>
-          </div>
+          </div> -->
         </div>
 
         <!-- St. Paul's Men's Homeless Shelter -->
@@ -329,10 +327,10 @@
             <p>On the second Monday of each month, Christ Church provides a meal for up to 40 homeless men at St. Paul’s Mens’ Shelter. Families, church committees, and ad hoc groups come together in the church kitchen to prepare the meal in advance; others reheat or deliver and serve the meals.</p>
           </div>
           <!-- Footer buttons -->
-          <div align="center" class="card-footer">
+          <!-- <div align="center" class="card-footer">
             <a href="mailto:chincanilang@yahoo.com"><button type="button" class="btn btn-outline-primary">Contact Kathy Chin</button></a>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
     <br>
@@ -357,10 +355,10 @@
             <p>This ministry presents content-driven programs that provide adults opportunities for spiritual growth and insights. Some examples include Adult Forums, Bible Study and Lenten programs.</p>
           </div>
           <!-- Footer buttons -->
-          <div align="center" class="card-footer">
+          <!-- <div align="center" class="card-footer">
             <a href="mailto:wrcoats@optonline.net"><button type="button" class="btn btn-outline-primary">Contact The Rev. Bill Coats</button></a>
             <a href="mailto:rhampson@USAToday.com"><button type="button" class="btn btn-outline-primary">Contact Rick Hampson</button></a>
-          </div>
+          </div> -->
         </div>
 
         <!-- Women at the Well -->
@@ -371,10 +369,10 @@
             <p>This spiritual reflection group is open to all women, visitors, friends and parishioners. It meets on the 2nd Saturday of the month from 9:30-11:30 AM in the Guilds Room. Childcare is provided in the nursery. Come share in guided meditation, reflection, discussion, and creative response.</p>
           </div>
           <!-- Footer buttons -->
-          <div align="center" class="card-footer">
+          <!-- <div align="center" class="card-footer">
             <a href="mailto:bam234@verizon.net"><button type="button" class="btn btn-outline-primary">Contact Barbara Monahan</button></a>
             <a href="mailto:jetare@aol.com"><button type="button" class="btn btn-outline-primary">Contact Elaina Richardi</button></a>
-          </div>
+          </div> -->
         </div>
 
         <!-- Parish Life & Fellowship -->
@@ -385,9 +383,9 @@
             <p>The Parish Life and Fellowship Team plans social events that welcome everyone to be a part of the Christ Episcopal Church community. Participating in these events is a great opportunity to meet new people and to get better acquainted with the people you already know. They invite all who would like to help with the planning, cooking and set-up of our events to participate. New ideas are always welcome! <br> <b>Open position!</b> Looking for a fun-loving, social, & creative individual to take charge of the Parish Life & Fellowship Ministry.</p>
           </div>
           <!-- Footer buttons -->
-          <div align="center" class="card-footer">
+          <!-- <div align="center" class="card-footer">
             <a href="mailto:parishadmin@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Open Position</button></a>
-          </div>
+          </div> -->
         </div>
       </div>
 
@@ -401,9 +399,9 @@
             <p>The Women’s Guild (The Juliets) meet at Kurth Cottage every 2nd and 4th Sunday. This service and fellowship group is involved in many aspects of the life of Christ Episcopal Church, including the Christ Church Memorial Scholarship Fund. They also volunteer at the Community Thrift Shop in Midland Park. The Church receives 30% of the proceeds for donations labeled with our number (#1). This money goes directly to the scholarship fund.</p>
           </div>
           <!-- Footer buttons -->
-          <div align="center" class="card-footer">
+          <!-- <div align="center" class="card-footer">
             <a href="mailto:dorymeyers@aol.com"><button type="button" class="btn btn-outline-primary">Contact Dorothy Meyers</button></a>
-          </div>
+          </div> -->
         </div>
 
         <!-- Men's Fellowship -->
@@ -414,10 +412,10 @@
             <p>The Men’s Fellowship group provides a monthly opportunity for men to meet and exchange ideas about political, cultural or spiritual issues of today’s world.</p>
           </div>
           <!-- Footer buttons -->
-          <div align="center" class="card-footer">
+          <!-- <div align="center" class="card-footer">
             <a href="mailto:wcoats@verizon.net"><button type="button" class="btn btn-outline-primary">Contact The Rev. Bill Coats</button></a>
             <a href="mailto:rhampson@USAToday.com"><button type="button" class="btn btn-outline-primary">Contact Rick Hampson</button></a>
-          </div>
+          </div> -->
         </div>
 
         <!-- Travel Group -->
@@ -428,10 +426,10 @@
             <p>The Christ Episcopal Church Travel group is for those who enjoy international adventures. The 2017 trip traveled to Bavaria. Past trips went to Tuscany, Sicily, Ireland, Canada, and The Danube River.</p>
           </div>
           <!-- Footer buttons -->
-          <div align="center" class="card-footer">
+          <!-- <div align="center" class="card-footer">
             <a href="mailto:esinger999@aol.com"><button type="button" class="btn btn-outline-primary">Contact Ellen Singer</button></a>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
     <br>

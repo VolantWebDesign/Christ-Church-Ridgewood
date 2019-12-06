@@ -48,7 +48,7 @@
 
 	<div class="container">
 		<h1>Clergy & Staff</h1>
-		<div class="row">
+		<!-- <div class="row">
 			<div class="col-md-6">
 				<div class="row">
 					<div class="col-md-4 col-sm-4 col-xs-4">
@@ -59,24 +59,16 @@
 					<div class="col-md-8">
 						<h4>Father Thomas E. Mathews<br><small>Rector</small></h4>
 						<p>
-							Fr. Tom was recently called to Christ Church following a 10 year Rectorship at St.
-							Luke’s Church, Phillipsburg and a 4 year Assistant Rector position at Grace Church,
-							Madison. He is a “cradle Episcopalian” who attended St. John’s in Boonton where he
-							and his wife, Tanya, developed a vibrant youth ministry and where Fr. Tom also
-							served on the Vestry before seminary.
+						Fr. Tom was called to Christ Church in September 2017, following a 10 year Rectorship at St. Luke’s Church, Phillipsburg and a 4 year Assistant Rector position at Grace Church, Madison. He is a “cradle Episcopalian” who attended St. John’s in Boonton where he and his wife, Tanya, developed a vibrant youth ministry and where Fr. Tom also served on the Vestry before seminary.
 						</p>
 						<p>
-							He grew up in Parsippany, and graduated from The College of NJ with a B.S. in
-							Chemistry and a minor in Psych, opening the door to work for four years in both
-							Fragrance and Oncology research. From 2000-2003, he attended Episcopal Divinity
-							School in Cambridge, MA (now EDS @ UTS), where he graduated with Honors for his
-							M. Div. Thesis on the Apostle Paul.
+						His education is broad, earning a B.S. in Chemistry and a minor in Psychology, which enabled him to work in Oncology and other research for 4 years prior to attending seminary. His sense of calling began in his undergraduate years and he was supported by the Commission of Ministry and Bishop of Newark for ordination and graduated with his M.Div. from Episcopal Divinity School in Cambridge in 2003.
 						</p>
 						<p>
-							He enjoys all aspects of parish ministry and administration, and feels especially
-							called to the formation of community and church as a “family.” In his pastime, he
-							and Tanya love to spend time with their smart, funny and caring daughters, Ava and
-							Elyse. He enjoys pop culture and reading, watching football, attending concerts and biking.
+						Fr. Tom grew up in New Jersey and loves the state, especially the way in which all four seasons can be appreciated. He enjoys all aspects of parish ministry and feels especially called to the formation of community and church as a “family.” He also takes the role of leadership within the diocese seriously, volunteering and running for committees, including the recent Discernment Committee, which prayerfully worked over a year to prepare the profile, receive applications, interview and ultimately select the candidate slate that brought us our new Bishop, the Rt. Rev. Caryle J. Hughes in 2018.
+						</p>
+						<p>
+						In his pastime, he and Tanya love to spend time with their smart, funny and caring daughters, Ava and Elyse. He also enjoys pop culture and films, watching football, attending concerts and biking. Feel free to stop by during his posted office hours or schedule a time that is convenient.
 						</p>
 					</div>
 				</div>
@@ -95,10 +87,55 @@
 					</div>
 				</div>
 			</div>
+		</div> -->
+
+		<div class="row">
+			<div class="col" id="william">
+				<div class="row">
+					<div class="col-md-2 col-sm-2 col-xs-2">
+						<div align="center">
+							<img src="images/clergy/Tom.jpg" class="img-fluid rounded-circle"/>
+						</div>
+					</div>
+					<div class="col-md-10">
+					<h4>Father Thomas E. Mathews<br><small>Rector</small></h4>
+						<p>
+						Fr. Tom was called to Christ Church in September 2017, following a 10 year Rectorship at St. Luke’s Church, Phillipsburg and a 4 year Assistant Rector position at Grace Church, Madison. He is a “cradle Episcopalian” who attended St. John’s in Boonton where he and his wife, Tanya, developed a vibrant youth ministry and where Fr. Tom also served on the Vestry before seminary.
+						</p>
+						<p>
+						His education is broad, earning a B.S. in Chemistry and a minor in Psychology, which enabled him to work in Oncology and other research for 4 years prior to attending seminary. His sense of calling began in his undergraduate years and he was supported by the Commission of Ministry and Bishop of Newark for ordination and graduated with his M.Div. from Episcopal Divinity School in Cambridge in 2003.
+						</p>
+						<p>
+						Fr. Tom grew up in New Jersey and loves the state, especially the way in which all four seasons can be appreciated. He enjoys all aspects of parish ministry and feels especially called to the formation of community and church as a “family.” He also takes the role of leadership within the diocese seriously, volunteering and running for committees, including the recent Discernment Committee, which prayerfully worked over a year to prepare the profile, receive applications, interview and ultimately select the candidate slate that brought us our new Bishop, the Rt. Rev. Caryle J. Hughes in 2018.
+						</p>
+						<p>
+						In his pastime, he and Tanya love to spend time with their smart, funny and caring daughters, Ava and Elyse. He also enjoys pop culture and films, watching football, attending concerts and biking. Feel free to stop by during his posted office hours or schedule a time that is convenient.
+						</p>
+					</div>
+				</div>
+			</div>
 		</div>
 
 		<hr>
 
+		<div class="row">
+			<div class="col" id="william">
+				<div class="row">
+					<div class="col-md-2 col-sm-2 col-xs-2">
+						<div align="center">
+							<img src="images/clergy/bill.jpg" class="img-fluid rounded-circle"/>
+						</div>
+					</div>
+					<div class="col-md-10">
+						<h4>The Reverend William Coats<br><small>Assistant to the Rector for Adult Formation</small></h4>
+						<p>Fr. Bill served as rector of church in Pittsburgh, PA and Hawthorne, NJ. Now retired, Fr. Bill serves at Christ Episcopal Church in saying Mass, leading the 9am Adult Education Forum, providing pastoral care, and organizes the Old Retired Men's Group for Mass and Breakfast once a month.</p>
+						<p>He is married to Debby, a clinical social worker. Their children are grown and so they enjoy the spending time with friends and family, traveling, and watching the L.A. Dodgers.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+<hr>
 
 		<div class="row">
 			<div class="col" id="william">
@@ -191,11 +228,11 @@
 				<div class="row">
 					<div class="col-md-4 col-sm-4 col-xs-4">
 						<div align="center">
-							<img src="images/clergy/pawel.jpg" class="img-fluid rounded-circle"/>
+							<img src="images/vestry/missing.jpg" class="img-fluid rounded-circle"/>
 						</div>
 					</div>
 					<div class="col-md-8">
-						<h4>Pawel Bajon<br><small>Sexton and Building Maintenance</small></h4>
+						<h4>Colvin Sinclair<br><small>Sexton and Building Maintenance</small></h4>
 					</div>
 				</div>
 			</div>

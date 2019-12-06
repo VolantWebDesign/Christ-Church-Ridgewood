@@ -30,7 +30,7 @@
           <a href="clergy.php" class="nav-link">Clergy & Staff</a>
           </li>
           <li class="nav-item <?php if($current == 'faq') {echo 'active';} ?>">
-          <a href="faq.php" class="nav-link">F.A.Q.</a>
+          <a href="faq.php" class="nav-link">FAQ</a>
           </li>
           <li class="nav-item <?php if($current == 'contact') {echo 'active';} ?>">
             <a href="contact.php" class="nav-link">Contact</a>
