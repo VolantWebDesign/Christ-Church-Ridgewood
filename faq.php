@@ -241,10 +241,6 @@
                 <h3>Sunday</h3>
                     <table class="table table-striped table-condensed">
                         <tr>
-                            <td align="right" width="80px"><strong>7:30 AM</td>
-                            <td>Morning Prayer and Angelus</td>
-                        </tr>
-                        <tr>
                             <td align="right" width="80px"><strong>8:00 AM</td>
                             <td>Holy Eucharist <!-- (Mass) --> <a href="documents/bulletin.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-xs btn-outline-warning pull-right">Worship Program (pdf)</a></td>
                         </tr>
@@ -268,12 +264,9 @@
                             <td colspan="2"><div align="center"><strong>Nursery Care: 9:30am-11:30am</strong></div></td>
                         </tr>
                     </table>
-                    <h4>Celtic Eucharist: 5:00 PM, 3rd Sunday each month</h3>
                     <table class="table table-condensed">
                         <tr>
-                            <td><h4>Monday</h4><strong>7:00 AM</strong><br>Morning Prayer</td>
-                            <td><h4>Wednesday</h4><strong>7:00 AM</strong><br>Holy Eucharist (Mass)</td>
-                            <td><h4>Thursday</h4><strong>12:15 PM</strong><br>Noonday Prayer</td>
+                            <td><h4>Wednesday</h4><strong>7:30 AM</strong><br>Holy Eucharist (Mass)</td>
                         </tr>
                     </table>
               </div>

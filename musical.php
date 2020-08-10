@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Musical: Joseph and the Amazing Technicolor Dreamcoat at Christ Church, Ridgewood</title>
+  <title>Musical: The Prince of Egypt at Christ Church, Ridgewood</title>
 
   <!-- CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
@@ -55,7 +55,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12" align="center">
-        <h2 class="page-header invitation">Musical Theatre: <br>Joseph and the Amazing Technicolor Dreamcoat</h2>
+        <h2 class="page-header invitation">Musical Theatre: <br>The Prince of Egypt</h2>
       </div>
     </div>
     <hr>
@@ -66,25 +66,21 @@
           Join Christ Episcopal Church for
         </h5>
         <h4 style="color:#178ed1;">
-        Joseph and the Amazing Technicolor Dreamcoat
+        The Prince of Egypt
         </h4>
       </div>
     </div>
     <div class="row">
-      <div class="col-md-4" align="center"><img src="images/josephandtheamazing.png" class="img-fluid"></div>
+      <div class="col-md-4" align="center"><img src="images/princeofegypt.jpg" class="img-fluid"></div>
       <div class="col-md-8" align="center">
       <br>
         <p class="paragraph-border" style="font-size:1.3em;padding:0;">
           <br>
-          <b>Rehearsals: Every Sunday January-February</b>
+          <b>Rehearsals: Every Sunday January-March</b>
           <br>
           10:40AM (directly after Sunday School)
           <br>
-            <b>Final Run:</b> Feb. 24th, 10:00AM
-            <br>
-            <b>Dress Rehearsal:</b> Mar. 2nd, 2:00PM
-            <br>
-            <b>Show:</b> Mar. 3rd, 10:00AM (during the 10:00 Service)
+            <b>Show:</b> Mar. 22nd, 10:00AM (during the 10:00 Service)
           <br><br>
         </p>
       </div>
@@ -112,22 +108,22 @@
     <div class="row">
       <div class="col-md-6" align="center">
         <h3 >Lyrics</h3>
-        <a href="downloads/lyrics/JOSEPH.docx" download="JOSEPH.docx" class="btn btn-lg btn-outline-primary">Download All Lyrics</a>
+				<a href="documents/PRINCE OF EGYPT LYRIC SHEETS.docx" target="_blank" class="btn btn-lg btn-outline-primary" >Lyrics (Document Download)</a>
         <br><br><br>
       </div>
       <div class="col-md-6" align="center">
         <h3 >Songs</h3>
-        <a href="downloads/music/01 Prologue to Joseph.mp3" download="01 Prologue to Joseph.mp3" class="btn btn-lg btn-outline-primary">Prologue to Joseph</a>
-        <a href="downloads/music/02 Jacob and Sons.mp3" download="02 Jacob and Sons.mp3" class="btn btn-lg btn-outline-primary">Jacob and Sons</a>
-        <a href="downloads/music/03 Joseph's Coat.mp3" download="03 Joseph's Coat.mp3" class="btn btn-lg btn-outline-primary">Joseph's Coat</a>
-        <a href="downloads/music/04 One More Angel.mp3" download="04 One More Angel.mp3" class="btn btn-lg btn-outline-primary">One More Angel</a>
-        <a href="downloads/music/05 Close Every Door.mp3" download="05 Close Every Door.mp3" class="btn btn-lg btn-outline-primary">Close Every Door</a>
-        <a href="downloads/music/06 Song of the King.mp3" download="06 Song of the King.mp3" class="btn btn-lg btn-outline-primary">Song of the King</a>
-        <a href="downloads/music/07 Those Canaan Days.mp3" download="07 Those Canaan Days.mp3" class="btn btn-lg btn-outline-primary">Those Canaan Days</a>
-        <a href="downloads/music/08 Benjamin Calypso.mp3" download="08 Benjamin Calypso.mp3" class="btn btn-lg btn-outline-primary">Benjamin Calypso</a>
-        <a href="downloads/music/09 Jacob Came to Egypt.mp3" download="09 Jacob Came to Egypt.mp3" class="btn btn-lg btn-outline-primary">Jacob Came to Egypt</a>
-        <a href="downloads/music/10 Any Dream Will Do.mp3" download="10 Any Dream Will Do.mp3" class="btn btn-lg btn-outline-primary">Any Dream Will Do</a>
-        <a href="downloads/music/16 Brothers Come to Egypt _ Grovel, Grovel.m4a" download="16 Brothers Come to Egypt _ Grovel, Grovel.m4a" class="btn btn-lg btn-outline-primary">Brothers Came to Egypt - Grovel, Grovel</a>
+        <a href="https://drive.google.com/drive/folders/11FbdQI53NeY7oe5cv3PTg7-tH1F6H5uF?usp=sharing" target="_blank" class="btn btn-lg btn-outline-primary" >Music (w/ vocals)</a>
+
+        <a href="downloads/music/prince_egypt_2020/01 Deliver Us Instr Final.mp3" download="01 Deliver Us Instr Final.mp3" class="btn btn-lg btn-outline-primary">Deliver Us (instr)</a>
+        <a href="downloads/music/prince_egypt_2020/01 River Lullaby (From 'The Prince of Egypt').m4a" download="01 River Lullaby (From 'The Prince of Egypt').m4a" class="btn btn-lg btn-outline-primary">River Lullaby (instr)</a>
+        <a href="downloads/music/prince_egypt_2020/02 Burning Bush Instr Final.mp3" download="02 Burning Bush Instr Final.mp3" class="btn btn-lg btn-outline-primary">Burning Bush(instr)</a>
+        <a href="downloads/music/prince_egypt_2020/02 Through Heaven's Eyes (From 'The Prince of Egypt').m4a" download="02 Through Heaven's Eyes (From 'The Prince of Egypt').m4a" class="btn btn-lg btn-outline-primary">Through Heaven's Eyes (instr)</a>
+        <a href="downloads/music/prince_egypt_2020/03 When You Believe (From 'The Prince of Egypt').m4a" download="03 When You Believe (From 'The Prince of Egypt').m4a" class="btn btn-lg btn-outline-primary">When You Believe (instr)</a>
+        <a href="downloads/music/prince_egypt_2020/05 The Red Sea Crossing Instr.m4a" download="05 The Red Sea Crossing Instr.m4a" class="btn btn-lg btn-outline-primary">The Red Sea Crossing (instr)</a>
+        <a href="downloads/music/prince_egypt_2020/All i ever wanted - INSTRUMENTAL ONLY - Prince of Egypt - Hans Zimmer.mp3" download="All i ever wanted - INSTRUMENTAL ONLY - Prince of Egypt - Hans Zimmer.mp3" class="btn btn-lg btn-outline-primary">All I Ever Wanted (instr)</a>
+        <a href="downloads/music/prince_egypt_2020/Playing with the big boys instrumental.mp3" download="Playing with the big boys instrumental.mp3" class="btn btn-lg btn-outline-primary">Playing with the Big Boys (instr)</a>
+        <a href="downloads/music/prince_egypt_2020/The Plagues - The Prince of Egypt (KaraokeInstrumental with Choir) (1).mp3" download="The Plagues - The Prince of Egypt (KaraokeInstrumental with Choir) (1).mp3" class="btn btn-lg btn-outline-primary">The Plagues (instr)</a>
       </div>
     </div>
 

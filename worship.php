@@ -59,21 +59,17 @@
             <div class="col-12">
                 <h3>Sunday</h3><br>
             </div>
-            <div class="col-md-3 col-sm-6">
+            <div class="col-md-4 col-sm-6">
                 <h4>Holy Eucharist<br>8:00 AM<br><span class="text-muted">Mass</span></h4>
                 <p>A quiet, spoken liturgy.  There's no music and usually the service is under an hour.  It's attended by all ages although it mostly appeals to individuals and families without children.  We usually use the Rite II Book of Common Prayer liturgy.</p>
             </div>
-            <div class="col-md-3 col-sm-6">
+            <div class="col-md-4 col-sm-6">
                 <h4>JOY! Mass<br>9:15 AM<br><span class="text-muted">Eucharist for children</span> </h4>
                 <p>Designed for families with young children, infant to age 4-5 (although some older children do attend).  The service incorporates music, movement, and Bible stories with a children's sermon.  The children learn how to pray, share, and receive Communion.</p>
             </div>
-            <div class="col-md-3 col-sm-6">
+            <div class="col-md-4 col-sm-6">
                 <h4>Holy Eucharist<br>10:00 AM<br><span class="text-muted">Mass with music</span></h4>
                 <p>Our principle weekend worship.  Attended by all ages, families and individuals, the service incorporates music offered by the organist, choir, and occasional soloist.  We use the Rite II Book of Common Prayer liturgy.</p>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <h4>Celtic Eucharist<br>5:00 PM<br><span class="text-muted">3rd Sunday of the month</span></h4>
-                <p>The Third Sunday Celtic Eucharist offers the worshipper a quiet, meditative, reflective experience.  It incorporates silence along with ancient Celtic prayers and music along with Taize style music.  There is no sermon, but there are readings for reflection.  Prayers are offered via candle light, and communicants gather around the altar for the Eucharist.</p>
             </div>
         </div>
         <div class="row">

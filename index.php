@@ -59,7 +59,7 @@
 
 
 		<!-- Welcome carousel -->
-		<div class="row">
+		<!-- <div class="row">
 			<div class="col-md-12">
 				<div class="card">
 					<div class="card-header">
@@ -107,14 +107,114 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</div> -->
 
+			<!-- COVID19 Announcement -->
+			<div class="row">
+				<div class="col-md-12">
+					<div class="card">
+						<div class="card-body">
+							<div class="row">
+							<div class="col-md-6">
+									<div  align="center">
+										<br>
+										<h2 class="invitation">All In-Person Services and Gatherings Cancelled Until Further Notice</h2>
+										<p>
+										In response to the COVID-19 situation, all services and public gatherings across the diocese are cancelled until at least after Easter. 
+										</p>
+										<p>
+										We will share in multiple online worship offerings over the coming weeks, including daily online services in Holy Week. Check back for more information about Easter Sunday. We will celebrate Christ's Resurrection - online - together. Nothing can stop that.
+										</p>
+										<p>
+										We will likely only have essential staff on-site for pockets of time during these coming weeks, and only as needed. You can reach clergy and staff by email (ideal) or by voicemail. Simply call <a href="tel:+201-652-2350">201-652-2350</a>  and follow the prompts to reach a voice mailbox.
+										</p>
+										<h3>
+										We Need Your Support
+										</h3>
+										<a href="documents/Stewardship continuity-4.pdf" target="_blank" class="btn btn-primary" >Letter from the Wardens</br>& Stewardship Chair</a>
+									</div>
+								</div>
+
+								<div class="col-md-6" align="center">
+									<br>
+									<h2 class="invitation">Worship and News on our Youtube Channel</h2>
+									<p>
+									View, subscribe, and check back often for new posts, including worship services, stories from Miss Kristen, music, and more.</p>
+									<a href="https://www.youtube.com/channel/UCmyopb5WsiVuacAh8jj1_Ug?view_as=subscriber" target="_blank" class="btn btn-primary" >Christ Church on Youtube</a>
+									</br></br>
+									<h2 class="invitation">Christ Church Online</h2>
+									<iframe width="100%" height="300px" src="https://www.youtube.com/embed/videoseries?list=PLgFu021IRVKOsKPypmNyUSYD8PEfritZB" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Christ Church Ridgewood Online Service" alt="Christ Church Ridgewood Online Service, video"></iframe>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- end COVID19 Announcement -->
+
+
+	<!-- Ash Wednesday and Lent -->
+	<!-- <div class="row">
+		<div class="col-md-12">
+			<div class="card border">
+				<div class="card-header" align="center">
+					<h3 class="card-title" >The Season of Lent at Christ Church</h3>
+				</div>
+				<div class="card-body" >
+					<div class="row" >
+						<div class="col-md-6">
+							<h3 >Ash Wednesday, February 26</h3>
+						<table class="table table-striped">
+							<tbody>
+							<tr>
+								<th scope="row">7:30AM</th>
+								<td>Eucharist with Ashes</td>
+							</tr>
+							<tr>
+								<th scope="row">8:30-10:00AM</th>
+								<td>Drive-Through Ashes</a></td>
+							</tr>
+							<tr>
+								<th scope="row">12:00PM</th>
+								<td>Eucharist with Ashes</a></td>
+							</tr>
+							<tr>
+								<th scope="row">2:30-4:00PM</th>
+								<td>Drive-Through Ashes</a></td>
+							</tr>
+							<tr>
+								<th scope="row">7:00PM</th>
+								<td>Eucharist with Ashes (with choir)</a></td>
+							</tr>
+							</tbody>
+						</table>
+							<hr>
+							<h5>Lenten Breakfast</h5>
+							<p>Sundays in Lent, March 1 - April 5, 8:45 - 10:15AM in the Great Hall, $5/adult to cover cost, <br><strong>Children eat FREE!</strong></p>
+
+						</div>
+						<div class="col-md-6" align="center">
+							<br><br>
+							<h3>"Remember that you are dust, and to dust you will return."</h3>
+							<br><br><br><br><br>
+							<h3>Drive-Through-Ashes at Christ Church featured on CBS News</h3>
+							<h5>(at the 1:22 minute mark)</h5>
+							<iframe scrolling="no" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen src="http://w3.cdn.anvato.net/player/prod/v3/anvload.html?key=eyJtIjoiY2JzIiwidiI6IjM4MTA1MDYiLCJhbnZhY2siOiJhbnZhdG9fY2JzbG9jYWxfYXBwX3dlYl9wcm9kXzU0N2YzZTQ5MjQxZWYwZTVkMzBjNzliMmVmYmNhNWQ5MmM2OThmNjciLCJwbHVnaW5zIjp7ImNvbXNjb3JlIjp7ImNsaWVudElkIjoiMzAwMDAyMyIsImMzIjoibmV3eW9yay5jYnNsb2NhbC5jb20ifSwiZGZwIjp7ImNsaWVudFNpZGUiOnsiYWRUYWdVcmwiOiJodHRwOi8vcHViYWRzLmcuZG91YmxlY2xpY2submV0L2dhbXBhZC9hZHM%2Fc3o9MngyJml1PS80MTI4L0NCUy5OWSZjaXVfc3pzJmltcGw9cyZnZGZwX3JlcT0xJmVudj12cCZvdXRwdXQ9eG1sX3Zhc3QyJnVudmlld2VkX3Bvc2l0aW9uX3N0YXJ0PTEmdXJsPVtyZWZlcnJlcl91cmxdJmRlc2NyaXB0aW9uX3VybD1bZGVzY3JpcHRpb25fdXJsXSZjb3JyZWxhdG9yPVt0aW1lc3RhbXBdIiwia2V5VmFsdWVzIjp7ImNhdGVnb3JpZXMiOiJbW0NBVEVHT1JJRVNdXSIsInByb2dyYW0iOiJbW1BST0dSQU1fTkFNRV1dIiwic2l0ZVNlY3Rpb24iOiJ2aWRlby1leHBlcmllbmNlIn19fSwicmVhbFRpbWVBbmFseXRpY3MiOnRydWUsImhlYXJ0YmVhdEJldGEiOnsiYWNjb3VudCI6ImNic2xvY2FsLWdsb2JhbC11bmlmaWVkIiwicHVibGlzaGVySWQiOiJjYnNsb2NhbCIsImpvYklkIjoic2NfdmEiLCJtYXJrZXRpbmdDbG91ZElkIjoiODIzQkEwMzM1NTY3NDk3RjdGMDAwMTAxQEFkb2JlT3JnIiwidHJhY2tpbmdTZXJ2ZXIiOiJjYnNkaWdpdGFsbWVkaWEuaGIub210cmRjLm5ldCIsImN1c3RvbVRyYWNraW5nU2VydmVyIjoiY2JzZGlnaXRhbG1lZGlhLmQxLnNjLm9tdHJkYy5uZXQiLCJjaGFwdGVyVHJhY2tpbmciOmZhbHNlLCJ2ZXJzaW9uIjoiMS41IiwicGFyZW50UGFnZVVSTCI6Imh0dHA6Ly9uZXd5b3JrLmNic2xvY2FsLmNvbS92aWRlby8zODEwNTA2LWRvdWJsZS15b3VyLWhvbGlkYXktcGxlYXN1cmUvIiwicGFyZW50VGl0bGUiOiJEb3VibGUgWW91ciBIb2xpZGF5IFBsZWFzdXJlIMKrIENCUyBOZXcgWW9yayIsInBJbnN0YW5jZSI6InAwIiwicHJvZmlsZSI6ImNic2xvY2FsIn19LCJodG1sNSI6dHJ1ZX0%3D"  width ="auto" title="Christ Church featured on CBS News" alt="CBS News, Christ Episcopal Church, Ash Wednesday, video"></iframe>
+
+						</div>
+					</div>
+				</div>	
+			</div>
+		</div>
+	</div> -->
+	
 		<div class="row">
 			<!-- Worship schedule -->
 			<div class="col-md-12">
 				<div class="card">
 					<div class="card-header">
-						<h4> Worship with us...</h4>
+						<!-- <h4> Worship with us...</h4> -->
+						<h3>NO SERVICES UNTIL APRIL 5</h3>
 					</div>
 					<div class="card-body">
 						<div class="row">
@@ -124,7 +224,9 @@
 								<table class="table table-striped ">
 									<tr>
 										<td align="right" ><strong>8:00 AM</strong></td>
-										<td>Holy Eucharist<br><a href="documents/bulletin.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm  btn-outline-primary ">Program</a></td>
+										<td>Holy Eucharist 
+										<a href="documents/bulletin.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm  btn-outline-primary ">Program</a>
+										</td>
 									</tr>
 									<tr>
 										<td align="right"><strong>8:30 AM</strong></td>
@@ -140,7 +242,9 @@
 									</tr>
 									<tr>
 										<td align="right" nowrap><strong>10:00 AM</strong></td>
-										<td>Holy Eucharist with music  <br> <a href="documents/bulletin.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm btn-outline-primary "> Program</a></td>
+										<td>Holy Eucharist with music  
+										<a href="documents/bulletin.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm btn-outline-primary "> Program</a>
+										</td>
 									</tr>
 									<tr>
 										<td colspan="2"><div align="center"><strong>Nursery Care: 9:30am-11:30am</strong></div></td>
@@ -149,23 +253,11 @@
 							</div>
 
 							<div class="col-md-6">
-								<h3>Celtic Eucharist:
-									<div class="text-muted small"> 5:00 PM, 3rd Sunday each month <a href="documents/celtic.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn  btn-outline-primary "> Program</a></div>
-								</h3>
-								<table class="table table-striped table-sm">
-									<tr>
-										<td>
-											<ul id="celtic">
-												<li>December 15 <span style="color:blue;">(Blue Christmas Service)</span></li>
-												<li>January 19</li>
-											</ul>
-										</td>
-									</tr>
-								</table>
 
 								<div class="row">
-									<div class="col" style="padding-top: 20px;"><h4>Monday</h4><strong>7:00 AM</strong><br>Morning Prayer</div>
+									<div class="col"></div>
 									<div class="col" style="padding-top: 20px;"><h4>Wednesday</h4><strong>7:00 AM</strong><br>Holy Eucharist (Mass)</div>
+									<div class="col"></div>
 								</div>
 								<br>
 								<div class="row">
@@ -173,7 +265,7 @@
 										<a href="documents/insert.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Announcements</a>
 									</div>
 									<div class="col" align="center">
-										<a href="documents/Youth-Registration-Form-2019.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-primary">Youth Programs Registration Form</a>
+										<a href="documents/Youth-Registration-Form-2019.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Youth Programs Registration Form</a>
 									</div>
 								</div>
 							</div>
@@ -182,56 +274,7 @@
 				</div>
 			</div>
 		</div>
-
-		<!-- Stewardship -->
-		<div class="row">
-			<div class="col-md-12">
-				<div class="card">
-					<div class="card-header" style="padding:0;" align="center">
-						<img src="images/stewardship_2019_hbanner.jpg" alt="2020 Christ Church Ridgewood Stewardship Campaign: Shining our Light" class="img-fluid" style="padding: 0;">
-					</div>
-					<div class="card-body" >
-						<div class="row" >
-							<div class="col-md-6" align="center">
-								<h4>From the Stewardship Committee</h4>
-								<p>We are excited to announce the theme for our 2020 Pledge Drive - Shining Our Light.  Please complete and return your pledge cards to any of the Sunday services on November 10, 2019. Pledge packets will be mailed the week of November 3rd and links will be available to submit a pledge card online and/or to download pledge packet materials in early November.  We look forward to working together to shine our light in church, in our community and through our lives!  </p>
-
-							</div>
-							<div class="col-md-6" align="center">
-								<h4>Campaign Information</h4>
-								<br>
-								<a href="documents/Stewardship/stewardship_2020_letter_committee.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Stewardship Chair</a><br>
-								<a href="documents/Stewardship/2020-stewardship-rector.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Rector</a><br>
-								<!-- <a href="documents/2019-stewardship-wardens.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Wardens</a><br>
-								<a href="documents/Recent-Happenings-at-Christ-Church.pdf" target="_blank" class="btn btn-outline-primary" >Recent Happenings</a><br> -->
-
-								<!-- <p>This year's pledge packet includes:</p>
-								<ul>
-									<li>Letters from the Stewardship Chair, your Wardens and Rector</li>
-									<li>A blue pledge card – combined financial and time/talent</li>
-									<li>A directory information printout of what we currently have on file</li>
-									<li>Frequently Asked Question brochure about pledging and proportional giving</li>
-									<li>Return Envelope</li>
-								</ul> -->
-								<!-- <p>Thank you for your prayerful consideration of your pledge to support the ministries of Christ Church in 2020 both financially and through volunteering your time and talents! Together, we can reach our goal of 100% participation in pledging.</p> -->
-								<!-- <p><strong>If you have not yet made your pledge for 2019, please do so using the "Pledge Online" button below!</strong></p> -->
-								<p>Please feel free to contact our Stewardship Chair, <a href="mailto:deanna.najork@gmail.com"> Deanna Najork</a>, with any questions.  Thank you again!</p>
-							</div>
-						</div>
-					</div>
-					<div class="card-footer" align="center">
-						<!-- <a href="documents/StewardshipTimeTalent2018.pdf" target="_blank" class="btn btn-outline-primary" >Time and Talents Form</a>
-						<a href="documents/StewardshipFAQ2018.pdf" target="_blank" class="btn btn-outline-primary" >FAQ About Giving</a>
-						<a href="https://goo.gl/forms/cqKeCekNA9wMSbhs2" target="_blank" class="btn btn-primary" >Pledge Online Now</a> -->
-						<!-- <a href="documents/2019-stewardship-faq.pdf" target="_blank" class="btn btn-outline-primary" >Giving FAQ</a> -->
-						<a href="documents/Stewardship/pledge-card-2020.pdf" target="_blank" class="btn btn-outline-primary" >Pledge Card</a>
-						<a href="https://forms.gle/4bdKymH4BuoTwuWY9" target="_blank" class="btn btn-primary" >Submit Your Pledge Card Online</a>
-					</div>
-				</div>
-			</div>
-		</div>
 		
-
 		<!-- upcoming events and sermon audio cards -->
 		<div class="row">
 			<div class="col-md-12" align="center">
@@ -241,38 +284,42 @@
 			<!-- column left -->
 			<div class="col-md-6">
 
-			<!-- Youth African Drumming -->
-			<div class="card">
-				<div class="card-body" align="center">
-					<h2 class="cardtop">Advent Lessons & Carols</h2>
-					<h3>
-					December 8, 5:00PM
-					</h3>
-					<img src="images/Advent-2.jpeg" alt="Advent Lessons & Carols" title="Advent Lessons & Carols" class="img-fluid">
-					<p>
-					Christ Church Choir will sing a service of Advent Lessons and Carols on Sunday, December 8 at 5 pm, the Second Sunday of Advent. Advent is a season of both quiet reflection and joyful expectation. This service of scripture lessons prophesying the birth of Christ with carols echoing the readings, is intended to be a time of spiritual preparation, as we watch and wait for the coming of the Kingdom of God. 
-					</p>
-					<p>
-					The choir will sing works by Willcocks, Archer, Stainer, Carter and many others. Join us to hear the promises of Holy Scripture and powerful music to propel us quietly to the wonder of Christmas. 
-					</p>
-				</div>
+		<!-- Musical: Prince of Egypt -->
+		<div class="card">
+			<div class="card-body" align="center">
+				<h2 class="cardtop">Musical: The Prince of Egypt</h2>
+				<img src="images/princeofegypt.jpg" alt="The Prince of Egypt" title="The Prince of Egypt" class="img-fluid">
+				<p></p>
+				<br>
+				<b>Rehearsals: Every Sunday January-February</b>
+				<br>
+				10:40AM (directly after Sunday School)
+				<br>
+				<b>Show:</b> Mar. 22nd, 10:00AM (during the 10:00 Service)
+				<br><br>
 			</div>
+			<!-- Footer buttons -->
+			<div align="center" class="card-footer">
+				<a href="musical.php"><button type="button" class="btn btn-outline-primary">Lyrics and Music</button></a>	
+				<a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
+			</div>
+		</div>
 
 			<!-- Weekly Music Article -->
 				<div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Music & Liturgy Notes</h2>
-						<h3>December 8</h3>
-						<h3>Second Sunday of Advent</h3>
+						<h3>March 8</h3>
+						<h3>Second Sunday in Lent</h3>
 						<img src="images/organist-choir1.jpg" alt="Organist and Choir" title="Organist and Choir" class="img-fluid">
 						<p>
-						The Collect for the Second Sunday of Advent reflects on God’s messengers, the prophets, who were sent to preach repentance and to prepare the way for the coming of the Lord. In Matthew’s Gospel, read today, we encounter John the Baptist in his clothing of camel’s hair and his leather belt, crying out in the wilderness, “Prepare the way of the Lord.” To underscore this, we’ll sing hymns, which echo John the Baptist’s words.
+						In John’s Gospel, appointed for today, we read of Jesus’ well known discourse with Nicodemus including the words “God so loved the world that he gave his only Son…” Today, Christ Church Choir will sing a setting of these words by Bob Chilcott.
+						</p>
+ 						<p>
+						Chilcott, has been described as “a contemporary hero of British Choral Music”, and has become one of the most widely performed composers and arrangers of choral music in the world. He has a large catalogue of works published by Oxford University Press which reflects his broad range in musical styles and his skill to writing music that is both singable and communicative.
 						</p>
 						<p>
-						The original text of “On Jordan’s bank, the Baptist’s cry” was a Latin hymn, “Jordanis oras praevia,” written by the French writer and teacher Charles Coffin as a hymn for the office of Lauds during Advent. It was published in 1736 as part of Coffin’s Hymni sacri. It was translated later into English by John Chandler in the 19th century and further still by Charles Winfred Douglas for the Hymnal 1940 and our present Hymnal 1982. Coffin’s great hymns were not confined to the church. His other works include an ode in praise of the wines of Champagne.
-						</p>
-						<p>
-						This Advent, we have adopted the practice of lighting one candle from our Advent Wreath to begin our services. On Advent I, the candle of Hope was lighted; today we will light the candle of Peace. Each week, the choir will sing an anthem composed by Malcolm Archer to accompany this ritual. Throughout his career, Archer served Wells Cathedral, St. Paul’s Cathedral in London and Winchester College. He has over 200 published composition to his credit.
+						He has been involved in choral music most of his life beginning as a chorister and then a choral scholar in the choir of King's College, Cambridge, and between 1985 and 1997 was a member of the British vocal group The King's Singers for whom he made a number of popular arrangements of well-known songs from all genres. He has been a full time composer since 1997. His very relaxed and accessible style has earned him the admiration of music listeners, not just in Britain and the US, but throughout the world.			
 						</p>
 					</div>
 				</div>
@@ -295,6 +342,17 @@
 
 			<!-- column right -->
 			<div class="col-md-6">
+
+			<!-- Pastor Jill announcement -->
+				<div class="card">
+					<div class="card-body" align="center">
+						<h2 class="cardtop">Pastor Jill Williams</br>joins Christ Church!</h2>
+						<img src="images/Jill_Williams and Fr. Tom 1.jpg" alt="Pastor Jill and Fr. Tom" title="Pastor Jill and Fr. Tom" class="img-fluid">
+						<p>
+						On behalf of the Wardens, Vestry and Christ Church family, Fr. Tom is happy to announce that Christ Church has found our new Curate, and her name is Jill Williams! She is beginning her ministry with Christ Church formally on February 1, 2020. We are delighted to formally welcome Jill and her wife, Paula!
+						</p>
+					</div>
+				</div>
 
 			<!-- Bach Tour -->
 			<div class="card">
