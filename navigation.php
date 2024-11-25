@@ -1,6 +1,6 @@
     <!-- Navigation -->
 
-<script>
+<!-- <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -9,6 +9,16 @@
   ga('create', 'UA-3288774-55', 'auto');
   ga('send', 'pageview');
 
+</script> -->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X0BC8NT7TZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-X0BC8NT7TZ');
 </script>
 
 <nav class="navbar navbar-expand-md navbar-dark fixed-top" style="background-color: #113056;">
@@ -29,24 +39,34 @@
           <li class="nav-item <?php if($current == 'clergy') {echo 'active';} ?>">
           <a href="clergy.php" class="nav-link">Clergy & Staff</a>
           </li>
-          <li class="nav-item <?php if($current == 'faq') {echo 'active';} ?>">
+          <!-- <li class="nav-item <?php if($current == 'faq') {echo 'active';} ?>">
           <a href="faq.php" class="nav-link">FAQ</a>
-          </li>
+          </li> -->
+          <li class="nav-item <?php if($current == 'giving') {echo 'active';} ?>">
+            <a href="giving.php" class="nav-link">Giving</a>
+         </li>
           <li class="nav-item <?php if($current == 'contact') {echo 'active';} ?>">
             <a href="contact.php" class="nav-link">Contact</a>
          </li>
-         <li class="nav-item <?php if($current == 'youth') {echo 'active';} ?>">
-           <a href="youth.php" class="nav-link">Youth Group</a>
-        </li>
         </ul>
         <form class="form-inline mt-2 mt-md-0">
-            <a href=https://goo.gl/ap2mQM target=_blank title="Donate to Christ Church Ridgewood" alt="donate, button, church"><button type="button" class="btn btn-light" style="font-weight: bold; color: #113056;">Donate</button></a> &nbsp; &nbsp;
+            <a href=giving.php title="Donate to Christ Church Ridgewood" alt="donate, button, church"><button type="button" class="btn btn-light" style="font-weight: bold; color: #113056;">Donate</button></a> &nbsp; &nbsp;
         </form>
       </div>
     </nav>
 
 <!-- masthead image -->
-    <img src="images/CCR_masthead_lent.jpg?k=<?php echo $thekeys; ?>" class="img-fluid" style="padding-top: 0; padding-bottom: 0;">
+    <!-- Advent -->
+    <!-- <img src="images/mastheads/CCR_masthead_advent.jpg?k=<?php echo $thekeys; ?>" class="img-fluid" style="padding-top: 0; padding-bottom: 0;"> -->
+
+    <!-- Christmas -->
+    <!-- <img src="images/mastheads/CCR_masthead_christmas_v5.jpg?k=<?php echo $thekeys; ?>" class="img-fluid" style="padding-top: 0; padding-bottom: 0;"> -->
+
+    <!-- Ordinary Time -->
+    <img src="images/mastheads/CCR_masthead.jpg?k=<?php echo $thekeys; ?>" class="img-fluid" style="padding-top: 0; padding-bottom: 0;">
+
+    <!-- Lent -->
+    <!-- <img src="images/mastheads/CCR_masthead_lent.jpg?k=<?php echo $thekeys; ?>" class="img-fluid" style="padding-top: 0; padding-bottom: 0;"> -->
 
 <!-- Contact Info -->
     <div class="row">

@@ -1,0 +1,15 @@
+window.env = {
+REACT_APP_BACKEND_API: 'https://payerapi.myvanco.com/api/',
+REACT_APP_MOCK_BACKEND_API: 'http://localhost:3001',
+REACT_APP_IDS_CLIENT_ID: 'vanco-online-front-end',
+REACT_APP_IDS_AUDIENCE: 'vanco-online-back-end connexpoint',
+REACT_APP_FRONTEND_URL: 'https://secure.myvanco.com',
+REACT_APP_FRONTEND_REDIRECT_URL: 'https://secure.myvanco.com/post-redirect',
+REACT_APP_IDS_DOMAIN: 'id.vancoplatform.com',
+REACT_APP_IDS_TENANT: 'unset',
+REACT_APP_TELEMETRY_INSTRUMENTATION_KEY: '63e31d12-2f9d-48d8-b4ca-dcf23ea2a360',
+REACT_APP_CXP_URL: 'https://js.connexpoint.com',
+REACT_APP_RECAPTCHA_SITE_KEY: '6LdD4NEUAAAAAODg-IsqXNphI-kT1XLtljnZU2zu',
+REACT_APP_AUTOMATION_RECAPTCHA_SITE_KEY: '6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI',
+REACT_APP_GA_ENABLED: 'True',
+};

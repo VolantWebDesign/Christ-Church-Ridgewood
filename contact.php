@@ -25,13 +25,13 @@
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105226374-6"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X0BC8NT7TZ"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-105226374-6');
+  gtag('config', 'G-X0BC8NT7TZ');
 </script>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -53,7 +53,7 @@ include "navigation.php";
 <!-- Email form instructions -->
 <!-- <?php 
  if(isset($_POST['submit'])){
- $to = "tyler@volantweb.com"; // this is your Email address
+ $to = "tylerstahl@gmail.com"; // this is your Email address
  $from = $_POST['email']; // this is the sender's Email address
  $first_name = $_POST['first_name'];
  $last_name = $_POST['last_name'];

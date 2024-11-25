@@ -27,13 +27,13 @@
   <link href="https://fonts.googleapis.com/css?family=Spectral+SC:400,500,600,700" rel="stylesheet">
 
   <!-- Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-105226374-6"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-X0BC8NT7TZ"></script>
   <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-105226374-6');
+  gtag('config', 'G-X0BC8NT7TZ');
 </script>
 
 <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -66,7 +66,7 @@
           Join Christ Episcopal Church for
         </h5>
         <h4 style="color:#178ed1;">
-          The Big Fish: Jonah’s Whale of a Tale
+          The Big Fish: Jonah's Whale of a Tale
         </h4>
       </div>
     </div>
@@ -75,29 +75,31 @@
       <div class="col-md-4" align="center">
         <br><br><br><br>
         <p class="paragraph-border" style="font-size:1.3em;padding:0;">
+        <br>
+          <b>Save the date!</b>
           <br>
-          <b>August 6-10</b>
+          <b>August 14-18</b>
           <br>
-          9 am – 12 pm
+          9 am - 12 pm
           <br>
-          For Ages 4 – 12
+          For Ages 4 - 10
           <br>
-          $80 per child
+          $85 per child
           <br><br>
         </p>
       </div>
-      <div class="col-md-4"><img src="images/VBS-kids1.jpeg" id="img-flipable1" class="img-fluid"></div>
+      <div class="col-md-4"><img src="images/VBS-kids1.jpeg"  class="img-fluid"></div>
     </div>
     <br><br>
     <div class="row">
       <div class="col-md-8" align="center">
         <br>
-        <p class="ten-padding paragraph-border">
-          Come join in the fun of Musical Theatre Vacation Bible School (VBS)! We’ll learn the bible story of Jonah and the Whale and perform a creative musical told in “film noir” style, like an old-fashioned detective movie. Don’t miss this wonderful week of faith, music, drama, and art, with a performance on Friday morning.
+        <div class="ten-padding paragraph-border">
+          Come join in the fun of Musical Theatre Vacation Bible School (VBS)! We'll learn the Bible story of Jonah and the Whale and perform a creative musical told in “film noir” style, like an old-fashioned detective movie. Don't miss this wonderful week of faith, music, drama, and art, with a performance on Friday morning.
           <br><br>
-          Register now to secure a spot, space is limited.
+          Register before <strong>July 31</strong> to secure a spot, space is limited.
           <br>
-          Please pay by following the registration instructions.
+          Please register and pay using the 'Register' button below.
           <br><br>
           <b>Questions?</b>
           <br>
@@ -107,19 +109,28 @@
           <br>
           <a href="mailto:mwhittemore@christchurchridgewood.org?subject=VBS">mwhittemore@christchurchridgewood.org</a>
           <br><br>
-          <button type="button" class="btn btn-primary btn-lg disabled">Registration Closed</button>
+          <a href="https://www.eventbrite.com/e/musical-theatre-vbs-the-big-fish-jonahs-whale-of-a-tale-tickets-643732811167" class="btn btn-md btn-primary" target="_blank" aria-label="register for VBS">Register</a>
           <br><br>
-          <a href="vbs-download.php" class="btn btn-outline-primary btn-sm">Download music & lyrics</a>
-        </p>
+            <br><br>
+              <h3>Songs</h3>
+              <a href="downloads/vbs_2023/01 Best Time Ever short.mp3" download="Best Time Ever" class="btn btn-lg btn-outline-primary">Best Time Ever</a>
+              <a href="downloads/vbs_2023/01 Nothing like a mystery shorter.mp3" download="Nothing Like a Mystery" class="btn btn-lg btn-outline-primary">Nothing Like a Mystery</a>
+              <a href="downloads/vbs_2023/01 Opening Music.mp3" download="Opening Music" class="btn btn-lg btn-outline-primary">Opening Music</a>
+              <a href="downloads/vbs_2023/07 Runnin From the Lord.m4a" download="Runnin From the Lord" class="btn btn-lg btn-outline-primary">Runnin From the Lord</a>
+              <a href="downloads/vbs_2023/12 Deep Sea Blues.m4a" download="Deep Sea Blues" class="btn btn-lg btn-outline-primary">Deep Sea Blues</a>
+              <a href="downloads/vbs_2023/15 It_s a Miracle.m4a" download="It's a Miracle" class="btn btn-lg btn-outline-primary">It's a Miracle</a>
+        </div>
+
+
       </div>
       <div class="col-md-4" align="center">
-        <img src="images/VBS-kids2.jpeg" id="img-flipable2" class="img-fluid">
+        <img src="images/VBS-kids2.jpeg"  class="img-fluid">
       </div>
     </div>
     <div class="row">
       <div class="col-md-4"><img src="images/VBS-camel.jpeg" class="img-fluid"></div>
       <div class="col-md-4"><img src="images/VBS-whale.jpeg" class="img-fluid"></div>
-      <div class="col-md-4"><img src="images/VBS-kids3.jpeg" id="img-flipable3" class="img-fluid"></div>
+      <div class="col-md-4"></div>
     </div>
 
     <!-- Call to Action Section -->

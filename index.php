@@ -30,13 +30,13 @@
 	<link href="https://fonts.googleapis.com/css?family=Spectral+SC:400,500,600,700" rel="stylesheet">
 
 	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105226374-6"></script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-X0BC8NT7TZ"></script>
 	<script>
 	window.dataLayer = window.dataLayer || [];
 	function gtag(){dataLayer.push(arguments);}
 	gtag('js', new Date());
 
-	gtag('config', 'UA-105226374-6');
+	gtag('config', 'G-X0BC8NT7TZ');
 	</script>
 
 
@@ -109,38 +109,52 @@
 			</div>
 		</div> -->
 
-			<!-- COVID19 Announcement -->
+		<!-- above-fold -->
+
 			<div class="row">
 				<div class="col-md-12">
 					<div class="card">
 						<div class="card-body">
 							<div class="row">
 							<div class="col-md-6">
-									<div  align="center">
+									<div  align="center" >
 										<br>
-										<h2 class="invitation">All In-Person Services and Gatherings Cancelled Until Further Notice</h2>
+										<h2 class="invitation">All Sunday Services are In-Person and Live-Streamed
+										<br/>(<a href="#worship-schedule">full schedule below</a>)
+										</h2>
+
 										<p>
-										In response to the COVID-19 situation, all services and public gatherings across the diocese are cancelled until at least after Easter. 
+										To learn about upcoming services,<br/>call the church office (<a href="tel:+201-652-2350">201-652-2350</a>).
 										</p>
-										<p>
-										We will share in multiple online worship offerings over the coming weeks, including daily online services in Holy Week. Check back for more information about Easter Sunday. We will celebrate Christ's Resurrection - online - together. Nothing can stop that.
-										</p>
-										<p>
-										We will likely only have essential staff on-site for pockets of time during these coming weeks, and only as needed. You can reach clergy and staff by email (ideal) or by voicemail. Simply call <a href="tel:+201-652-2350">201-652-2350</a>  and follow the prompts to reach a voice mailbox.
-										</p>
-										<h3>
-										We Need Your Support
-										</h3>
-										<a href="documents/Stewardship continuity-4.pdf" target="_blank" class="btn btn-primary" >Letter from the Wardens</br>& Stewardship Chair</a>
+
+										<div id="annual-meeting-headline">
+											<br>
+											<br>
+											<img src="images/Stewardship/rooted_in_abundance_2023.png" alt="Church Annual Campaign" title="Church Annual Campaign" class="img-fluid">
+											<br>
+											<br>
+												<h3>
+												2024 Stewardship Campaign
+												<br>
+												"Rooted in Abundance"
+												</h3>
+												<div class="row">
+													<div class="col">
+														<a href="#stewardship-campaign" class="btn btn-outline-primary" >View Details</a>
+													</div>
+												</div>
+										</div>
+										
 									</div>
 								</div>
 
 								<div class="col-md-6" align="center">
 									<br>
-									<h2 class="invitation">Worship and News on our Youtube Channel</h2>
+									<img src="images/Church Franklin ave.jpeg" alt="Church Exterior Altar" title="Church Exterior Altar" class="img-fluid">
+									<h2 class="invitation">Worship and News on our YouTube Channel</h2>
 									<p>
 									View, subscribe, and check back often for new posts, including worship services, stories from Miss Kristen, music, and more.</p>
-									<a href="https://www.youtube.com/channel/UCmyopb5WsiVuacAh8jj1_Ug?view_as=subscriber" target="_blank" class="btn btn-primary" >Christ Church on Youtube</a>
+									<a href="https://www.youtube.com/@lizesqe/streams" target="_blank" class="btn btn-primary" >Christ Church on YouTube</a>
 									</br></br>
 									<h2 class="invitation">Christ Church Online</h2>
 									<iframe width="100%" height="300px" src="https://www.youtube.com/embed/videoseries?list=PLgFu021IRVKOsKPypmNyUSYD8PEfritZB" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Christ Church Ridgewood Online Service" alt="Christ Church Ridgewood Online Service, video"></iframe>
@@ -150,124 +164,124 @@
 					</div>
 				</div>
 			</div>
-			<!-- end COVID19 Announcement -->
+			<!-- end above-fold -->
 
 
-	<!-- Ash Wednesday and Lent -->
-	<!-- <div class="row">
-		<div class="col-md-12">
-			<div class="card border">
-				<div class="card-header" align="center">
-					<h3 class="card-title" >The Season of Lent at Christ Church</h3>
-				</div>
-				<div class="card-body" >
-					<div class="row" >
-						<div class="col-md-6">
-							<h3 >Ash Wednesday, February 26</h3>
-						<table class="table table-striped">
-							<tbody>
-							<tr>
-								<th scope="row">7:30AM</th>
-								<td>Eucharist with Ashes</td>
-							</tr>
-							<tr>
-								<th scope="row">8:30-10:00AM</th>
-								<td>Drive-Through Ashes</a></td>
-							</tr>
-							<tr>
-								<th scope="row">12:00PM</th>
-								<td>Eucharist with Ashes</a></td>
-							</tr>
-							<tr>
-								<th scope="row">2:30-4:00PM</th>
-								<td>Drive-Through Ashes</a></td>
-							</tr>
-							<tr>
-								<th scope="row">7:00PM</th>
-								<td>Eucharist with Ashes (with choir)</a></td>
-							</tr>
-							</tbody>
-						</table>
-							<hr>
-							<h5>Lenten Breakfast</h5>
-							<p>Sundays in Lent, March 1 - April 5, 8:45 - 10:15AM in the Great Hall, $5/adult to cover cost, <br><strong>Children eat FREE!</strong></p>
-
-						</div>
-						<div class="col-md-6" align="center">
-							<br><br>
-							<h3>"Remember that you are dust, and to dust you will return."</h3>
-							<br><br><br><br><br>
-							<h3>Drive-Through-Ashes at Christ Church featured on CBS News</h3>
-							<h5>(at the 1:22 minute mark)</h5>
-							<iframe scrolling="no" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen src="http://w3.cdn.anvato.net/player/prod/v3/anvload.html?key=eyJtIjoiY2JzIiwidiI6IjM4MTA1MDYiLCJhbnZhY2siOiJhbnZhdG9fY2JzbG9jYWxfYXBwX3dlYl9wcm9kXzU0N2YzZTQ5MjQxZWYwZTVkMzBjNzliMmVmYmNhNWQ5MmM2OThmNjciLCJwbHVnaW5zIjp7ImNvbXNjb3JlIjp7ImNsaWVudElkIjoiMzAwMDAyMyIsImMzIjoibmV3eW9yay5jYnNsb2NhbC5jb20ifSwiZGZwIjp7ImNsaWVudFNpZGUiOnsiYWRUYWdVcmwiOiJodHRwOi8vcHViYWRzLmcuZG91YmxlY2xpY2submV0L2dhbXBhZC9hZHM%2Fc3o9MngyJml1PS80MTI4L0NCUy5OWSZjaXVfc3pzJmltcGw9cyZnZGZwX3JlcT0xJmVudj12cCZvdXRwdXQ9eG1sX3Zhc3QyJnVudmlld2VkX3Bvc2l0aW9uX3N0YXJ0PTEmdXJsPVtyZWZlcnJlcl91cmxdJmRlc2NyaXB0aW9uX3VybD1bZGVzY3JpcHRpb25fdXJsXSZjb3JyZWxhdG9yPVt0aW1lc3RhbXBdIiwia2V5VmFsdWVzIjp7ImNhdGVnb3JpZXMiOiJbW0NBVEVHT1JJRVNdXSIsInByb2dyYW0iOiJbW1BST0dSQU1fTkFNRV1dIiwic2l0ZVNlY3Rpb24iOiJ2aWRlby1leHBlcmllbmNlIn19fSwicmVhbFRpbWVBbmFseXRpY3MiOnRydWUsImhlYXJ0YmVhdEJldGEiOnsiYWNjb3VudCI6ImNic2xvY2FsLWdsb2JhbC11bmlmaWVkIiwicHVibGlzaGVySWQiOiJjYnNsb2NhbCIsImpvYklkIjoic2NfdmEiLCJtYXJrZXRpbmdDbG91ZElkIjoiODIzQkEwMzM1NTY3NDk3RjdGMDAwMTAxQEFkb2JlT3JnIiwidHJhY2tpbmdTZXJ2ZXIiOiJjYnNkaWdpdGFsbWVkaWEuaGIub210cmRjLm5ldCIsImN1c3RvbVRyYWNraW5nU2VydmVyIjoiY2JzZGlnaXRhbG1lZGlhLmQxLnNjLm9tdHJkYy5uZXQiLCJjaGFwdGVyVHJhY2tpbmciOmZhbHNlLCJ2ZXJzaW9uIjoiMS41IiwicGFyZW50UGFnZVVSTCI6Imh0dHA6Ly9uZXd5b3JrLmNic2xvY2FsLmNvbS92aWRlby8zODEwNTA2LWRvdWJsZS15b3VyLWhvbGlkYXktcGxlYXN1cmUvIiwicGFyZW50VGl0bGUiOiJEb3VibGUgWW91ciBIb2xpZGF5IFBsZWFzdXJlIMKrIENCUyBOZXcgWW9yayIsInBJbnN0YW5jZSI6InAwIiwicHJvZmlsZSI6ImNic2xvY2FsIn19LCJodG1sNSI6dHJ1ZX0%3D"  width ="auto" title="Christ Church featured on CBS News" alt="CBS News, Christ Episcopal Church, Ash Wednesday, video"></iframe>
-
-						</div>
-					</div>
-				</div>	
-			</div>
-		</div>
-	</div> -->
-	
-		<div class="row">
-			<!-- Worship schedule -->
-			<div class="col-md-12">
+		<div class="row" >
+			<div class="col-md-12" id="worship-schedule">
 				<div class="card">
 					<div class="card-header">
 						<!-- <h4> Worship with us...</h4> -->
-						<h3>NO SERVICES UNTIL APRIL 5</h3>
+						<h3>Worship Schedule</h3>
+						<h4>
+							Sunday services are live and live-streamed on our Zoom and YouTube Channels
+						</h4>
 					</div>
 					<div class="card-body">
 						<div class="row">
+		
 							<div class="col-md-6">
-								<h3>Each Sunday</h3>
 
+							<h3>Annual Meeting: February 24th</h3>
 								<table class="table table-striped ">
 									<tr>
-										<td align="right" ><strong>8:00 AM</strong></td>
-										<td>Holy Eucharist 
-										<a href="documents/bulletin.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm  btn-outline-primary ">Program</a>
+										<td align="right" style="width: 20%"><strong>10:30 AM</strong></td>
+										<td>Holy Eucharist COMBINED SERVICE</td>
+									</tr>
+									<tr>
+										<td align="right"><strong>10:30 AM</strong></td>
+										<td>Sunday School
+											<br/>
+											This would be a great time to check out Sunday School for when your children are ready to transition from JOY to Sunday School!
 										</td>
 									</tr>
 									<tr>
-										<td align="right"><strong>8:30 AM</strong></td>
-										<td>Choir Practice</td>
+										<td align="right"><strong>11:30 AM</strong></td>
+										<td>Annual Meeting in the Guild's Hall</td>
+									</tr>
+									<tr>
+										<td align="right"></td>
+										<td>
+											Meeting topics include:
+											<ul>
+												<li>Presenting the 2024 Budget plus 2024 results through the first three quarters of the current year.
+												</li>
+												<li>Additional reports</li>
+												<li>Elections</li>
+											</ul>
+										</td>
+									</tr>
+									<tr>
+										<td align="right"><strong>11:30 AM</strong></td>
+										<td>At the conclusion of worship, children and youth will go back downstairs for lunch together, games, a movie, and a craft while parents and parishioners attend the annual meeting in the Great Hall.</td>
+									</tr>									
+									<tr>
+										<td align="right"></td>
+										<td align="center">No 8:00 service, Adult Forum, or JOY! children's service today</td>
+									</tr>
+								</table>
+
+								<!-- <h3>Sunday Worship</h3>
+
+								<table class="table table-striped "	>
+									<tr>
+										<td align="right" ><strong>8:00 AM</strong></td>
+										<td>Holy Eucharist: In-Person and Live-streamed via Zoom/YouTube
+										</td>
 									</tr>
 									<tr>
 										<td align="right"><strong>9:00 AM</strong></td>
-										<td>Adult Forum in the Guild’s Room</td>
-									</tr>
-									<tr>
-										<td align="right"><strong>9:15 AM</strong></td>
-										<td>JOY! Service: 25 min. Eucharist for younger children </td>
-									</tr>
-									<tr>
-										<td align="right" nowrap><strong>10:00 AM</strong></td>
-										<td>Holy Eucharist with music  
-										<a href="documents/bulletin.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-sm btn-outline-primary "> Program</a>
+										<td>Adult Forum, via Zoom
 										</td>
 									</tr>
 									<tr>
-										<td colspan="2"><div align="center"><strong>Nursery Care: 9:30am-11:30am</strong></div></td>
+										<td align="right"><strong>9:30 AM</strong></td>
+										<td>JOY! Children's Service, In-Person and Live-streamed via Zoom/YouTube 
+									</td>
+									</tr>								
+									<tr>
+										<td align="right" nowrap><strong>10:30 AM</strong></td>
+										<td>Holy Eucharist: In-Person and Live-streamed via Zoom/YouTube 
+										</td>
 									</tr>
-								</table>
+									<tr>
+										<td align="right" nowrap><strong>10:30 AM</strong></td>
+										<td> Sunday School (children join parents in time for Communion)</td>							
+									</tr>
+									<tr>
+										<td colspan="2"><div align="center">
+										Join our e-news list for weekly updates!
+										</div></td>
+									</tr>
+								</table> -->
 							</div>
 
 							<div class="col-md-6">
-
+								<h3>Weekday Offerings</h3>
 								<div class="row">
-									<div class="col"></div>
-									<div class="col" style="padding-top: 20px;"><h4>Wednesday</h4><strong>7:00 AM</strong><br>Holy Eucharist (Mass)</div>
-									<div class="col"></div>
+									<div class="col" style="padding-top: 20px;"><strong>Monday 7:00 PM</strong><br>Bible Study, via Zoom</div>
 								</div>
-								<br>
+								<hr/>
 								<div class="row">
+									<div class="col" ><strong>Tuesday 6:00 PM</strong><br>Evening Prayer, via YouTube</div>
+								</div>
+								<hr/>
+								<div class="row">
+									<div class="col" ><strong>Wednesday 8:00 AM</strong><br>Morning Prayer, via Zoom, links emailed weekly</div>
+								</div>
+								<hr/>
+								<div class="row">
+									<div class="col" ><strong>Thursday</strong><br>Book Group, via Zoom. On hiatus.</div>
+								</div>
+
+								<!-- <div class="row">
 									<div class="col" align="center">
 										<a href="documents/insert.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Announcements</a>
 									</div>
 									<div class="col" align="center">
 										<a href="documents/Youth-Registration-Form-2019.pdf?k=<?php echo $thekeys; ?>" target="_blank" class="btn btn-outline-primary">Youth Programs Registration Form</a>
 									</div>
-								</div>
+								</div> -->
 							</div>
 						</div>
 					</div>
@@ -275,45 +289,66 @@
 			</div>
 		</div>
 		
+		<!-- Stewardship 2023 -->
+		<div class="row">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-body" id="stewardship-campaign">
+						<div class="row" >
+							<div class="col-md-6" align="center">
+								<img src="images/Stewardship/rooted_in_abundance_2023.png" alt="Church Annual Campaign" title="Church Annual Campaign" class="img-fluid">
+
+								<br>
+
+								<a href="documents/Stewardship/2024/Stewardship letter with pledge card-WEBSITE.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Stewardship Chairs</a>
+								
+								<br>
+
+								<a href="documents/Stewardship/2024/Proportional Giving info and chart.pdf" target="_blank" class="btn btn-outline-primary" >Proportional Giving</a>
+
+							</div>
+							<div class="col-md-6" align="center">
+								<h4>Annual Giving Drive for 2024:<br>
+									By giving faithfully back to God through our parish community, we are always <br>
+									"Rooted In Abundance"</h4>
+								<p>
+									We are excited to announce our 2024 Annual Campaign! Join us on  December 3rd for our Ingathering, when we bring our pledges to the altar together. Pledge card and online pledge form are found below.
+								</p>
+									<!-- <p>
+								We are excited to announce our 2022 Annual Campaign! Please download the Pledge form (with time and talent included) and return in-person to one of our three Sunday services or by mail to Christ Church Attn: Stewardship, 105 Cottage Place, Ridgewood, NJ 07450. You can also fill in the packet easily right now through this secure link to our <a href="https://docs.google.com/forms/d/e/1FAIpQLSeeLranqK71AW1nbZDfTzF9xfRDMQRtbyZjj9I_otvoHO0hIQ/viewform?usp=sf_link" target="_blank" >Google Form</a>. Our goal is to receive a response from all parishioners.				
+								</p> -->
+								<p>
+								Thank you for giving back to God through Christ Church!
+								</p>
+
+								<!-- <p>Please feel free to contact our Stewardship Co-Chair, <a href="mailto:deanna.najork@gmail.com"> Deanna Najork</a>, with any questions.  Thank you again!</p> -->
+							</div>
+						</div>
+					</div>
+					<div class="card-footer" align="center">
+						<a href="documents/Stewardship/2024/pledge-card-2023.pdf" target="_blank" class="btn btn-outline-primary" >Pledge Card</a>
+						<a href="https://docs.google.com/forms/d/e/1FAIpQLSevMKAs5CFVakoZPru68F6yanzNvz2dbuGPSsMmm1j94Rf9Pw/viewform" target="_blank" class="btn btn-primary" >Pledge Online Quickly & Securely</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+
 		<!-- upcoming events and sermon audio cards -->
 		<div class="row">
-			<div class="col-md-12" align="center">
-				<h2 style="color:#113056">Upcoming Events</h2>
-			</div>
 
 			<!-- column left -->
 			<div class="col-md-6">
 
-		<!-- Musical: Prince of Egypt -->
-		<div class="card">
-			<div class="card-body" align="center">
-				<h2 class="cardtop">Musical: The Prince of Egypt</h2>
-				<img src="images/princeofegypt.jpg" alt="The Prince of Egypt" title="The Prince of Egypt" class="img-fluid">
-				<p></p>
-				<br>
-				<b>Rehearsals: Every Sunday January-February</b>
-				<br>
-				10:40AM (directly after Sunday School)
-				<br>
-				<b>Show:</b> Mar. 22nd, 10:00AM (during the 10:00 Service)
-				<br><br>
-			</div>
-			<!-- Footer buttons -->
-			<div align="center" class="card-footer">
-				<a href="musical.php"><button type="button" class="btn btn-outline-primary">Lyrics and Music</button></a>	
-				<a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
-			</div>
-		</div>
-
 			<!-- Weekly Music Article -->
-				<div class="card">
+				<!-- <div class="card">
 					<div class="card-body" align="center">
 						<h2 class="cardtop">Music & Liturgy Notes</h2>
 						<h3>March 8</h3>
 						<h3>Second Sunday in Lent</h3>
 						<img src="images/organist-choir1.jpg" alt="Organist and Choir" title="Organist and Choir" class="img-fluid">
 						<p>
-						In John’s Gospel, appointed for today, we read of Jesus’ well known discourse with Nicodemus including the words “God so loved the world that he gave his only Son…” Today, Christ Church Choir will sing a setting of these words by Bob Chilcott.
+						In John's Gospel, appointed for today, we read of Jesus' well known discourse with Nicodemus including the words “God so loved the world that he gave his only Son…” Today, Christ Church Choir will sing a setting of these words by Bob Chilcott.
 						</p>
  						<p>
 						Chilcott, has been described as “a contemporary hero of British Choral Music”, and has become one of the most widely performed composers and arrangers of choral music in the world. He has a large catalogue of works published by Oxford University Press which reflects his broad range in musical styles and his skill to writing music that is both singable and communicative.
@@ -322,14 +357,29 @@
 						He has been involved in choral music most of his life beginning as a chorister and then a choral scholar in the choir of King's College, Cambridge, and between 1985 and 1997 was a member of the British vocal group The King's Singers for whom he made a number of popular arrangements of well-known songs from all genres. He has been a full time composer since 1997. His very relaxed and accessible style has earned him the admiration of music listeners, not just in Britain and the US, but throughout the world.			
 						</p>
 					</div>
-				</div>
+				</div> -->
 
-				<!-- Jubilation Choir -->
+			<!-- Adult Choir -->
+			<div class="card">
+				<div class="card-body" align="center">
+					<h2 class="cardtop">Adult Choir</h2>
+					<img src="images/choir_2023.jpeg" alt="Children's Service at Christ Church" title="Children's Service at Christ Church" class="img-fluid">
+					<p>Do you love to sing? Please consider joining our choir and participating in a vital ministry. The choir musically leads our services each Sunday at 10:30AM. The choir's repertoire includes great masterpieces from our Anglican tradition as well as beloved classics along with spirituals and contemporary choral works. We have openings for all voice parts. The choir is currently alternating between in-person rehearsal and singing in Church one week, and remote rehearsal with a soloist in church on the other week.</p>
+				</div>
+				<!-- Footer buttons -->
+				<!-- <div align="center" class="card-footer">
+					<a href="mailto:organist@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact William Trafka</button></a>
+				</div> -->
+			</div>
+
+				<!-- Children's Choir -->
 				<div class="card">
 					<div class="card-body" align="center">
-						<h2 class="cardtop">Jubilation Choir</h2>
-						<img src="images/jubilationchoir.jpg" alt="Jubilation Choir" title="Jubilation Choir" class="img-fluid">
-						<p>The Jubilation Choir is open to boys and girls 5th grade through high school. The choir performs on Youth Sundays and special services during the program year. The choir rehearses after the 10:00 am service from 11:15 to noon in the choir room. Schola Cantorum also invites those interested to learn to play our set of hand chimes and other instruments while developing musicianship skills.</p>
+						<h2 class="cardtop">Choristers (Children's Choir)</h2>
+						<img src="images/Ministries/choristers-kim.jpg" alt="Children's Choir" title="Children's Choir" class="img-fluid">
+						<p></p>The Choristers (Children's Choir) is open to boys and girls 5th grade through high school. The choir performs on Youth Sundays and special services during the program year. 
+						<br/>
+						Coordinator: Kim Korzellius</p>
 					</div>
 					<!-- Footer buttons -->
 					<!-- <div align="center" class="card-footer">
@@ -343,74 +393,40 @@
 			<!-- column right -->
 			<div class="col-md-6">
 
-			<!-- Pastor Jill announcement -->
-				<div class="card">
-					<div class="card-body" align="center">
-						<h2 class="cardtop">Pastor Jill Williams</br>joins Christ Church!</h2>
-						<img src="images/Jill_Williams and Fr. Tom 1.jpg" alt="Pastor Jill and Fr. Tom" title="Pastor Jill and Fr. Tom" class="img-fluid">
-						<p>
-						On behalf of the Wardens, Vestry and Christ Church family, Fr. Tom is happy to announce that Christ Church has found our new Curate, and her name is Jill Williams! She is beginning her ministry with Christ Church formally on February 1, 2020. We are delighted to formally welcome Jill and her wife, Paula!
-						</p>
-					</div>
-				</div>
-
-			<!-- Bach Tour -->
-			<div class="card">
-					<div class="card-body" align="center">
-						<h2 class="cardtop">In the Footsteps of Bach:
-						<br>
-						Germany Tour 2020</h2>
-                        <div class="col"><img src="images/Bach_Tour_2020/bach_banner.jpg" class="img-fluid"></div>
-					</div>
-					<div align="center" class="card-footer">
-						<a href="documents/Bach_tour_2020/Final Bach Tour 2020 .pdf" target="_blank" class="btn btn-primary">
-							Registration Form & Itinerary
-						</a>
-						<a href="bachtour.php" class="btn btn-outline-primary">
-							More Information
-						</a>
-					</div>
-				</div>
-
 				<!-- children's service -->
 				<div class="card">
 					<div class="card-body" align="center">
-						<h2 class="cardtop">Children's Service</h2>
-						<img src="images/child-stained-glass.JPG" alt="Children's Service at Christ Church" title="Children's Service at Christ Church" class="img-fluid">
-						<p>JOY worship runs all year long! Sunday service and eucharist perfect for children ages infant-5yrs. Come be part of the fun from 9:15-9:45AM.</p>
+						<h2 class="cardtop">JOY Children's Service</h2>
+						<img src="images/may4/joy_gathering.jpeg" alt="Children's Service at Christ Church" title="Children's Service at Christ Church" class="img-fluid">
+						<p>JOY worship runs all year long! Sunday service and eucharist perfect for children ages infant-5yrs. Come be part of the fun from 9:30-10:00AM, followed by coffee/snacks.</p>
 					</div>
 				</div>
-
-			<!-- Adult Choir -->
-			<div class="card">
-				<div class="card-body" align="center">
-					<h2 class="cardtop">Adult Choir</h2>
-					<img src="images/choir2019-horizontal.jpg" alt="Children's Service at Christ Church" title="Children's Service at Christ Church" class="img-fluid">
-					<p>Do you love to sing? Please consider joining our choir and participating in a vital ministry. The choir musically leads our services each Sunday at 10 am. The choir’s repertoire includes great masterpieces from our Anglican tradition as well as beloved classics along with spirituals and contemporary choral works. We have openings for all voice parts. </p>
-				</div>
-				<!-- Footer buttons -->
-				<!-- <div align="center" class="card-footer">
-					<a href="mailto:organist@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact William Trafka</button></a>
-				</div> -->
-			</div>
 
 			<!-- Youth African Drumming -->
 			<div class="card">
 				<div class="card-body" align="center">
-					<h2 class="cardtop">Youth African Drumming</h2>
-					<img src="images/africandrum.png" alt="Youth African Drum Ensemble" title="Youth African Drum Ensemble" class="img-fluid">
-					<p>Youth of all ages are welcome to join the African Drumming Troupe. The Youth African Drumming Troupe performs on the first Sunday of every month. This group is led by Marlene Whittemore Pillow directly following Sunday School on the first Sunday of the month, in one of the lower level classrooms. Bring your drum if you have one. All are welcome!</p>
+					<h2 class="cardtop">Youth Group</h2>
+					<img src="images/Ministries/youth-group/christmasparty.jpg" alt="Youth Group" title="Youth Group" class="img-fluid">
+					<p>Youth group is fun, social fellowship for youth in grades 7-12. Social events are planned once or twice a month with an occasional service project or outreach opportunity thrown in.</p>
 				</div>
-				<!-- Footer buttons -->
-				<!-- <div align="center" class="card-footer">
-					<a href="mailto:mwhittemore@christchurchridgewood.org"><button type="button" class="btn btn-outline-primary">Contact Marlene Whittemore Pillow</button></a>
-				</div> -->
 			</div>
 
 				<!-- SoundCloud -->
 				<!-- <iframe width="100%" height="350" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/136812277&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe> -->
 			</div>
 			<br><br>
+		</div>
+
+		<!-- <div class="row">
+			<div class="col-12" align="center">
+				<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FChristEpiscopalChurchRidgewood%2Fvideos%2F1620614938420603%2F&show_text=false&width=560&t=0" height="600px" width="100%" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+			</div>
+		</div> -->
+
+		<div class="row">
+			<div class="col-12" align="center">
+				<img src="images/may4/foundation_congregations.jpeg" alt="" class="img-fluid">
+			</div>
 		</div>
 
 		<hr>

@@ -25,13 +25,13 @@
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105226374-6"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X0BC8NT7TZ"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-105226374-6');
+  gtag('config', 'G-X0BC8NT7TZ');
 </script>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -64,11 +64,11 @@
                 <p>A quiet, spoken liturgy.  There's no music and usually the service is under an hour.  It's attended by all ages although it mostly appeals to individuals and families without children.  We usually use the Rite II Book of Common Prayer liturgy.</p>
             </div>
             <div class="col-md-4 col-sm-6">
-                <h4>JOY! Mass<br>9:15 AM<br><span class="text-muted">Eucharist for children</span> </h4>
+                <h4>JOY! Children's Service<br>9:30 AM<br><span class="text-muted">Service for young children</span> </h4>
                 <p>Designed for families with young children, infant to age 4-5 (although some older children do attend).  The service incorporates music, movement, and Bible stories with a children's sermon.  The children learn how to pray, share, and receive Communion.</p>
             </div>
             <div class="col-md-4 col-sm-6">
-                <h4>Holy Eucharist<br>10:00 AM<br><span class="text-muted">Mass with music</span></h4>
+                <h4>Holy Eucharist<br>10:30 AM<br><span class="text-muted">Mass with music</span></h4>
                 <p>Our principle weekend worship.  Attended by all ages, families and individuals, the service incorporates music offered by the organist, choir, and occasional soloist.  We use the Rite II Book of Common Prayer liturgy.</p>
             </div>
         </div>

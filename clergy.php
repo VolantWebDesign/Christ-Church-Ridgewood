@@ -23,13 +23,13 @@
 	<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
 	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105226374-6"></script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-X0BC8NT7TZ"></script>
 	<script>
 	window.dataLayer = window.dataLayer || [];
 	function gtag(){dataLayer.push(arguments);}
 	gtag('js', new Date());
 
-	gtag('config', 'UA-105226374-6');
+	gtag('config', 'G-X0BC8NT7TZ');
 	</script>
 
 	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -94,7 +94,7 @@
 				<div class="row">
 					<div class="col-md-2 col-sm-2 col-xs-2">
 						<div align="center">
-							<img src="images/clergy/Tom.jpg" class="img-fluid rounded-circle"/>
+							<img src="images/clergy/Tom.jpg?k=<?php echo $thekeys; ?>" class="img-fluid rounded-circle"/>
 						</div>
 					</div>
 					<div class="col-md-10">
@@ -158,33 +158,18 @@
 		<hr>
 
 		<div class="row">
-			<div class="col-md-6">
+			<div class="col">
 				<div class="row">
-					<div class="col-md-4 col-sm-4 col-xs-4">
-						<div align="center">
-							<img src="images/clergy/marlene.jpg" class="img-fluid rounded-circle"/>
-						</div>
-					</div>
-					<div class="col-md-8">
-						<h4>Marlene Whittemore Pillow<br><small>Director of Youth Music Ministries</small></h4>
-						<p>Marlene is a professional soprano and choral conductor, holding a Bachelors degree from the Eastman School of Music and a Masters degree from the New England Conservatory of Music.</p>
-						<p>Marlene shares her talents by providing music for the JOY! Family Service, as well as conducting the Jubilation Youth Choir, the Handchime Choir, and the African Drumming Ensemble. She produces a yearly musical, creates dramatic presentations of scripture, and encourages youth to perform on Sundays. Additionally, she directs the Vacation Bible School Musical every summer.</p>
-						<p>Marlene is a highly respected music teacher in the Ridgewood School System, and she has a private studio for voice and piano lessons. Marlene and her two children enjoy movies, books and music.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-6">
-				<div class="row">
-					<div class="col-md-4 col-sm-4 col-xs-4">
+					<div class="col-md-2 col-sm-2 col-xs-2">
 						<div align="center">
 							<img src="images/clergy/kristen.jpg" class="img-fluid rounded-circle"/>
 						</div>
 					</div>
-					<div class="col-md-8">
+					<div class="col-md-10">
 						<h4>Kristen Lee<br><small>Director of Children, Youth & Family Ministries</small></h4>
-						<p>Mother of 3 gifted and athletic college students and wife of Gerry, Kristen loves sharing her joy and devotion to God and family with the parish. Kristen holds a degree in early-childhood education.</p>
+						<p>Mother of 3 gifted and athletic young adults and wife of Gerry, Kristen loves sharing her joy and devotion to God and family with the parish. Kristen holds a degree in early-childhood education.</p>
 						<p>Her many talents have been instrumental in creating sacred space for our children and youth to grow in their faith.</p>
-						<p>Kristen coordinates the Nursery, Sunday school, J2A, Youth group, Confirmation class, JOY Worship, Christmas Pageant, Easter Egg hunt, Summer Sunday school and assists clergy in a number of other areas related to families with children. Kristen also assists Marlene with our annual musical and musical theater VBS.</p>
+						<p>Kristen coordinates the Nursery, Sunday school, J2A, Youth group, Confirmation class, JOY Worship, Christmas Pageant, Easter Egg hunt, Summer Sunday school and assists clergy in a number of other areas related to families with children. Kristen also works collectively with Kim with all aspects of music and theater at Christ Church.</p>
 					</div>
 				</div>
 			</div>
@@ -201,7 +186,7 @@
 						</div>
 					</div>
 					<div class="col-md-8">
-						<h4>Patty Bradley<br><small>Communications Director</small></h4>
+						<h4><small>Communications Director</small></h4>
 					</div>
 				</div>
 			</div>
@@ -213,8 +198,7 @@
 							</div>
 						</div>
 						<div class="col-md-8">
-							<h4>Louise Rode<br><small>Parish Administrator</small></h4>
-							<p>Louise worked as an administrator/office manager for many years in New York City and decided it was time to come back home. She lives with her husband in Closter, NJ.</p>
+							<h4>Roger Padavattan<br/><small>Parish Administrator</small></h4>
 						</div>
 					</div>			
 
@@ -228,7 +212,7 @@
 				<div class="row">
 					<div class="col-md-4 col-sm-4 col-xs-4">
 						<div align="center">
-							<img src="images/vestry/missing.jpg" class="img-fluid rounded-circle"/>
+							<img src="images/vestry/colvin.jpg" class="img-fluid rounded-circle"/>
 						</div>
 					</div>
 					<div class="col-md-8">
@@ -253,43 +237,33 @@
 		<hr>
 
 		<div class="row">
-			<div class="col-md-6">
-				<div class="row">
-				<div class="col-md-4 col-sm-4 col-xs-4">
-						<div align="center">
-							<img src="images/clergy/marge.jpg" class="img-fluid rounded-circle"/>
-						</div>
-					</div>
-					<div class="col-md-8">
-						<h4>Marge Singer<br><small>Emeritus Finance Secretary</small></h4>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-6">
-
-			</div>
-		</div>
-
-		<hr>
-
-		<div class="row">
 			<h1>The Vestry<br><small><span class="text-muted">Elected lay governing board</span></small></h1>
 			<p>The Vestry of Christ Episcopal Church in Ridgewood, NJ is the legal, canonical (church law), and fiduciary "board of trustees" for the church.</p>
 
 			<p>The Rector is chairman of the Vestry. Wardens, elected for up to three consecutive two-year terms, are the lay chairs of the Vestry, and have canonical authority for the parish when the rectorship is vacant. Members are elected for up to two consecutive three-year terms. Governed by national and diocesan canon law, New Jersey State Religious Corporation law, and our own by-laws, the Vestry leads the parish in setting policies and goals, maintaining the buildings, and raising financial support for the mission of the parish.</p>
 
-			<p>For questions about the Vestry or to contact individual members, email the Parish Administrator, Louise Rode, or call <a href="tel:+12016522350,13">(201) 652-2350 x13.</a></p>
+			<p>For questions about the Vestry or to contact individual members, call the parish administrator at <a href="tel:+12016522350,13">(201) 652-2350 x13.</a></p>
 		</div>
 		<h4>The members of the vestry are:</h4>
 		<div class="row">
-			<div class="col-md-2 col-sm-4 col-xs-4">
+			<!-- <div class="col-md-2 col-sm-4 col-xs-4">
 				<div align="center">
 					<hr><img src="images/vestry/lucy_d.jpg" class="img-fluid rounded-circle"/><br>Lucy DiMaulo<br>Warden<br>
+				</div>
+			</div> -->
+			<!-- <div class="col-md-2 col-sm-4 col-xs-6">
+				<div align="center">
+					<hr><img src="images/vestry/nancy_j.jpg" class="img-fluid rounded-circle"/><br>Nancy Jacoby<br>Warden<br>
+				</div>
+			</div> -->
+			<div class="col-md-2 col-sm-4 col-xs-6">
+				<div align="center">
+					<hr><img src="images/vestry/FrankP.jpg" class="img-fluid rounded-circle"/><br>Frank Piraino<br>Warden<br>
 				</div>
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
-					<hr><img src="images/vestry/tom_m.jpg" class="img-fluid rounded-circle"/><br>Tom Martin<br>Warden<br>
+					<hr><img src="images/vestry/LauraD.jpg" class="img-fluid rounded-circle"/><br>Laura D'Alessio<br>Warden<br>
 				</div>
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
@@ -299,37 +273,17 @@
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
-					<hr><img src="images/vestry/jim_m.jpg" class="img-fluid rounded-circle"/><br>Jim Morgan<br>Finance Chair<br>
-				</div>
-			</div>
-			<div class="col-md-2 col-sm-4 col-xs-4">
-				<div align="center">
-					<hr><img src="images/vestry/ken_c.jpg" class="img-fluid rounded-circle"/><br>Kenny Cook<br>
+					<hr><img src="images/vestry/robert.jpg" class="img-fluid rounded-circle"/><br>Robert Howells<br>Finance Chair<br>
 				</div>
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
-					<hr><img src="images/vestry/troy_e.jpg" class="img-fluid rounded-circle"/><br>Troy Eggers<br>
+					<hr><img src="images/vestry/katie.jpg" class="img-fluid rounded-circle"/><br>Katie Benvenuto<br>Stewardship Chair<br>
 				</div>
 			</div>
 		</div>
-		<div class="row">
-			<div class="col-md-2 col-sm-4 col-xs-6">
-				<div align="center">
-					<hr><img src="images/vestry/julie_h2.jpg" class="img-fluid rounded-circle"/><br>Julie Hamon<br>
-				</div>
-			</div>
-			<div class="col-md-2 col-sm-4 col-xs-6">
-				<div align="center">
-					<hr><img src="images/vestry/nancy_j.jpg" class="img-fluid rounded-circle"/><br>Nancy Jacoby<br>
-				</div>
-			</div>
-			<div class="col-md-2 col-sm-4 col-xs-6">
-				<div align="center">
-					<hr><img src="images/vestry/jamel_s.jpg" class="img-fluid rounded-circle"/><br>Jamel Shimpfky<br>
-				</div>
-			</div>
 
+		<div class="row">
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
 					<hr><img src="images/vestry/matt_b.jpg" class="img-fluid rounded-circle"/><br>Matt Bodino<br>
@@ -337,32 +291,41 @@
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
-					<hr><img src="images/vestry/JulieB.jpg" class="img-fluid rounded-circle"/><br>Julie Berry<br>
+					<hr><img src="images/vestry/Jared.jpg" class="img-fluid rounded-circle"/><br>Jared Auriemma<br>
 				</div>
 			</div>
+
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
-					<hr><img src="images/vestry/LauraD.jpg" class="img-fluid rounded-circle"/><br>Laura D'Alessio<br>
-				</div>
-			</div>
-			<div class="col-md-2 col-sm-4 col-xs-6">
-				<div align="center">
-					<hr><img src="images/vestry/BarbaraH.jpg" class="img-fluid rounded-circle"/><br>Barbara Hemink<br>
-				</div>
-			</div>
-			<div class="col-md-2 col-sm-4 col-xs-6">
-				<div align="center">
-					<hr><img src="images/vestry/FrankP.jpg" class="img-fluid rounded-circle"/><br>Frank Piraino<br>
-				</div>
-			</div>
-			<div class="col-md-2 col-sm-4 col-xs-6">
-				<div align="center">
-					<hr><img src="images/vestry/LaraZ.png" class="img-fluid rounded-circle"/><br>Lara Ziccardi<br>
+					<hr><img src="images/vestry/elaina.jpeg" class="img-fluid rounded-circle"/><br>Elaina Richardi<br>
 				</div>
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
 					<hr><img src="images/vestry/lyle_h.jpg" class="img-fluid rounded-circle"/><br>Lyle Hatch<br>
+				</div>
+			</div>
+			<div class="col-md-2 col-sm-4 col-xs-6">
+				<div align="center">
+					<hr><img src="images/vestry/barbara.jpg" class="img-fluid rounded-circle"/><br>Barbara Monahan<br>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+		<div class="col-md-2 col-sm-4 col-xs-6">
+				<div align="center">
+					<hr><img src="images/vestry/albert.jpg" class="img-fluid rounded-circle"/><br>Albert Pucciarelli<br>
+				</div>
+			</div>
+			<div class="col-md-2 col-sm-4 col-xs-6">
+				<div align="center">
+					<hr><img src="images/vestry/freddie.jpg" class="img-fluid rounded-circle"/><br>Freddie LaFemina<br>
+				</div>
+			</div>
+			<div class="col-md-2 col-sm-4 col-xs-6">
+				<div align="center">
+					<hr><img src="images/vestry/tad.png" class="img-fluid rounded-circle"/><br>Tad Ahlersmeyer<br>
 				</div>
 			</div>
 		</div>

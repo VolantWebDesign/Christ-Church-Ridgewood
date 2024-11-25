@@ -25,13 +25,13 @@
   <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
   <!-- Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-105226374-6"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-X0BC8NT7TZ"></script>
   <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-105226374-6');
+  gtag('config', 'G-X0BC8NT7TZ');
   </script>
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -70,21 +70,27 @@
                 </ol>
                 <div class="carousel-inner">
                   <div class="carousel-item active">
-                    <img class="d-block w-100" src="images/Ministries/youth-group/christmasparty.jpg" alt="First slide">
+                    <img class="d-block w-100" src="images/may4/youth_ski.jpeg" alt="First slide">
+                    <div class="carousel-caption d-none d-md-block">
+                      <h5>Youth Group Ski Trip</h5>
+                    </div>
+                  </div>
+                  <div class="carousel-item">
+                    <img class="d-block w-100" src="images/may4/youth_ski_1.jpeg" alt="Second slide">
+                    <div class="carousel-caption d-none d-md-block">
+                      <h5>Youth Group Ski Trip</h5>
+                    </div>
+                  </div>
+                  <div class="carousel-item">
+                    <img class="d-block w-100" src="images/may4/youth_ski_lodge.jpeg" alt="Third slide">
+                    <div class="carousel-caption d-none d-md-block">
+                      <h5>Youth Group at the Ski Lodge</h5>
+                    </div>
+                  </div>
+                  <div class="carousel-item">
+                    <img class="d-block w-100" src="images/July2022/YG Christmas Party 2021.jpeg" alt="Third slide">
                     <div class="carousel-caption d-none d-md-block">
                       <h5>Youth Group Christmas Party</h5>
-                    </div>
-                  </div>
-                  <div class="carousel-item">
-                    <img class="d-block w-100" src="images/Ministries/youth-group/hike.jpg" alt="Second slide">
-                    <div class="carousel-caption d-none d-md-block">
-                      <h5>Youth Group Hike</h5>
-                    </div>
-                  </div>
-                  <div class="carousel-item">
-                    <img class="d-block w-100" src="images/Ministries/youth-group/party.jpg" alt="Third slide">
-                    <div class="carousel-caption d-none d-md-block">
-                      <h5>Youth Group Confirmation Party</h5>
                     </div>
                   </div>
                 </div>
@@ -113,7 +119,7 @@
           <div class="card-body">
             <div  align="center">
               <h4>More coming soon</h4>
-              <p>Youth group is fun, social fellowship for youth in grades 7-12.  Social events are planned once or twice a month with an occasional service project or outreach opportunity thrown in.</p>
+              <p>Youth Group is fun, social fellowship for youth in grades 7-12.  Social events are planned once or twice a month, along with occasional service projects and outreach opportunities.</p>
             </div>
           </div>
         </div>
