@@ -109,8 +109,6 @@
 			</div>
 		</div> -->
 
-		<!-- above-fold -->
-
 			<div class="row">
 				<div class="col-md-12">
 					<div class="card">
@@ -119,13 +117,18 @@
 							<div class="col-md-6">
 									<div  align="center" >
 										<br>
-										<h2 class="invitation">All Sunday Services are In-Person and Live-Streamed
+										<h2 class="invitation">Join us on Sunday, and throughout the week!
 										<br/>(<a href="#worship-schedule">full schedule below</a>)
 										</h2>
 
 										<p>
 										To learn about upcoming services,<br/>call the church office (<a href="tel:+201-652-2350">201-652-2350</a>).
 										</p>
+
+										<img src="images/baptism-growing-together.jpg" alt="Baptism Growing Together" title="Baptism Growing Together" class="img-fluid">
+										<h3>
+											Christ Church: Growing. Together.
+	</h3>
 
 										<div id="annual-meeting-headline">
 											<br>
@@ -134,13 +137,13 @@
 											<br>
 											<br>
 												<h3>
-												2024 Stewardship Campaign
+												2025 Stewardship Campaign
 												<br>
 												"Rooted in Abundance"
 												</h3>
 												<div class="row">
 													<div class="col">
-														<a href="#stewardship-campaign" class="btn btn-outline-primary" >View Details</a>
+														<a href="giving.php" class="btn btn-outline-primary" >View Details</a>
 													</div>
 												</div>
 										</div>
@@ -165,8 +168,9 @@
 				</div>
 			</div>
 			<!-- end above-fold -->
+		
 
-
+		<!-- Worship Schedule -->
 		<div class="row" >
 			<div class="col-md-12" id="worship-schedule">
 				<div class="card">
@@ -174,7 +178,9 @@
 						<!-- <h4> Worship with us...</h4> -->
 						<h3>Worship Schedule</h3>
 						<h4>
-							Sunday services are live and live-streamed on our Zoom and YouTube Channels
+							Join us Sunday, and throughout the week! 
+							<br/>
+							(Sunday services are also live-streamed on our <a href="https://www.youtube.com/@lizesqe/streams" target="_blank">YouTube</a> channel.)
 						</h4>
 					</div>
 					<div class="card-body">
@@ -182,51 +188,12 @@
 		
 							<div class="col-md-6">
 
-							<h3>Annual Meeting: February 24th</h3>
-								<table class="table table-striped ">
-									<tr>
-										<td align="right" style="width: 20%"><strong>10:30 AM</strong></td>
-										<td>Holy Eucharist COMBINED SERVICE</td>
-									</tr>
-									<tr>
-										<td align="right"><strong>10:30 AM</strong></td>
-										<td>Sunday School
-											<br/>
-											This would be a great time to check out Sunday School for when your children are ready to transition from JOY to Sunday School!
-										</td>
-									</tr>
-									<tr>
-										<td align="right"><strong>11:30 AM</strong></td>
-										<td>Annual Meeting in the Guild's Hall</td>
-									</tr>
-									<tr>
-										<td align="right"></td>
-										<td>
-											Meeting topics include:
-											<ul>
-												<li>Presenting the 2024 Budget plus 2024 results through the first three quarters of the current year.
-												</li>
-												<li>Additional reports</li>
-												<li>Elections</li>
-											</ul>
-										</td>
-									</tr>
-									<tr>
-										<td align="right"><strong>11:30 AM</strong></td>
-										<td>At the conclusion of worship, children and youth will go back downstairs for lunch together, games, a movie, and a craft while parents and parishioners attend the annual meeting in the Great Hall.</td>
-									</tr>									
-									<tr>
-										<td align="right"></td>
-										<td align="center">No 8:00 service, Adult Forum, or JOY! children's service today</td>
-									</tr>
-								</table>
-
-								<!-- <h3>Sunday Worship</h3>
+								<h3>Sunday Worship</h3>
 
 								<table class="table table-striped "	>
 									<tr>
 										<td align="right" ><strong>8:00 AM</strong></td>
-										<td>Holy Eucharist: In-Person and Live-streamed via Zoom/YouTube
+										<td>Holy Eucharist
 										</td>
 									</tr>
 									<tr>
@@ -236,12 +203,12 @@
 									</tr>
 									<tr>
 										<td align="right"><strong>9:30 AM</strong></td>
-										<td>JOY! Children's Service, In-Person and Live-streamed via Zoom/YouTube 
+										<td>JOY! Children's Service
 									</td>
 									</tr>								
 									<tr>
 										<td align="right" nowrap><strong>10:30 AM</strong></td>
-										<td>Holy Eucharist: In-Person and Live-streamed via Zoom/YouTube 
+										<td>Holy Eucharist with Choir
 										</td>
 									</tr>
 									<tr>
@@ -249,11 +216,13 @@
 										<td> Sunday School (children join parents in time for Communion)</td>							
 									</tr>
 									<tr>
-										<td colspan="2"><div align="center">
-										Join our e-news list for weekly updates!
-										</div></td>
+										<td colspan="2">
+											<div align="center">
+												Join our <a href="http://visitor.r20.constantcontact.com/d.jsp?llr=56u4hgcab&p=oi&m=1101868815294&sit=qgg7clycb&f=eb928dd1-e1c1-442e-a385-dca142ab5c8e">e-news</a> list for weekly updates!
+											</div>
+										</td>
 									</tr>
-								</table> -->
+								</table>
 							</div>
 
 							<div class="col-md-6">
@@ -284,50 +253,6 @@
 								</div> -->
 							</div>
 						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		
-		<!-- Stewardship 2023 -->
-		<div class="row">
-			<div class="col-md-12">
-				<div class="card">
-					<div class="card-body" id="stewardship-campaign">
-						<div class="row" >
-							<div class="col-md-6" align="center">
-								<img src="images/Stewardship/rooted_in_abundance_2023.png" alt="Church Annual Campaign" title="Church Annual Campaign" class="img-fluid">
-
-								<br>
-
-								<a href="documents/Stewardship/2024/Stewardship letter with pledge card-WEBSITE.pdf" target="_blank" class="btn btn-outline-primary" >Letter from the Stewardship Chairs</a>
-								
-								<br>
-
-								<a href="documents/Stewardship/2024/Proportional Giving info and chart.pdf" target="_blank" class="btn btn-outline-primary" >Proportional Giving</a>
-
-							</div>
-							<div class="col-md-6" align="center">
-								<h4>Annual Giving Drive for 2024:<br>
-									By giving faithfully back to God through our parish community, we are always <br>
-									"Rooted In Abundance"</h4>
-								<p>
-									We are excited to announce our 2024 Annual Campaign! Join us on  December 3rd for our Ingathering, when we bring our pledges to the altar together. Pledge card and online pledge form are found below.
-								</p>
-									<!-- <p>
-								We are excited to announce our 2022 Annual Campaign! Please download the Pledge form (with time and talent included) and return in-person to one of our three Sunday services or by mail to Christ Church Attn: Stewardship, 105 Cottage Place, Ridgewood, NJ 07450. You can also fill in the packet easily right now through this secure link to our <a href="https://docs.google.com/forms/d/e/1FAIpQLSeeLranqK71AW1nbZDfTzF9xfRDMQRtbyZjj9I_otvoHO0hIQ/viewform?usp=sf_link" target="_blank" >Google Form</a>. Our goal is to receive a response from all parishioners.				
-								</p> -->
-								<p>
-								Thank you for giving back to God through Christ Church!
-								</p>
-
-								<!-- <p>Please feel free to contact our Stewardship Co-Chair, <a href="mailto:deanna.najork@gmail.com"> Deanna Najork</a>, with any questions.  Thank you again!</p> -->
-							</div>
-						</div>
-					</div>
-					<div class="card-footer" align="center">
-						<a href="documents/Stewardship/2024/pledge-card-2023.pdf" target="_blank" class="btn btn-outline-primary" >Pledge Card</a>
-						<a href="https://docs.google.com/forms/d/e/1FAIpQLSevMKAs5CFVakoZPru68F6yanzNvz2dbuGPSsMmm1j94Rf9Pw/viewform" target="_blank" class="btn btn-primary" >Pledge Online Quickly & Securely</a>
 					</div>
 				</div>
 			</div>
@@ -411,8 +336,6 @@
 				</div>
 			</div>
 
-				<!-- SoundCloud -->
-				<!-- <iframe width="100%" height="350" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/136812277&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe> -->
 			</div>
 			<br><br>
 		</div>

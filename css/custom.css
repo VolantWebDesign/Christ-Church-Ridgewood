@@ -97,6 +97,10 @@ id:before {
 	visibility: hidden;
 }
 
+.btn-outline-primary, .btn-primary {
+	text-wrap: auto;
+}
+
 /* nav button color */
 .btn-outline-light:hover {
 	color: #133154 !important;

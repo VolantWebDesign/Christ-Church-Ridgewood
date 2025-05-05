@@ -16,7 +16,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <hr>
-                <p class="text-muted">Copyright &copy; 2017 - Christ Church, Ridgewood NJ</p>
+                <p class="text-muted">Copyright &copy; 2024 - Christ Church, Ridgewood NJ</p>
             </div>
         </div>
     </div>

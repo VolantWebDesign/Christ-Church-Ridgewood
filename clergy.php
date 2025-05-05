@@ -180,21 +180,9 @@
 		<div class="row">
 			<div class="col-md-6">
 				<div class="row">
-					<div class="col-md-4 col-sm-4 col-xs-4">
-						<div align="center">
-							<img src="images/vestry/missing.jpg" class="img-fluid rounded-circle"/>
-						</div>
-					</div>
-					<div class="col-md-8">
-						<h4><small>Communications Director</small></h4>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-6">
-				<div class="row">
 						<div class="col-md-4 col-sm-4 col-xs-4">
 							<div align="center">
-								<img src="images/vestry/missing.jpg" class="img-fluid rounded-circle"/>
+								<img src="images/clergy/roger.jpg" class="img-fluid rounded-circle"/>
 							</div>
 						</div>
 						<div class="col-md-8">
@@ -268,7 +256,7 @@
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
-					<hr><img src="images/vestry/missing.jpg" class="img-fluid rounded-circle"/><br>Kent Blair<br>Treasurer<br>
+					<hr><img src="images/vestry/missing.jpg" class="img-fluid rounded-circle"/><br>Anne Bosch<br>Treasurer<br>
 				</div>
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
@@ -284,11 +272,6 @@
 		</div>
 
 		<div class="row">
-			<div class="col-md-2 col-sm-4 col-xs-6">
-				<div align="center">
-					<hr><img src="images/vestry/matt_b.jpg" class="img-fluid rounded-circle"/><br>Matt Bodino<br>
-				</div>
-			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
 					<hr><img src="images/vestry/Jared.jpg" class="img-fluid rounded-circle"/><br>Jared Auriemma<br>
@@ -320,7 +303,7 @@
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
-					<hr><img src="images/vestry/freddie.jpg" class="img-fluid rounded-circle"/><br>Freddie LaFemina<br>
+					<hr><img src="images/vestry/henk.jpeg" class="img-fluid rounded-circle"/><br>Henk Eshuis<br>
 				</div>
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
