@@ -128,32 +128,44 @@
 										<img src="images/baptism-growing-together.jpg" alt="Baptism Growing Together" title="Baptism Growing Together" class="img-fluid">
 										<h3>
 											Christ Church: Growing. Together.
-	</h3>
-
-										<div id="annual-meeting-headline">
-											<br>
-											<br>
-											<img src="images/Stewardship/rooted_in_abundance_2023.png" alt="Church Annual Campaign" title="Church Annual Campaign" class="img-fluid">
-											<br>
-											<br>
-												<h3>
-												2025 Stewardship Campaign
-												<br>
-												"Rooted in Abundance"
-												</h3>
-												<div class="row">
-													<div class="col">
-														<a href="giving.php" class="btn btn-outline-primary" >View Details</a>
-													</div>
-												</div>
-										</div>
+										</h3>		
 										
+										<h2 class="invitation" style="margin-top: 4rem">Welcome, from Father Tom</h2>
+										<a href="documents/Stewardship/2025/rector-letter-summer-2025.pdf" target="_blank" class="btn btn-outline-primary" >Read Fr. Tom's Letter</a>
+
 									</div>
 								</div>
 
 								<div class="col-md-6" align="center">
 									<br>
-									<img src="images/Church Franklin ave.jpeg" alt="Church Exterior Altar" title="Church Exterior Altar" class="img-fluid">
+									<!-- <img src="images/Church Franklin ave.jpeg" alt="Church Exterior Altar" title="Church Exterior Altar" class="img-fluid"> -->
+									 				<!-- Welcome carousel -->
+								<div id="carouselWelcome" class="carousel slide" data-ride="carousel">
+									<div class="carousel-inner">
+										<div class="carousel-item active">
+											<img class="d-block w-100" src="images/congregation_830_2025.JPG" alt="Christ Church 8AM congregation">
+											<div class="carousel-caption d-none d-md-block">
+												<h5>Please Join Us at 8:00AM</h5>
+												<p>An intimate service for early risers</p>
+											</div>
+										</div>
+										<div class="carousel-item">
+											<img class="d-block w-100" src="images/congregation_930_2025.jpg" alt="Christ Church 9AM congregation">
+											<div class="carousel-caption d-none d-md-block">
+												<h5>Please Join Us at 9:30AM</h5>
+												<p>A 30-minute service for children and young families</p>
+											</div>
+										</div>
+										<div class="carousel-item">
+											<img class="d-block w-100" src="images/congregation_1030_2025.jpg" alt="Christ Church 10AM congregation">
+											<div class="carousel-caption d-none d-md-block">
+												<h5>Please Join Us at 10:30AM</h5>
+												<p>Our largest service, with organ and full choir</p>
+											</div>
+										</div>
+									</div>
+								</div>
+
 									<h2 class="invitation">Worship and News on our YouTube Channel</h2>
 									<p>
 									View, subscribe, and check back often for new posts, including worship services, stories from Miss Kristen, music, and more.</p>
@@ -212,8 +224,8 @@
 										</td>
 									</tr>
 									<tr>
-										<td align="right" nowrap><strong>10:30 AM</strong></td>
-										<td> Sunday School (children join parents in time for Communion)</td>							
+										<td align="right" nowrap></td>
+										<td>No Sunday School for the summer. See you in September!</td>							
 									</tr>
 									<tr>
 										<td colspan="2">

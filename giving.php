@@ -89,11 +89,18 @@
 					<div class="card-body" >
 						<div class="row" >
 							<div class="col-md-6" align="center">
-                            <img src="images/Stewardship/stewardship_2019_hbanner.jpg" alt="2020 Christ Church Ridgewood Stewardship Campaign: Shining our Light" class="img-fluid" style="padding: 0;">
-                            <br/><br/>
-                            <p>
-                                We thank you for giving back faithfully through the life and community of Christ Episcopal Church! May God continue to bless you and our Christ Church family! Here are three easy ways to give to Christ Church:
-								</p>
+                           <div id="annual-meeting-headline">
+											<br>
+											<br>
+											<img src="images/Stewardship/rooted_in_abundance_2023.png" alt="Church Annual Campaign" title="Church Annual Campaign" class="img-fluid">
+											<br>
+											<br>
+												<h3>
+												2025 Stewardship Campaign
+												<br>
+												"Rooted in Abundance"
+												</h3>
+										</div>
 							</div>
 							<div class="col-md-6" align="center">
                                 <ul align="left">
