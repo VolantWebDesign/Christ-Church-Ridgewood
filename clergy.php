@@ -94,7 +94,7 @@
 				<div class="row">
 					<div class="col-md-2 col-sm-2 col-xs-2">
 						<div align="center">
-							<img src="images/clergy/Tom.jpg?k=<?php echo $thekeys; ?>" class="img-fluid rounded-circle"/>
+							<img src="images/clergy/fr_tom_2025.jpg?php echo $thekeys; ?>" class="img-fluid rounded-circle"/>
 						</div>
 					</div>
 					<div class="col-md-10">
@@ -175,21 +175,30 @@
 			</div>
 		</div> -->
 
-		<hr>
-
 		<div class="row">
 			<div class="col-md-6">
 				<div class="row">
-						<div class="col-md-4 col-sm-4 col-xs-4">
-							<div align="center">
-								<img src="images/clergy/roger.jpg" class="img-fluid rounded-circle"/>
-							</div>
+					<div class="col-md-4 col-sm-4 col-xs-4">
+						<div align="center">
+							<img src="images/clergy/roger.jpg" class="img-fluid rounded-circle"/>
 						</div>
-						<div class="col-md-8">
-							<h4>Roger Padavattan<br/><small>Parish Administrator</small></h4>
+					</div>
+					<div class="col-md-8">
+						<h4>Roger Padavattan<br/><small>Parish Administrator</small></h4>
+					</div>
+				</div>			
+			</div>
+			<div class="col-md-6">
+				<div class="row">
+					<div class="col-md-4 col-sm-4 col-xs-4">
+						<div align="center">
+							<img src="images/clergy/remi.jpg" class="img-fluid rounded-circle"/>
 						</div>
-					</div>			
-
+					</div>
+					<div class="col-md-8">
+						<h4>Remi Piraino<br/><small>Interim Sunday School Coordinator</small></h4>
+					</div>
+				</div>			
 			</div>
 		</div>
 
@@ -209,7 +218,7 @@
 				</div>
 			</div>
 			<div class="col-md-6">
-			<div class="row">
+				<div class="row">
 					<div class="col-md-4 col-sm-4 col-xs-4">
 						<div align="center">
 							<img src="images/vestry/missing.jpg" class="img-fluid rounded-circle"/>

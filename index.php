@@ -143,24 +143,24 @@
 								<div id="carouselWelcome" class="carousel slide" data-ride="carousel">
 									<div class="carousel-inner">
 										<div class="carousel-item active">
-											<img class="d-block w-100" src="images/congregation_830_2025.JPG" alt="Christ Church 8AM congregation">
-											<div class="carousel-caption d-none d-md-block">
-												<h5>Please Join Us at 8:00AM</h5>
-												<p>An intimate service for early risers</p>
-											</div>
-										</div>
-										<div class="carousel-item">
 											<img class="d-block w-100" src="images/congregation_930_2025.jpg" alt="Christ Church 9AM congregation">
 											<div class="carousel-caption d-none d-md-block">
-												<h5>Please Join Us at 9:30AM</h5>
+												<h5>Join Us at 9:30AM</h5>
 												<p>A 30-minute service for children and young families</p>
 											</div>
 										</div>
 										<div class="carousel-item">
 											<img class="d-block w-100" src="images/congregation_1030_2025.jpg" alt="Christ Church 10AM congregation">
 											<div class="carousel-caption d-none d-md-block">
-												<h5>Please Join Us at 10:30AM</h5>
+												<h5>Join Us at 10:30AM</h5>
 												<p>Our largest service, with organ and full choir</p>
+											</div>
+										</div>
+										<div class="carousel-item">
+											<img class="d-block w-100" src="images/congregation_830_2025.JPG" alt="Christ Church 8AM congregation">
+											<div class="carousel-caption d-none d-md-block">
+												<h5>Join Us at 8:00AM</h5>
+												<p>An intimate service for early risers</p>
 											</div>
 										</div>
 									</div>
@@ -168,7 +168,7 @@
 
 									<h2 class="invitation">Worship and News on our YouTube Channel</h2>
 									<p>
-									View, subscribe, and check back often for new posts, including worship services, stories from Miss Kristen, music, and more.</p>
+									View, subscribe, and check back often for new posts, including worship services, stories, music, and more.</p>
 									<a href="https://www.youtube.com/@lizesqe/streams" target="_blank" class="btn btn-primary" >Christ Church on YouTube</a>
 									</br></br>
 									<h2 class="invitation">Christ Church Online</h2>
@@ -208,24 +208,40 @@
 										<td>Holy Eucharist
 										</td>
 									</tr>
-									<tr>
+									<!-- <tr>
 										<td align="right"><strong>9:00 AM</strong></td>
 										<td>Adult Forum, via Zoom
 										</td>
+									</tr> -->
+									<!-- <tr>
+										<td align="right"><strong>9:30 AM</strong></td>
+										<td>Joy! Children's Service (30 minutes)
+										</td>
+									</tr>								 -->
+									<tr>
+										<td align="right" nowrap></td>
+										<td>No 9:30 Joy! services on September 7th
+										</td>
 									</tr>
 									<tr>
-										<td align="right"><strong>9:30 AM</strong></td>
-										<td>JOY! Children's Service
-									</td>
-									</tr>								
+										<td align="right" nowrap><strong>10:00 AM</strong></td>
+										<td>COMBINED SERVICE, September 7th: Holy Eucharist with Choir
+										</td>
+									</tr>
 									<tr>
-										<td align="right" nowrap><strong>10:30 AM</strong></td>
-										<td>Holy Eucharist with Choir
+										<td align="right" nowrap><strong>11:00 AM</strong></td>
+										<td>Parish Picnic: Food, Fun, and Fellowship!
 										</td>
 									</tr>
 									<tr>
 										<td align="right" nowrap></td>
-										<td>No Sunday School for the summer. See you in September!</td>							
+										<td>Upcoming- September 14th: Meet the Sunday School Teachers!
+										</td>
+									</tr>
+																		<tr>
+										<td align="right" nowrap></td>
+										<td>Upcoming- September 21st: Sunday School Begins!
+										</td>
 									</tr>
 									<tr>
 										<td colspan="2">
