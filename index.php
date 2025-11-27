@@ -199,14 +199,11 @@
 						<div class="row">
 		
 							<div class="col-md-6">
-										<!-- Sunday worship schedule -->
+								<!-- Sunday worship schedule -->
 								<?php
 								require_once 'components/worship-schedules/regular.php';
 
 								$schedule = new RegularSchedule();
-								$schedule->addAnnouncement('RESCHEDULED - Parish Picnic - September 21st');
-								$schedule->addAnnouncement('Upcoming- September 14th: Meet the Sunday School Teachers!');
-								$schedule->addAnnouncement('Upcoming- September 21st: Sunday School Begins!');
 								$schedule->render();
 								?>
 							</div>
