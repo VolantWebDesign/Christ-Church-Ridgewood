@@ -17,7 +17,7 @@ abstract class WorshipSchedule {
         <table class="table table-striped">
             <?php foreach ($this->scheduleData as $item): ?>
                 <tr>
-                    <td align="right" <?php echo isset($item['nowrap']) ? 'nowrap' : ''; ?>>
+                    <td align="right" style="white-space: nowrap;">
                         <?php if (isset($item['time'])): ?>
                             <strong><?php echo htmlspecialchars($item['time']); ?></strong>
                         <?php endif; ?>
@@ -27,7 +27,6 @@ abstract class WorshipSchedule {
             <?php endforeach; ?>
             
             <?php if (!empty($this->announcements)): ?>
-                <tr><td colspan="2"><hr/></td></tr>
                 <?php foreach ($this->announcements as $announcement): ?>
                     <tr>
                         <td></td>

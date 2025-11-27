@@ -8,9 +8,9 @@ class RegularSchedule extends WorshipSchedule {
         
         $this->scheduleData = [
             ['time' => '8:00 AM', 'description' => 'Holy Eucharist'],
-            ['time' => '9:00 AM', 'description' => 'Adult Forum resumes later in September'],
+            ['time' => '9:00 AM', 'description' => 'Adult Forum'],
             ['time' => '9:30 AM', 'description' => 'Joy! Children\'s Service (30 minutes)'],
-            ['time' => '10:00 AM', 'description' => 'Family Fun Day: activities for all ages'],
+            ['time' => '10:30 AM', 'description' => 'Sunday School'],
             ['time' => '10:30 AM', 'description' => 'Holy Eucharist with Choir']
         ];
     }

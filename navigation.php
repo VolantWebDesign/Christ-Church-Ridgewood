@@ -57,13 +57,13 @@
 
 <!-- masthead image -->
     <!-- Advent -->
-    <!-- <img src="images/mastheads/CCR_masthead_advent.jpg?k=<?php echo $thekeys; ?>" class="img-fluid" style="padding-top: 0; padding-bottom: 0;"> -->
+    <img src="images/mastheads/CCR_masthead_advent.jpg?k=<?php echo $thekeys; ?>" class="img-fluid" style="padding-top: 0; padding-bottom: 0;">
 
     <!-- Christmas -->
     <!-- <img src="images/mastheads/CCR_masthead_christmas_v5.jpg?k=<?php echo $thekeys; ?>" class="img-fluid" style="padding-top: 0; padding-bottom: 0;"> -->
 
     <!-- Ordinary Time -->
-    <img src="images/mastheads/CCR_masthead.jpg?k=<?php echo $thekeys; ?>" class="img-fluid" style="padding-top: 0; padding-bottom: 0;">
+    <!-- <img src="images/mastheads/CCR_masthead.jpg?k=<?php echo $thekeys; ?>" class="img-fluid" style="padding-top: 0; padding-bottom: 0;"> -->
 
     <!-- Lent -->
     <!-- <img src="images/mastheads/CCR_masthead_lent.jpg?k=<?php echo $thekeys; ?>" class="img-fluid" style="padding-top: 0; padding-bottom: 0;"> -->
