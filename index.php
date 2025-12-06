@@ -122,7 +122,7 @@
 										</h2>
 
 										<p>
-										To learn about upcoming services,<br/>call the church office (<a href="tel:+201-652-2350">201-652-2350</a>).
+										To speak to a member of Christ Church's clergy or staff,<br/>call the church office (<a href="tel:+201-652-2350">201-652-2350</a>).
 										</p>
 
 										<img src="images/baptism-growing-together.jpg" alt="Baptism Growing Together" title="Baptism Growing Together" class="img-fluid">
@@ -181,6 +181,7 @@
 			</div>
 			<!-- end above-fold -->
 		
+
 
 		<!-- Worship Schedule -->
 		<div class="row" >
@@ -241,6 +242,11 @@
 			</div>
 		</div>
 		
+		<!-- Stewardship Component -->
+		<?php include "components/stewardship.php"; ?>
+		
+		<!-- Christmas 2025 -->
+		<?php include "components/christmas_schedule.php"; ?>	
 
 		<!-- upcoming events and sermon audio cards -->
 		<div class="row">
