@@ -44,22 +44,25 @@
                 </h1>
             </div>
         <div class="row" align="center">
-            <div class="col"><img src="images/travel-images/assisi_rome_2019_banner.png" class="img-fluid"></div>
-  
-        </div>
+            <div class="col"><img src="images/travel-images/keukenhof_user_banner.png" class="img-fluid" alt="Keukenhof Flower Show User Banner"></div>
+        </div> 
         <hr>
 
         
         <div class="row">
             <div class="col-md-6">
-                <h1>Assisi & Rome</h1>
-                <h3>October 13-21, 2019</h3>
-                Our 10th annual trip takes us back to fabulous Italy, where it all began for us a decade ago.
-                <h3>$3,499 per person (double occupancy) *</h3>
-                <h4>Singles available for a supplement of $629<br>
-                Price includes a tax-deductible donation of $250</h4>
+                <h1>Exploring the Netherlands</h1>
+                <h3>May 1 - 9, 2026</h3>
+                Join us for the Keukenhof Flower Show as part of a fabulous week in the Netherlands. We’ll fly direct from Newark, NJ on United to Amsterdam’s Schiphol airport. We’ll spend all seven nights in a four-star hotel in Den Haag (The Hague), a lovely city close to Amsterdam and to the flower show, with lots of restaurants and things to do.
+                <br><br>
+                Keukenhof is billed as “the most beautiful spring garden in the world”. We’ll have one included day there, and you’ll have a free day when you can return if you wish.
+                
+                <h3>$4,445 per person (double occupancy) *</h3>
+                <h4>Single supplement of $895<br>
+                Price includes a tax-deductible donation of $250 to Christ Church</h4>
+                <br>
                 <div class="col" align="center">
-                    <a href="https://www.groupminder.com/internet/resEvt.cfm?cstId=90&evtId=378&entType=2&entId=7" target="_blank" class="btn btn-primary">Book Your Tickets Here!</a>
+                    <a href="https://www.groupminder.com/internet/resEvt.cfm?cstId=90&evtId=638&entType=2&entId=7" target="_blank" class="btn btn-primary">Book Your Tickets Here!</a>
                 </div>
             </div>
             <div class="col-md-6">
@@ -69,16 +72,13 @@
                     </div>
                     <div class="panel-body">
                         <ul>
-                            <li>Round trip, non-stop flights from New York</li>
-                            <li>4 nights in the 4-star Hotel La Posta Dei Donini in Umbria</li>
-                            <li>3 nights in the 4-star Quirinale Hotel Rome</li>
-                            <li>Ground transfers and baggage handling in Italy</li>
-                            <li>Breakfast every day, plus first and last night dinners, three lunches</li>
-                            <li>Guided tours and all entrance fees:
-                            Assisi, Spoleto, Arezzo, La Verna, Rome,
-                            Colosseum & Forum</li>
-                            <li>Visits to a winery and Perugia chocolate
-                            factory</li>
+                            <li>Full day guided tour of Amsterdam, including a canal boat tour and Rijksmuseum tour</li>
+                            <li>Guided tour of Peace Palace in The Hague</li>
+                            <li>Guided tour of Delft</li>
+                            <li>Full day tour of Alkmaar market and Zuiderzeemuseum</li>
+                            <li>Full day tour of Utrecht and Gouda, with a canal boat tour and cheese tasting</li>
+                            <li>Breakfast at the hotel every morning, plus three lunches and three dinners</li>
+                            <li>A dedicated guide and bus, including both airport transfers in the Netherlands</li>
                         </ul>
                     </div>
                 </div>
@@ -86,28 +86,28 @@
         </div>
         <hr>
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-6">
                 <div class="panel-primary">
                     <div class="panel-heading">
                         <div class="panel-title">Forms & Downloads</div>
                     </div>
                     <div class="panel-body">
                         <ul class="list-group" align="center">
-                          <a href="documents/travel-documents/Assisi & Rome 2019 RESERVATION  FORM.pdf" target="_blank">
-                            <li class="list-group-item">Application</li>
+                          <a href="documents/travel-documents/Christ Church RESERVATION FORM 4848.pdf" target="_blank">
+                            <li class="list-group-item">Application / Reservation Form</li>
                             </a>
-                          <a href="documents/travel-documents/Umbria & Rome 2019 itinerary.pdf" target="_blank">
+                          <!-- <a href="documents/travel-documents/Umbria & Rome 2019 itinerary.pdf" target="_blank">
                             <li class="list-group-item">Travel Itinerary</li>
-                            </a>
-                          <a href="documents/travel-documents/Umbria & Rome 2019 Flyer.pdf" target="_blank">
-                            <li class="list-group-item">Umbria & Rome Flyer</li>
+                            </a> -->
+                          <a href="documents/travel-documents/Christ Church Netherlands 2026 Flyer-Brochure.pdf" target="_blank">
+                            <li class="list-group-item">Netherlands 2026 Flyer & Brochure</li>
                             </a>
                         </ul>
                     </div>
                 </div>
             </div>
 
-            <div class="col-md-4">
+            <div class="col-md-6">
                 <div class="panel-primary">
                     <div class="panel-heading">
                         <div class="panel-title">Important:</div>
@@ -115,14 +115,17 @@
                     <div class="panel-body">
                     <ul>
                         <li>Strictly limited to 40 passengers</li>
-                        <li>Deposit of $500 per person due immediately, final payment by July 1, 2019</li>
-                        <li>Information meeting Thursday, May 30th at 7 PM at Christ Church Ridgewood</li>
+                        <li>Deposits accepted as of December 4th</li>
+                        <li>First come, first served</li>
+                        <li>Questions? Contact <a href="mailto:christchurchtravel@gmail.com">christchurchtravel@gmail.com</a></li>
+                        <!-- <li>Deposit of $500 per person due immediately, final payment by July 1, 2019</li>
+                        <li>Information meeting Thursday, May 30th at 7 PM at Christ Church Ridgewood</li> -->
                     </ul>
                     </div>
                 </div>
             </div>
 
-            <div class="col-md-4">
+            <!-- <div class="col-md-4">
                 <div class="panel-primary">
                     <div class="panel-heading">
                         <div class="panel-title">For More Information</div>
@@ -134,12 +137,12 @@
                     201.652.2350<br>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
         <hr>
         <br>
     <!-- Travel photo carousel -->
-		<div class="row">
+		<!-- <div class="row">
 			<div class="col-md-12">
 				<div class="card">
 					<div class="card-header">
@@ -167,24 +170,12 @@
 									<div class="carousel-inner">
 										<div class="carousel-item active">
 											<img class="d-block w-100" src="images/travel-images/alla posta dei donini front.jpg" alt="">
-											<!-- <div class="carousel-caption d-none d-md-block">
-												<h5>Please Join Us at 8:00AM</h5>
-												<p>An intimate service for early risers</p>
-											</div> -->
 										</div>
 										<div class="carousel-item">
 											<img class="d-block w-100" src="images/travel-images/La Verna cross.jpg" alt="">
-											<!-- <div class="carousel-caption d-none d-md-block">
-												<h5>Please Join Us at 9:15AM</h5>
-												<p>A 30-minute service for children and young families</p>
-											</div> -->
 										</div>
 										<div class="carousel-item">
 											<img class="d-block w-100" src="images/travel-images/spoleto-piazza-duomo-duomo (1).jpg" alt="">
-											<!-- <div class="carousel-caption d-none d-md-block">
-												<h5>Please Join Us at 10:00AM</h5>
-												<p>Our largest service, with organ and full choir</p>
-											</div> -->
 										</div>
 									</div>
 								</div>
@@ -194,7 +185,7 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</div> -->
 
     <?php include "donate.php"; ?>
 

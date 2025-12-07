@@ -132,7 +132,10 @@
 										
 										<h2 class="invitation" style="margin-top: 4rem">Welcome, from Father Tom</h2>
 										<a href="documents/Stewardship/2025/rector-letter-summer-2025.pdf" target="_blank" class="btn btn-outline-primary" >Read Fr. Tom's Letter</a>
-
+<hr/>
+										<p>Join us in the Netherlands in 2026!
+											<br/>
+											 View our <a href="travel.php">travel page</a> to learn more!
 									</div>
 								</div>
 
