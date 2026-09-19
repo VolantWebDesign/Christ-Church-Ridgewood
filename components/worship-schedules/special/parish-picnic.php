@@ -7,8 +7,8 @@ class ParishPicnicSchedule extends WorshipSchedule {
 
         $this->scheduleData = [
             ['time' => '8:00 AM', 'description' => 'Holy Eucharist'],
-            ['description' => 'No 9:30 Joy! services on September 21st', 'nowrap' => true],
-            ['time' => '10:00 AM', 'description' => 'COMBINED SERVICE, September 21st: Holy Eucharist with Choir', 'nowrap' => true],
+            ['description' => 'No 9:30 Joy! services on September 13th', 'nowrap' => true],
+            ['time' => '10:00 AM', 'description' => 'COMBINED SERVICE, September 13th: Holy Eucharist with Choir', 'nowrap' => true],
             ['time' => '11:00 AM', 'description' => 'Parish Picnic: Food, Fun, and Fellowship!', 'nowrap' => true],
         ];
     }

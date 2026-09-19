@@ -107,8 +107,9 @@
 					</div>
 				</div>
 			</div>
-		</div> -->
-
+		</div> -->	
+			
+		<!-- Above Fold -->
 			<div class="row">
 				<div class="col-md-12">
 					<div class="card">
@@ -125,17 +126,13 @@
 										To speak to a member of Christ Church's clergy or staff,<br/>call the church office (<a href="tel:+201-652-2350">201-652-2350</a>).
 										</p>
 
-										<img src="images/baptism-growing-together.jpg" alt="Baptism Growing Together" title="Baptism Growing Together" class="img-fluid">
+										<img src="images/easter-cross-frontdoor.jpg" alt="Church Front Door with Easter Cross" title="Church Front Door with Easter Cross" class="img-fluid">
 										<h3>
 											Christ Church: Growing. Together.
 										</h3>		
 										
-										<h2 class="invitation" style="margin-top: 4rem">Welcome, from Father Tom</h2>
+										<h2 class="invitation" style="margin-top: 4rem">Welcome, from Father&nbsp;Tom</h2>
 										<a href="documents/Stewardship/2025/rector-letter-summer-2025.pdf" target="_blank" class="btn btn-outline-primary" >Read Fr. Tom's Letter</a>
-<hr/>
-										<p>Join us in the Netherlands in 2026!
-											<br/>
-											 View our <a href="travel.php">travel page</a> to learn more!
 									</div>
 								</div>
 
@@ -183,15 +180,12 @@
 				</div>
 			</div>
 			<!-- end above-fold -->
-		
-
-
-		<!-- Worship Schedule -->
-		<div class="row" >
-			<div class="col-md-12" id="worship-schedule">
+			
+			<!-- Worship Schedule -->
+			<div class="row" >
+				<div class="col-md-12" id="worship-schedule">
 				<div class="card">
 					<div class="card-header">
-						<!-- <h4> Worship with us...</h4> -->
 						<h3>Worship Schedule</h3>
 						<h4>
 							Join us Sunday, and throughout the week! 
@@ -206,9 +200,8 @@
 								<!-- Sunday worship schedule -->
 								<?php
 								require_once 'components/worship-schedules/regular.php';
-
 								$schedule = new RegularSchedule();
-								$schedule->render();
+                                $schedule->render();
 								?>
 							</div>
 
@@ -244,12 +237,9 @@
 				</div>
 			</div>
 		</div>
-		
+	
 		<!-- Stewardship Component -->
 		<?php include "components/stewardship.php"; ?>
-		
-		<!-- Christmas 2025 -->
-		<?php include "components/christmas_schedule.php"; ?>	
 
 		<!-- upcoming events and sermon audio cards -->
 		<div class="row">

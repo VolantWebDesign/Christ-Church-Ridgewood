@@ -1,0 +1,4 @@
+# LOCAL: Use /Christ-Church-Ridgewood/404.php
+# ErrorDocument 404 /Christ-Church-Ridgewood/404.php
+# LIVE:  Change to /404.php if site is at the root of the domain
+ErrorDocument 404 /404.php

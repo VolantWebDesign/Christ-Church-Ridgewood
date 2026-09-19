@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
+    <meta name="robots" content="noindex, nofollow">
 
     <title>Christ Church, Ridgewood New Jersey 07450</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">

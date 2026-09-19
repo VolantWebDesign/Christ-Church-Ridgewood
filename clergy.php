@@ -177,19 +177,19 @@
 
 		<div class="row">
 			<div class="col-md-6">
-				<div class="row">
+				<div class="row align-items-center">
 					<div class="col-md-4 col-sm-4 col-xs-4">
 						<div align="center">
-							<img src="images/clergy/roger.jpg" class="img-fluid rounded-circle"/>
+							<img src="images/clergy/christian.jpg" class="img-fluid rounded-circle"/>
 						</div>
 					</div>
 					<div class="col-md-8">
-						<h4>Roger Padavattan<br/><small>Parish Administrator</small></h4>
+						<h4>Christian Arencibia<br/><small>Parish Administrator</small></h4>
 					</div>
 				</div>			
 			</div>
 			<div class="col-md-6">
-				<div class="row">
+				<div class="row align-items-center">
 					<div class="col-md-4 col-sm-4 col-xs-4">
 						<div align="center">
 							<img src="images/clergy/remi.jpg" class="img-fluid rounded-circle"/>
@@ -206,7 +206,7 @@
 
 		<div class="row">
 			<div class="col-md-6">
-				<div class="row">
+				<div class="row align-items-center">
 					<div class="col-md-4 col-sm-4 col-xs-4">
 						<div align="center">
 							<img src="images/vestry/colvin.jpg" class="img-fluid rounded-circle"/>
@@ -218,7 +218,7 @@
 				</div>
 			</div>
 			<div class="col-md-6">
-				<div class="row">
+				<div class="row align-items-center">
 					<div class="col-md-4 col-sm-4 col-xs-4">
 						<div align="center">
 							<img src="images/vestry/missing.jpg" class="img-fluid rounded-circle"/>
@@ -228,6 +228,22 @@
 						<h4>Lauren Hirsch<br><small>Bookkeeper</small></h4>
 					</div>
 				</div>
+			</div>
+		</div>
+
+		<hr>
+		<div class="row">
+			<div class="col-md-6">
+				<div class="row align-items-center">
+					<div class="col-md-4 col-sm-4 col-xs-4">
+						<div align="center">
+							<img src="images/clergy/roger.jpg" class="img-fluid rounded-circle"/>
+						</div>
+					</div>
+					<div class="col-md-8">
+						<h4>Roger Padavattan<br/><small> Admin Support</small></h4>
+					</div>
+				</div>			
 			</div>
 		</div>
 
@@ -265,11 +281,6 @@
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
-					<hr><img src="images/vestry/missing.jpg" class="img-fluid rounded-circle"/><br>Anne Bosch<br>Treasurer<br>
-				</div>
-			</div>
-			<div class="col-md-2 col-sm-4 col-xs-6">
-				<div align="center">
 					<hr><img src="images/vestry/robert.jpg" class="img-fluid rounded-circle"/><br>Robert Howells<br>Finance Chair<br>
 				</div>
 			</div>
@@ -278,34 +289,20 @@
 					<hr><img src="images/vestry/katie.jpg" class="img-fluid rounded-circle"/><br>Katie Benvenuto<br>Stewardship Chair<br>
 				</div>
 			</div>
-		</div>
-
-		<div class="row">
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
 					<hr><img src="images/vestry/Jared.jpg" class="img-fluid rounded-circle"/><br>Jared Auriemma<br>
 				</div>
 			</div>
+		</div>
 
-			<div class="col-md-2 col-sm-4 col-xs-6">
-				<div align="center">
-					<hr><img src="images/vestry/elaina.jpeg" class="img-fluid rounded-circle"/><br>Elaina Richardi<br>
-				</div>
-			</div>
-			<div class="col-md-2 col-sm-4 col-xs-6">
-				<div align="center">
-					<hr><img src="images/vestry/lyle_h.jpg" class="img-fluid rounded-circle"/><br>Lyle Hatch<br>
-				</div>
-			</div>
+		<div class="row">
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
 					<hr><img src="images/vestry/barbara.jpg" class="img-fluid rounded-circle"/><br>Barbara Monahan<br>
 				</div>
 			</div>
-		</div>
-
-		<div class="row">
-		<div class="col-md-2 col-sm-4 col-xs-6">
+			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
 					<hr><img src="images/vestry/albert.jpg" class="img-fluid rounded-circle"/><br>Albert Pucciarelli<br>
 				</div>
@@ -318,6 +315,11 @@
 			<div class="col-md-2 col-sm-4 col-xs-6">
 				<div align="center">
 					<hr><img src="images/vestry/tad.png" class="img-fluid rounded-circle"/><br>Tad Ahlersmeyer<br>
+				</div>
+			</div>
+			<div class="col-md-2 col-sm-4 col-xs-6">
+				<div align="center">
+					<hr><img src="images/vestry/tyler-stahl-photo.jpg" class="img-fluid rounded-circle"/><br>Tyler Stahl<br>
 				</div>
 			</div>
 		</div>

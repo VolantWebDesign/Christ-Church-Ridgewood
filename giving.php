@@ -61,7 +61,7 @@
 			<div class="col-md-12">
 				<div class="card">
 					<div class="card-header"  align="center">
-						<h3>Donate Online</h3>
+						<h3>Donate Online Securely with Vanco</h3>
 					</div>
 					<div class="card-body" >
 						<div class="row" >
@@ -96,7 +96,7 @@
 											<br>
 											<br>
 												<h3>
-												2025 Stewardship Campaign
+												2026 Stewardship Campaign
 												<br>
 												"Rooted in Abundance"
 												</h3>
@@ -127,27 +127,35 @@
 			<div class="col-md-12">
 				<div class="card">
 					<div class="card-header"  align="center">
-						<h3>Support the Church with Stock Transfers <br/>& Mandatory Minimum Distributions
+						<h3>Support the Church with Stock Transfers <br/>& Mandatory Minimum Distributions</h3>
 					</div>
 					<div class="card-body" >
 						<div class="row" >
 							<div class="col-md-6" align="center">
 								<p>
-								Did you know that Christ Church accepts the contribution of marketable securities (e.g. publicly traded stocks)? To make a a stock donation, please provide your broker the information found below.
+								Did you know that Christ Church accepts the contribution of marketable securities (e.g. publicly traded stocks)? To make a stock donation, please provide your broker the information found below.
+								</p>
+								<p>
+									Once you have authorized a transfer of stock to Christ Church, please email <a href="mailto:communications@christchurchridgewood.org">communications@christchurchridgewood.org</a> to let us know the name of the security and the number of shares received.
+								</p>	
+								<p>
+								Upon receipt of the security into Christ Church's account, you will receive a tax letter establishing the value of the contribution which is based on the date the security was received into the church account, the number of shares received and the average high and low of the stock price on the date the security was received.
 								</p>
 							</div>
 							<div class="col-md-6" align="center">
+									<h4><strong>Brokerage Account Information</strong></h4>
 								<p>
-								Upon receipt of the security into Christ Church's account, you will recieve a tax letter establishing the value of the contribution which is based on the date the security was received into the church account, the number of shares received and the average high and low of the stock price on the date the security was received.
+									<strong>Broker:</strong> Charles Schwab<br>
+									<strong>Account Name:</strong> Christ Church Ridgewood<br>
+									<strong>Account #:</strong> 2692-9195
+								</p>
+								<p>
+									<em>If you’re transferring shares from outside of Schwab, you’ll also need:</em><br>
+									<strong>Schwab DTC Clearing #:</strong> 0164<br>
+									<strong>Code #:</strong> 40 (sometimes needed)
 								</p>
 							</div>
 						</div>
-					</div>
-					<div class="card-footer" align="center">
-						<!-- <a href="documents/Stewardship/diocesenewark-stock-transfers.pdf" target="_blank" class="btn btn-primary" >Diocesan Broker Info</a>
-						<a href="https://dioceseofnewark.org/giving/make-gift-stock" target="_blank" class="btn btn-outline-primary" >Diocesan Stock Donations</a> -->
-						<a href="documents/Stewardship/ccridgewood-stock-transfers.pdf" target="_blank" class="btn btn-primary" >Christ Church Broker Info</a>
-
 					</div>
 				</div>
 			</div>

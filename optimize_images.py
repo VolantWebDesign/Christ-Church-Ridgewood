@@ -207,7 +207,7 @@ def optimize_png(image_path, backup=True):
         return None
 
 def main():
-    root_dir = Path('/home/user/Christ-Church-Ridgewood')
+    root_dir = Path('.')
 
     # Find all images
     image_extensions = {'.jpg', '.jpeg', '.png', '.gif'}
@@ -243,7 +243,7 @@ def main():
         if ext in ('.jpg', '.jpeg'):
             result = optimize_jpeg(image_path)
             if result:
-                print(f"✓ {image_path.relative_to(root_dir)}")
+                print(f"[OK] {image_path.relative_to(root_dir)}")
                 print(f"  {result['original']:.1f}KB -> {result['new']:.1f}KB (saved {result['savings']:.1f}KB, {result['percent']:.1f}%)")
 
         elif ext == '.png':
@@ -252,16 +252,16 @@ def main():
                 result = convert_png_to_jpeg(image_path)
                 if result and result.get('converted'):
                     converted += 1
-                    print(f"✓ {image_path.relative_to(root_dir)} -> {result['new_path'].name}")
+                    print(f"[OK] {image_path.relative_to(root_dir)} -> {result['new_path'].name}")
                     print(f"  Converted PNG to JPEG: {result['original']:.1f}KB -> {result['new']:.1f}KB (saved {result['savings']:.1f}KB, {result['percent']:.1f}%)")
                 elif result:
-                    print(f"✓ {image_path.relative_to(root_dir)}")
+                    print(f"[OK] {image_path.relative_to(root_dir)}")
                     print(f"  {result['original']:.1f}KB -> {result['new']:.1f}KB (saved {result['savings']:.1f}KB, {result['percent']:.1f}%)")
             else:
                 # Just optimize the PNG
                 result = optimize_png(image_path)
                 if result:
-                    print(f"✓ {image_path.relative_to(root_dir)}")
+                    print(f"[OK] {image_path.relative_to(root_dir)}")
                     print(f"  {result['original']:.1f}KB -> {result['new']:.1f}KB (saved {result['savings']:.1f}KB, {result['percent']:.1f}%)")
 
         if result:

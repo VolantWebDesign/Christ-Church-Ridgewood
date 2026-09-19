@@ -9,24 +9,24 @@
 
                         <div class="row" >
                             <div class="col-md-6">
-                            <h3 style="color: #294515;">December 21</h3>
-                            <table class="table table-striped">
-                            <tbody>
-                              <tr>
-                                <th scope="row">10:30AM</th>
-                                <td>Pageant rehearsal</td>
-                              </tr>
-                              <tr>
-                                <th scope="row">11:30AM</th>
-                                <td>Pageant DRESS rehearsal, in the sanctuary</td>
-                              </tr>
-                              <tr>
-                                <th scope="row">&nbsp;</th>
-                                <td>ALL participants MUST attend rehearsal. Lunch will be served after.</td>
-                              </tr>
-                            </tbody>
-                          </table>
-                          <hr/>
+                                <!-- <h3 style="color: #294515;">December 21</h3>
+                                <table class="table table-striped">
+                                <tbody>
+                                  <tr>
+                                    <th scope="row">10:30AM</th>
+                                    <td>Pageant rehearsal</td>
+                                  </tr>
+                                  <tr>
+                                    <th scope="row">11:30AM</th>
+                                    <td>Pageant DRESS rehearsal, in the sanctuary</td>
+                                  </tr>
+                                  <tr>
+                                    <th scope="row">&nbsp;</th>
+                                    <td>ALL participants MUST attend rehearsal. Lunch will be served after.</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <hr/> -->
 
                                 <h3 style="color: #294515;">December 24, Christmas Eve</h3>
                                 <table class="table table-striped">
