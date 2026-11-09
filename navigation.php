@@ -105,9 +105,11 @@
           <li class="nav-item <?php if(isset($current) && $current == 'giving') {echo 'active';} ?>">
             <a href="giving.php" class="nav-link">Giving</a>
          </li>
+          <?php /* Hidden while Great Hall page is in private team mockup mode:
           <li class="nav-item <?php if(isset($current) && $current == 'great-hall') {echo 'active';} ?>">
             <a href="great-hall.php" class="nav-link">Great Hall</a>
          </li>
+          */ ?>
           <li class="nav-item <?php if(isset($current) && $current == 'contact') {echo 'active';} ?>">
             <a href="contact.php" class="nav-link">Contact</a>
          </li>
