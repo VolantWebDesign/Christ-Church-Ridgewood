@@ -2,3 +2,17 @@
 # ErrorDocument 404 /Christ-Church-Ridgewood/404.php
 # LIVE:  Change to /404.php if site is at the root of the domain
 ErrorDocument 404 /404.php
+
+# Block search engine indexing and AI crawler scraping on Great Hall private mockup pages
+<FilesMatch "^great-hall(-preview)?\.(php|html)$">
+    <IfModule mod_headers.c>
+        Header set X-Robots-Tag "noindex, nofollow, noarchive, nosnippet, noimageindex, noai, noimageai"
+    </IfModule>
+</FilesMatch>
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{REQUEST_URI} ^/(Christ-Church-Ridgewood/)?great-hall(-preview)?\.(php|html)$ [NC]
+    RewriteCond %{HTTP_USER_AGENT} (googlebot|google-extended|googleother|bingbot|slurp|duckduckbot|duckassistbot|baiduspider|yandexbot|sogou|exabot|ia_archiver|gptbot|chatgpt-user|oai-searchbot|claudebot|claude-web|claude-searchbot|anthropic-ai|perplexitybot|perplexity-user|applebot|applebot-extended|bytespider|ccbot|meta-externalagent|meta-externalfetcher|facebookbot|amazonbot|cohere-ai|youbot|diffbot|petalbot|semrushbot|ahrefsbot|mj12bot|dotbot) [NC]
+    RewriteRule ^ - [F,L]
+</IfModule>

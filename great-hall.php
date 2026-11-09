@@ -1,4 +1,13 @@
 <?php
+// Block search engine indexing and AI crawler/agent scraping (private team mockup)
+header('X-Robots-Tag: noindex, nofollow, noarchive, nosnippet, noimageindex, noai, noimageai');
+
+$gh_user_agent = isset($_SERVER['HTTP_USER_AGENT']) ? $_SERVER['HTTP_USER_AGENT'] : '';
+if ($gh_user_agent !== '' && preg_match('/(googlebot|google-extended|googleother|bingbot|slurp|duckduckbot|duckassistbot|baiduspider|yandexbot|sogou|exabot|ia_archiver|gptbot|chatgpt-user|oai-searchbot|claudebot|claude-web|claude-searchbot|anthropic-ai|perplexitybot|perplexity-user|applebot|applebot-extended|bytespider|ccbot|meta-externalagent|meta-externalfetcher|facebookbot|amazonbot|cohere-ai|youbot|diffbot|petalbot|semrushbot|ahrefsbot|mj12bot|dotbot)/i', $gh_user_agent)) {
+    http_response_code(403);
+    exit('Access denied.');
+}
+
 $thekeys = time();
 $current = 'great-hall';
 
@@ -96,8 +105,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['gh_inquiry_submit']))
     <meta name="description" content="Host your next nonprofit event, community gathering, meeting, luncheon, or performance at The Great Hall in downtown Ridgewood, NJ (105 Cottage Place). Accommodates up to 350 auditorium or 200 seated dining with a commercial kitchen, lit stage, and 501(c)(3) discounts.">
     <meta name="keywords" content="The Great Hall Ridgewood, Ridgewood NJ event space, meeting space Ridgewood NJ, banquet hall Ridgewood, nonprofit event venue Bergen County, commercial kitchen rental Ridgewood NJ, 105 Cottage Place Ridgewood">
     <meta name="author" content="The Great Hall, Ridgewood">
-    <meta name="robots" content="index, follow">
+    <meta name="robots" content="noindex, nofollow, noarchive, nosnippet, noimageindex, noai, noimageai">
+    <meta name="googlebot" content="noindex, nofollow, noarchive, nosnippet, noimageindex">
+    <meta name="bingbot" content="noindex, nofollow, noarchive, nosnippet, noimageindex">
+    <meta name="ccbot" content="noindex, nofollow, noarchive">
+    <?php /* Disabled while Great Hall page is a private team mockup:
     <link rel="canonical" href="https://christchurchridgewood.org/great-hall.php">
+    */ ?>
 
     <!-- Open Graph / Social Discovery Metadata -->
     <meta property="og:type" content="website">
@@ -130,6 +144,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['gh_inquiry_submit']))
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Spectral+SC:400,500,600,700&display=swap" rel="stylesheet">
 
+    <?php /* Disabled while Great Hall page is a private team mockup:
     <!-- Structured Data (JSON-LD) for Search Engines & AI Venue Discovery -->
     <script type="application/ld+json">
     {
@@ -201,6 +216,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['gh_inquiry_submit']))
       }
     }
     </script>
+    */ ?>
 </head>
 
 <body class="gh-page">
