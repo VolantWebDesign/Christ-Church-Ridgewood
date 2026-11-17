@@ -172,7 +172,7 @@
 									<a href="https://www.youtube.com/@lizesqe/streams" target="_blank" class="btn btn-primary" >Christ Church on YouTube</a>
 									</br></br>
 									<h2 class="invitation">Christ Church Online</h2>
-									<iframe width="100%" height="300px" src="https://www.youtube.com/embed/videoseries?list=PLgFu021IRVKOsKPypmNyUSYD8PEfritZB" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Christ Church Ridgewood Online Service" alt="Christ Church Ridgewood Online Service, video"></iframe>
+									<iframe width="100%" height="300px" src="https://www.youtube.com/embed/videoseries?list=PLgFu021IRVKOsKPypmNyUSYD8PEfritZB" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Christ Church Ridgewood Online Service" alt="Christ Church Ridgewood Online Service, video"></iframe>
 								</div>
 							</div>
 						</div>
@@ -199,8 +199,8 @@
 							<div class="col-md-6">
 								<!-- Sunday worship schedule -->
 								<?php
-								require_once 'components/worship-schedules/regular.php';
-								$schedule = new RegularSchedule();
+								require_once 'components/worship-schedules/special/annual-meeting.php';
+								$schedule = new AnnualMeetingSchedule();
                                 $schedule->render();
 								?>
 							</div>
