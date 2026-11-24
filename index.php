@@ -199,8 +199,8 @@
 							<div class="col-md-6">
 								<!-- Sunday worship schedule -->
 								<?php
-								require_once 'components/worship-schedules/special/annual-meeting.php';
-								$schedule = new AnnualMeetingSchedule();
+								require_once 'components/worship-schedules/regular.php';
+								$schedule = new RegularSchedule();
                                 $schedule->render();
 								?>
 							</div>
